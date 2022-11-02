@@ -1,0 +1,4 @@
+Basic RSSI thres / Inverse RSSI thres / Basic_Range / Inverse_Range
+
+하나스퀘어 basic : 0.29 inverse : 0.23 
+-78 / -66 / 6 / 6

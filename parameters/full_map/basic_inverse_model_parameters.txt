@@ -1,0 +1,10 @@
+Basic RSSI thres / Inverse RSSI thres / Basic_Range / Inverse_Range
+
+하나스퀘어 basic : 0.27 inverse : 0.226 (98%)
+-75 / -60 / 6 / 8
+
+포스코센터 basic : 0.19 inverse : 0.16
+-63 / -60 / 4 / 7
+
+포스코실험동 basic : 0.67 inverse : 0.60 (acc : 0.987)
+-78 / -78 / 2 /  4

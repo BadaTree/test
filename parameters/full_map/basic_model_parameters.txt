@@ -1,0 +1,17 @@
+하나스퀘어 basic : 0.27 rssi : 0.15
+-75 6 36
+
+포스코센터 basic : 0.19 rssi : 0.10
+-63 4 32
+
+포스코실험동 basic : 0.67 rssi : 0.29
+-78 2 20
+
+SK미래관1층 basic : 0.44 rssi : 0.15
+-69 8 
+-72 9 23
+
+SK미래관2층 basic : 0.36 rssi : 0.21
+-66 5 17
+
+Sequential은 더 보수적으로 parameter를 설정해야함

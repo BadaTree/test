@@ -1,0 +1,423 @@
+0	60	300	Office.Net	30:87:d9:c6:6e:bc	-90
+0	60	300	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+0	60	300	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	300	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+0	60	300	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	300	STR_WLAN	30:87:d9:46:6e:bc	-89
+0	60	300	FREE_U+zone	00:40:5a:bb:84:d3	-62
+0	60	300	U+zone	00:40:5a:bb:84:d2	-63
+0	60	300	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+0	60	300	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+0	60	300	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+0	60	300	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+0	60	300	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+0	60	300	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+0	60	300	KT WiFi	06:09:b4:75:a7:0b	-65
+0	60	300	T wifi zone	10:e3:c7:09:40:88	-63
+0	60	300	T wifi zone	10:e3:c7:09:40:8c	-88
+0	60	300	U+zone	00:40:5a:b7:d5:f2	-56
+0	60	300	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+0	60	300	T wifi zone_secure	02:e3:c7:09:40:88	-64
+0	60	300	T wifi zone_secure	02:e3:c7:09:40:87	-65
+1	60	300	Office.Net	30:87:d9:c6:6e:bc	-90
+1	60	300	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+1	60	300	KT WiFi 	0a:09:b4:75:a7:0b	-65
+1	60	300	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+1	60	300	OFC_WLAN	30:87:d9:86:6e:bc	-89
+1	60	300	STR_WLAN	30:87:d9:46:6e:bc	-89
+1	60	300	FREE_U+zone	00:40:5a:bb:84:d3	-62
+1	60	300	U+zone	00:40:5a:bb:84:d2	-63
+1	60	300	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+1	60	300	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+1	60	300	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+1	60	300	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+1	60	300	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+1	60	300	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+1	60	300	KT WiFi	06:09:b4:75:a7:0b	-65
+1	60	300	T wifi zone	10:e3:c7:09:40:88	-63
+1	60	300	T wifi zone	10:e3:c7:09:40:8c	-88
+1	60	300	U+zone	00:40:5a:b7:d5:f2	-56
+1	60	300	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+1	60	300	T wifi zone_secure	02:e3:c7:09:40:88	-64
+1	60	300	T wifi zone_secure	02:e3:c7:09:40:87	-65
+2	60	300	Office.Net	30:87:d9:c6:6e:bc	-90
+2	60	300	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+2	60	300	KT WiFi 	0a:09:b4:75:a7:0b	-65
+2	60	300	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+2	60	300	OFC_WLAN	30:87:d9:86:6e:bc	-89
+2	60	300	STR_WLAN	30:87:d9:46:6e:bc	-89
+2	60	300	FREE_U+zone	00:40:5a:bb:84:d3	-62
+2	60	300	U+zone	00:40:5a:bb:84:d2	-63
+2	60	300	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+2	60	300	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+2	60	300	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+2	60	300	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+2	60	300	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+2	60	300	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+2	60	300	KT WiFi	06:09:b4:75:a7:0b	-65
+2	60	300	T wifi zone	10:e3:c7:09:40:88	-63
+2	60	300	T wifi zone	10:e3:c7:09:40:8c	-88
+2	60	300	U+zone	00:40:5a:b7:d5:f2	-56
+2	60	300	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+2	60	300	T wifi zone_secure	02:e3:c7:09:40:88	-64
+2	60	300	T wifi zone_secure	02:e3:c7:09:40:87	-65
+3	60	300	Office.Net	30:87:d9:c6:6e:bc	-90
+3	60	300	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+3	60	300	KT WiFi 	0a:09:b4:75:a7:0b	-65
+3	60	300	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+3	60	300	OFC_WLAN	30:87:d9:86:6e:bc	-89
+3	60	300	STR_WLAN	30:87:d9:46:6e:bc	-89
+3	60	300	FREE_U+zone	00:40:5a:bb:84:d3	-62
+3	60	300	U+zone	00:40:5a:bb:84:d2	-63
+3	60	300	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+3	60	300	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+3	60	300	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+3	60	300	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+3	60	300	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+3	60	300	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+3	60	300	KT WiFi	06:09:b4:75:a7:0b	-65
+3	60	300	T wifi zone	10:e3:c7:09:40:88	-63
+3	60	300	T wifi zone	10:e3:c7:09:40:8c	-88
+3	60	300	U+zone	00:40:5a:b7:d5:f2	-56
+3	60	300	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+3	60	300	T wifi zone_secure	02:e3:c7:09:40:88	-64
+3	60	300	T wifi zone_secure	02:e3:c7:09:40:87	-65
+0	60	306	Office.Net	30:87:d9:c6:6e:bc	-90
+0	60	306	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+0	60	306	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	306	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+0	60	306	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	306	STR_WLAN	30:87:d9:46:6e:bc	-89
+0	60	306	FREE_U+zone	00:40:5a:bb:84:d3	-62
+0	60	306	U+zone	00:40:5a:bb:84:d2	-63
+0	60	306	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+0	60	306	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+0	60	306	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+0	60	306	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+0	60	306	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+0	60	306	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+0	60	306	KT WiFi	06:09:b4:75:a7:0b	-65
+0	60	306	T wifi zone	10:e3:c7:09:40:88	-63
+0	60	306	T wifi zone	10:e3:c7:09:40:8c	-88
+0	60	306	U+zone	00:40:5a:b7:d5:f2	-56
+0	60	306	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+0	60	306	T wifi zone_secure	02:e3:c7:09:40:88	-64
+0	60	306	T wifi zone_secure	02:e3:c7:09:40:87	-65
+0	60	312	Office.Net	30:87:d9:c6:6e:bc	-90
+0	60	312	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+0	60	312	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	312	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+0	60	312	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	312	STR_WLAN	30:87:d9:46:6e:bc	-89
+0	60	312	FREE_U+zone	00:40:5a:bb:84:d3	-62
+0	60	312	U+zone	00:40:5a:bb:84:d2	-63
+0	60	312	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+0	60	312	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+0	60	312	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+0	60	312	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+0	60	312	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+0	60	312	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+0	60	312	KT WiFi	06:09:b4:75:a7:0b	-65
+0	60	312	T wifi zone	10:e3:c7:09:40:88	-63
+0	60	312	T wifi zone	10:e3:c7:09:40:8c	-88
+0	60	312	U+zone	00:40:5a:b7:d5:f2	-56
+0	60	312	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+0	60	312	T wifi zone_secure	02:e3:c7:09:40:88	-64
+0	60	312	T wifi zone_secure	02:e3:c7:09:40:87	-65
+0	60	318	Office.Net	30:87:d9:c6:6e:bc	-90
+0	60	318	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-62
+0	60	318	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	318	T Free WiFi Zone	12:e3:c7:09:40:87	-65
+0	60	318	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	318	STR_WLAN	30:87:d9:46:6e:bc	-89
+0	60	318	FREE_U+zone	00:40:5a:bb:84:d3	-62
+0	60	318	U+zone	00:40:5a:bb:84:d2	-63
+0	60	318	KT_Free_WiFi	00:09:b4:75:a7:0b	-65
+0	60	318	KT_Free_WiFi	00:09:b4:75:a7:0c	-65
+0	60	318	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-90
+0	60	318	T Free WiFi Zone	12:e3:c7:09:40:8c	-88
+0	60	318	KT GiGA WiFi 	12:09:b4:75:a7:0c	-66
+0	60	318	T Free WiFi Zone	12:e3:c7:09:40:88	-63
+0	60	318	KT WiFi	06:09:b4:75:a7:0b	-65
+0	60	318	T wifi zone	10:e3:c7:09:40:88	-63
+0	60	318	T wifi zone	10:e3:c7:09:40:8c	-88
+0	60	318	U+zone	00:40:5a:b7:d5:f2	-56
+0	60	318	FREE_U+zone	00:40:5a:b7:d5:f3	-55
+0	60	318	T wifi zone_secure	02:e3:c7:09:40:88	-64
+0	60	318	T wifi zone_secure	02:e3:c7:09:40:87	-65
+0	60	324	T wifi zone_secure	02:e3:c7:09:40:8d	-86
+0	60	324	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+0	60	324	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	324	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-55
+0	60	324	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	324	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	324	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	324	STR_WLAN	30:87:d9:46:6e:bc	-88
+0	60	324	FREE_U+zone	00:40:5a:bb:84:d3	-63
+0	60	324	U+zone	00:40:5a:bb:84:d2	-66
+0	60	324	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	60	324	KT_Free_WiFi	00:09:b4:75:a7:0c	-66
+0	60	324	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-88
+0	60	324	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+0	60	324	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-91
+0	60	324	STR_WLAN	30:87:d9:46:6e:b8	-85
+0	60	324	KT GiGA WiFi 	12:09:b4:75:a7:0c	-65
+0	60	324	T Free WiFi Zone	12:e3:c7:09:40:88	-64
+0	60	324		24:d1:3f:13:6a:18	-93
+0	60	324	OFC_WLAN	30:87:d9:86:6e:b8	-86
+0	60	324	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-85
+0	60	324	KT WiFi	06:09:b4:75:a7:0b	-64
+0	60	324	T wifi zone	10:e3:c7:09:40:88	-62
+0	60	324	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	324	U+zone	00:40:5a:b7:d5:f2	-59
+0	60	324	FREE_U+zone	00:40:5a:b7:d5:f3	-59
+0	60	324	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	60	324	T wifi zone_secure	02:e3:c7:09:40:87	-63
+1	60	324	T wifi zone_secure	02:e3:c7:09:40:8d	-86
+1	60	324	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+1	60	324	Office.Net	30:87:d9:c6:6e:bc	-86
+1	60	324	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-55
+1	60	324	KT WiFi 	0a:09:b4:75:a7:0b	-65
+1	60	324	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+1	60	324	OFC_WLAN	30:87:d9:86:6e:bc	-89
+1	60	324	STR_WLAN	30:87:d9:46:6e:bc	-88
+1	60	324	FREE_U+zone	00:40:5a:bb:84:d3	-63
+1	60	324	U+zone	00:40:5a:bb:84:d2	-66
+1	60	324	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+1	60	324	KT_Free_WiFi	00:09:b4:75:a7:0c	-66
+1	60	324	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-88
+1	60	324	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+1	60	324	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-91
+1	60	324	STR_WLAN	30:87:d9:46:6e:b8	-85
+1	60	324	KT GiGA WiFi 	12:09:b4:75:a7:0c	-65
+1	60	324	T Free WiFi Zone	12:e3:c7:09:40:88	-64
+1	60	324		24:d1:3f:13:6a:18	-93
+1	60	324	OFC_WLAN	30:87:d9:86:6e:b8	-86
+1	60	324	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-85
+1	60	324	KT WiFi	06:09:b4:75:a7:0b	-64
+1	60	324	T wifi zone	10:e3:c7:09:40:88	-62
+1	60	324	T wifi zone	10:e3:c7:09:40:87	-63
+1	60	324	U+zone	00:40:5a:b7:d5:f2	-59
+1	60	324	FREE_U+zone	00:40:5a:b7:d5:f3	-59
+1	60	324	T wifi zone_secure	02:e3:c7:09:40:88	-63
+1	60	324	T wifi zone_secure	02:e3:c7:09:40:87	-63
+0	60	330	T wifi zone_secure	02:e3:c7:09:40:8d	-86
+0	60	330	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+0	60	330	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	330	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-55
+0	60	330	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	330	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	330	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	330	STR_WLAN	30:87:d9:46:6e:bc	-88
+0	60	330	FREE_U+zone	00:40:5a:bb:84:d3	-63
+0	60	330	U+zone	00:40:5a:bb:84:d2	-66
+0	60	330	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	60	330	KT_Free_WiFi	00:09:b4:75:a7:0c	-66
+0	60	330	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-88
+0	60	330	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+0	60	330	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-91
+0	60	330	STR_WLAN	30:87:d9:46:6e:b8	-85
+0	60	330	KT GiGA WiFi 	12:09:b4:75:a7:0c	-65
+0	60	330	T Free WiFi Zone	12:e3:c7:09:40:88	-64
+0	60	330		24:d1:3f:13:6a:18	-93
+0	60	330	OFC_WLAN	30:87:d9:86:6e:b8	-86
+0	60	330	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-85
+0	60	330	KT WiFi	06:09:b4:75:a7:0b	-64
+0	60	330	T wifi zone	10:e3:c7:09:40:88	-62
+0	60	330	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	330	U+zone	00:40:5a:b7:d5:f2	-59
+0	60	330	FREE_U+zone	00:40:5a:b7:d5:f3	-59
+0	60	330	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	60	330	T wifi zone_secure	02:e3:c7:09:40:87	-63
+0	60	336	T wifi zone_secure	02:e3:c7:09:40:8d	-86
+0	60	336	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+0	60	336	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	336	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-55
+0	60	336	KT WiFi 	0a:09:b4:75:a7:0b	-65
+0	60	336	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	336	OFC_WLAN	30:87:d9:86:6e:bc	-89
+0	60	336	STR_WLAN	30:87:d9:46:6e:bc	-88
+0	60	336	FREE_U+zone	00:40:5a:bb:84:d3	-63
+0	60	336	U+zone	00:40:5a:bb:84:d2	-66
+0	60	336	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	60	336	KT_Free_WiFi	00:09:b4:75:a7:0c	-66
+0	60	336	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-88
+0	60	336	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+0	60	336	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-91
+0	60	336	STR_WLAN	30:87:d9:46:6e:b8	-85
+0	60	336	KT GiGA WiFi 	12:09:b4:75:a7:0c	-65
+0	60	336	T Free WiFi Zone	12:e3:c7:09:40:88	-64
+0	60	336		24:d1:3f:13:6a:18	-93
+0	60	336	OFC_WLAN	30:87:d9:86:6e:b8	-86
+0	60	336	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-85
+0	60	336	KT WiFi	06:09:b4:75:a7:0b	-64
+0	60	336	T wifi zone	10:e3:c7:09:40:88	-62
+0	60	336	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	336	U+zone	00:40:5a:b7:d5:f2	-59
+0	60	336	FREE_U+zone	00:40:5a:b7:d5:f3	-59
+0	60	336	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	60	336	T wifi zone_secure	02:e3:c7:09:40:87	-63
+0	60	342	T wifi zone_secure	02:e3:c7:09:40:8c	-85
+0	60	342	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	342	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-49
+0	60	342	KT WiFi 	0a:09:b4:75:a7:0b	-52
+0	60	342	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	342	OFC_WLAN	30:87:d9:86:6e:bc	-85
+0	60	342	STR_WLAN	30:87:d9:46:6e:bc	-86
+0	60	342	FREE_U+zone	00:40:5a:bb:84:d3	-74
+0	60	342	U+zone	00:40:5a:bb:84:d2	-69
+0	60	342	KT_Free_WiFi	00:09:b4:75:a7:0b	-62
+0	60	342	KT_Free_WiFi	00:09:b4:75:a7:0c	-69
+0	60	342	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-86
+0	60	342	T Free WiFi Zone	12:e3:c7:09:40:8c	-89
+0	60	342	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-93
+0	60	342	STR_WLAN	30:87:d9:46:6e:b8	-84
+0	60	342	KT GiGA WiFi 	12:09:b4:75:a7:0c	-71
+0	60	342	T Free WiFi Zone	12:e3:c7:09:40:88	-71
+0	60	342	OFC_WLAN	30:87:d9:86:6e:b8	-84
+0	60	342	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-84
+0	60	342	KT WiFi	06:09:b4:75:a7:0b	-63
+0	60	342	T wifi zone	10:e3:c7:09:40:88	-70
+0	60	342	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	342	T wifi zone	10:e3:c7:09:40:8c	-86
+0	60	342	U+zone	00:40:5a:b7:d5:f2	-53
+0	60	342	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+0	60	342	T wifi zone_secure	02:e3:c7:09:40:88	-68
+0	60	342	T wifi zone_secure	02:e3:c7:09:40:87	-63
+1	60	342	T wifi zone_secure	02:e3:c7:09:40:8c	-85
+1	60	342	Office.Net	30:87:d9:c6:6e:bc	-86
+1	60	342	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-49
+1	60	342	KT WiFi 	0a:09:b4:75:a7:0b	-52
+1	60	342	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+1	60	342	OFC_WLAN	30:87:d9:86:6e:bc	-85
+1	60	342	STR_WLAN	30:87:d9:46:6e:bc	-86
+1	60	342	FREE_U+zone	00:40:5a:bb:84:d3	-74
+1	60	342	U+zone	00:40:5a:bb:84:d2	-69
+1	60	342	KT_Free_WiFi	00:09:b4:75:a7:0b	-62
+1	60	342	KT_Free_WiFi	00:09:b4:75:a7:0c	-69
+1	60	342	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-86
+1	60	342	T Free WiFi Zone	12:e3:c7:09:40:8c	-89
+1	60	342	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-93
+1	60	342	STR_WLAN	30:87:d9:46:6e:b8	-84
+1	60	342	KT GiGA WiFi 	12:09:b4:75:a7:0c	-71
+1	60	342	T Free WiFi Zone	12:e3:c7:09:40:88	-71
+1	60	342	OFC_WLAN	30:87:d9:86:6e:b8	-84
+1	60	342	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-84
+1	60	342	KT WiFi	06:09:b4:75:a7:0b	-63
+1	60	342	T wifi zone	10:e3:c7:09:40:88	-70
+1	60	342	T wifi zone	10:e3:c7:09:40:87	-63
+1	60	342	T wifi zone	10:e3:c7:09:40:8c	-86
+1	60	342	U+zone	00:40:5a:b7:d5:f2	-53
+1	60	342	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+1	60	342	T wifi zone_secure	02:e3:c7:09:40:88	-68
+1	60	342	T wifi zone_secure	02:e3:c7:09:40:87	-63
+0	60	348	T wifi zone_secure	02:e3:c7:09:40:8c	-85
+0	60	348	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	348	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-49
+0	60	348	KT WiFi 	0a:09:b4:75:a7:0b	-52
+0	60	348	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	348	OFC_WLAN	30:87:d9:86:6e:bc	-85
+0	60	348	STR_WLAN	30:87:d9:46:6e:bc	-86
+0	60	348	FREE_U+zone	00:40:5a:bb:84:d3	-74
+0	60	348	U+zone	00:40:5a:bb:84:d2	-69
+0	60	348	KT_Free_WiFi	00:09:b4:75:a7:0b	-62
+0	60	348	KT_Free_WiFi	00:09:b4:75:a7:0c	-69
+0	60	348	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-86
+0	60	348	T Free WiFi Zone	12:e3:c7:09:40:8c	-89
+0	60	348	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-93
+0	60	348	STR_WLAN	30:87:d9:46:6e:b8	-84
+0	60	348	KT GiGA WiFi 	12:09:b4:75:a7:0c	-71
+0	60	348	T Free WiFi Zone	12:e3:c7:09:40:88	-71
+0	60	348	OFC_WLAN	30:87:d9:86:6e:b8	-84
+0	60	348	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-84
+0	60	348	KT WiFi	06:09:b4:75:a7:0b	-63
+0	60	348	T wifi zone	10:e3:c7:09:40:88	-70
+0	60	348	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	348	T wifi zone	10:e3:c7:09:40:8c	-86
+0	60	348	U+zone	00:40:5a:b7:d5:f2	-53
+0	60	348	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+0	60	348	T wifi zone_secure	02:e3:c7:09:40:88	-68
+0	60	348	T wifi zone_secure	02:e3:c7:09:40:87	-63
+0	60	354	T wifi zone_secure	02:e3:c7:09:40:8c	-85
+0	60	354	Office.Net	30:87:d9:c6:6e:bc	-86
+0	60	354	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-49
+0	60	354	KT WiFi 	0a:09:b4:75:a7:0b	-52
+0	60	354	T Free WiFi Zone	12:e3:c7:09:40:87	-63
+0	60	354	OFC_WLAN	30:87:d9:86:6e:bc	-85
+0	60	354	STR_WLAN	30:87:d9:46:6e:bc	-86
+0	60	354	FREE_U+zone	00:40:5a:bb:84:d3	-74
+0	60	354	U+zone	00:40:5a:bb:84:d2	-69
+0	60	354	KT_Free_WiFi	00:09:b4:75:a7:0b	-62
+0	60	354	KT_Free_WiFi	00:09:b4:75:a7:0c	-69
+0	60	354	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-86
+0	60	354	T Free WiFi Zone	12:e3:c7:09:40:8c	-89
+0	60	354	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-93
+0	60	354	STR_WLAN	30:87:d9:46:6e:b8	-84
+0	60	354	KT GiGA WiFi 	12:09:b4:75:a7:0c	-71
+0	60	354	T Free WiFi Zone	12:e3:c7:09:40:88	-71
+0	60	354	OFC_WLAN	30:87:d9:86:6e:b8	-84
+0	60	354	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-84
+0	60	354	KT WiFi	06:09:b4:75:a7:0b	-63
+0	60	354	T wifi zone	10:e3:c7:09:40:88	-70
+0	60	354	T wifi zone	10:e3:c7:09:40:87	-63
+0	60	354	T wifi zone	10:e3:c7:09:40:8c	-86
+0	60	354	U+zone	00:40:5a:b7:d5:f2	-53
+0	60	354	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+0	60	354	T wifi zone_secure	02:e3:c7:09:40:88	-68
+0	60	354	T wifi zone_secure	02:e3:c7:09:40:87	-63
+1	60	354	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+1	60	354	Office.Net	30:87:d9:c6:6e:bc	-83
+1	60	354	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-51
+1	60	354	KT WiFi 	0a:09:b4:75:a7:0b	-61
+1	60	354	T Free WiFi Zone	12:e3:c7:09:40:87	-66
+1	60	354	OFC_WLAN	30:87:d9:86:6e:bc	-84
+1	60	354	STR_WLAN	30:87:d9:46:6e:bc	-84
+1	60	354	FREE_U+zone	00:40:5a:bb:84:d3	-65
+1	60	354	U+zone	00:40:5a:bb:84:d2	-68
+1	60	354	KT_Free_WiFi	00:09:b4:75:a7:0b	-66
+1	60	354	KT_Free_WiFi	00:09:b4:75:a7:0c	-70
+1	60	354	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-84
+1	60	354	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+1	60	354	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-94
+1	60	354	STR_WLAN	30:87:d9:46:6e:b8	-82
+1	60	354	T Free WiFi Zone	12:e3:c7:09:40:91	-90
+1	60	354	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+1	60	354	T Free WiFi Zone	12:e3:c7:09:40:88	-65
+1	60	354	OFC_WLAN	30:87:d9:86:6e:b8	-82
+1	60	354	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-83
+1	60	354	KT WiFi	06:09:b4:75:a7:0b	-70
+1	60	354	T wifi zone	10:e3:c7:09:40:88	-70
+1	60	354	T wifi zone	10:e3:c7:09:40:87	-64
+1	60	354	T wifi zone	10:e3:c7:09:40:8c	-86
+1	60	354	U+zone	00:40:5a:b7:d5:f2	-55
+1	60	354	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+1	60	354	T wifi zone_secure	02:e3:c7:09:40:88	-70
+1	60	354	T wifi zone_secure	02:e3:c7:09:40:87	-64
+0	60	360	T wifi zone_secure	02:e3:c7:09:40:8c	-86
+0	60	360	Office.Net	30:87:d9:c6:6e:bc	-83
+0	60	360	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-51
+0	60	360	KT WiFi 	0a:09:b4:75:a7:0b	-61
+0	60	360	T Free WiFi Zone	12:e3:c7:09:40:87	-66
+0	60	360	OFC_WLAN	30:87:d9:86:6e:bc	-84
+0	60	360	STR_WLAN	30:87:d9:46:6e:bc	-84
+0	60	360	FREE_U+zone	00:40:5a:bb:84:d3	-65
+0	60	360	U+zone	00:40:5a:bb:84:d2	-68
+0	60	360	KT_Free_WiFi	00:09:b4:75:a7:0b	-66
+0	60	360	KT_Free_WiFi	00:09:b4:75:a7:0c	-70
+0	60	360	STR_WLAN_LOCAL	30:87:d9:06:6e:bc	-84
+0	60	360	T Free WiFi Zone	12:e3:c7:09:40:8c	-84
+0	60	360	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-94
+0	60	360	STR_WLAN	30:87:d9:46:6e:b8	-82
+0	60	360	T Free WiFi Zone	12:e3:c7:09:40:91	-90
+0	60	360	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+0	60	360	T Free WiFi Zone	12:e3:c7:09:40:88	-65
+0	60	360	OFC_WLAN	30:87:d9:86:6e:b8	-82
+0	60	360	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-83
+0	60	360	KT WiFi	06:09:b4:75:a7:0b	-70
+0	60	360	T wifi zone	10:e3:c7:09:40:88	-70
+0	60	360	T wifi zone	10:e3:c7:09:40:87	-64
+0	60	360	T wifi zone	10:e3:c7:09:40:8c	-86
+0	60	360	U+zone	00:40:5a:b7:d5:f2	-55
+0	60	360	FREE_U+zone	00:40:5a:b7:d5:f3	-54
+0	60	360	T wifi zone_secure	02:e3:c7:09:40:88	-70
+0	60	360	T wifi zone_secure	02:e3:c7:09:40:87	-64

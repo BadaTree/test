@@ -1,0 +1,54 @@
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:17:28:0c	-61
+0	0.0	222.0		a4:9b:cd:17:28:0d	-61
+0	0.0	222.0	eduroam	a4:9b:cd:3c:40:61	-63
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3c:40:63	-64
+0	0.0	222.0		a4:9b:cd:3c:40:62	-64
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3c:40:6c	-65
+0	0.0	222.0	eduroam	a4:9b:cd:3c:40:6e	-66
+0	0.0	222.0	eduroam	a4:9b:cd:3d:4a:8e	-66
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3d:4a:8c	-66
+0	0.0	222.0		a4:9b:cd:3d:4a:8d	-66
+0	0.0	222.0		a4:9b:cd:17:28:02	-69
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:17:28:03	-69
+0	0.0	222.0		a4:9b:cd:3d:4a:82	-69
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3d:4a:83	-69
+0	0.0	222.0	eduroam	a4:9b:cd:3d:4a:81	-69
+0	0.0	222.0	eduroam	a4:9b:cd:17:28:01	-70
+0	0.0	222.0	iptime	00:08:9f:64:67:82	-73
+0	0.0	222.0	510Kimildoo	70:5d:cc:22:c3:a2	-73
+0	0.0	222.0	UNISTORE5	70:5d:cc:5e:12:48	-73
+0	0.0	222.0	ksjeong	90:9f:33:8a:3f:aa	-74
+0	0.0	222.0	scattering	70:5d:cc:6d:60:28	-74
+0	0.0	222.0	iptime	92:9f:33:48:13:88	-74
+0	0.0	222.0	netis	08:10:76:90:83:4d	-77
+0	0.0	222.0		a4:9b:cd:3c:c8:a2	-82
+0	0.0	222.0	eduroam	a4:9b:cd:3c:c8:a1	-82
+0	0.0	222.0	slee-phys	c4:e9:84:5f:ff:06	-84
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:41:68:cc	-84
+0	0.0	222.0		a4:9b:cd:41:68:cd	-84
+0	0.0	222.0	eduroam	a4:9b:cd:41:68:ce	-84
+0	0.0	222.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-85
+0	0.0	222.0	kucdc2017	88:36:6c:4d:61:c4	-85
+0	0.0	222.0	sal5G	88:36:6c:ae:de:98	-86
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3c:c8:ac	-86
+0	0.0	222.0		a4:9b:cd:3c:c8:ad	-86
+0	0.0	222.0	eduroam	a4:9b:cd:3c:c8:ae	-86
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:13:1d:ac	-87
+0	0.0	222.0	eduroam	a4:9b:cd:13:1d:ae	-87
+0	0.0	222.0	QCLAB	90:9f:33:cc:02:ee	-87
+0	0.0	222.0		a4:9b:cd:13:1d:ad	-87
+0	0.0	222.0	eduroam	a4:9b:cd:40:ec:ae	-89
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:42:0e:ac	-89
+0	0.0	222.0	eduroam	a4:9b:cd:41:68:c1	-89
+0	0.0	222.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-90
+0	0.0	222.0		a4:9b:cd:42:0e:ad	-90
+0	0.0	222.0	eduroam	a4:9b:cd:42:0e:ae	-90
+0	0.0	222.0	[air purifier] Samsung	28:6d:97:87:20:e1	-90
+0	0.0	222.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-91
+0	0.0	222.0		a4:9b:cd:41:b1:4d	-92
+0	0.0	222.0	eduroam	a4:9b:cd:41:b1:4e	-92
+0	0.0	222.0	JaeOffice	90:9f:33:18:13:88	-92
+0	0.0	222.0	KoreaUniv AP	a4:9b:cd:3c:6c:4c	-93
+0	0.0	222.0	wland	00:26:66:c4:39:60	-93
+0	0.0	222.0	eduroam	a4:9b:cd:3c:6c:4e	-94
+0	0.0	222.0		a4:9b:cd:3c:6c:4d	-95

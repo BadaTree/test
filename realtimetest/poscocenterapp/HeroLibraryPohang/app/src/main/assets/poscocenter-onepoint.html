@@ -1,0 +1,169 @@
+﻿<!doctype html>
+<style xmlns:transform="http://www.w3.org/1999/xhtml"
+       xmlns:transform="http://www.w3.org/1999/xhtml">
+#mask {
+  opacity:0;
+  position:absolute;
+  z-index:3;
+  left:0px;
+  top:50px;
+}
+</style>
+<html lang="en">
+<!-- floor2 -->
+ <head>
+  <meta charset="UTF-8">
+  <title>map_test</title>
+ </head>
+ <body>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+
+ <script type="text/javascript">
+
+	var cnt = 0;
+	var positions = [];
+
+
+    var pos_x, pos_y;
+    pos_x = -19;
+    pos_y = -19;
+
+    var plusUI = document.createElement("img");
+    plusUI.src = "./images/dot.png"
+    plusUI.style = "position:absolute; z-index:3; left:"+(pos_x)+"px; top:"+(pos_y)+"px; display:block; transition-duration:300ms";
+    plusUI.id = "dot";
+    plusUI.width = "40"
+    document.getElementsByTagName("body")[0].appendChild(plusUI);
+
+
+     var androidBridge = function (xPosition2, yPosition2, color) { // DEVICE
+      	var dot = document.getElementById("dot")
+      	dot.style.left = (xPosition2/0.3625+87) + "px"
+      	dot.style.top = (1750 - yPosition2/0.3718) + "px"
+     }
+
+     var showColorList = function (index_num) { // DEVICE
+        
+        var plusUI = document.createElement("div");
+        plusUI.style = "position:absolute; z-index:2; left:"+(200)+"px; top:"+(700)+"px; display:block; font-weight:bold;";
+        plusUI.className = "color_list";
+        var angle_list = new Array();
+        for (var i=0; i < index_num; i++) {
+            angle_list.push(360*i/index_num)
+        }
+        code = ''
+        for(var i=0; i<index_num; i++) {
+            code += '<font color="'+(16711680*i/(index_num-1))+'" size=5>'+(angle_list[i]+"도"+"<br/>")+'</font>';
+        }
+        plusUI.innerHTML = code
+
+        document.getElementsById("map_area")[0].appendChild(plusUI);
+        
+    }
+
+    function removeAllPoints() {
+        var elements = document.getElementsByClassName("dot");
+        while (elements.length > 0) {
+            elements[0].parentNode.removeChild(elements[0]);
+        }
+    }
+
+    function removeAllPeople() {
+        var elements = document.getElementsByClassName("person");
+        while (elements.length > 0) {
+            elements[0].parentNode.removeChild(elements[0]);
+        }
+    }
+
+    function print_room_info(room_info){
+
+        removeAllPeople()
+        var room_info_json = JSON.parse(room_info)
+        for (r in room_info_json){
+            room_in(r, room_info_json[r]);
+        }
+    }
+
+    function room_in(class_name, num){
+        // var room_elem = document.getElementsByClassName(class_name)[0];
+        // var person_num = room_elem.childElementCount
+
+        if (class_name.indexOf("idea") > -1) {
+            var icon_size = 50 - (num - 1)*2
+        }
+        else {
+            var icon_size = 100 - (num - 1)*2
+        }
+        for (var i=0; i<num; i++) {
+            var plusUI = document.createElement("img");
+            plusUI.src = "./images/person.png"
+            plusUI.className = "person"
+            plusUI.width = icon_size
+            // plusUI.style="text-align:center; margin-left: auto;margin-right: auto"
+            plusUI.style = "text-align:center; margin: -5px;"
+            document.querySelector("div." + class_name).appendChild(plusUI);
+        }
+
+    }
+    var room_info = '{"eventhall":5, "conference1":3, "conference2":1, "conference3":4, "idea1":1, "idea2":0, "idea3":2, "idea4":4}'
+    window.onload = () => {
+        // room_in("conference1", 4)
+
+
+    }
+
+
+     //브라우서 호환 ( 크로스브라우징 ) 체크 하여 문서 전체에 mousemove 이벤트를 걸어줍니다.
+    //if ( document.addEventListener ) {
+    //    document.addEventListener("mousemove",resultFun,false);
+    //} else if ( document.attachEvent ) {
+    //    document.attachEvent("onmousemove",resultFun);
+    //} else {
+    //    document.onmousemove = resultFun;
+    //}
+    //  //문서에서 마우스가 움직일때(mousemove) 마다 resultFun() 함수가 실행됩니다.
+    //  //x.clientX,Y 는 페이지에서 이벤트 발생한 X,Y 좌표를 가져옵니다.
+    //function resultFun(x) {
+    //    var xY = Math.round((x.clientY-231)*3.598) +  " * "  + Math.round((x.clientX-857)*3.59);
+    //    var positionLeft = x.clientX+0;
+    //    var positionTop = x.clientY+0;
+    //    // result  div 에 innerHTML 로 xY 변수를 적용 합니다.
+    //    document.getElementById('result').innerHTML = xY;
+    //    //  result  div 의 position 위치를  positionLeft, Top 변수 값으로 style 적용해줍니다.
+    //    document.getElementById('result').style.left = positionLeft + "px";
+    //    document.getElementById('result').style.top = positionTop + "px";
+    //    //document.getElementById('result').style.transform = "rotate(270deg)";
+    //}
+ </script>
+
+
+    <div class="eventhall" style="position:absolute; z-index:2; left: 550px; top: 280px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="idea4" style="position:absolute; z-index:2; left: 55px; top: 1440px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="idea3" style="position:absolute; z-index:2; left: 198px; top: 1440px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="idea2" style="position:absolute; z-index:2; left: 55px; top: 1600px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="idea1" style="position:absolute; z-index:2; left: 198px; top: 1600px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="conference1" style="position:absolute; z-index:2; left: 600px; top: 990px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="conference2" style="position:absolute; z-index:2; left: 600px; top: 1290px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+    <div class="conference3" style="position:absolute; z-index:2; left: 600px; top: 1580px; width: 310px; height: 170px; text-align: center; display:flex; align-items:center;justify-content: center">
+    </div>
+
+    <div id="map_area" style="position:absolute; z-index:1; -webkit-transform: rotate(270deg); left:-400px; top:380px;">
+        <img src="./images/poscocenter.png" height="1125" width="1884">
+
+
+     </div>
+    <div id='result' style='position:absolute; z-index:2'></div>
+     
+     <form method = "POST" 
+     enctype = "multipart/form-data">
+  </form>
+
+ </body>
+</html>

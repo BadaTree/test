@@ -1,0 +1,138 @@
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:10	-92
+0	0.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-68
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:08	-82
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:92	-61
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:09	-82
+0	0.0	0.0	KT WiFi 	06:1d:93:c7:5f:bc	-89
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:97	-60
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:96	-53
+0	0.0	0.0		00:08:dc:d0:95:3c	-56
+0	0.0	0.0	U+zone_2.4GHz	40:27:0b:02:d9:a8	-73
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:dd	-88
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:de	-93
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:df	-92
+0	0.0	0.0	U+zone	40:27:0b:02:d9:a9	-83
+0	0.0	0.0	KT WiFi 	06:1d:93:c7:67:88	-83
+0	0.0	0.0	����	02:0d:3d:3a:da:77	-82
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:91	-49
+0	0.0	0.0	T wifi zone	22:17:b2:0b:57:06	-82
+0	0.0	0.0	U+zone	40:27:0b:02:d9:b3	-89
+0	0.0	0.0	U+zone	00:40:5a:c4:10:1a	-82
+0	0.0	0.0	U+zone_2.4GHz	40:27:0b:02:d9:b2	-89
+0	0.0	0.0	T wifi zone_secure	02:17:b2:0b:52:04	-61
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:da	-89
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:db	-88
+0	0.0	0.0	T wifi zone	02:17:b2:0b:52:02	-61
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:dc	-89
+0	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:14	-79
+0	0.0	0.0	KT WiFi 	06:1d:93:c7:5e:82	-62
+0	0.0	0.0	T wifi zone_secure	02:17:b2:0b:52:08	-84
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:91	-50
+0	0.0	0.0	T Free WiFi Zone	02:17:b2:0b:52:05	-60
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:92	-59
+0	0.0	0.0	T wifi zone	02:17:b2:0b:52:06	-77
+0	0.0	0.0	T Free WiFi Zone	02:17:b2:0b:52:09	-78
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:96	-53
+0	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-67
+0	0.0	0.0	KT WiFi	00:1d:93:c7:5f:bc	-89
+0	0.0	0.0	T wifi zone	22:17:b2:0b:57:d8	-90
+0	0.0	0.0	T wifi zone	10:e3:c7:09:40:96	-53
+0	0.0	0.0	T wifi zone	22:17:b2:0b:57:9a	-73
+0	0.0	0.0	U+zone	40:27:0b:02:e6:29	-89
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:9c	-71
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:9d	-72
+0	0.0	0.0	U+zone	40:27:0b:03:35:61	-81
+0	0.0	0.0	T wifi zone	10:e3:c7:09:40:92	-60
+0	0.0	0.0	T wifi zone	10:e3:c7:09:40:91	-49
+0	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:1c	-67
+0	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	0.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-79
+0	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:13	-64
+0	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:14	-80
+0	0.0	0.0	KT WiFi	00:1d:93:c7:5e:82	-62
+0	0.0	0.0	KT WiFi	06:09:b4:75:a7:1c	-68
+0	0.0	0.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	0.0	0.0	KT WiFi	00:1d:93:c7:5b:ae	-81
+0	0.0	0.0	T wifi zone	22:17:b2:0b:57:0e	-92
+0	0.0	0.0	T wifi zone	10:e3:c7:09:40:97	-66
+0	0.0	0.0	T wifi zone	22:17:b2:0b:52:02	-54
+0	0.0	0.0	KT WiFi	00:1d:93:c7:67:88	-83
+0	0.0	0.0	KT WiFi	00:1d:93:c7:67:89	-81
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:09	-76
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:11	-92
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:07	-71
+0	0.0	0.0	T wifi zone_secure	22:17:b2:0b:52:08	-75
+0	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:05	-54
+0	0.0	0.0	T wifi zone	22:17:b2:0b:52:06	-76
+0	0.0	0.0	KT WiFi 	06:1d:93:c7:5b:6a	-90
+0	0.0	0.0	T wifi zone	22:17:b2:0b:52:04	-71
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:10	-92
+1	0.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-68
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:08	-82
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:92	-61
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:09	-82
+1	0.0	0.0	KT WiFi 	06:1d:93:c7:5f:bc	-89
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:97	-60
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:96	-53
+1	0.0	0.0		00:08:dc:d0:95:3c	-56
+1	0.0	0.0	U+zone_2.4GHz	40:27:0b:02:d9:a8	-73
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:dd	-88
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:de	-93
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:df	-92
+1	0.0	0.0	U+zone	40:27:0b:02:d9:a9	-83
+1	0.0	0.0	KT WiFi 	06:1d:93:c7:67:88	-83
+1	0.0	0.0	����	02:0d:3d:3a:da:77	-82
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:40:91	-49
+1	0.0	0.0	T wifi zone	22:17:b2:0b:57:06	-82
+1	0.0	0.0	U+zone	40:27:0b:02:d9:b3	-89
+1	0.0	0.0	U+zone	00:40:5a:c4:10:1a	-82
+1	0.0	0.0	U+zone_2.4GHz	40:27:0b:02:d9:b2	-89
+1	0.0	0.0	T wifi zone_secure	02:17:b2:0b:52:04	-61
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:da	-89
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:db	-88
+1	0.0	0.0	T wifi zone	02:17:b2:0b:52:02	-61
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:dc	-89
+1	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:14	-79
+1	0.0	0.0	KT WiFi 	06:1d:93:c7:5e:82	-62
+1	0.0	0.0	T wifi zone_secure	02:17:b2:0b:52:08	-84
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:91	-50
+1	0.0	0.0	T Free WiFi Zone	02:17:b2:0b:52:05	-60
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:92	-59
+1	0.0	0.0	T wifi zone	02:17:b2:0b:52:06	-77
+1	0.0	0.0	T Free WiFi Zone	02:17:b2:0b:52:09	-78
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:96	-53
+1	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+1	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-67
+1	0.0	0.0	KT WiFi	00:1d:93:c7:5f:bc	-89
+1	0.0	0.0	T wifi zone	22:17:b2:0b:57:d8	-90
+1	0.0	0.0	T wifi zone	10:e3:c7:09:40:96	-53
+1	0.0	0.0	T wifi zone	22:17:b2:0b:57:9a	-73
+1	0.0	0.0	U+zone	40:27:0b:02:e6:29	-89
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:57:9c	-71
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:9d	-72
+1	0.0	0.0	U+zone	40:27:0b:03:35:61	-81
+1	0.0	0.0	T wifi zone	10:e3:c7:09:40:92	-60
+1	0.0	0.0	T wifi zone	10:e3:c7:09:40:91	-49
+1	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:1c	-67
+1	0.0	0.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+1	0.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-79
+1	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:13	-64
+1	0.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:14	-80
+1	0.0	0.0	KT WiFi	00:1d:93:c7:5e:82	-62
+1	0.0	0.0	KT WiFi	06:09:b4:75:a7:1c	-68
+1	0.0	0.0	KT WiFi	06:09:b4:75:a7:1b	-69
+1	0.0	0.0	KT WiFi	00:1d:93:c7:5b:ae	-81
+1	0.0	0.0	T wifi zone	22:17:b2:0b:57:0e	-92
+1	0.0	0.0	T wifi zone	10:e3:c7:09:40:97	-66
+1	0.0	0.0	T wifi zone	22:17:b2:0b:52:02	-54
+1	0.0	0.0	KT WiFi	00:1d:93:c7:67:88	-83
+1	0.0	0.0	KT WiFi	00:1d:93:c7:67:89	-81
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:09	-76
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:57:11	-92
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:07	-71
+1	0.0	0.0	T wifi zone_secure	22:17:b2:0b:52:08	-75
+1	0.0	0.0	T Free WiFi Zone	22:17:b2:0b:52:05	-54
+1	0.0	0.0	T wifi zone	22:17:b2:0b:52:06	-76
+1	0.0	0.0	KT WiFi 	06:1d:93:c7:5b:6a	-90
+1	0.0	0.0	T wifi zone	22:17:b2:0b:52:04	-71

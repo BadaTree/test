@@ -1,0 +1,425 @@
+0	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+0	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	180.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	180.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+0	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+0	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+0	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+0	12.0	180.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+0	12.0	180.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+0	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+0	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+0	12.0	180.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	180.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	180.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+0	12.0	180.0	U+zone	00:40:5a:bb:b5:82	-69
+0	12.0	180.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+1	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+1	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+1	12.0	180.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+1	12.0	180.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+1	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+1	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+1	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+1	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+1	12.0	180.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+1	12.0	180.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+1	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+1	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+1	12.0	180.0	T wifi zone	10:e3:c7:09:40:8d	-56
+1	12.0	180.0	T wifi zone	10:e3:c7:09:40:8c	-55
+1	12.0	180.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+1	12.0	180.0	U+zone	00:40:5a:bb:b5:82	-69
+1	12.0	180.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+2	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+2	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+2	12.0	180.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+2	12.0	180.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+2	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+2	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+2	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+2	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+2	12.0	180.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+2	12.0	180.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+2	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+2	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+2	12.0	180.0	T wifi zone	10:e3:c7:09:40:8d	-56
+2	12.0	180.0	T wifi zone	10:e3:c7:09:40:8c	-55
+2	12.0	180.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+2	12.0	180.0	U+zone	00:40:5a:bb:b5:82	-69
+2	12.0	180.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+3	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+3	12.0	180.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+3	12.0	180.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+3	12.0	180.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+3	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+3	12.0	180.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+3	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+3	12.0	180.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+3	12.0	180.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+3	12.0	180.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+3	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+3	12.0	180.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+3	12.0	180.0	T wifi zone	10:e3:c7:09:40:8d	-56
+3	12.0	180.0	T wifi zone	10:e3:c7:09:40:8c	-55
+3	12.0	180.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+3	12.0	180.0	U+zone	00:40:5a:bb:b5:82	-69
+3	12.0	180.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+0	12.0	186.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+0	12.0	186.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	186.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	186.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+0	12.0	186.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+0	12.0	186.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+0	12.0	186.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	186.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+0	12.0	186.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+0	12.0	186.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+0	12.0	186.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+0	12.0	186.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+0	12.0	186.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	186.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	186.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+0	12.0	186.0	U+zone	00:40:5a:bb:b5:82	-69
+0	12.0	186.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+1	12.0	192.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+1	12.0	192.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+1	12.0	192.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+1	12.0	192.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+1	12.0	192.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+1	12.0	192.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+1	12.0	192.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+1	12.0	192.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+1	12.0	192.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+1	12.0	192.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+1	12.0	192.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+1	12.0	192.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+1	12.0	192.0	T wifi zone	10:e3:c7:09:40:8d	-56
+1	12.0	192.0	T wifi zone	10:e3:c7:09:40:8c	-55
+1	12.0	192.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+1	12.0	192.0	U+zone	00:40:5a:bb:b5:82	-69
+1	12.0	192.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+0	12.0	192.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+0	12.0	192.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	192.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	192.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+0	12.0	192.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+0	12.0	192.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+0	12.0	192.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	192.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+0	12.0	192.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+0	12.0	192.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+0	12.0	192.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+0	12.0	192.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+0	12.0	192.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	192.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	192.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+0	12.0	192.0	U+zone	00:40:5a:bb:b5:82	-69
+0	12.0	192.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+0	12.0	198.0	T wifi zone_secure	02:e3:c7:09:40:8d	-58
+0	12.0	198.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	198.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	198.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-76
+0	12.0	198.0	KT WiFi 	0a:09:b4:75:a7:6c	-79
+0	12.0	198.0	KT WiFi 	0a:09:b4:75:a7:6b	-72
+0	12.0	198.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	198.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-59
+0	12.0	198.0	STR_WLAN	30:87:d9:46:6e:b8	-83
+0	12.0	198.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-88
+0	12.0	198.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-73
+0	12.0	198.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-78
+0	12.0	198.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	198.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	198.0	FREE_U+zone	00:40:5a:b7:d5:f3	-77
+0	12.0	198.0	U+zone	00:40:5a:bb:b5:82	-69
+0	12.0	198.0	FREE_U+zone	00:40:5a:bb:b5:83	-69
+0	12.0	204.0	T wifi zone_secure	02:e3:c7:09:40:8d	-54
+0	12.0	204.0	T wifi zone_secure	02:e3:c7:09:40:8c	-59
+0	12.0	204.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	204.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	204.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	204.0	KT WiFi 	0a:09:b4:75:a7:6c	-76
+0	12.0	204.0	KT WiFi	06:09:b4:75:a7:6b	-78
+0	12.0	204.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	204.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-54
+0	12.0	204.0		24:d1:3f:13:6a:18	-59
+0	12.0	204.0	T wifi zone	10:e3:c7:09:40:87	-90
+0	12.0	204.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-75
+0	12.0	204.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-80
+0	12.0	204.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	204.0	T wifi zone	10:e3:c7:09:40:8c	-59
+0	12.0	204.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	204.0	FREE_U+zone	00:40:5a:bb:b5:83	-62
+0	12.0	210.0	T wifi zone_secure	02:e3:c7:09:40:8d	-54
+0	12.0	210.0	T wifi zone_secure	02:e3:c7:09:40:8c	-59
+0	12.0	210.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	210.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	210.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	210.0	KT WiFi 	0a:09:b4:75:a7:6c	-76
+0	12.0	210.0	KT WiFi	06:09:b4:75:a7:6b	-78
+0	12.0	210.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	210.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-54
+0	12.0	210.0		24:d1:3f:13:6a:18	-59
+0	12.0	210.0	T wifi zone	10:e3:c7:09:40:87	-90
+0	12.0	210.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-75
+0	12.0	210.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-80
+0	12.0	210.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	210.0	T wifi zone	10:e3:c7:09:40:8c	-59
+0	12.0	210.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	210.0	FREE_U+zone	00:40:5a:bb:b5:83	-62
+0	12.0	216.0	T wifi zone_secure	02:e3:c7:09:40:8d	-54
+0	12.0	216.0	T wifi zone_secure	02:e3:c7:09:40:8c	-59
+0	12.0	216.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	216.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	216.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	216.0	KT WiFi 	0a:09:b4:75:a7:6c	-76
+0	12.0	216.0	KT WiFi	06:09:b4:75:a7:6b	-78
+0	12.0	216.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	216.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-54
+0	12.0	216.0		24:d1:3f:13:6a:18	-59
+0	12.0	216.0	T wifi zone	10:e3:c7:09:40:87	-90
+0	12.0	216.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-75
+0	12.0	216.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-80
+0	12.0	216.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	216.0	T wifi zone	10:e3:c7:09:40:8c	-59
+0	12.0	216.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	216.0	FREE_U+zone	00:40:5a:bb:b5:83	-62
+0	12.0	222.0	T wifi zone_secure	02:e3:c7:09:40:8d	-54
+0	12.0	222.0	T wifi zone_secure	02:e3:c7:09:40:8c	-59
+0	12.0	222.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	222.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	222.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	222.0	KT WiFi 	0a:09:b4:75:a7:6c	-76
+0	12.0	222.0	KT WiFi	06:09:b4:75:a7:6b	-78
+0	12.0	222.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	222.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-54
+0	12.0	222.0		24:d1:3f:13:6a:18	-59
+0	12.0	222.0	T wifi zone	10:e3:c7:09:40:87	-90
+0	12.0	222.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-75
+0	12.0	222.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-80
+0	12.0	222.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	222.0	T wifi zone	10:e3:c7:09:40:8c	-59
+0	12.0	222.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	222.0	FREE_U+zone	00:40:5a:bb:b5:83	-62
+0	12.0	228.0	T wifi zone_secure	02:e3:c7:09:40:8d	-54
+0	12.0	228.0	T wifi zone_secure	02:e3:c7:09:40:8c	-59
+0	12.0	228.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	228.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	228.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	228.0	KT WiFi 	0a:09:b4:75:a7:6c	-76
+0	12.0	228.0	KT WiFi	06:09:b4:75:a7:6b	-78
+0	12.0	228.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-58
+0	12.0	228.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-54
+0	12.0	228.0		24:d1:3f:13:6a:18	-59
+0	12.0	228.0	T wifi zone	10:e3:c7:09:40:87	-90
+0	12.0	228.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-75
+0	12.0	228.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-80
+0	12.0	228.0	T wifi zone	10:e3:c7:09:40:8d	-56
+0	12.0	228.0	T wifi zone	10:e3:c7:09:40:8c	-59
+0	12.0	228.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	228.0	FREE_U+zone	00:40:5a:bb:b5:83	-62
+0	12.0	234.0	T wifi zone_secure	02:e3:c7:09:40:8d	-63
+0	12.0	234.0	T wifi zone_secure	02:e3:c7:09:40:8c	-54
+0	12.0	234.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	234.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-78
+0	12.0	234.0	KT WiFi 	0a:09:b4:75:a7:6c	-75
+0	12.0	234.0	KT WiFi 	0a:09:b4:75:a7:6b	-67
+0	12.0	234.0	KT WiFi	06:09:b4:75:a7:6b	-67
+0	12.0	234.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-51
+0	12.0	234.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-67
+0	12.0	234.0		24:d1:3f:13:6a:18	-51
+0	12.0	234.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-89
+0	12.0	234.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-69
+0	12.0	234.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-76
+0	12.0	234.0	T wifi zone	10:e3:c7:09:40:8d	-63
+0	12.0	234.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	234.0	U+zone	00:40:5a:bb:b5:82	-67
+0	12.0	234.0	FREE_U+zone	00:40:5a:bb:b5:83	-71
+0	12.0	240.0	T wifi zone_secure	02:e3:c7:09:40:8d	-63
+0	12.0	240.0	T wifi zone_secure	02:e3:c7:09:40:8c	-54
+0	12.0	240.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	240.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-78
+0	12.0	240.0	KT WiFi 	0a:09:b4:75:a7:6c	-75
+0	12.0	240.0	KT WiFi 	0a:09:b4:75:a7:6b	-67
+0	12.0	240.0	KT WiFi	06:09:b4:75:a7:6b	-67
+0	12.0	240.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-51
+0	12.0	240.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-67
+0	12.0	240.0		24:d1:3f:13:6a:18	-51
+0	12.0	240.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-89
+0	12.0	240.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-69
+0	12.0	240.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-76
+0	12.0	240.0	T wifi zone	10:e3:c7:09:40:8d	-63
+0	12.0	240.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	240.0	U+zone	00:40:5a:bb:b5:82	-67
+0	12.0	240.0	FREE_U+zone	00:40:5a:bb:b5:83	-71
+1	12.0	240.0	T wifi zone_secure	02:e3:c7:09:40:8d	-63
+1	12.0	240.0	T wifi zone_secure	02:e3:c7:09:40:8c	-54
+1	12.0	240.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+1	12.0	240.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-78
+1	12.0	240.0	KT WiFi 	0a:09:b4:75:a7:6c	-75
+1	12.0	240.0	KT WiFi 	0a:09:b4:75:a7:6b	-67
+1	12.0	240.0	KT WiFi	06:09:b4:75:a7:6b	-67
+1	12.0	240.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-51
+1	12.0	240.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-67
+1	12.0	240.0		24:d1:3f:13:6a:18	-51
+1	12.0	240.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-89
+1	12.0	240.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-69
+1	12.0	240.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-76
+1	12.0	240.0	T wifi zone	10:e3:c7:09:40:8d	-63
+1	12.0	240.0	T wifi zone	10:e3:c7:09:40:8c	-55
+1	12.0	240.0	U+zone	00:40:5a:bb:b5:82	-67
+1	12.0	240.0	FREE_U+zone	00:40:5a:bb:b5:83	-71
+0	12.0	246.0	T wifi zone_secure	02:e3:c7:09:40:8d	-63
+0	12.0	246.0	T wifi zone_secure	02:e3:c7:09:40:8c	-54
+0	12.0	246.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-75
+0	12.0	246.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-78
+0	12.0	246.0	KT WiFi 	0a:09:b4:75:a7:6c	-75
+0	12.0	246.0	KT WiFi 	0a:09:b4:75:a7:6b	-67
+0	12.0	246.0	KT WiFi	06:09:b4:75:a7:6b	-67
+0	12.0	246.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-51
+0	12.0	246.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-67
+0	12.0	246.0		24:d1:3f:13:6a:18	-51
+0	12.0	246.0	STR_WLAN_LOCAL	30:87:d9:06:6e:b8	-89
+0	12.0	246.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-69
+0	12.0	246.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-76
+0	12.0	246.0	T wifi zone	10:e3:c7:09:40:8d	-63
+0	12.0	246.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	246.0	U+zone	00:40:5a:bb:b5:82	-67
+0	12.0	246.0	FREE_U+zone	00:40:5a:bb:b5:83	-71
+0	12.0	252.0	FREE_U+zone	88:36:6c:3e:16:5f	-87
+0	12.0	252.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	252.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	252.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	252.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-81
+0	12.0	252.0	KT WiFi 	0a:09:b4:75:a7:6c	-78
+0	12.0	252.0	KT WiFi	06:09:b4:75:a7:6b	-70
+0	12.0	252.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-55
+0	12.0	252.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-62
+0	12.0	252.0		24:d1:3f:13:6a:18	-55
+0	12.0	252.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-71
+0	12.0	252.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-79
+0	12.0	252.0	T wifi zone	10:e3:c7:09:40:8d	-64
+0	12.0	252.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	252.0	U+zone	00:40:5a:b7:d5:f2	-77
+0	12.0	252.0	U+zone	00:40:5a:bb:b5:82	-68
+0	12.0	252.0	FREE_U+zone	00:40:5a:bb:b5:83	-65
+0	12.0	258.0	FREE_U+zone	88:36:6c:3e:16:5f	-87
+0	12.0	258.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	258.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	258.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	258.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-81
+0	12.0	258.0	KT WiFi 	0a:09:b4:75:a7:6c	-78
+0	12.0	258.0	KT WiFi	06:09:b4:75:a7:6b	-70
+0	12.0	258.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-55
+0	12.0	258.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-62
+0	12.0	258.0		24:d1:3f:13:6a:18	-55
+0	12.0	258.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-71
+0	12.0	258.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-79
+0	12.0	258.0	T wifi zone	10:e3:c7:09:40:8d	-64
+0	12.0	258.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	258.0	U+zone	00:40:5a:b7:d5:f2	-77
+0	12.0	258.0	U+zone	00:40:5a:bb:b5:82	-68
+0	12.0	258.0	FREE_U+zone	00:40:5a:bb:b5:83	-65
+0	12.0	264.0	FREE_U+zone	88:36:6c:3e:16:5f	-87
+0	12.0	264.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	264.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	264.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	264.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-81
+0	12.0	264.0	KT WiFi 	0a:09:b4:75:a7:6c	-78
+0	12.0	264.0	KT WiFi	06:09:b4:75:a7:6b	-70
+0	12.0	264.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-55
+0	12.0	264.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-62
+0	12.0	264.0		24:d1:3f:13:6a:18	-55
+0	12.0	264.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-71
+0	12.0	264.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-79
+0	12.0	264.0	T wifi zone	10:e3:c7:09:40:8d	-64
+0	12.0	264.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	264.0	U+zone	00:40:5a:b7:d5:f2	-77
+0	12.0	264.0	U+zone	00:40:5a:bb:b5:82	-68
+0	12.0	264.0	FREE_U+zone	00:40:5a:bb:b5:83	-65
+0	12.0	270.0	FREE_U+zone	88:36:6c:3e:16:5f	-87
+0	12.0	270.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	270.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	270.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	270.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-81
+0	12.0	270.0	KT WiFi 	0a:09:b4:75:a7:6c	-78
+0	12.0	270.0	KT WiFi	06:09:b4:75:a7:6b	-70
+0	12.0	270.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-55
+0	12.0	270.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-62
+0	12.0	270.0		24:d1:3f:13:6a:18	-55
+0	12.0	270.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-71
+0	12.0	270.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-79
+0	12.0	270.0	T wifi zone	10:e3:c7:09:40:8d	-64
+0	12.0	270.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	270.0	U+zone	00:40:5a:b7:d5:f2	-77
+0	12.0	270.0	U+zone	00:40:5a:bb:b5:82	-68
+0	12.0	270.0	FREE_U+zone	00:40:5a:bb:b5:83	-65
+0	12.0	276.0	FREE_U+zone	88:36:6c:3e:16:5f	-87
+0	12.0	276.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	276.0	T wifi zone_secure	02:e3:c7:09:40:8c	-55
+0	12.0	276.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-77
+0	12.0	276.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-81
+0	12.0	276.0	KT WiFi 	0a:09:b4:75:a7:6c	-78
+0	12.0	276.0	KT WiFi	06:09:b4:75:a7:6b	-70
+0	12.0	276.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-55
+0	12.0	276.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-62
+0	12.0	276.0		24:d1:3f:13:6a:18	-55
+0	12.0	276.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-71
+0	12.0	276.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-79
+0	12.0	276.0	T wifi zone	10:e3:c7:09:40:8d	-64
+0	12.0	276.0	T wifi zone	10:e3:c7:09:40:8c	-55
+0	12.0	276.0	U+zone	00:40:5a:b7:d5:f2	-77
+0	12.0	276.0	U+zone	00:40:5a:bb:b5:82	-68
+0	12.0	276.0	FREE_U+zone	00:40:5a:bb:b5:83	-65
+1	12.0	276.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+1	12.0	276.0	T wifi zone_secure	02:e3:c7:09:40:8c	-60
+1	12.0	276.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-76
+1	12.0	276.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+1	12.0	276.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+1	12.0	276.0	KT WiFi 	0a:09:b4:75:a7:6c	-81
+1	12.0	276.0	KT WiFi 	0a:09:b4:75:a7:6b	-70
+1	12.0	276.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-64
+1	12.0	276.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-63
+1	12.0	276.0		24:d1:3f:13:6a:18	-60
+1	12.0	276.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-74
+1	12.0	276.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-77
+1	12.0	276.0	T wifi zone	10:e3:c7:09:40:8d	-62
+1	12.0	276.0	T wifi zone	10:e3:c7:09:40:8c	-61
+1	12.0	276.0	FREE_U+zone	00:40:5a:b7:d5:f3	-72
+1	12.0	276.0	U+zone	00:40:5a:bb:b5:82	-64
+1	12.0	276.0	FREE_U+zone	00:40:5a:bb:b5:83	-66
+0	12.0	282.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	282.0	T wifi zone_secure	02:e3:c7:09:40:8c	-60
+0	12.0	282.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-76
+0	12.0	282.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	282.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	282.0	KT WiFi 	0a:09:b4:75:a7:6c	-81
+0	12.0	282.0	KT WiFi 	0a:09:b4:75:a7:6b	-70
+0	12.0	282.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-64
+0	12.0	282.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-63
+0	12.0	282.0		24:d1:3f:13:6a:18	-60
+0	12.0	282.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-74
+0	12.0	282.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-77
+0	12.0	282.0	T wifi zone	10:e3:c7:09:40:8d	-62
+0	12.0	282.0	T wifi zone	10:e3:c7:09:40:8c	-61
+0	12.0	282.0	FREE_U+zone	00:40:5a:b7:d5:f3	-72
+0	12.0	282.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	282.0	FREE_U+zone	00:40:5a:bb:b5:83	-66
+0	12.0	288.0	T wifi zone_secure	02:e3:c7:09:40:8d	-61
+0	12.0	288.0	T wifi zone_secure	02:e3:c7:09:40:8c	-60
+0	12.0	288.0	KT GiGA WiFi	0e:09:b4:75:a7:6c	-76
+0	12.0	288.0	T Free WiFi Zone	12:e3:c7:09:40:87	-89
+0	12.0	288.0	KT GiGA WiFi 	12:09:b4:75:a7:6c	-80
+0	12.0	288.0	KT WiFi 	0a:09:b4:75:a7:6c	-81
+0	12.0	288.0	KT WiFi 	0a:09:b4:75:a7:6b	-70
+0	12.0	288.0	T Free WiFi Zone	12:e3:c7:09:40:8c	-64
+0	12.0	288.0	T Free WiFi Zone	12:e3:c7:09:40:8d	-63
+0	12.0	288.0		24:d1:3f:13:6a:18	-60
+0	12.0	288.0	KT_Free_WiFi	00:09:b4:75:a7:6b	-74
+0	12.0	288.0	KT_Free_WiFi	00:09:b4:75:a7:6c	-77
+0	12.0	288.0	T wifi zone	10:e3:c7:09:40:8d	-62
+0	12.0	288.0	T wifi zone	10:e3:c7:09:40:8c	-61
+0	12.0	288.0	FREE_U+zone	00:40:5a:b7:d5:f3	-72
+0	12.0	288.0	U+zone	00:40:5a:bb:b5:82	-64
+0	12.0	288.0	FREE_U+zone	00:40:5a:bb:b5:83	-66

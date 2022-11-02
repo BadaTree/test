@@ -1,0 +1,20 @@
+하나스퀘어 basic : 0.27 rssi : 0.16 basic + rssi + inverse : 0.148
+-75 6 36 -60 8
+0.05 5 0.1 -75
+0.2
+
+포스코센터 basic : 0.19 rssi : 0.10 basic+rssi+inverse : 0.08
+-63 4 32 -60 7
+0.05 5 0.1 -75
+0.2
+
+포스코실험동 basic : 0.67 rssi : 0.29 basic+rssi+inverse : 0.27
+-78 2 20 -78 4
+0.05 5 0.1 -75
+0.2
+
+basic_thres / basic_range / rssi_range / inverse_thres / inverse_range
+start_cov_value / cov_thres_diff / total_cov_value / total_cov_thres/ 
+coverage
+
+하나스퀘어 200 ~ 300

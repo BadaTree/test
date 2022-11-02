@@ -1,0 +1,10 @@
+Inverse RSSI thres / Inverse_Range
+
+하나스퀘어 inverse : 0.37
+-72 / 4
+
+포스코센터 inverse : 0.20
+-60 / 3
+
+포스코실험동 inverse : 
+-78 / 4

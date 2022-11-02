@@ -1,0 +1,3 @@
+rootProject.name = "HeroLibraryPohang"
+include ':app'
+include ':CSLabPosco'

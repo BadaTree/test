@@ -1,0 +1,4 @@
+Inverse RSSI thres / Inverse_Range
+
+하나스퀘어 inverse : 0.37
+-66 / 6

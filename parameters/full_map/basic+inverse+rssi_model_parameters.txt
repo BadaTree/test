@@ -1,0 +1,12 @@
+하나스퀘어 basic : 0.27 rssi : 0.16 basic + rssi + inverse : 0.148
+-75 6 36 -60 8
+
+포스코센터 basic : 0.19 rssi : 0.10 basic+rssi+inverse : 0.08
+-63 4 32 -60 7
+
+포스코실험동 basic : 0.67 rssi : 0.29 basic+rssi+inverse : 0.27
+-78 2 20 -78 4
+
+
+
+하나스퀘어 200 ~ 300

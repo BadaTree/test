@@ -1,0 +1,561 @@
+0	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+0	168.0	0.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+0	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+0	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+0	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+0	168.0	0.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+0	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+0	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+0	168.0	0.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+0	168.0	0.0	U+zone	00:40:5a:bb:84:d2	-63
+0	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+0	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+0	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+0	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+0	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+0	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+0	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+0	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+0	168.0	0.0	KT WiFi	06:09:b4:75:a7:0c	-68
+0	168.0	0.0	KT WiFi	06:09:b4:75:a7:0b	-67
+0	168.0	0.0	T wifi zone	10:e3:c7:09:40:88	-65
+0	168.0	0.0	T wifi zone	10:e3:c7:09:40:87	-50
+0	168.0	0.0	T wifi zone	10:e3:c7:09:40:96	-82
+0	168.0	0.0	T wifi zone	10:e3:c7:09:40:92	-73
+0	168.0	0.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+0	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+0	168.0	0.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+0	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+1	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+1	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+1	168.0	0.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+1	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+1	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+1	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+1	168.0	0.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+1	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+1	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+1	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+1	168.0	0.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+1	168.0	0.0	U+zone	00:40:5a:bb:84:d2	-63
+1	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+1	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+1	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+1	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+1	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+1	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+1	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+1	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+1	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+1	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+1	168.0	0.0	KT WiFi	06:09:b4:75:a7:0c	-68
+1	168.0	0.0	KT WiFi	06:09:b4:75:a7:0b	-67
+1	168.0	0.0	T wifi zone	10:e3:c7:09:40:88	-65
+1	168.0	0.0	T wifi zone	10:e3:c7:09:40:87	-50
+1	168.0	0.0	T wifi zone	10:e3:c7:09:40:96	-82
+1	168.0	0.0	T wifi zone	10:e3:c7:09:40:92	-73
+1	168.0	0.0	T wifi zone	10:e3:c7:09:40:91	-72
+1	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+1	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+1	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+1	168.0	0.0	KT WiFi	06:09:b4:75:a7:1b	-69
+1	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+1	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+2	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+2	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+2	168.0	0.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+2	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+2	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+2	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+2	168.0	0.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+2	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+2	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+2	168.0	0.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+2	168.0	0.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+2	168.0	0.0	U+zone	00:40:5a:bb:84:d2	-63
+2	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+2	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+2	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+2	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+2	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+2	168.0	0.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+2	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+2	168.0	0.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+2	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+2	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+2	168.0	0.0	KT WiFi	06:09:b4:75:a7:0c	-68
+2	168.0	0.0	KT WiFi	06:09:b4:75:a7:0b	-67
+2	168.0	0.0	T wifi zone	10:e3:c7:09:40:88	-65
+2	168.0	0.0	T wifi zone	10:e3:c7:09:40:87	-50
+2	168.0	0.0	T wifi zone	10:e3:c7:09:40:96	-82
+2	168.0	0.0	T wifi zone	10:e3:c7:09:40:92	-73
+2	168.0	0.0	T wifi zone	10:e3:c7:09:40:91	-72
+2	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+2	168.0	0.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+2	168.0	0.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+2	168.0	0.0	KT WiFi	06:09:b4:75:a7:1b	-69
+2	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+2	168.0	0.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+0	168.0	6.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	6.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+0	168.0	6.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+0	168.0	6.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+0	168.0	6.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+0	168.0	6.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+0	168.0	6.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+0	168.0	6.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+0	168.0	6.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	6.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+0	168.0	6.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+0	168.0	6.0	U+zone	00:40:5a:bb:84:d2	-63
+0	168.0	6.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+0	168.0	6.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	168.0	6.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+0	168.0	6.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+0	168.0	6.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+0	168.0	6.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+0	168.0	6.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+0	168.0	6.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+0	168.0	6.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	168.0	6.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+0	168.0	6.0	KT WiFi	06:09:b4:75:a7:0c	-68
+0	168.0	6.0	KT WiFi	06:09:b4:75:a7:0b	-67
+0	168.0	6.0	T wifi zone	10:e3:c7:09:40:88	-65
+0	168.0	6.0	T wifi zone	10:e3:c7:09:40:87	-50
+0	168.0	6.0	T wifi zone	10:e3:c7:09:40:96	-82
+0	168.0	6.0	T wifi zone	10:e3:c7:09:40:92	-73
+0	168.0	6.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	6.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+0	168.0	6.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	168.0	6.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+0	168.0	6.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	168.0	6.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+0	168.0	6.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+0	168.0	12.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	12.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+0	168.0	12.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+0	168.0	12.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+0	168.0	12.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+0	168.0	12.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+0	168.0	12.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+0	168.0	12.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+0	168.0	12.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	12.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+0	168.0	12.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+0	168.0	12.0	U+zone	00:40:5a:bb:84:d2	-63
+0	168.0	12.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+0	168.0	12.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	168.0	12.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+0	168.0	12.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+0	168.0	12.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+0	168.0	12.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+0	168.0	12.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+0	168.0	12.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+0	168.0	12.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	168.0	12.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+0	168.0	12.0	KT WiFi	06:09:b4:75:a7:0c	-68
+0	168.0	12.0	KT WiFi	06:09:b4:75:a7:0b	-67
+0	168.0	12.0	T wifi zone	10:e3:c7:09:40:88	-65
+0	168.0	12.0	T wifi zone	10:e3:c7:09:40:87	-50
+0	168.0	12.0	T wifi zone	10:e3:c7:09:40:96	-82
+0	168.0	12.0	T wifi zone	10:e3:c7:09:40:92	-73
+0	168.0	12.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	12.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+0	168.0	12.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	168.0	12.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+0	168.0	12.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	168.0	12.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+0	168.0	12.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+0	168.0	18.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	18.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+0	168.0	18.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+0	168.0	18.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+0	168.0	18.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+0	168.0	18.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+0	168.0	18.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+0	168.0	18.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+0	168.0	18.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	18.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+0	168.0	18.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+0	168.0	18.0	U+zone	00:40:5a:bb:84:d2	-63
+0	168.0	18.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+0	168.0	18.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	168.0	18.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+0	168.0	18.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+0	168.0	18.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+0	168.0	18.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+0	168.0	18.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+0	168.0	18.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+0	168.0	18.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	168.0	18.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+0	168.0	18.0	KT WiFi	06:09:b4:75:a7:0c	-68
+0	168.0	18.0	KT WiFi	06:09:b4:75:a7:0b	-67
+0	168.0	18.0	T wifi zone	10:e3:c7:09:40:88	-65
+0	168.0	18.0	T wifi zone	10:e3:c7:09:40:87	-50
+0	168.0	18.0	T wifi zone	10:e3:c7:09:40:96	-82
+0	168.0	18.0	T wifi zone	10:e3:c7:09:40:92	-73
+0	168.0	18.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	18.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+0	168.0	18.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	168.0	18.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+0	168.0	18.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	168.0	18.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+0	168.0	18.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+0	168.0	24.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	24.0	KT WiFi 	0a:09:b4:75:a7:14	-90
+0	168.0	24.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-65
+0	168.0	24.0	KT WiFi 	0a:09:b4:75:a7:0c	-68
+0	168.0	24.0	KT WiFi 	0a:09:b4:75:a7:0b	-69
+0	168.0	24.0	T Free WiFi Zone	12:e3:c7:09:40:87	-51
+0	168.0	24.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-89
+0	168.0	24.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-87
+0	168.0	24.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	24.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-68
+0	168.0	24.0	FREE_U+zone	00:40:5a:bb:84:d3	-59
+0	168.0	24.0	U+zone	00:40:5a:bb:84:d2	-63
+0	168.0	24.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-81
+0	168.0	24.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-67
+0	168.0	24.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-68
+0	168.0	24.0	T Free WiFi Zone	12:e3:c7:09:40:91	-73
+0	168.0	24.0	T Free WiFi Zone	12:e3:c7:09:40:92	-71
+0	168.0	24.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-67
+0	168.0	24.0	T Free WiFi Zone	12:e3:c7:09:40:96	-83
+0	168.0	24.0	T Free WiFi Zone	12:e3:c7:09:40:88	-69
+0	168.0	24.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-70
+0	168.0	24.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-82
+0	168.0	24.0	KT WiFi	06:09:b4:75:a7:0c	-68
+0	168.0	24.0	KT WiFi	06:09:b4:75:a7:0b	-67
+0	168.0	24.0	T wifi zone	10:e3:c7:09:40:88	-65
+0	168.0	24.0	T wifi zone	10:e3:c7:09:40:87	-50
+0	168.0	24.0	T wifi zone	10:e3:c7:09:40:96	-82
+0	168.0	24.0	T wifi zone	10:e3:c7:09:40:92	-73
+0	168.0	24.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	24.0	KT WiFi 	0a:09:b4:75:a7:1c	-83
+0	168.0	24.0	KT WiFi 	0a:09:b4:75:a7:1b	-69
+0	168.0	24.0	KT_Free_WiFi	00:09:b4:75:a7:14	-88
+0	168.0	24.0	KT WiFi	06:09:b4:75:a7:1b	-69
+0	168.0	24.0	T wifi zone_secure	02:e3:c7:09:40:88	-69
+0	168.0	24.0	T wifi zone_secure	02:e3:c7:09:40:87	-51
+0	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:96	-85
+0	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:91	-74
+0	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:14	-88
+0	168.0	30.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-71
+0	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:0c	-75
+0	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:87	-48
+0	168.0	30.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-84
+0	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-89
+0	168.0	30.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	30.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-74
+0	168.0	30.0	FREE_U+zone	00:40:5a:bb:84:d3	-64
+0	168.0	30.0	U+zone	00:40:5a:bb:84:d2	-60
+0	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-83
+0	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-74
+0	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:92	-79
+0	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+0	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:96	-87
+0	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:88	-62
+0	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-74
+0	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-81
+0	168.0	30.0	KT WiFi	06:09:b4:75:a7:0c	-74
+0	168.0	30.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	30.0	T wifi zone	10:e3:c7:09:40:88	-63
+0	168.0	30.0	T wifi zone	10:e3:c7:09:40:87	-49
+0	168.0	30.0	T wifi zone	10:e3:c7:09:40:92	-80
+0	168.0	30.0	T wifi zone	10:e3:c7:09:40:91	-74
+0	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:1c	-81
+0	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:1b	-78
+0	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:14	-92
+0	168.0	30.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:87	-49
+1	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:96	-85
+1	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:91	-74
+1	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:14	-88
+1	168.0	30.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-71
+1	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:0c	-75
+1	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+1	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:87	-48
+1	168.0	30.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-84
+1	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-89
+1	168.0	30.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+1	168.0	30.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-74
+1	168.0	30.0	FREE_U+zone	00:40:5a:bb:84:d3	-64
+1	168.0	30.0	U+zone	00:40:5a:bb:84:d2	-60
+1	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-83
+1	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+1	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-74
+1	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:92	-79
+1	168.0	30.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+1	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:96	-87
+1	168.0	30.0	T Free WiFi Zone	12:e3:c7:09:40:88	-62
+1	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-74
+1	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-81
+1	168.0	30.0	KT WiFi	06:09:b4:75:a7:0c	-74
+1	168.0	30.0	KT WiFi	06:09:b4:75:a7:0b	-68
+1	168.0	30.0	T wifi zone	10:e3:c7:09:40:88	-63
+1	168.0	30.0	T wifi zone	10:e3:c7:09:40:87	-49
+1	168.0	30.0	T wifi zone	10:e3:c7:09:40:92	-80
+1	168.0	30.0	T wifi zone	10:e3:c7:09:40:91	-74
+1	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:1c	-81
+1	168.0	30.0	KT WiFi 	0a:09:b4:75:a7:1b	-78
+1	168.0	30.0	KT_Free_WiFi	00:09:b4:75:a7:14	-92
+1	168.0	30.0	KT WiFi	06:09:b4:75:a7:1b	-77
+1	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:88	-63
+1	168.0	30.0	T wifi zone_secure	02:e3:c7:09:40:87	-49
+0	168.0	36.0	T wifi zone_secure	02:e3:c7:09:40:96	-85
+0	168.0	36.0	T wifi zone_secure	02:e3:c7:09:40:91	-74
+0	168.0	36.0	KT WiFi 	0a:09:b4:75:a7:14	-88
+0	168.0	36.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-71
+0	168.0	36.0	KT WiFi 	0a:09:b4:75:a7:0c	-75
+0	168.0	36.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	36.0	T Free WiFi Zone	12:e3:c7:09:40:87	-48
+0	168.0	36.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-84
+0	168.0	36.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-89
+0	168.0	36.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	36.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-74
+0	168.0	36.0	FREE_U+zone	00:40:5a:bb:84:d3	-64
+0	168.0	36.0	U+zone	00:40:5a:bb:84:d2	-60
+0	168.0	36.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-83
+0	168.0	36.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	36.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-74
+0	168.0	36.0	T Free WiFi Zone	12:e3:c7:09:40:92	-79
+0	168.0	36.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+0	168.0	36.0	T Free WiFi Zone	12:e3:c7:09:40:96	-87
+0	168.0	36.0	T Free WiFi Zone	12:e3:c7:09:40:88	-62
+0	168.0	36.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-74
+0	168.0	36.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-81
+0	168.0	36.0	KT WiFi	06:09:b4:75:a7:0c	-74
+0	168.0	36.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	36.0	T wifi zone	10:e3:c7:09:40:88	-63
+0	168.0	36.0	T wifi zone	10:e3:c7:09:40:87	-49
+0	168.0	36.0	T wifi zone	10:e3:c7:09:40:92	-80
+0	168.0	36.0	T wifi zone	10:e3:c7:09:40:91	-74
+0	168.0	36.0	KT WiFi 	0a:09:b4:75:a7:1c	-81
+0	168.0	36.0	KT WiFi 	0a:09:b4:75:a7:1b	-78
+0	168.0	36.0	KT_Free_WiFi	00:09:b4:75:a7:14	-92
+0	168.0	36.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	36.0	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	168.0	36.0	T wifi zone_secure	02:e3:c7:09:40:87	-49
+0	168.0	42.0	T wifi zone_secure	02:e3:c7:09:40:96	-85
+0	168.0	42.0	T wifi zone_secure	02:e3:c7:09:40:91	-74
+0	168.0	42.0	KT WiFi 	0a:09:b4:75:a7:14	-88
+0	168.0	42.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-71
+0	168.0	42.0	KT WiFi 	0a:09:b4:75:a7:0c	-75
+0	168.0	42.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	42.0	T Free WiFi Zone	12:e3:c7:09:40:87	-48
+0	168.0	42.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-84
+0	168.0	42.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-89
+0	168.0	42.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-87
+0	168.0	42.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-74
+0	168.0	42.0	FREE_U+zone	00:40:5a:bb:84:d3	-64
+0	168.0	42.0	U+zone	00:40:5a:bb:84:d2	-60
+0	168.0	42.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-83
+0	168.0	42.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	42.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-74
+0	168.0	42.0	T Free WiFi Zone	12:e3:c7:09:40:92	-79
+0	168.0	42.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-70
+0	168.0	42.0	T Free WiFi Zone	12:e3:c7:09:40:96	-87
+0	168.0	42.0	T Free WiFi Zone	12:e3:c7:09:40:88	-62
+0	168.0	42.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-74
+0	168.0	42.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-81
+0	168.0	42.0	KT WiFi	06:09:b4:75:a7:0c	-74
+0	168.0	42.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	42.0	T wifi zone	10:e3:c7:09:40:88	-63
+0	168.0	42.0	T wifi zone	10:e3:c7:09:40:87	-49
+0	168.0	42.0	T wifi zone	10:e3:c7:09:40:92	-80
+0	168.0	42.0	T wifi zone	10:e3:c7:09:40:91	-74
+0	168.0	42.0	KT WiFi 	0a:09:b4:75:a7:1c	-81
+0	168.0	42.0	KT WiFi 	0a:09:b4:75:a7:1b	-78
+0	168.0	42.0	KT_Free_WiFi	00:09:b4:75:a7:14	-92
+0	168.0	42.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	42.0	T wifi zone_secure	02:e3:c7:09:40:88	-63
+0	168.0	42.0	T wifi zone_secure	02:e3:c7:09:40:87	-49
+0	168.0	48.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	48.0	T wifi zone_secure	02:e3:c7:09:40:91	-72
+0	168.0	48.0	KT WiFi 	0a:09:b4:75:a7:14	-86
+0	168.0	48.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-67
+0	168.0	48.0	KT WiFi 	0a:09:b4:75:a7:0c	-63
+0	168.0	48.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	48.0	T Free WiFi Zone	12:e3:c7:09:40:87	-58
+0	168.0	48.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-83
+0	168.0	48.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-85
+0	168.0	48.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-84
+0	168.0	48.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-64
+0	168.0	48.0	FREE_U+zone	00:40:5a:bb:84:d3	-57
+0	168.0	48.0	U+zone	00:40:5a:bb:84:d2	-58
+0	168.0	48.0	U+zone	00:40:5a:e4:80:92	-96
+0	168.0	48.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-78
+0	168.0	48.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	48.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-63
+0	168.0	48.0	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-88
+0	168.0	48.0	T Free WiFi Zone	12:e3:c7:09:40:92	-81
+0	168.0	48.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-64
+0	168.0	48.0	T Free WiFi Zone	12:e3:c7:09:40:96	-82
+0	168.0	48.0	T Free WiFi Zone	12:e3:c7:09:40:88	-68
+0	168.0	48.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-75
+0	168.0	48.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-83
+0	168.0	48.0	KT WiFi	06:09:b4:75:a7:0c	-64
+0	168.0	48.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	48.0	T wifi zone	10:e3:c7:09:40:88	-69
+0	168.0	48.0	T wifi zone	10:e3:c7:09:40:87	-58
+0	168.0	48.0	T wifi zone	10:e3:c7:09:40:92	-76
+0	168.0	48.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	48.0	KT WiFi 	0a:09:b4:75:a7:1c	-80
+0	168.0	48.0	KT WiFi 	0a:09:b4:75:a7:1b	-76
+0	168.0	48.0	KT_Free_WiFi	00:09:b4:75:a7:14	-84
+0	168.0	48.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	48.0	T wifi zone_secure	02:e3:c7:09:40:88	-72
+0	168.0	48.0	T wifi zone_secure	02:e3:c7:09:40:87	-58
+0	168.0	54.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	54.0	T wifi zone_secure	02:e3:c7:09:40:91	-72
+0	168.0	54.0	KT WiFi 	0a:09:b4:75:a7:14	-86
+0	168.0	54.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-67
+0	168.0	54.0	KT WiFi 	0a:09:b4:75:a7:0c	-63
+0	168.0	54.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	54.0	T Free WiFi Zone	12:e3:c7:09:40:87	-58
+0	168.0	54.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-83
+0	168.0	54.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-85
+0	168.0	54.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-84
+0	168.0	54.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-64
+0	168.0	54.0	FREE_U+zone	00:40:5a:bb:84:d3	-57
+0	168.0	54.0	U+zone	00:40:5a:bb:84:d2	-58
+0	168.0	54.0	U+zone	00:40:5a:e4:80:92	-96
+0	168.0	54.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-78
+0	168.0	54.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	54.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-63
+0	168.0	54.0	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-88
+0	168.0	54.0	T Free WiFi Zone	12:e3:c7:09:40:92	-81
+0	168.0	54.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-64
+0	168.0	54.0	T Free WiFi Zone	12:e3:c7:09:40:96	-82
+0	168.0	54.0	T Free WiFi Zone	12:e3:c7:09:40:88	-68
+0	168.0	54.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-75
+0	168.0	54.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-83
+0	168.0	54.0	KT WiFi	06:09:b4:75:a7:0c	-64
+0	168.0	54.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	54.0	T wifi zone	10:e3:c7:09:40:88	-69
+0	168.0	54.0	T wifi zone	10:e3:c7:09:40:87	-58
+0	168.0	54.0	T wifi zone	10:e3:c7:09:40:92	-76
+0	168.0	54.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	54.0	KT WiFi 	0a:09:b4:75:a7:1c	-80
+0	168.0	54.0	KT WiFi 	0a:09:b4:75:a7:1b	-76
+0	168.0	54.0	KT_Free_WiFi	00:09:b4:75:a7:14	-84
+0	168.0	54.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	54.0	T wifi zone_secure	02:e3:c7:09:40:88	-72
+0	168.0	54.0	T wifi zone_secure	02:e3:c7:09:40:87	-58
+0	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:91	-72
+0	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:14	-86
+0	168.0	60.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-67
+0	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:0c	-63
+0	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:87	-58
+0	168.0	60.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-83
+0	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-85
+0	168.0	60.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-84
+0	168.0	60.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-64
+0	168.0	60.0	FREE_U+zone	00:40:5a:bb:84:d3	-57
+0	168.0	60.0	U+zone	00:40:5a:bb:84:d2	-58
+0	168.0	60.0	U+zone	00:40:5a:e4:80:92	-96
+0	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-78
+0	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-63
+0	168.0	60.0	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-88
+0	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:92	-81
+0	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-64
+0	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:96	-82
+0	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:88	-68
+0	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-75
+0	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-83
+0	168.0	60.0	KT WiFi	06:09:b4:75:a7:0c	-64
+0	168.0	60.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	60.0	T wifi zone	10:e3:c7:09:40:88	-69
+0	168.0	60.0	T wifi zone	10:e3:c7:09:40:87	-58
+0	168.0	60.0	T wifi zone	10:e3:c7:09:40:92	-76
+0	168.0	60.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:1c	-80
+0	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:1b	-76
+0	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:14	-84
+0	168.0	60.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:88	-72
+0	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:87	-58
+1	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+1	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:91	-72
+1	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:14	-86
+1	168.0	60.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-67
+1	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:0c	-63
+1	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+1	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:87	-58
+1	168.0	60.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-83
+1	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-85
+1	168.0	60.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-84
+1	168.0	60.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-64
+1	168.0	60.0	FREE_U+zone	00:40:5a:bb:84:d3	-57
+1	168.0	60.0	U+zone	00:40:5a:bb:84:d2	-58
+1	168.0	60.0	U+zone	00:40:5a:e4:80:92	-96
+1	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-78
+1	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+1	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-63
+1	168.0	60.0	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-88
+1	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:92	-81
+1	168.0	60.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-64
+1	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:96	-82
+1	168.0	60.0	T Free WiFi Zone	12:e3:c7:09:40:88	-68
+1	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-75
+1	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-83
+1	168.0	60.0	KT WiFi	06:09:b4:75:a7:0c	-64
+1	168.0	60.0	KT WiFi	06:09:b4:75:a7:0b	-68
+1	168.0	60.0	T wifi zone	10:e3:c7:09:40:88	-69
+1	168.0	60.0	T wifi zone	10:e3:c7:09:40:87	-58
+1	168.0	60.0	T wifi zone	10:e3:c7:09:40:92	-76
+1	168.0	60.0	T wifi zone	10:e3:c7:09:40:91	-72
+1	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:1c	-80
+1	168.0	60.0	KT WiFi 	0a:09:b4:75:a7:1b	-76
+1	168.0	60.0	KT_Free_WiFi	00:09:b4:75:a7:14	-84
+1	168.0	60.0	KT WiFi	06:09:b4:75:a7:1b	-77
+1	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:88	-72
+1	168.0	60.0	T wifi zone_secure	02:e3:c7:09:40:87	-58
+0	168.0	66.0	T wifi zone_secure	02:e3:c7:09:40:96	-83
+0	168.0	66.0	T wifi zone_secure	02:e3:c7:09:40:91	-72
+0	168.0	66.0	KT WiFi 	0a:09:b4:75:a7:14	-86
+0	168.0	66.0	[air purifier]_E30AJT1003650M	88:57:1d:4f:bc:00	-67
+0	168.0	66.0	KT WiFi 	0a:09:b4:75:a7:0c	-63
+0	168.0	66.0	KT WiFi 	0a:09:b4:75:a7:0b	-68
+0	168.0	66.0	T Free WiFi Zone	12:e3:c7:09:40:87	-58
+0	168.0	66.0	Galaxy Note10 5G2534	5e:92:68:4d:5f:59	-83
+0	168.0	66.0	KT GiGA WiFi 	12:09:b4:75:a7:14	-85
+0	168.0	66.0	KT GiGA WiFi	0e:09:b4:75:a7:14	-84
+0	168.0	66.0	KT GiGA WiFi	0e:09:b4:75:a7:0c	-64
+0	168.0	66.0	FREE_U+zone	00:40:5a:bb:84:d3	-57
+0	168.0	66.0	U+zone	00:40:5a:bb:84:d2	-58
+0	168.0	66.0	U+zone	00:40:5a:e4:80:92	-96
+0	168.0	66.0	KT GiGA WiFi 	12:09:b4:75:a7:1c	-78
+0	168.0	66.0	KT_Free_WiFi	00:09:b4:75:a7:0b	-68
+0	168.0	66.0	KT_Free_WiFi	00:09:b4:75:a7:0c	-63
+0	168.0	66.0	[air purifier]_E30AJT1003654E	88:57:1d:4f:bb:4a	-88
+0	168.0	66.0	T Free WiFi Zone	12:e3:c7:09:40:92	-81
+0	168.0	66.0	KT GiGA WiFi 	12:09:b4:75:a7:0c	-64
+0	168.0	66.0	T Free WiFi Zone	12:e3:c7:09:40:96	-82
+0	168.0	66.0	T Free WiFi Zone	12:e3:c7:09:40:88	-68
+0	168.0	66.0	KT_Free_WiFi	00:09:b4:75:a7:1b	-75
+0	168.0	66.0	KT_Free_WiFi	00:09:b4:75:a7:1c	-83
+0	168.0	66.0	KT WiFi	06:09:b4:75:a7:0c	-64
+0	168.0	66.0	KT WiFi	06:09:b4:75:a7:0b	-68
+0	168.0	66.0	T wifi zone	10:e3:c7:09:40:88	-69
+0	168.0	66.0	T wifi zone	10:e3:c7:09:40:87	-58
+0	168.0	66.0	T wifi zone	10:e3:c7:09:40:92	-76
+0	168.0	66.0	T wifi zone	10:e3:c7:09:40:91	-72
+0	168.0	66.0	KT WiFi 	0a:09:b4:75:a7:1c	-80
+0	168.0	66.0	KT WiFi 	0a:09:b4:75:a7:1b	-76
+0	168.0	66.0	KT_Free_WiFi	00:09:b4:75:a7:14	-84
+0	168.0	66.0	KT WiFi	06:09:b4:75:a7:1b	-77
+0	168.0	66.0	T wifi zone_secure	02:e3:c7:09:40:88	-72
+0	168.0	66.0	T wifi zone_secure	02:e3:c7:09:40:87	-58
