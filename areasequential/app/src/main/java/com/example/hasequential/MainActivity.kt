@@ -31,7 +31,6 @@ import com.example.mylibrary.ExIndoorLocalization
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.math.round
 
-// html 수정
 private val WEB_ADDRESS_HANA = "file:///android_asset/HanaSquare_map_for_result.html"
 
 
@@ -89,7 +88,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         scanstarted = true
         wifiManager.startScan()
 
-        //map file 및 wifi file 넣어주기
         exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
                                                     resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
                                                     resources.openRawResource(R.raw.hanasquare_wifihashmap),
@@ -174,7 +172,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 //                                vibrator.vibrate(30)
 //                            }
 //                            }
-                        //
                         "완전 수렴" -> {
 //                            walkingPopup(false)
                             if (lastStep != result[3].toInt()) {
@@ -205,7 +202,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                                     }
                                 }
                                 string_pos_list += "]"
-                                // HTML에 wifi engine particle 표시
                                 wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
                             }
                         }
