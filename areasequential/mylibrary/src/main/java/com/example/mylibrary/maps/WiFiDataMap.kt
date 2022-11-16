@@ -2,7 +2,6 @@ package com.example.mylibrary.maps
 
 import java.io.InputStream
 
-//
 
 class WiFiDataMap {
     internal var pos = arrayListOf<Int>()
