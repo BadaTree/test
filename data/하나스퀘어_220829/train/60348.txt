@@ -1,0 +1,1116 @@
+0	60.0	348.0	eduroam	a4:9b:cd:3c:40:6f	-82
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+0	60.0	348.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+0	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+0	60.0	348.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+0	60.0	348.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	348.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+0	60.0	348.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+0	60.0	348.0	eduroam	a4:9b:cd:3e:02:2f	-79
+0	60.0	348.0	emart24_free	9c:8c:d8:5f:07:20	-88
+0	60.0	348.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+0	60.0	348.0	eduroam	a4:9b:cd:13:1d:a0	-72
+0	60.0	348.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+0	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+0	60.0	348.0	eduroam	a4:9b:cd:3c:c8:af	-73
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+0	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+0	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+0	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+0	60.0	348.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+0	60.0	348.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+0	60.0	348.0	fpl311	70:5d:cc:6c:31:66	-84
+0	60.0	348.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+0	60.0	348.0	ufs321	70:5d:cc:50:e8:a2	-93
+0	60.0	348.0	iptime	64:e5:99:ee:94:3a	-84
+0	60.0	348.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+0	60.0	348.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+0	60.0	348.0	eduroam	a4:9b:cd:3c:98:8f	-62
+0	60.0	348.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+0	60.0	348.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+0	60.0	348.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+0	60.0	348.0	OOML	90:9f:33:b2:8d:c6	-89
+0	60.0	348.0	eduroam	70:f0:96:25:c3:af	-86
+0	60.0	348.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+0	60.0	348.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	348.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+0	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+0	60.0	348.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	348.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+0	60.0	348.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+0	60.0	348.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+0	60.0	348.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+0	60.0	348.0	eduroam	a4:9b:cd:41:be:4f	-84
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+0	60.0	348.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+0	60.0	348.0	emart24_free	9c:8c:d8:5f:07:30	-83
+0	60.0	348.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	348.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+0	60.0	348.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+0	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+0	60.0	348.0	eduroam	a4:9b:cd:13:1d:af	-63
+0	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+0	60.0	348.0	KIM-310	70:5d:cc:2a:e7:22	-91
+0	60.0	348.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+0	60.0	348.0	eduroam	a4:9b:cd:41:be:40	-87
+0	60.0	348.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+1	60.0	348.0	eduroam	a4:9b:cd:3c:40:6f	-82
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+1	60.0	348.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+1	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+1	60.0	348.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+1	60.0	348.0	ksjeong	90:9f:33:8a:3f:aa	-90
+1	60.0	348.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+1	60.0	348.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+1	60.0	348.0	eduroam	a4:9b:cd:3e:02:2f	-79
+1	60.0	348.0	emart24_free	9c:8c:d8:5f:07:20	-88
+1	60.0	348.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+1	60.0	348.0	eduroam	a4:9b:cd:13:1d:a0	-72
+1	60.0	348.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+1	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+1	60.0	348.0	eduroam	a4:9b:cd:3c:c8:af	-73
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+1	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+1	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+1	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+1	60.0	348.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+1	60.0	348.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+1	60.0	348.0	fpl311	70:5d:cc:6c:31:66	-84
+1	60.0	348.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+1	60.0	348.0	ufs321	70:5d:cc:50:e8:a2	-93
+1	60.0	348.0	iptime	64:e5:99:ee:94:3a	-84
+1	60.0	348.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+1	60.0	348.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+1	60.0	348.0	eduroam	a4:9b:cd:3c:98:8f	-62
+1	60.0	348.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+1	60.0	348.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+1	60.0	348.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+1	60.0	348.0	OOML	90:9f:33:b2:8d:c6	-89
+1	60.0	348.0	eduroam	70:f0:96:25:c3:af	-86
+1	60.0	348.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+1	60.0	348.0	iptime_office	58:86:94:38:10:40	-86
+1	60.0	348.0	kucdc2017	88:36:6c:4d:61:c4	-65
+1	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+1	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+1	60.0	348.0	FU_5G	70:5d:cc:d1:8d:94	-91
+1	60.0	348.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+1	60.0	348.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+1	60.0	348.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+1	60.0	348.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+1	60.0	348.0	eduroam	a4:9b:cd:41:be:4f	-84
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+1	60.0	348.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+1	60.0	348.0	emart24_free	9c:8c:d8:5f:07:30	-83
+1	60.0	348.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+1	60.0	348.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+1	60.0	348.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+1	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+1	60.0	348.0	eduroam	a4:9b:cd:13:1d:af	-63
+1	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+1	60.0	348.0	KIM-310	70:5d:cc:2a:e7:22	-91
+1	60.0	348.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+1	60.0	348.0	eduroam	a4:9b:cd:41:be:40	-87
+1	60.0	348.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+2	60.0	348.0	eduroam	a4:9b:cd:3c:40:6f	-82
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+2	60.0	348.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+2	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+2	60.0	348.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+2	60.0	348.0	ksjeong	90:9f:33:8a:3f:aa	-90
+2	60.0	348.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+2	60.0	348.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+2	60.0	348.0	eduroam	a4:9b:cd:3e:02:2f	-79
+2	60.0	348.0	emart24_free	9c:8c:d8:5f:07:20	-88
+2	60.0	348.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+2	60.0	348.0	eduroam	a4:9b:cd:13:1d:a0	-72
+2	60.0	348.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+2	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+2	60.0	348.0	eduroam	a4:9b:cd:3c:c8:af	-73
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+2	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+2	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+2	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+2	60.0	348.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+2	60.0	348.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+2	60.0	348.0	fpl311	70:5d:cc:6c:31:66	-84
+2	60.0	348.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+2	60.0	348.0	ufs321	70:5d:cc:50:e8:a2	-93
+2	60.0	348.0	iptime	64:e5:99:ee:94:3a	-84
+2	60.0	348.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+2	60.0	348.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+2	60.0	348.0	eduroam	a4:9b:cd:3c:98:8f	-62
+2	60.0	348.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+2	60.0	348.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+2	60.0	348.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+2	60.0	348.0	OOML	90:9f:33:b2:8d:c6	-89
+2	60.0	348.0	eduroam	70:f0:96:25:c3:af	-86
+2	60.0	348.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+2	60.0	348.0	iptime_office	58:86:94:38:10:40	-86
+2	60.0	348.0	kucdc2017	88:36:6c:4d:61:c4	-65
+2	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+2	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+2	60.0	348.0	FU_5G	70:5d:cc:d1:8d:94	-91
+2	60.0	348.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+2	60.0	348.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+2	60.0	348.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+2	60.0	348.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+2	60.0	348.0	eduroam	a4:9b:cd:41:be:4f	-84
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+2	60.0	348.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+2	60.0	348.0	emart24_free	9c:8c:d8:5f:07:30	-83
+2	60.0	348.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+2	60.0	348.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+2	60.0	348.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+2	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+2	60.0	348.0	eduroam	a4:9b:cd:13:1d:af	-63
+2	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+2	60.0	348.0	KIM-310	70:5d:cc:2a:e7:22	-91
+2	60.0	348.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+2	60.0	348.0	eduroam	a4:9b:cd:41:be:40	-87
+2	60.0	348.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+3	60.0	348.0	eduroam	a4:9b:cd:3c:40:6f	-82
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+3	60.0	348.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+3	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+3	60.0	348.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+3	60.0	348.0	ksjeong	90:9f:33:8a:3f:aa	-90
+3	60.0	348.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+3	60.0	348.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+3	60.0	348.0	eduroam	a4:9b:cd:3e:02:2f	-79
+3	60.0	348.0	emart24_free	9c:8c:d8:5f:07:20	-88
+3	60.0	348.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+3	60.0	348.0	eduroam	a4:9b:cd:13:1d:a0	-72
+3	60.0	348.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+3	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+3	60.0	348.0	eduroam	a4:9b:cd:3c:c8:af	-73
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+3	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+3	60.0	348.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+3	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+3	60.0	348.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+3	60.0	348.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+3	60.0	348.0	fpl311	70:5d:cc:6c:31:66	-84
+3	60.0	348.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+3	60.0	348.0	ufs321	70:5d:cc:50:e8:a2	-93
+3	60.0	348.0	iptime	64:e5:99:ee:94:3a	-84
+3	60.0	348.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+3	60.0	348.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+3	60.0	348.0	eduroam	a4:9b:cd:3c:98:8f	-62
+3	60.0	348.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+3	60.0	348.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+3	60.0	348.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+3	60.0	348.0	OOML	90:9f:33:b2:8d:c6	-89
+3	60.0	348.0	eduroam	70:f0:96:25:c3:af	-86
+3	60.0	348.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+3	60.0	348.0	iptime_office	58:86:94:38:10:40	-86
+3	60.0	348.0	kucdc2017	88:36:6c:4d:61:c4	-65
+3	60.0	348.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+3	60.0	348.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+3	60.0	348.0	FU_5G	70:5d:cc:d1:8d:94	-91
+3	60.0	348.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+3	60.0	348.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+3	60.0	348.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+3	60.0	348.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+3	60.0	348.0	eduroam	a4:9b:cd:41:be:4f	-84
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+3	60.0	348.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+3	60.0	348.0	emart24_free	9c:8c:d8:5f:07:30	-83
+3	60.0	348.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+3	60.0	348.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+3	60.0	348.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+3	60.0	348.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+3	60.0	348.0	eduroam	a4:9b:cd:13:1d:af	-63
+3	60.0	348.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+3	60.0	348.0	KIM-310	70:5d:cc:2a:e7:22	-91
+3	60.0	348.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+3	60.0	348.0	eduroam	a4:9b:cd:41:be:40	-87
+3	60.0	348.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+0	60.0	354.0	eduroam	a4:9b:cd:3c:40:6f	-82
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+0	60.0	354.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+0	60.0	354.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+0	60.0	354.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+0	60.0	354.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	354.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+0	60.0	354.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+0	60.0	354.0	eduroam	a4:9b:cd:3e:02:2f	-79
+0	60.0	354.0	emart24_free	9c:8c:d8:5f:07:20	-88
+0	60.0	354.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+0	60.0	354.0	eduroam	a4:9b:cd:13:1d:a0	-72
+0	60.0	354.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+0	60.0	354.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+0	60.0	354.0	eduroam	a4:9b:cd:3c:c8:af	-73
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+0	60.0	354.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+0	60.0	354.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+0	60.0	354.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+0	60.0	354.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+0	60.0	354.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+0	60.0	354.0	fpl311	70:5d:cc:6c:31:66	-84
+0	60.0	354.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+0	60.0	354.0	ufs321	70:5d:cc:50:e8:a2	-93
+0	60.0	354.0	iptime	64:e5:99:ee:94:3a	-84
+0	60.0	354.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+0	60.0	354.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+0	60.0	354.0	eduroam	a4:9b:cd:3c:98:8f	-62
+0	60.0	354.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+0	60.0	354.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+0	60.0	354.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+0	60.0	354.0	OOML	90:9f:33:b2:8d:c6	-89
+0	60.0	354.0	eduroam	70:f0:96:25:c3:af	-86
+0	60.0	354.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+0	60.0	354.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	354.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	354.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+0	60.0	354.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+0	60.0	354.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	354.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+0	60.0	354.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+0	60.0	354.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+0	60.0	354.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+0	60.0	354.0	eduroam	a4:9b:cd:41:be:4f	-84
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+0	60.0	354.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+0	60.0	354.0	emart24_free	9c:8c:d8:5f:07:30	-83
+0	60.0	354.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	354.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+0	60.0	354.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+0	60.0	354.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+0	60.0	354.0	eduroam	a4:9b:cd:13:1d:af	-63
+0	60.0	354.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+0	60.0	354.0	KIM-310	70:5d:cc:2a:e7:22	-91
+0	60.0	354.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+0	60.0	354.0	eduroam	a4:9b:cd:41:be:40	-87
+0	60.0	354.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+1	60.0	354.0	eduroam	a4:9b:cd:3c:40:6f	-82
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+1	60.0	354.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+1	60.0	354.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+1	60.0	354.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+1	60.0	354.0	ksjeong	90:9f:33:8a:3f:aa	-90
+1	60.0	354.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+1	60.0	354.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+1	60.0	354.0	eduroam	a4:9b:cd:3e:02:2f	-79
+1	60.0	354.0	emart24_free	9c:8c:d8:5f:07:20	-88
+1	60.0	354.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+1	60.0	354.0	eduroam	a4:9b:cd:13:1d:a0	-72
+1	60.0	354.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+1	60.0	354.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+1	60.0	354.0	eduroam	a4:9b:cd:3c:c8:af	-73
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+1	60.0	354.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+1	60.0	354.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+1	60.0	354.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+1	60.0	354.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+1	60.0	354.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+1	60.0	354.0	fpl311	70:5d:cc:6c:31:66	-84
+1	60.0	354.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+1	60.0	354.0	ufs321	70:5d:cc:50:e8:a2	-93
+1	60.0	354.0	iptime	64:e5:99:ee:94:3a	-84
+1	60.0	354.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+1	60.0	354.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+1	60.0	354.0	eduroam	a4:9b:cd:3c:98:8f	-62
+1	60.0	354.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+1	60.0	354.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+1	60.0	354.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+1	60.0	354.0	OOML	90:9f:33:b2:8d:c6	-89
+1	60.0	354.0	eduroam	70:f0:96:25:c3:af	-86
+1	60.0	354.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+1	60.0	354.0	iptime_office	58:86:94:38:10:40	-86
+1	60.0	354.0	kucdc2017	88:36:6c:4d:61:c4	-65
+1	60.0	354.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+1	60.0	354.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+1	60.0	354.0	FU_5G	70:5d:cc:d1:8d:94	-91
+1	60.0	354.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+1	60.0	354.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+1	60.0	354.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+1	60.0	354.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+1	60.0	354.0	eduroam	a4:9b:cd:41:be:4f	-84
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+1	60.0	354.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+1	60.0	354.0	emart24_free	9c:8c:d8:5f:07:30	-83
+1	60.0	354.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+1	60.0	354.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+1	60.0	354.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+1	60.0	354.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+1	60.0	354.0	eduroam	a4:9b:cd:13:1d:af	-63
+1	60.0	354.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+1	60.0	354.0	KIM-310	70:5d:cc:2a:e7:22	-91
+1	60.0	354.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+1	60.0	354.0	eduroam	a4:9b:cd:41:be:40	-87
+1	60.0	354.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+0	60.0	360.0	eduroam	a4:9b:cd:3c:40:6f	-82
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+0	60.0	360.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+0	60.0	360.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+0	60.0	360.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+0	60.0	360.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	360.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+0	60.0	360.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+0	60.0	360.0	eduroam	a4:9b:cd:3e:02:2f	-79
+0	60.0	360.0	emart24_free	9c:8c:d8:5f:07:20	-88
+0	60.0	360.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+0	60.0	360.0	eduroam	a4:9b:cd:13:1d:a0	-72
+0	60.0	360.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+0	60.0	360.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+0	60.0	360.0	eduroam	a4:9b:cd:3c:c8:af	-73
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+0	60.0	360.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+0	60.0	360.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+0	60.0	360.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+0	60.0	360.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+0	60.0	360.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+0	60.0	360.0	fpl311	70:5d:cc:6c:31:66	-84
+0	60.0	360.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+0	60.0	360.0	ufs321	70:5d:cc:50:e8:a2	-93
+0	60.0	360.0	iptime	64:e5:99:ee:94:3a	-84
+0	60.0	360.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+0	60.0	360.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+0	60.0	360.0	eduroam	a4:9b:cd:3c:98:8f	-62
+0	60.0	360.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+0	60.0	360.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+0	60.0	360.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+0	60.0	360.0	OOML	90:9f:33:b2:8d:c6	-89
+0	60.0	360.0	eduroam	70:f0:96:25:c3:af	-86
+0	60.0	360.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+0	60.0	360.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	360.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	360.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+0	60.0	360.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+0	60.0	360.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	360.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+0	60.0	360.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+0	60.0	360.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+0	60.0	360.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+0	60.0	360.0	eduroam	a4:9b:cd:41:be:4f	-84
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+0	60.0	360.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+0	60.0	360.0	emart24_free	9c:8c:d8:5f:07:30	-83
+0	60.0	360.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	360.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+0	60.0	360.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+0	60.0	360.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+0	60.0	360.0	eduroam	a4:9b:cd:13:1d:af	-63
+0	60.0	360.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+0	60.0	360.0	KIM-310	70:5d:cc:2a:e7:22	-91
+0	60.0	360.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+0	60.0	360.0	eduroam	a4:9b:cd:41:be:40	-87
+0	60.0	360.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+0	60.0	366.0	eduroam	a4:9b:cd:3c:40:6f	-82
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+0	60.0	366.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+0	60.0	366.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+0	60.0	366.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+0	60.0	366.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	366.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+0	60.0	366.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+0	60.0	366.0	eduroam	a4:9b:cd:3e:02:2f	-79
+0	60.0	366.0	emart24_free	9c:8c:d8:5f:07:20	-88
+0	60.0	366.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+0	60.0	366.0	eduroam	a4:9b:cd:13:1d:a0	-72
+0	60.0	366.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+0	60.0	366.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+0	60.0	366.0	eduroam	a4:9b:cd:3c:c8:af	-73
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+0	60.0	366.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+0	60.0	366.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+0	60.0	366.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+0	60.0	366.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+0	60.0	366.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+0	60.0	366.0	fpl311	70:5d:cc:6c:31:66	-84
+0	60.0	366.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+0	60.0	366.0	ufs321	70:5d:cc:50:e8:a2	-93
+0	60.0	366.0	iptime	64:e5:99:ee:94:3a	-84
+0	60.0	366.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+0	60.0	366.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+0	60.0	366.0	eduroam	a4:9b:cd:3c:98:8f	-62
+0	60.0	366.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+0	60.0	366.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+0	60.0	366.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+0	60.0	366.0	OOML	90:9f:33:b2:8d:c6	-89
+0	60.0	366.0	eduroam	70:f0:96:25:c3:af	-86
+0	60.0	366.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+0	60.0	366.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	366.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	366.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+0	60.0	366.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+0	60.0	366.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	366.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+0	60.0	366.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+0	60.0	366.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+0	60.0	366.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+0	60.0	366.0	eduroam	a4:9b:cd:41:be:4f	-84
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+0	60.0	366.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+0	60.0	366.0	emart24_free	9c:8c:d8:5f:07:30	-83
+0	60.0	366.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	366.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+0	60.0	366.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+0	60.0	366.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+0	60.0	366.0	eduroam	a4:9b:cd:13:1d:af	-63
+0	60.0	366.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+0	60.0	366.0	KIM-310	70:5d:cc:2a:e7:22	-91
+0	60.0	366.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+0	60.0	366.0	eduroam	a4:9b:cd:41:be:40	-87
+0	60.0	366.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+1	60.0	372.0	eduroam	a4:9b:cd:3c:40:6f	-82
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+1	60.0	372.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+1	60.0	372.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+1	60.0	372.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+1	60.0	372.0	ksjeong	90:9f:33:8a:3f:aa	-90
+1	60.0	372.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+1	60.0	372.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+1	60.0	372.0	eduroam	a4:9b:cd:3e:02:2f	-79
+1	60.0	372.0	emart24_free	9c:8c:d8:5f:07:20	-88
+1	60.0	372.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+1	60.0	372.0	eduroam	a4:9b:cd:13:1d:a0	-72
+1	60.0	372.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+1	60.0	372.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+1	60.0	372.0	eduroam	a4:9b:cd:3c:c8:af	-73
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+1	60.0	372.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+1	60.0	372.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+1	60.0	372.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+1	60.0	372.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+1	60.0	372.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+1	60.0	372.0	fpl311	70:5d:cc:6c:31:66	-84
+1	60.0	372.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+1	60.0	372.0	ufs321	70:5d:cc:50:e8:a2	-93
+1	60.0	372.0	iptime	64:e5:99:ee:94:3a	-84
+1	60.0	372.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+1	60.0	372.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+1	60.0	372.0	eduroam	a4:9b:cd:3c:98:8f	-62
+1	60.0	372.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+1	60.0	372.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+1	60.0	372.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+1	60.0	372.0	OOML	90:9f:33:b2:8d:c6	-89
+1	60.0	372.0	eduroam	70:f0:96:25:c3:af	-86
+1	60.0	372.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+1	60.0	372.0	iptime_office	58:86:94:38:10:40	-86
+1	60.0	372.0	kucdc2017	88:36:6c:4d:61:c4	-65
+1	60.0	372.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+1	60.0	372.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+1	60.0	372.0	FU_5G	70:5d:cc:d1:8d:94	-91
+1	60.0	372.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+1	60.0	372.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+1	60.0	372.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+1	60.0	372.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+1	60.0	372.0	eduroam	a4:9b:cd:41:be:4f	-84
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+1	60.0	372.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+1	60.0	372.0	emart24_free	9c:8c:d8:5f:07:30	-83
+1	60.0	372.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+1	60.0	372.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+1	60.0	372.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+1	60.0	372.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+1	60.0	372.0	eduroam	a4:9b:cd:13:1d:af	-63
+1	60.0	372.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+1	60.0	372.0	KIM-310	70:5d:cc:2a:e7:22	-91
+1	60.0	372.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+1	60.0	372.0	eduroam	a4:9b:cd:41:be:40	-87
+1	60.0	372.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+0	60.0	372.0	eduroam	a4:9b:cd:3c:40:6f	-82
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-82
+0	60.0	372.0	SVOLTLAB1_2.4G	5a:86:94:49:e3:60	-83
+0	60.0	372.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-71
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-71
+0	60.0	372.0	eduroam	a4:9b:cd:3c:c8:a0	-71
+0	60.0	372.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	372.0	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-87
+0	60.0	372.0	stemlab_admin	88:36:6c:e4:9a:7e	-87
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-78
+0	60.0	372.0	eduroam	a4:9b:cd:3e:02:2f	-79
+0	60.0	372.0	emart24_free	9c:8c:d8:5f:07:20	-88
+0	60.0	372.0	KUInfo AP	a4:9b:cd:3e:02:2d	-78
+0	60.0	372.0	eduroam	a4:9b:cd:13:1d:a0	-72
+0	60.0	372.0	Wonshik's office	6c:70:9f:e6:9d:b4	-87
+0	60.0	372.0	KUInfo AP	a4:9b:cd:13:1d:a2	-72
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-72
+0	60.0	372.0	eduroam	a4:9b:cd:3c:c8:af	-73
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-73
+0	60.0	372.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-65
+0	60.0	372.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-72
+0	60.0	372.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-85
+0	60.0	372.0	[air purifier] Samsung	28:6d:97:87:20:e1	-75
+0	60.0	372.0	KoreaUniv AP	00:0c:db:81:55:c6	-84
+0	60.0	372.0	fpl311	70:5d:cc:6c:31:66	-84
+0	60.0	372.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-88
+0	60.0	372.0	ufs321	70:5d:cc:50:e8:a2	-93
+0	60.0	372.0	iptime	64:e5:99:ee:94:3a	-84
+0	60.0	372.0	DIRECT-96-HP M282 LaserJet	8e:c8:4b:d7:99:96	-85
+0	60.0	372.0	KUInfo AP	a4:9b:cd:3c:98:8d	-62
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-61
+0	60.0	372.0	eduroam	a4:9b:cd:3c:98:8f	-62
+0	60.0	372.0	KoreaUniv AP	70:f0:96:25:c3:ae	-87
+0	60.0	372.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-88
+0	60.0	372.0	KUInfo AP	70:f0:96:25:c3:ad	-86
+0	60.0	372.0	OOML	90:9f:33:b2:8d:c6	-89
+0	60.0	372.0	eduroam	70:f0:96:25:c3:af	-86
+0	60.0	372.0	UNISTORE2	70:5d:cc:5e:12:4a	-76
+0	60.0	372.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	372.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	372.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-61
+0	60.0	372.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-61
+0	60.0	372.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	372.0	UNISTORE5	70:5d:cc:5e:12:48	-82
+0	60.0	372.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-84
+0	60.0	372.0	U+NetAE43	00:08:5b:5c:ae:41	-94
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-84
+0	60.0	372.0	eduroam	a4:9b:cd:3c:5e:2f	-84
+0	60.0	372.0	eduroam	a4:9b:cd:41:be:4f	-84
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-84
+0	60.0	372.0	KUInfo AP	a4:9b:cd:41:be:4d	-83
+0	60.0	372.0	emart24_free	9c:8c:d8:5f:07:30	-83
+0	60.0	372.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	372.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-84
+0	60.0	372.0	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-92
+0	60.0	372.0	KUInfo AP	a4:9b:cd:13:1d:ad	-64
+0	60.0	372.0	eduroam	a4:9b:cd:13:1d:af	-63
+0	60.0	372.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-64
+0	60.0	372.0	KIM-310	70:5d:cc:2a:e7:22	-91
+0	60.0	372.0	iptime_mnc	70:5d:cc:cb:8c:00	-87
+0	60.0	372.0	eduroam	a4:9b:cd:41:be:40	-87
+0	60.0	372.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-88
+0	60.0	378.0	eduroam	a4:9b:cd:3c:40:6f	-85
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+0	60.0	378.0	eieedu	88:36:6c:42:88:7c	-90
+0	60.0	378.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+0	60.0	378.0	eduroam	a4:9b:cd:41:b1:4f	-87
+0	60.0	378.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+0	60.0	378.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+0	60.0	378.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+0	60.0	378.0	sandpresso	90:9f:33:80:28:90	-90
+0	60.0	378.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	378.0	emart24pos	9c:8c:d8:5f:07:21	-77
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+0	60.0	378.0	eduroam	a4:9b:cd:3e:02:2f	-86
+0	60.0	378.0	emart24_free	9c:8c:d8:5f:07:20	-86
+0	60.0	378.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+0	60.0	378.0	eduroam	a4:9b:cd:3c:c8:af	-68
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+0	60.0	378.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+0	60.0	378.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+0	60.0	378.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+0	60.0	378.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+0	60.0	378.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+0	60.0	378.0	kbt	68:ff:7b:1d:56:29	-82
+0	60.0	378.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+0	60.0	378.0	401	00:26:66:5e:fc:0c	-88
+0	60.0	378.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+0	60.0	378.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+0	60.0	378.0	ufs321	70:5d:cc:50:e8:a2	-94
+0	60.0	378.0	iptime	64:e5:99:ee:94:3a	-86
+0	60.0	378.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+0	60.0	378.0	eduroam	a4:9b:cd:3c:98:8f	-64
+0	60.0	378.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+0	60.0	378.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+0	60.0	378.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+0	60.0	378.0	eduroam	70:f0:96:25:c3:af	-87
+0	60.0	378.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+0	60.0	378.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	378.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	378.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+0	60.0	378.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+0	60.0	378.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	378.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+0	60.0	378.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+0	60.0	378.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+0	60.0	378.0	eduroam	a4:9b:cd:41:be:4f	-86
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+0	60.0	378.0	eduroam	a4:9b:cd:17:28:0f	-91
+0	60.0	378.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+0	60.0	378.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+0	60.0	378.0	mise253	70:5d:cc:a3:0d:02	-93
+0	60.0	378.0	emart24_free	9c:8c:d8:5f:07:30	-82
+0	60.0	378.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	378.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+0	60.0	378.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+0	60.0	378.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+0	60.0	378.0	eduroam	a4:9b:cd:13:1d:af	-68
+0	60.0	378.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+0	60.0	378.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+0	60.0	384.0	eduroam	a4:9b:cd:3c:40:6f	-85
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+0	60.0	384.0	eieedu	88:36:6c:42:88:7c	-90
+0	60.0	384.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+0	60.0	384.0	eduroam	a4:9b:cd:41:b1:4f	-87
+0	60.0	384.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+0	60.0	384.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+0	60.0	384.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+0	60.0	384.0	sandpresso	90:9f:33:80:28:90	-90
+0	60.0	384.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	384.0	emart24pos	9c:8c:d8:5f:07:21	-77
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+0	60.0	384.0	eduroam	a4:9b:cd:3e:02:2f	-86
+0	60.0	384.0	emart24_free	9c:8c:d8:5f:07:20	-86
+0	60.0	384.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+0	60.0	384.0	eduroam	a4:9b:cd:3c:c8:af	-68
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+0	60.0	384.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+0	60.0	384.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+0	60.0	384.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+0	60.0	384.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+0	60.0	384.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+0	60.0	384.0	kbt	68:ff:7b:1d:56:29	-82
+0	60.0	384.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+0	60.0	384.0	401	00:26:66:5e:fc:0c	-88
+0	60.0	384.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+0	60.0	384.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+0	60.0	384.0	ufs321	70:5d:cc:50:e8:a2	-94
+0	60.0	384.0	iptime	64:e5:99:ee:94:3a	-86
+0	60.0	384.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+0	60.0	384.0	eduroam	a4:9b:cd:3c:98:8f	-64
+0	60.0	384.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+0	60.0	384.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+0	60.0	384.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+0	60.0	384.0	eduroam	70:f0:96:25:c3:af	-87
+0	60.0	384.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+0	60.0	384.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	384.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	384.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+0	60.0	384.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+0	60.0	384.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	384.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+0	60.0	384.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+0	60.0	384.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+0	60.0	384.0	eduroam	a4:9b:cd:41:be:4f	-86
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+0	60.0	384.0	eduroam	a4:9b:cd:17:28:0f	-91
+0	60.0	384.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+0	60.0	384.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+0	60.0	384.0	mise253	70:5d:cc:a3:0d:02	-93
+0	60.0	384.0	emart24_free	9c:8c:d8:5f:07:30	-82
+0	60.0	384.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	384.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+0	60.0	384.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+0	60.0	384.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+0	60.0	384.0	eduroam	a4:9b:cd:13:1d:af	-68
+0	60.0	384.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+0	60.0	384.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+1	60.0	384.0	eduroam	a4:9b:cd:3c:40:6f	-85
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+1	60.0	384.0	eieedu	88:36:6c:42:88:7c	-90
+1	60.0	384.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+1	60.0	384.0	eduroam	a4:9b:cd:41:b1:4f	-87
+1	60.0	384.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+1	60.0	384.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+1	60.0	384.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+1	60.0	384.0	sandpresso	90:9f:33:80:28:90	-90
+1	60.0	384.0	ksjeong	90:9f:33:8a:3f:aa	-90
+1	60.0	384.0	emart24pos	9c:8c:d8:5f:07:21	-77
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+1	60.0	384.0	eduroam	a4:9b:cd:3e:02:2f	-86
+1	60.0	384.0	emart24_free	9c:8c:d8:5f:07:20	-86
+1	60.0	384.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+1	60.0	384.0	eduroam	a4:9b:cd:3c:c8:af	-68
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+1	60.0	384.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+1	60.0	384.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+1	60.0	384.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+1	60.0	384.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+1	60.0	384.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+1	60.0	384.0	kbt	68:ff:7b:1d:56:29	-82
+1	60.0	384.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+1	60.0	384.0	401	00:26:66:5e:fc:0c	-88
+1	60.0	384.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+1	60.0	384.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+1	60.0	384.0	ufs321	70:5d:cc:50:e8:a2	-94
+1	60.0	384.0	iptime	64:e5:99:ee:94:3a	-86
+1	60.0	384.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+1	60.0	384.0	eduroam	a4:9b:cd:3c:98:8f	-64
+1	60.0	384.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+1	60.0	384.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+1	60.0	384.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+1	60.0	384.0	eduroam	70:f0:96:25:c3:af	-87
+1	60.0	384.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+1	60.0	384.0	iptime_office	58:86:94:38:10:40	-86
+1	60.0	384.0	kucdc2017	88:36:6c:4d:61:c4	-65
+1	60.0	384.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+1	60.0	384.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+1	60.0	384.0	FU_5G	70:5d:cc:d1:8d:94	-91
+1	60.0	384.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+1	60.0	384.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+1	60.0	384.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+1	60.0	384.0	eduroam	a4:9b:cd:41:be:4f	-86
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+1	60.0	384.0	eduroam	a4:9b:cd:17:28:0f	-91
+1	60.0	384.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+1	60.0	384.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+1	60.0	384.0	mise253	70:5d:cc:a3:0d:02	-93
+1	60.0	384.0	emart24_free	9c:8c:d8:5f:07:30	-82
+1	60.0	384.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+1	60.0	384.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+1	60.0	384.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+1	60.0	384.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+1	60.0	384.0	eduroam	a4:9b:cd:13:1d:af	-68
+1	60.0	384.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+1	60.0	384.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+0	60.0	390.0	eduroam	a4:9b:cd:3c:40:6f	-85
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+0	60.0	390.0	eieedu	88:36:6c:42:88:7c	-90
+0	60.0	390.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+0	60.0	390.0	eduroam	a4:9b:cd:41:b1:4f	-87
+0	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+0	60.0	390.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+0	60.0	390.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+0	60.0	390.0	sandpresso	90:9f:33:80:28:90	-90
+0	60.0	390.0	ksjeong	90:9f:33:8a:3f:aa	-90
+0	60.0	390.0	emart24pos	9c:8c:d8:5f:07:21	-77
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+0	60.0	390.0	eduroam	a4:9b:cd:3e:02:2f	-86
+0	60.0	390.0	emart24_free	9c:8c:d8:5f:07:20	-86
+0	60.0	390.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+0	60.0	390.0	eduroam	a4:9b:cd:3c:c8:af	-68
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+0	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+0	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+0	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+0	60.0	390.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+0	60.0	390.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+0	60.0	390.0	kbt	68:ff:7b:1d:56:29	-82
+0	60.0	390.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+0	60.0	390.0	401	00:26:66:5e:fc:0c	-88
+0	60.0	390.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+0	60.0	390.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+0	60.0	390.0	ufs321	70:5d:cc:50:e8:a2	-94
+0	60.0	390.0	iptime	64:e5:99:ee:94:3a	-86
+0	60.0	390.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+0	60.0	390.0	eduroam	a4:9b:cd:3c:98:8f	-64
+0	60.0	390.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+0	60.0	390.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+0	60.0	390.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+0	60.0	390.0	eduroam	70:f0:96:25:c3:af	-87
+0	60.0	390.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+0	60.0	390.0	iptime_office	58:86:94:38:10:40	-86
+0	60.0	390.0	kucdc2017	88:36:6c:4d:61:c4	-65
+0	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+0	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+0	60.0	390.0	FU_5G	70:5d:cc:d1:8d:94	-91
+0	60.0	390.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+0	60.0	390.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+0	60.0	390.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+0	60.0	390.0	eduroam	a4:9b:cd:41:be:4f	-86
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+0	60.0	390.0	eduroam	a4:9b:cd:17:28:0f	-91
+0	60.0	390.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+0	60.0	390.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+0	60.0	390.0	mise253	70:5d:cc:a3:0d:02	-93
+0	60.0	390.0	emart24_free	9c:8c:d8:5f:07:30	-82
+0	60.0	390.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+0	60.0	390.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+0	60.0	390.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+0	60.0	390.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+0	60.0	390.0	eduroam	a4:9b:cd:13:1d:af	-68
+0	60.0	390.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+0	60.0	390.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+1	60.0	390.0	eduroam	a4:9b:cd:3c:40:6f	-85
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+1	60.0	390.0	eieedu	88:36:6c:42:88:7c	-90
+1	60.0	390.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+1	60.0	390.0	eduroam	a4:9b:cd:41:b1:4f	-87
+1	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+1	60.0	390.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+1	60.0	390.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+1	60.0	390.0	sandpresso	90:9f:33:80:28:90	-90
+1	60.0	390.0	ksjeong	90:9f:33:8a:3f:aa	-90
+1	60.0	390.0	emart24pos	9c:8c:d8:5f:07:21	-77
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+1	60.0	390.0	eduroam	a4:9b:cd:3e:02:2f	-86
+1	60.0	390.0	emart24_free	9c:8c:d8:5f:07:20	-86
+1	60.0	390.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+1	60.0	390.0	eduroam	a4:9b:cd:3c:c8:af	-68
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+1	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+1	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+1	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+1	60.0	390.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+1	60.0	390.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+1	60.0	390.0	kbt	68:ff:7b:1d:56:29	-82
+1	60.0	390.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+1	60.0	390.0	401	00:26:66:5e:fc:0c	-88
+1	60.0	390.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+1	60.0	390.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+1	60.0	390.0	ufs321	70:5d:cc:50:e8:a2	-94
+1	60.0	390.0	iptime	64:e5:99:ee:94:3a	-86
+1	60.0	390.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+1	60.0	390.0	eduroam	a4:9b:cd:3c:98:8f	-64
+1	60.0	390.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+1	60.0	390.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+1	60.0	390.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+1	60.0	390.0	eduroam	70:f0:96:25:c3:af	-87
+1	60.0	390.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+1	60.0	390.0	iptime_office	58:86:94:38:10:40	-86
+1	60.0	390.0	kucdc2017	88:36:6c:4d:61:c4	-65
+1	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+1	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+1	60.0	390.0	FU_5G	70:5d:cc:d1:8d:94	-91
+1	60.0	390.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+1	60.0	390.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+1	60.0	390.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+1	60.0	390.0	eduroam	a4:9b:cd:41:be:4f	-86
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+1	60.0	390.0	eduroam	a4:9b:cd:17:28:0f	-91
+1	60.0	390.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+1	60.0	390.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+1	60.0	390.0	mise253	70:5d:cc:a3:0d:02	-93
+1	60.0	390.0	emart24_free	9c:8c:d8:5f:07:30	-82
+1	60.0	390.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+1	60.0	390.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+1	60.0	390.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+1	60.0	390.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+1	60.0	390.0	eduroam	a4:9b:cd:13:1d:af	-68
+1	60.0	390.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+1	60.0	390.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+2	60.0	390.0	eduroam	a4:9b:cd:3c:40:6f	-85
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+2	60.0	390.0	eieedu	88:36:6c:42:88:7c	-90
+2	60.0	390.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+2	60.0	390.0	eduroam	a4:9b:cd:41:b1:4f	-87
+2	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+2	60.0	390.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+2	60.0	390.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+2	60.0	390.0	sandpresso	90:9f:33:80:28:90	-90
+2	60.0	390.0	ksjeong	90:9f:33:8a:3f:aa	-90
+2	60.0	390.0	emart24pos	9c:8c:d8:5f:07:21	-77
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+2	60.0	390.0	eduroam	a4:9b:cd:3e:02:2f	-86
+2	60.0	390.0	emart24_free	9c:8c:d8:5f:07:20	-86
+2	60.0	390.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+2	60.0	390.0	eduroam	a4:9b:cd:3c:c8:af	-68
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+2	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+2	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+2	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+2	60.0	390.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+2	60.0	390.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+2	60.0	390.0	kbt	68:ff:7b:1d:56:29	-82
+2	60.0	390.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+2	60.0	390.0	401	00:26:66:5e:fc:0c	-88
+2	60.0	390.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+2	60.0	390.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+2	60.0	390.0	ufs321	70:5d:cc:50:e8:a2	-94
+2	60.0	390.0	iptime	64:e5:99:ee:94:3a	-86
+2	60.0	390.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+2	60.0	390.0	eduroam	a4:9b:cd:3c:98:8f	-64
+2	60.0	390.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+2	60.0	390.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+2	60.0	390.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+2	60.0	390.0	eduroam	70:f0:96:25:c3:af	-87
+2	60.0	390.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+2	60.0	390.0	iptime_office	58:86:94:38:10:40	-86
+2	60.0	390.0	kucdc2017	88:36:6c:4d:61:c4	-65
+2	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+2	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+2	60.0	390.0	FU_5G	70:5d:cc:d1:8d:94	-91
+2	60.0	390.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+2	60.0	390.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+2	60.0	390.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+2	60.0	390.0	eduroam	a4:9b:cd:41:be:4f	-86
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+2	60.0	390.0	eduroam	a4:9b:cd:17:28:0f	-91
+2	60.0	390.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+2	60.0	390.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+2	60.0	390.0	mise253	70:5d:cc:a3:0d:02	-93
+2	60.0	390.0	emart24_free	9c:8c:d8:5f:07:30	-82
+2	60.0	390.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+2	60.0	390.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+2	60.0	390.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+2	60.0	390.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+2	60.0	390.0	eduroam	a4:9b:cd:13:1d:af	-68
+2	60.0	390.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+2	60.0	390.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+3	60.0	390.0	eduroam	a4:9b:cd:3c:40:6f	-85
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+3	60.0	390.0	eieedu	88:36:6c:42:88:7c	-90
+3	60.0	390.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+3	60.0	390.0	eduroam	a4:9b:cd:41:b1:4f	-87
+3	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+3	60.0	390.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+3	60.0	390.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+3	60.0	390.0	sandpresso	90:9f:33:80:28:90	-90
+3	60.0	390.0	ksjeong	90:9f:33:8a:3f:aa	-90
+3	60.0	390.0	emart24pos	9c:8c:d8:5f:07:21	-77
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+3	60.0	390.0	eduroam	a4:9b:cd:3e:02:2f	-86
+3	60.0	390.0	emart24_free	9c:8c:d8:5f:07:20	-86
+3	60.0	390.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+3	60.0	390.0	eduroam	a4:9b:cd:3c:c8:af	-68
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+3	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+3	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+3	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+3	60.0	390.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+3	60.0	390.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+3	60.0	390.0	kbt	68:ff:7b:1d:56:29	-82
+3	60.0	390.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+3	60.0	390.0	401	00:26:66:5e:fc:0c	-88
+3	60.0	390.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+3	60.0	390.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+3	60.0	390.0	ufs321	70:5d:cc:50:e8:a2	-94
+3	60.0	390.0	iptime	64:e5:99:ee:94:3a	-86
+3	60.0	390.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+3	60.0	390.0	eduroam	a4:9b:cd:3c:98:8f	-64
+3	60.0	390.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+3	60.0	390.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+3	60.0	390.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+3	60.0	390.0	eduroam	70:f0:96:25:c3:af	-87
+3	60.0	390.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+3	60.0	390.0	iptime_office	58:86:94:38:10:40	-86
+3	60.0	390.0	kucdc2017	88:36:6c:4d:61:c4	-65
+3	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+3	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+3	60.0	390.0	FU_5G	70:5d:cc:d1:8d:94	-91
+3	60.0	390.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+3	60.0	390.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+3	60.0	390.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+3	60.0	390.0	eduroam	a4:9b:cd:41:be:4f	-86
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+3	60.0	390.0	eduroam	a4:9b:cd:17:28:0f	-91
+3	60.0	390.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+3	60.0	390.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+3	60.0	390.0	mise253	70:5d:cc:a3:0d:02	-93
+3	60.0	390.0	emart24_free	9c:8c:d8:5f:07:30	-82
+3	60.0	390.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+3	60.0	390.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+3	60.0	390.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+3	60.0	390.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+3	60.0	390.0	eduroam	a4:9b:cd:13:1d:af	-68
+3	60.0	390.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+3	60.0	390.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89
+4	60.0	390.0	eduroam	a4:9b:cd:3c:40:6f	-85
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:40:6e	-85
+4	60.0	390.0	eieedu	88:36:6c:42:88:7c	-90
+4	60.0	390.0	KUInfo AP	a4:9b:cd:41:b1:4d	-89
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-87
+4	60.0	390.0	eduroam	a4:9b:cd:41:b1:4f	-87
+4	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:a2	-72
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:a1	-74
+4	60.0	390.0	eduroam	a4:9b:cd:3c:c8:a0	-73
+4	60.0	390.0	UNI_PRINT	90:9f:33:fc:4d:22	-87
+4	60.0	390.0	sandpresso	90:9f:33:80:28:90	-90
+4	60.0	390.0	ksjeong	90:9f:33:8a:3f:aa	-90
+4	60.0	390.0	emart24pos	9c:8c:d8:5f:07:21	-77
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-85
+4	60.0	390.0	eduroam	a4:9b:cd:3e:02:2f	-86
+4	60.0	390.0	emart24_free	9c:8c:d8:5f:07:20	-86
+4	60.0	390.0	KUInfo AP	a4:9b:cd:3e:02:2d	-86
+4	60.0	390.0	eduroam	a4:9b:cd:3c:c8:af	-68
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-68
+4	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:68	-64
+4	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:68	-65
+4	60.0	390.0	KUInfo AP	a4:9b:cd:3c:c8:ad	-68
+4	60.0	390.0	[air purifier] Samsung	28:6d:97:87:20:e1	-72
+4	60.0	390.0	KoreaUniv AP	00:0c:db:81:55:c6	-75
+4	60.0	390.0	kbt	68:ff:7b:1d:56:29	-82
+4	60.0	390.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-96
+4	60.0	390.0	401	00:26:66:5e:fc:0c	-88
+4	60.0	390.0	Apple Network df16d3	1c:36:bb:05:5b:4a	-82
+4	60.0	390.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-92
+4	60.0	390.0	ufs321	70:5d:cc:50:e8:a2	-94
+4	60.0	390.0	iptime	64:e5:99:ee:94:3a	-86
+4	60.0	390.0	KUInfo AP	a4:9b:cd:3c:98:8d	-64
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-58
+4	60.0	390.0	eduroam	a4:9b:cd:3c:98:8f	-64
+4	60.0	390.0	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-85
+4	60.0	390.0	KoreaUniv AP	70:f0:96:25:c3:ae	-86
+4	60.0	390.0	KUInfo AP	70:f0:96:25:c3:ad	-88
+4	60.0	390.0	eduroam	70:f0:96:25:c3:af	-87
+4	60.0	390.0	UNISTORE2	70:5d:cc:5e:12:4a	-74
+4	60.0	390.0	iptime_office	58:86:94:38:10:40	-86
+4	60.0	390.0	kucdc2017	88:36:6c:4d:61:c4	-65
+4	60.0	390.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-60
+4	60.0	390.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-60
+4	60.0	390.0	FU_5G	70:5d:cc:d1:8d:94	-91
+4	60.0	390.0	UNISTORE5	70:5d:cc:5e:12:48	-80
+4	60.0	390.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-88
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-88
+4	60.0	390.0	eduroam	a4:9b:cd:3c:5e:2f	-90
+4	60.0	390.0	eduroam	a4:9b:cd:41:be:4f	-86
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-86
+4	60.0	390.0	eduroam	a4:9b:cd:17:28:0f	-91
+4	60.0	390.0	KUInfo AP	a4:9b:cd:41:be:4d	-86
+4	60.0	390.0	KUInfo AP	a4:9b:cd:17:28:0d	-91
+4	60.0	390.0	mise253	70:5d:cc:a3:0d:02	-93
+4	60.0	390.0	emart24_free	9c:8c:d8:5f:07:30	-82
+4	60.0	390.0	RINSSeminaRoom	70:5d:cc:e4:a9:9a	-85
+4	60.0	390.0	Kouno_GIGA_2.4	72:5d:cc:c0:7f:1c	-89
+4	60.0	390.0	stemlab_2.4	88:36:6c:54:61:a2	-85
+4	60.0	390.0	KUInfo AP	a4:9b:cd:13:1d:ad	-67
+4	60.0	390.0	eduroam	a4:9b:cd:13:1d:af	-68
+4	60.0	390.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-68
+4	60.0	390.0	DIRECT-f6-HP M377 LaserJet	0e:96:e6:61:ee:f6	-89

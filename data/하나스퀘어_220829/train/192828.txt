@@ -1,0 +1,1440 @@
+0	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	828.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	828.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	828.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	828.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	828.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	828.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	828.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	828.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	828.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	828.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	828.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	828.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	828.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	828.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	828.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	828.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	828.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	828.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	828.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	828.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	828.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	828.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	828.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	828.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	828.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	828.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	828.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	828.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	828.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	828.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	828.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	828.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	828.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	828.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	828.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	828.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	828.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	828.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	828.0	eduroam	a4:9b:cd:41:be:40	-74
+1	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+1	192.0	828.0	eduroam	a4:9b:cd:41:b1:4f	-82
+1	192.0	828.0	sandpresso	90:9f:33:80:28:90	-71
+1	192.0	828.0	emart24pos	9c:8c:d8:5f:07:21	-90
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+1	192.0	828.0	eduroam	a4:9b:cd:3e:02:2f	-71
+1	192.0	828.0	emart24_free	9c:8c:d8:5f:07:20	-91
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+1	192.0	828.0	iptime	70:5d:cc:d8:1f:be	-82
+1	192.0	828.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+1	192.0	828.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+1	192.0	828.0	eduroam	70:f0:96:25:3f:af	-87
+1	192.0	828.0	eduroam	a4:9b:cd:41:b1:40	-83
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+1	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+1	192.0	828.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+1	192.0	828.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+1	192.0	828.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+1	192.0	828.0	eduroam	a4:9b:cd:3c:5e:20	-65
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+1	192.0	828.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+1	192.0	828.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+1	192.0	828.0	iptime	64:e5:99:ee:94:3a	-69
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+1	192.0	828.0	eduroam	a4:9b:cd:3c:98:8f	-80
+1	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+1	192.0	828.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+1	192.0	828.0	eduroam	70:f0:96:25:c3:af	-58
+1	192.0	828.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+1	192.0	828.0	eduroam	a4:9b:cd:41:c3:6f	-89
+1	192.0	828.0	kucdc2017	88:36:6c:4d:61:c4	-94
+1	192.0	828.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+1	192.0	828.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+1	192.0	828.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+1	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+1	192.0	828.0	eduroam	a4:9b:cd:41:be:4f	-73
+1	192.0	828.0	eduroam	70:f0:96:25:c3:a0	-72
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+1	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+1	192.0	828.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+1	192.0	828.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+1	192.0	828.0	eduroam	38:0e:4d:c3:5d:0f	-87
+1	192.0	828.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+1	192.0	828.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+1	192.0	828.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+1	192.0	828.0	eduroam	a4:9b:cd:13:1d:af	-75
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+1	192.0	828.0	eduroam	a4:9b:cd:41:f5:8f	-77
+1	192.0	828.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+1	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+1	192.0	828.0	eduroam	a4:9b:cd:3e:02:20	-78
+1	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+1	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+1	192.0	828.0	eduroam	a4:9b:cd:41:be:40	-74
+2	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+2	192.0	828.0	eduroam	a4:9b:cd:41:b1:4f	-82
+2	192.0	828.0	sandpresso	90:9f:33:80:28:90	-71
+2	192.0	828.0	emart24pos	9c:8c:d8:5f:07:21	-90
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+2	192.0	828.0	eduroam	a4:9b:cd:3e:02:2f	-71
+2	192.0	828.0	emart24_free	9c:8c:d8:5f:07:20	-91
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+2	192.0	828.0	iptime	70:5d:cc:d8:1f:be	-82
+2	192.0	828.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+2	192.0	828.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+2	192.0	828.0	eduroam	70:f0:96:25:3f:af	-87
+2	192.0	828.0	eduroam	a4:9b:cd:41:b1:40	-83
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+2	192.0	828.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+2	192.0	828.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+2	192.0	828.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+2	192.0	828.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+2	192.0	828.0	eduroam	a4:9b:cd:3c:5e:20	-65
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+2	192.0	828.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+2	192.0	828.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+2	192.0	828.0	iptime	64:e5:99:ee:94:3a	-69
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+2	192.0	828.0	eduroam	a4:9b:cd:3c:98:8f	-80
+2	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+2	192.0	828.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+2	192.0	828.0	eduroam	70:f0:96:25:c3:af	-58
+2	192.0	828.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+2	192.0	828.0	eduroam	a4:9b:cd:41:c3:6f	-89
+2	192.0	828.0	kucdc2017	88:36:6c:4d:61:c4	-94
+2	192.0	828.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+2	192.0	828.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+2	192.0	828.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+2	192.0	828.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+2	192.0	828.0	eduroam	a4:9b:cd:41:be:4f	-73
+2	192.0	828.0	eduroam	70:f0:96:25:c3:a0	-72
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+2	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+2	192.0	828.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+2	192.0	828.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+2	192.0	828.0	eduroam	38:0e:4d:c3:5d:0f	-87
+2	192.0	828.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+2	192.0	828.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+2	192.0	828.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+2	192.0	828.0	eduroam	a4:9b:cd:13:1d:af	-75
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+2	192.0	828.0	eduroam	a4:9b:cd:41:f5:8f	-77
+2	192.0	828.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+2	192.0	828.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+2	192.0	828.0	eduroam	a4:9b:cd:3e:02:20	-78
+2	192.0	828.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+2	192.0	828.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+2	192.0	828.0	eduroam	a4:9b:cd:41:be:40	-74
+3	192.0	834.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+3	192.0	834.0	eduroam	a4:9b:cd:41:b1:4f	-82
+3	192.0	834.0	sandpresso	90:9f:33:80:28:90	-71
+3	192.0	834.0	emart24pos	9c:8c:d8:5f:07:21	-90
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+3	192.0	834.0	eduroam	a4:9b:cd:3e:02:2f	-71
+3	192.0	834.0	emart24_free	9c:8c:d8:5f:07:20	-91
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+3	192.0	834.0	iptime	70:5d:cc:d8:1f:be	-82
+3	192.0	834.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+3	192.0	834.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+3	192.0	834.0	eduroam	70:f0:96:25:3f:af	-87
+3	192.0	834.0	eduroam	a4:9b:cd:41:b1:40	-83
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+3	192.0	834.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+3	192.0	834.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+3	192.0	834.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+3	192.0	834.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+3	192.0	834.0	eduroam	a4:9b:cd:3c:5e:20	-65
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+3	192.0	834.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+3	192.0	834.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+3	192.0	834.0	iptime	64:e5:99:ee:94:3a	-69
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+3	192.0	834.0	eduroam	a4:9b:cd:3c:98:8f	-80
+3	192.0	834.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+3	192.0	834.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+3	192.0	834.0	eduroam	70:f0:96:25:c3:af	-58
+3	192.0	834.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+3	192.0	834.0	eduroam	a4:9b:cd:41:c3:6f	-89
+3	192.0	834.0	kucdc2017	88:36:6c:4d:61:c4	-94
+3	192.0	834.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+3	192.0	834.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+3	192.0	834.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+3	192.0	834.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+3	192.0	834.0	eduroam	a4:9b:cd:41:be:4f	-73
+3	192.0	834.0	eduroam	70:f0:96:25:c3:a0	-72
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+3	192.0	834.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+3	192.0	834.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+3	192.0	834.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+3	192.0	834.0	eduroam	38:0e:4d:c3:5d:0f	-87
+3	192.0	834.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+3	192.0	834.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+3	192.0	834.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+3	192.0	834.0	eduroam	a4:9b:cd:13:1d:af	-75
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+3	192.0	834.0	eduroam	a4:9b:cd:41:f5:8f	-77
+3	192.0	834.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+3	192.0	834.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+3	192.0	834.0	eduroam	a4:9b:cd:3e:02:20	-78
+3	192.0	834.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+3	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+3	192.0	834.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	834.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	834.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	834.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	834.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	834.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	834.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	834.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	834.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	834.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	834.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	834.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	834.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	834.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	834.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	834.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	834.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	834.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	834.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	834.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	834.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	834.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	834.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	834.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	834.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	834.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	834.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	834.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	834.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	834.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	834.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	834.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	834.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	834.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	834.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	834.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	834.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	834.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	834.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	834.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	834.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	834.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	834.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	834.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	834.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	834.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	834.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	834.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	840.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	840.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	840.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	840.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	840.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	840.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	840.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	840.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	840.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	840.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	840.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	840.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	840.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	840.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	840.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	840.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	840.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	840.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	840.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	840.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	840.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	840.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	840.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	840.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	840.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	840.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	840.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	840.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	840.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	840.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	840.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	840.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	840.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	840.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	840.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	840.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	840.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	840.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	840.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	840.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	840.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	840.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	840.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	840.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	840.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	840.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	840.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	846.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	846.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	846.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	846.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	846.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	846.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	846.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	846.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	846.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	846.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	846.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	846.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	846.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	846.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	846.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	846.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	846.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	846.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	846.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	846.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	846.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	846.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	846.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	846.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	846.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	846.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	846.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	846.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	846.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	846.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	846.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	846.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	846.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	846.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	846.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	846.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	846.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	846.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	846.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	846.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	846.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	846.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	846.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	846.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	846.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	846.0	eduroam	a4:9b:cd:41:be:40	-74
+1	192.0	846.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+1	192.0	846.0	eduroam	a4:9b:cd:41:b1:4f	-82
+1	192.0	846.0	sandpresso	90:9f:33:80:28:90	-71
+1	192.0	846.0	emart24pos	9c:8c:d8:5f:07:21	-90
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+1	192.0	846.0	eduroam	a4:9b:cd:3e:02:2f	-71
+1	192.0	846.0	emart24_free	9c:8c:d8:5f:07:20	-91
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+1	192.0	846.0	iptime	70:5d:cc:d8:1f:be	-82
+1	192.0	846.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+1	192.0	846.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+1	192.0	846.0	eduroam	70:f0:96:25:3f:af	-87
+1	192.0	846.0	eduroam	a4:9b:cd:41:b1:40	-83
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+1	192.0	846.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+1	192.0	846.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+1	192.0	846.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+1	192.0	846.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+1	192.0	846.0	eduroam	a4:9b:cd:3c:5e:20	-65
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+1	192.0	846.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+1	192.0	846.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+1	192.0	846.0	iptime	64:e5:99:ee:94:3a	-69
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+1	192.0	846.0	eduroam	a4:9b:cd:3c:98:8f	-80
+1	192.0	846.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+1	192.0	846.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+1	192.0	846.0	eduroam	70:f0:96:25:c3:af	-58
+1	192.0	846.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+1	192.0	846.0	eduroam	a4:9b:cd:41:c3:6f	-89
+1	192.0	846.0	kucdc2017	88:36:6c:4d:61:c4	-94
+1	192.0	846.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+1	192.0	846.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+1	192.0	846.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+1	192.0	846.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+1	192.0	846.0	eduroam	a4:9b:cd:41:be:4f	-73
+1	192.0	846.0	eduroam	70:f0:96:25:c3:a0	-72
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+1	192.0	846.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+1	192.0	846.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+1	192.0	846.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+1	192.0	846.0	eduroam	38:0e:4d:c3:5d:0f	-87
+1	192.0	846.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+1	192.0	846.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+1	192.0	846.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+1	192.0	846.0	eduroam	a4:9b:cd:13:1d:af	-75
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+1	192.0	846.0	eduroam	a4:9b:cd:41:f5:8f	-77
+1	192.0	846.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+1	192.0	846.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+1	192.0	846.0	eduroam	a4:9b:cd:3e:02:20	-78
+1	192.0	846.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+1	192.0	846.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+1	192.0	846.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	852.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	852.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	852.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	852.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	852.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	852.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	852.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	852.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	852.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	852.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	852.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	852.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	852.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	852.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	852.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	852.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	852.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	852.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	852.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	852.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	852.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	852.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	852.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	852.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	852.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	852.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	852.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	852.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	852.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	852.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	852.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	852.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	852.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	852.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	852.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	852.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	852.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	852.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	852.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	852.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	852.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	852.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	852.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	852.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	852.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	852.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	852.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	858.0	KUInfo AP	a4:9b:cd:41:b1:4d	-82
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-82
+0	192.0	858.0	eduroam	a4:9b:cd:41:b1:4f	-82
+0	192.0	858.0	sandpresso	90:9f:33:80:28:90	-71
+0	192.0	858.0	emart24pos	9c:8c:d8:5f:07:21	-90
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-68
+0	192.0	858.0	eduroam	a4:9b:cd:3e:02:2f	-71
+0	192.0	858.0	emart24_free	9c:8c:d8:5f:07:20	-91
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3e:02:2d	-70
+0	192.0	858.0	iptime	70:5d:cc:d8:1f:be	-82
+0	192.0	858.0	KUInfo AP	70:f0:96:25:3f:ad	-88
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3c:98:82	-80
+0	192.0	858.0	KoreaUniv AP	70:f0:96:25:3f:ae	-87
+0	192.0	858.0	eduroam	70:f0:96:25:3f:af	-87
+0	192.0	858.0	eduroam	a4:9b:cd:41:b1:40	-83
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-81
+0	192.0	858.0	KUInfo AP	a4:9b:cd:41:b1:42	-82
+0	192.0	858.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-76
+0	192.0	858.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-80
+0	192.0	858.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	858.0	eduroam	a4:9b:cd:3c:5e:20	-65
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-65
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	858.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-77
+0	192.0	858.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-73
+0	192.0	858.0	iptime	64:e5:99:ee:94:3a	-69
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3c:98:8d	-82
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-81
+0	192.0	858.0	eduroam	a4:9b:cd:3c:98:8f	-80
+0	192.0	858.0	KoreaUniv AP	70:f0:96:25:c3:ae	-57
+0	192.0	858.0	KUInfo AP	70:f0:96:25:c3:ad	-58
+0	192.0	858.0	eduroam	70:f0:96:25:c3:af	-58
+0	192.0	858.0	UNISTORE2	70:5d:cc:5e:12:4a	-84
+0	192.0	858.0	eduroam	a4:9b:cd:41:c3:6f	-89
+0	192.0	858.0	kucdc2017	88:36:6c:4d:61:c4	-94
+0	192.0	858.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-88
+0	192.0	858.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-89
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-59
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-59
+0	192.0	858.0	eduroam	a4:9b:cd:3c:5e:2f	-59
+0	192.0	858.0	KoreaUniv AP	70:f0:96:25:c3:a1	-71
+0	192.0	858.0	eduroam	a4:9b:cd:41:be:4f	-73
+0	192.0	858.0	eduroam	70:f0:96:25:c3:a0	-72
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+0	192.0	858.0	KUInfo AP	a4:9b:cd:41:be:4d	-74
+0	192.0	858.0	KUInfo AP	70:f0:96:25:c3:a2	-72
+0	192.0	858.0	KUInfo AP	38:0e:4d:c3:5d:0d	-86
+0	192.0	858.0	eduroam	38:0e:4d:c3:5d:0f	-87
+0	192.0	858.0	KUInfo AP	a4:9b:cd:13:1d:ad	-74
+0	192.0	858.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-84
+0	192.0	858.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-71
+0	192.0	858.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-75
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-78
+0	192.0	858.0	eduroam	a4:9b:cd:41:f5:8f	-77
+0	192.0	858.0	KUInfo AP	a4:9b:cd:41:f5:8d	-77
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-79
+0	192.0	858.0	KUInfo AP	a4:9b:cd:3e:02:22	-79
+0	192.0	858.0	eduroam	a4:9b:cd:3e:02:20	-78
+0	192.0	858.0	KUInfo AP	a4:9b:cd:41:be:42	-76
+0	192.0	858.0	KoreaUniv AP	a4:9b:cd:41:be:41	-73
+0	192.0	858.0	eduroam	a4:9b:cd:41:be:40	-74
+0	192.0	864.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+0	192.0	864.0	eduroam	a4:9b:cd:41:b1:4f	-77
+0	192.0	864.0	sandpresso	90:9f:33:80:28:90	-63
+0	192.0	864.0	emart24pos	9c:8c:d8:5f:07:21	-92
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+0	192.0	864.0	eduroam	a4:9b:cd:3e:02:2f	-64
+0	192.0	864.0	emart24_free	9c:8c:d8:5f:07:20	-92
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+0	192.0	864.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+0	192.0	864.0	eduroam	a4:9b:cd:3c:98:80	-79
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+0	192.0	864.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+0	192.0	864.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+0	192.0	864.0	eduroam	70:f0:96:25:3f:af	-90
+0	192.0	864.0	eduroam	a4:9b:cd:41:b1:40	-75
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+0	192.0	864.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+0	192.0	864.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+0	192.0	864.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+0	192.0	864.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	864.0	eduroam	a4:9b:cd:3c:5e:20	-64
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	864.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+0	192.0	864.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+0	192.0	864.0	eduroam	70:f0:96:25:3f:a0	-87
+0	192.0	864.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+0	192.0	864.0	iptime	64:e5:99:ee:94:3a	-70
+0	192.0	864.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+0	192.0	864.0	eduroam	a4:9b:cd:3c:98:8f	-82
+0	192.0	864.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+0	192.0	864.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+0	192.0	864.0	eduroam	70:f0:96:25:c3:af	-59
+0	192.0	864.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+0	192.0	864.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+0	192.0	864.0	eduroam	38:0e:4d:c3:5d:00	-92
+0	192.0	864.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+0	192.0	864.0	eduroam	a4:9b:cd:41:f5:80	-78
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+0	192.0	864.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+0	192.0	864.0	eduroam	a4:9b:cd:41:be:4f	-68
+0	192.0	864.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+0	192.0	864.0	eduroam	70:f0:96:25:c3:a0	-80
+0	192.0	864.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+0	192.0	864.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+0	192.0	864.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+0	192.0	864.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+0	192.0	864.0	eduroam	38:0e:4d:c3:5d:0f	-85
+0	192.0	864.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+0	192.0	864.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+0	192.0	864.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+0	192.0	864.0	eduroam	a4:9b:cd:41:f5:8f	-71
+0	192.0	864.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+0	192.0	864.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+0	192.0	864.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+0	192.0	864.0	eduroam	a4:9b:cd:3e:02:20	-73
+1	192.0	864.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+1	192.0	864.0	eduroam	a4:9b:cd:41:b1:4f	-77
+1	192.0	864.0	sandpresso	90:9f:33:80:28:90	-63
+1	192.0	864.0	emart24pos	9c:8c:d8:5f:07:21	-92
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+1	192.0	864.0	eduroam	a4:9b:cd:3e:02:2f	-64
+1	192.0	864.0	emart24_free	9c:8c:d8:5f:07:20	-92
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+1	192.0	864.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+1	192.0	864.0	eduroam	a4:9b:cd:3c:98:80	-79
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+1	192.0	864.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+1	192.0	864.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+1	192.0	864.0	eduroam	70:f0:96:25:3f:af	-90
+1	192.0	864.0	eduroam	a4:9b:cd:41:b1:40	-75
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+1	192.0	864.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+1	192.0	864.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+1	192.0	864.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+1	192.0	864.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+1	192.0	864.0	eduroam	a4:9b:cd:3c:5e:20	-64
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+1	192.0	864.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+1	192.0	864.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+1	192.0	864.0	eduroam	70:f0:96:25:3f:a0	-87
+1	192.0	864.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+1	192.0	864.0	iptime	64:e5:99:ee:94:3a	-70
+1	192.0	864.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+1	192.0	864.0	eduroam	a4:9b:cd:3c:98:8f	-82
+1	192.0	864.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+1	192.0	864.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+1	192.0	864.0	eduroam	70:f0:96:25:c3:af	-59
+1	192.0	864.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+1	192.0	864.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+1	192.0	864.0	eduroam	38:0e:4d:c3:5d:00	-92
+1	192.0	864.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+1	192.0	864.0	eduroam	a4:9b:cd:41:f5:80	-78
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+1	192.0	864.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+1	192.0	864.0	eduroam	a4:9b:cd:41:be:4f	-68
+1	192.0	864.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+1	192.0	864.0	eduroam	70:f0:96:25:c3:a0	-80
+1	192.0	864.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+1	192.0	864.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+1	192.0	864.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+1	192.0	864.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+1	192.0	864.0	eduroam	38:0e:4d:c3:5d:0f	-85
+1	192.0	864.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+1	192.0	864.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+1	192.0	864.0	eduroam	a4:9b:cd:13:1d:af	-75
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+1	192.0	864.0	eduroam	a4:9b:cd:41:f5:8f	-71
+1	192.0	864.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+1	192.0	864.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+1	192.0	864.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+1	192.0	864.0	eduroam	a4:9b:cd:3e:02:20	-73
+0	192.0	870.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+0	192.0	870.0	eduroam	a4:9b:cd:41:b1:4f	-77
+0	192.0	870.0	sandpresso	90:9f:33:80:28:90	-63
+0	192.0	870.0	emart24pos	9c:8c:d8:5f:07:21	-92
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+0	192.0	870.0	eduroam	a4:9b:cd:3e:02:2f	-64
+0	192.0	870.0	emart24_free	9c:8c:d8:5f:07:20	-92
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+0	192.0	870.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+0	192.0	870.0	eduroam	a4:9b:cd:3c:98:80	-79
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+0	192.0	870.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+0	192.0	870.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+0	192.0	870.0	eduroam	70:f0:96:25:3f:af	-90
+0	192.0	870.0	eduroam	a4:9b:cd:41:b1:40	-75
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+0	192.0	870.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+0	192.0	870.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+0	192.0	870.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+0	192.0	870.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	870.0	eduroam	a4:9b:cd:3c:5e:20	-64
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	870.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+0	192.0	870.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+0	192.0	870.0	eduroam	70:f0:96:25:3f:a0	-87
+0	192.0	870.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+0	192.0	870.0	iptime	64:e5:99:ee:94:3a	-70
+0	192.0	870.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+0	192.0	870.0	eduroam	a4:9b:cd:3c:98:8f	-82
+0	192.0	870.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+0	192.0	870.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+0	192.0	870.0	eduroam	70:f0:96:25:c3:af	-59
+0	192.0	870.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+0	192.0	870.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+0	192.0	870.0	eduroam	38:0e:4d:c3:5d:00	-92
+0	192.0	870.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+0	192.0	870.0	eduroam	a4:9b:cd:41:f5:80	-78
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+0	192.0	870.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+0	192.0	870.0	eduroam	a4:9b:cd:41:be:4f	-68
+0	192.0	870.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+0	192.0	870.0	eduroam	70:f0:96:25:c3:a0	-80
+0	192.0	870.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+0	192.0	870.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+0	192.0	870.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+0	192.0	870.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+0	192.0	870.0	eduroam	38:0e:4d:c3:5d:0f	-85
+0	192.0	870.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+0	192.0	870.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+0	192.0	870.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+0	192.0	870.0	eduroam	a4:9b:cd:41:f5:8f	-71
+0	192.0	870.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+0	192.0	870.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+0	192.0	870.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+0	192.0	870.0	eduroam	a4:9b:cd:3e:02:20	-73
+0	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+0	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-77
+0	192.0	876.0	sandpresso	90:9f:33:80:28:90	-63
+0	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-92
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+0	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-64
+0	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-92
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+0	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+0	192.0	876.0	eduroam	a4:9b:cd:3c:98:80	-79
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+0	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+0	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+0	192.0	876.0	eduroam	70:f0:96:25:3f:af	-90
+0	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-75
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+0	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+0	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+0	192.0	876.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+0	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+0	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-64
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+0	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+0	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+0	192.0	876.0	eduroam	70:f0:96:25:3f:a0	-87
+0	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+0	192.0	876.0	iptime	64:e5:99:ee:94:3a	-70
+0	192.0	876.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+0	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+0	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+0	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+0	192.0	876.0	eduroam	70:f0:96:25:c3:af	-59
+0	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+0	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+0	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-92
+0	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+0	192.0	876.0	eduroam	a4:9b:cd:41:f5:80	-78
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+0	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+0	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-68
+0	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+0	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-80
+0	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+0	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+0	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+0	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+0	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-85
+0	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+0	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+0	192.0	876.0	eduroam	a4:9b:cd:13:1d:af	-75
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+0	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-71
+0	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+0	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+0	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+0	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-73
+1	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+1	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-77
+1	192.0	876.0	sandpresso	90:9f:33:80:28:90	-63
+1	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-92
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+1	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-64
+1	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-92
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+1	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+1	192.0	876.0	eduroam	a4:9b:cd:3c:98:80	-79
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+1	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+1	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+1	192.0	876.0	eduroam	70:f0:96:25:3f:af	-90
+1	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-75
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+1	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+1	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+1	192.0	876.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+1	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+1	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-64
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+1	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+1	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+1	192.0	876.0	eduroam	70:f0:96:25:3f:a0	-87
+1	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+1	192.0	876.0	iptime	64:e5:99:ee:94:3a	-70
+1	192.0	876.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+1	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+1	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+1	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+1	192.0	876.0	eduroam	70:f0:96:25:c3:af	-59
+1	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+1	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+1	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-92
+1	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+1	192.0	876.0	eduroam	a4:9b:cd:41:f5:80	-78
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+1	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+1	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-68
+1	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+1	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-80
+1	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+1	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+1	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+1	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+1	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-85
+1	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+1	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+1	192.0	876.0	eduroam	a4:9b:cd:13:1d:af	-75
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+1	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-71
+1	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+1	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+1	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+1	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-73
+2	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+2	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-77
+2	192.0	876.0	sandpresso	90:9f:33:80:28:90	-63
+2	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-92
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+2	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-64
+2	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-92
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+2	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+2	192.0	876.0	eduroam	a4:9b:cd:3c:98:80	-79
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+2	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+2	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+2	192.0	876.0	eduroam	70:f0:96:25:3f:af	-90
+2	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-75
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+2	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+2	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+2	192.0	876.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+2	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+2	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-64
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+2	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+2	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+2	192.0	876.0	eduroam	70:f0:96:25:3f:a0	-87
+2	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+2	192.0	876.0	iptime	64:e5:99:ee:94:3a	-70
+2	192.0	876.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+2	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+2	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+2	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+2	192.0	876.0	eduroam	70:f0:96:25:c3:af	-59
+2	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+2	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+2	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-92
+2	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+2	192.0	876.0	eduroam	a4:9b:cd:41:f5:80	-78
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+2	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+2	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-68
+2	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+2	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-80
+2	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+2	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+2	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+2	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+2	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-85
+2	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+2	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+2	192.0	876.0	eduroam	a4:9b:cd:13:1d:af	-75
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+2	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-71
+2	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+2	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+2	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+2	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-73
+3	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-80
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-80
+3	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-77
+3	192.0	876.0	sandpresso	90:9f:33:80:28:90	-63
+3	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-92
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-61
+3	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-64
+3	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-92
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-64
+3	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-91
+3	192.0	876.0	eduroam	a4:9b:cd:3c:98:80	-79
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:81	-80
+3	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-90
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:82	-79
+3	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-89
+3	192.0	876.0	eduroam	70:f0:96:25:3f:af	-90
+3	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-75
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-75
+3	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:42	-75
+3	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-73
+3	192.0	876.0	Coffee_Square_2G	88:3c:1c:cc:c8:51	-78
+3	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-84
+3	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-64
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-62
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-63
+3	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-78
+3	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-67
+3	192.0	876.0	eduroam	70:f0:96:25:3f:a0	-87
+3	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:a1	-87
+3	192.0	876.0	iptime	64:e5:99:ee:94:3a	-70
+3	192.0	876.0	KUInfo AP	70:f0:96:25:3f:a2	-87
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-81
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+3	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+3	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-58
+3	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-59
+3	192.0	876.0	eduroam	70:f0:96:25:c3:af	-59
+3	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-92
+3	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-89
+3	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-92
+3	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:82	-78
+3	192.0	876.0	eduroam	a4:9b:cd:41:f5:80	-78
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-60
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-60
+3	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-60
+3	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-68
+3	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-81
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-68
+3	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-80
+3	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-68
+3	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-80
+3	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-85
+3	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-85
+3	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-85
+3	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:ad	-76
+3	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-83
+3	192.0	876.0	eduroam	a4:9b:cd:13:1d:af	-75
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:ae	-76
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-71
+3	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-71
+3	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-71
+3	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-74
+3	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+3	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-73
+4	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+4	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+4	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+4	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+4	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+4	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+4	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+4	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+4	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+4	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+4	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+4	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+4	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+4	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+4	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+4	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+4	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+4	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+4	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+4	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+4	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+4	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+4	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+4	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+4	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+4	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+4	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+4	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+4	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+4	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+4	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+4	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+4	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+4	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+4	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+4	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+4	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+4	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+4	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+4	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+4	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+4	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+4	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+4	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+4	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+4	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+4	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+4	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+4	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+4	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+4	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+4	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82
+5	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+5	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+5	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+5	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+5	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+5	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+5	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+5	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+5	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+5	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+5	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+5	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+5	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+5	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+5	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+5	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+5	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+5	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+5	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+5	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+5	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+5	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+5	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+5	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+5	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+5	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+5	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+5	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+5	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+5	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+5	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+5	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+5	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+5	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+5	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+5	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+5	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+5	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+5	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+5	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+5	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+5	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+5	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+5	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+5	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+5	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+5	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+5	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+5	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+5	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+5	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+5	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82
+6	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+6	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+6	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+6	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+6	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+6	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+6	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+6	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+6	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+6	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+6	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+6	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+6	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+6	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+6	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+6	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+6	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+6	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+6	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+6	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+6	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+6	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+6	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+6	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+6	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+6	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+6	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+6	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+6	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+6	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+6	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+6	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+6	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+6	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+6	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+6	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+6	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+6	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+6	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+6	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+6	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+6	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+6	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+6	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+6	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+6	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+6	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+6	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+6	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+6	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+6	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+6	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82
+7	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+7	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+7	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+7	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+7	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+7	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+7	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+7	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+7	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+7	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+7	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+7	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+7	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+7	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+7	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+7	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+7	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+7	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+7	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+7	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+7	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+7	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+7	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+7	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+7	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+7	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+7	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+7	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+7	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+7	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+7	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+7	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+7	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+7	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+7	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+7	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+7	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+7	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+7	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+7	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+7	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+7	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+7	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+7	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+7	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+7	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+7	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+7	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+7	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+7	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+7	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+7	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82
+8	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+8	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+8	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+8	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+8	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+8	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+8	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+8	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+8	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+8	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+8	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+8	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+8	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+8	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+8	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+8	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+8	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+8	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+8	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+8	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+8	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+8	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+8	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+8	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+8	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+8	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+8	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+8	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+8	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+8	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+8	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+8	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+8	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+8	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+8	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+8	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+8	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+8	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+8	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+8	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+8	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+8	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+8	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+8	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+8	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+8	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+8	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+8	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+8	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+8	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+8	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+8	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82
+9	192.0	876.0	KUInfo AP	a4:9b:cd:41:b1:4d	-73
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:4e	-72
+9	192.0	876.0	eduroam	a4:9b:cd:41:b1:4f	-72
+9	192.0	876.0	sandpresso	90:9f:33:80:28:90	-65
+9	192.0	876.0	emart24pos	9c:8c:d8:5f:07:21	-91
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:2e	-57
+9	192.0	876.0	eduroam	a4:9b:cd:3e:02:2f	-59
+9	192.0	876.0	emart24_free	9c:8c:d8:5f:07:20	-87
+9	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:2d	-59
+9	192.0	876.0	iptime5G	70:5d:cc:d8:1f:bc	-82
+9	192.0	876.0	KUInfo AP	a4:9b:cd:13:1d:a2	-85
+9	192.0	876.0	iptime	70:5d:cc:d8:1f:be	-80
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:13:1d:a1	-85
+9	192.0	876.0	KUInfo AP	70:f0:96:25:3f:ad	-84
+9	192.0	876.0	KoreaUniv AP	70:f0:96:25:3f:ae	-86
+9	192.0	876.0	eduroam	70:f0:96:25:3f:af	-86
+9	192.0	876.0	eduroam	a4:9b:cd:41:b1:40	-77
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:b1:41	-78
+9	192.0	876.0	NEXT340-4F9EE1	38:01:46:46:2e:22	-81
+9	192.0	876.0	Coffee_Square_5G	88:3c:1c:cc:c8:50	-80
+9	192.0	876.0	eduroam	a4:9b:cd:3c:5e:20	-65
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:21	-68
+9	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:22	-66
+9	192.0	876.0	KU-THE-FUTURE_5G	70:5d:cc:2d:28:36	-69
+9	192.0	876.0	KU-THE-FUTURE_2.4G	70:5d:cc:2d:28:34	-79
+9	192.0	876.0	KUInfo AP	a4:9b:cd:3c:98:8d	-80
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:98:8e	-82
+9	192.0	876.0	eduroam	a4:9b:cd:3c:98:8f	-82
+9	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:ae	-53
+9	192.0	876.0	KUInfo AP	70:f0:96:25:c3:ad	-54
+9	192.0	876.0	eduroam	70:f0:96:25:c3:af	-54
+9	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:01	-89
+9	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:02	-87
+9	192.0	876.0	eduroam	38:0e:4d:c3:5d:00	-89
+9	192.0	876.0	KEBHANA_WiFi	c8:08:73:2f:a4:6c	-87
+9	192.0	876.0	KEBHANA_Secure	c8:08:73:6f:a4:6c	-87
+9	192.0	876.0	UNISTORE5	70:5d:cc:5e:12:48	-93
+9	192.0	876.0	KUInfo AP	a4:9b:cd:3c:5e:2d	-53
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:3c:5e:2e	-53
+9	192.0	876.0	eduroam	a4:9b:cd:3c:5e:2f	-54
+9	192.0	876.0	eduroam	a4:9b:cd:41:be:4f	-75
+9	192.0	876.0	KoreaUniv AP	70:f0:96:25:c3:a1	-76
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:4e	-74
+9	192.0	876.0	eduroam	70:f0:96:25:c3:a0	-74
+9	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:4d	-76
+9	192.0	876.0	KUInfo AP	70:f0:96:25:c3:a2	-73
+9	192.0	876.0	KUInfo AP	38:0e:4d:c3:5d:0d	-81
+9	192.0	876.0	momstouch	88:36:6c:8e:36:bc	-82
+9	192.0	876.0	KoreaUniv AP	38:0e:4d:c3:5d:0e	-80
+9	192.0	876.0	eduroam	38:0e:4d:c3:5d:0f	-81
+9	192.0	876.0	emart24_free	9c:8c:d8:5f:07:30	-88
+9	192.0	876.0	STUDIO_K 5Ghz	70:5d:cc:43:d3:74	-81
+9	192.0	876.0	STUDIO_K 2.4Ghz	70:5d:cc:43:d3:76	-74
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:f5:8e	-72
+9	192.0	876.0	eduroam	a4:9b:cd:41:f5:8f	-73
+9	192.0	876.0	KUInfo AP	a4:9b:cd:41:f5:8d	-72
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:3e:02:21	-68
+9	192.0	876.0	KUInfo AP	a4:9b:cd:3e:02:22	-69
+9	192.0	876.0	eduroam	a4:9b:cd:3e:02:20	-67
+9	192.0	876.0	KUInfo AP	a4:9b:cd:41:be:42	-81
+9	192.0	876.0	KoreaUniv AP	a4:9b:cd:41:be:41	-77
+9	192.0	876.0	eduroam	a4:9b:cd:41:be:40	-82

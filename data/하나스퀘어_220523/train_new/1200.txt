@@ -1,0 +1,1101 @@
+0	120	222	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	222	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	222	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	222	iptime	00:08:9f:64:67:82	-82
+0	120	222	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	222	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	222	netis	08:10:76:90:83:4d	-79
+0	120	222	infocar	88:36:6c:71:2d:86	-89
+0	120	222	AIL-K	70:5d:cc:80:62:58	-72
+0	120	222	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	222	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	222	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	222	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	222	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	222	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	222	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	222	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	222	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	222	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	222	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	222	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	222	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	222	ADL2	58:86:94:2e:73:4e	-85
+0	120	222	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	222	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	222	iptime	58:86:94:45:da:1a	-93
+0	120	222	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	222	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	222	eduroam	a4:9b:cd:17:28:00	-60
+0	120	222	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	222	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	222	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	222	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	222	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	222	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	222	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	222	603	70:5d:cc:e7:c5:a6	-83
+0	120	222	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	222	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	222	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	222	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	222	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	222	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	222	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	222	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	222	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	222	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	222	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	222	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	222	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	222	iptime	92:9f:33:48:13:88	-81
+1	120	222	eduroam	a4:9b:cd:3c:40:6f	-59
+1	120	222	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+1	120	222	infocar_ceo	58:86:94:2e:9f:36	-85
+1	120	222	iptime	00:08:9f:64:67:82	-82
+1	120	222	AIL-K5G	70:5d:cc:80:62:5a	-88
+1	120	222	iptime5G-Therano	58:86:94:26:6a:14	-92
+1	120	222	netis	08:10:76:90:83:4d	-79
+1	120	222	infocar	88:36:6c:71:2d:86	-89
+1	120	222	AIL-K	70:5d:cc:80:62:58	-72
+1	120	222	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+1	120	222	eduroam	a4:9b:cd:3c:c8:af	-85
+1	120	222	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+1	120	222	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+1	120	222	eduroam	a4:9b:cd:3c:40:60	-62
+1	120	222	neuracles	70:5d:cc:d7:9c:02	-92
+1	120	222	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+1	120	222	KUInfo AP	a4:9b:cd:3c:40:62	-64
+1	120	222	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+1	120	222	eduroam	a4:9b:cd:3d:4a:8f	-62
+1	120	222	QCLAB	90:9f:33:cc:02:ee	-82
+1	120	222	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	222	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+1	120	222	ADL2	58:86:94:2e:73:4e	-85
+1	120	222	eduroam	a4:9b:cd:41:68:cf	-90
+1	120	222	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+1	120	222	iptime	58:86:94:45:da:1a	-93
+1	120	222	thankyou_Guest	c6:06:c3:69:27:4e	-84
+1	120	222	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+1	120	222	eduroam	a4:9b:cd:17:28:00	-60
+1	120	222	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+1	120	222	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+1	120	222	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+1	120	222	KUInfo AP	a4:9b:cd:17:28:02	-60
+1	120	222	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+1	120	222	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	222	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+1	120	222	603	70:5d:cc:e7:c5:a6	-83
+1	120	222	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+1	120	222	eduroam	a4:9b:cd:17:28:0f	-63
+1	120	222	KUInfo AP	a4:9b:cd:17:28:0d	-64
+1	120	222	hughkim_3	70:5d:cc:80:7e:68	-80
+1	120	222	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+1	120	222	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+1	120	222	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+1	120	222	iptime509	64:e5:99:2c:4b:fa	-91
+1	120	222	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+1	120	222	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+1	120	222	lordnorth	92:9f:33:c1:eb:20	-70
+1	120	222	KIM-310	70:5d:cc:2a:e7:22	-81
+1	120	222	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+1	120	222	iptime	92:9f:33:48:13:88	-81
+2	120	222	eduroam	a4:9b:cd:3c:40:6f	-59
+2	120	222	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+2	120	222	infocar_ceo	58:86:94:2e:9f:36	-85
+2	120	222	iptime	00:08:9f:64:67:82	-82
+2	120	222	AIL-K5G	70:5d:cc:80:62:5a	-88
+2	120	222	iptime5G-Therano	58:86:94:26:6a:14	-92
+2	120	222	netis	08:10:76:90:83:4d	-79
+2	120	222	infocar	88:36:6c:71:2d:86	-89
+2	120	222	AIL-K	70:5d:cc:80:62:58	-72
+2	120	222	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+2	120	222	eduroam	a4:9b:cd:3c:c8:af	-85
+2	120	222	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+2	120	222	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+2	120	222	eduroam	a4:9b:cd:3c:40:60	-62
+2	120	222	neuracles	70:5d:cc:d7:9c:02	-92
+2	120	222	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+2	120	222	KUInfo AP	a4:9b:cd:3c:40:62	-64
+2	120	222	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+2	120	222	eduroam	a4:9b:cd:3d:4a:8f	-62
+2	120	222	QCLAB	90:9f:33:cc:02:ee	-82
+2	120	222	KUInfo AP	a4:9b:cd:41:68:cd	-90
+2	120	222	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+2	120	222	ADL2	58:86:94:2e:73:4e	-85
+2	120	222	eduroam	a4:9b:cd:41:68:cf	-90
+2	120	222	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+2	120	222	iptime	58:86:94:45:da:1a	-93
+2	120	222	thankyou_Guest	c6:06:c3:69:27:4e	-84
+2	120	222	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+2	120	222	eduroam	a4:9b:cd:17:28:00	-60
+2	120	222	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+2	120	222	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+2	120	222	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+2	120	222	KUInfo AP	a4:9b:cd:17:28:02	-60
+2	120	222	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+2	120	222	eduroam	a4:9b:cd:42:0e:af	-85
+2	120	222	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+2	120	222	603	70:5d:cc:e7:c5:a6	-83
+2	120	222	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+2	120	222	eduroam	a4:9b:cd:17:28:0f	-63
+2	120	222	KUInfo AP	a4:9b:cd:17:28:0d	-64
+2	120	222	hughkim_3	70:5d:cc:80:7e:68	-80
+2	120	222	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+2	120	222	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+2	120	222	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+2	120	222	iptime509	64:e5:99:2c:4b:fa	-91
+2	120	222	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+2	120	222	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+2	120	222	lordnorth	92:9f:33:c1:eb:20	-70
+2	120	222	KIM-310	70:5d:cc:2a:e7:22	-81
+2	120	222	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+2	120	222	iptime	92:9f:33:48:13:88	-81
+3	120	222	eduroam	a4:9b:cd:3c:40:6f	-59
+3	120	222	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+3	120	222	infocar_ceo	58:86:94:2e:9f:36	-85
+3	120	222	iptime	00:08:9f:64:67:82	-82
+3	120	222	AIL-K5G	70:5d:cc:80:62:5a	-88
+3	120	222	iptime5G-Therano	58:86:94:26:6a:14	-92
+3	120	222	netis	08:10:76:90:83:4d	-79
+3	120	222	infocar	88:36:6c:71:2d:86	-89
+3	120	222	AIL-K	70:5d:cc:80:62:58	-72
+3	120	222	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+3	120	222	eduroam	a4:9b:cd:3c:c8:af	-85
+3	120	222	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+3	120	222	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+3	120	222	eduroam	a4:9b:cd:3c:40:60	-62
+3	120	222	neuracles	70:5d:cc:d7:9c:02	-92
+3	120	222	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+3	120	222	KUInfo AP	a4:9b:cd:3c:40:62	-64
+3	120	222	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+3	120	222	eduroam	a4:9b:cd:3d:4a:8f	-62
+3	120	222	QCLAB	90:9f:33:cc:02:ee	-82
+3	120	222	KUInfo AP	a4:9b:cd:41:68:cd	-90
+3	120	222	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+3	120	222	ADL2	58:86:94:2e:73:4e	-85
+3	120	222	eduroam	a4:9b:cd:41:68:cf	-90
+3	120	222	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+3	120	222	iptime	58:86:94:45:da:1a	-93
+3	120	222	thankyou_Guest	c6:06:c3:69:27:4e	-84
+3	120	222	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+3	120	222	eduroam	a4:9b:cd:17:28:00	-60
+3	120	222	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+3	120	222	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+3	120	222	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+3	120	222	KUInfo AP	a4:9b:cd:17:28:02	-60
+3	120	222	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+3	120	222	eduroam	a4:9b:cd:42:0e:af	-85
+3	120	222	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+3	120	222	603	70:5d:cc:e7:c5:a6	-83
+3	120	222	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+3	120	222	eduroam	a4:9b:cd:17:28:0f	-63
+3	120	222	KUInfo AP	a4:9b:cd:17:28:0d	-64
+3	120	222	hughkim_3	70:5d:cc:80:7e:68	-80
+3	120	222	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+3	120	222	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+3	120	222	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+3	120	222	iptime509	64:e5:99:2c:4b:fa	-91
+3	120	222	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+3	120	222	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+3	120	222	lordnorth	92:9f:33:c1:eb:20	-70
+3	120	222	KIM-310	70:5d:cc:2a:e7:22	-81
+3	120	222	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+3	120	222	iptime	92:9f:33:48:13:88	-81
+0	120	228	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	228	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	228	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	228	iptime	00:08:9f:64:67:82	-82
+0	120	228	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	228	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	228	netis	08:10:76:90:83:4d	-79
+0	120	228	infocar	88:36:6c:71:2d:86	-89
+0	120	228	AIL-K	70:5d:cc:80:62:58	-72
+0	120	228	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	228	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	228	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	228	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	228	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	228	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	228	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	228	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	228	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	228	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	228	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	228	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	228	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	228	ADL2	58:86:94:2e:73:4e	-85
+0	120	228	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	228	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	228	iptime	58:86:94:45:da:1a	-93
+0	120	228	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	228	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	228	eduroam	a4:9b:cd:17:28:00	-60
+0	120	228	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	228	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	228	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	228	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	228	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	228	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	228	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	228	603	70:5d:cc:e7:c5:a6	-83
+0	120	228	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	228	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	228	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	228	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	228	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	228	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	228	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	228	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	228	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	228	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	228	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	228	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	228	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	228	iptime	92:9f:33:48:13:88	-81
+1	120	228	eduroam	a4:9b:cd:3c:40:6f	-59
+1	120	228	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+1	120	228	infocar_ceo	58:86:94:2e:9f:36	-85
+1	120	228	iptime	00:08:9f:64:67:82	-82
+1	120	228	AIL-K5G	70:5d:cc:80:62:5a	-88
+1	120	228	iptime5G-Therano	58:86:94:26:6a:14	-92
+1	120	228	netis	08:10:76:90:83:4d	-79
+1	120	228	infocar	88:36:6c:71:2d:86	-89
+1	120	228	AIL-K	70:5d:cc:80:62:58	-72
+1	120	228	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+1	120	228	eduroam	a4:9b:cd:3c:c8:af	-85
+1	120	228	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+1	120	228	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+1	120	228	eduroam	a4:9b:cd:3c:40:60	-62
+1	120	228	neuracles	70:5d:cc:d7:9c:02	-92
+1	120	228	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+1	120	228	KUInfo AP	a4:9b:cd:3c:40:62	-64
+1	120	228	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+1	120	228	eduroam	a4:9b:cd:3d:4a:8f	-62
+1	120	228	QCLAB	90:9f:33:cc:02:ee	-82
+1	120	228	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	228	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+1	120	228	ADL2	58:86:94:2e:73:4e	-85
+1	120	228	eduroam	a4:9b:cd:41:68:cf	-90
+1	120	228	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+1	120	228	iptime	58:86:94:45:da:1a	-93
+1	120	228	thankyou_Guest	c6:06:c3:69:27:4e	-84
+1	120	228	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+1	120	228	eduroam	a4:9b:cd:17:28:00	-60
+1	120	228	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+1	120	228	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+1	120	228	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+1	120	228	KUInfo AP	a4:9b:cd:17:28:02	-60
+1	120	228	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+1	120	228	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	228	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+1	120	228	603	70:5d:cc:e7:c5:a6	-83
+1	120	228	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+1	120	228	eduroam	a4:9b:cd:17:28:0f	-63
+1	120	228	KUInfo AP	a4:9b:cd:17:28:0d	-64
+1	120	228	hughkim_3	70:5d:cc:80:7e:68	-80
+1	120	228	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+1	120	228	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+1	120	228	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+1	120	228	iptime509	64:e5:99:2c:4b:fa	-91
+1	120	228	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+1	120	228	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+1	120	228	lordnorth	92:9f:33:c1:eb:20	-70
+1	120	228	KIM-310	70:5d:cc:2a:e7:22	-81
+1	120	228	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+1	120	228	iptime	92:9f:33:48:13:88	-81
+0	120	234	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	234	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	234	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	234	iptime	00:08:9f:64:67:82	-82
+0	120	234	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	234	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	234	netis	08:10:76:90:83:4d	-79
+0	120	234	infocar	88:36:6c:71:2d:86	-89
+0	120	234	AIL-K	70:5d:cc:80:62:58	-72
+0	120	234	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	234	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	234	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	234	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	234	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	234	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	234	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	234	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	234	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	234	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	234	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	234	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	234	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	234	ADL2	58:86:94:2e:73:4e	-85
+0	120	234	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	234	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	234	iptime	58:86:94:45:da:1a	-93
+0	120	234	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	234	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	234	eduroam	a4:9b:cd:17:28:00	-60
+0	120	234	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	234	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	234	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	234	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	234	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	234	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	234	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	234	603	70:5d:cc:e7:c5:a6	-83
+0	120	234	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	234	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	234	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	234	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	234	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	234	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	234	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	234	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	234	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	234	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	234	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	234	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	234	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	234	iptime	92:9f:33:48:13:88	-81
+0	120	240	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	240	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	240	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	240	iptime	00:08:9f:64:67:82	-82
+0	120	240	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	240	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	240	netis	08:10:76:90:83:4d	-79
+0	120	240	infocar	88:36:6c:71:2d:86	-89
+0	120	240	AIL-K	70:5d:cc:80:62:58	-72
+0	120	240	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	240	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	240	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	240	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	240	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	240	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	240	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	240	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	240	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	240	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	240	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	240	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	240	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	240	ADL2	58:86:94:2e:73:4e	-85
+0	120	240	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	240	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	240	iptime	58:86:94:45:da:1a	-93
+0	120	240	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	240	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	240	eduroam	a4:9b:cd:17:28:00	-60
+0	120	240	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	240	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	240	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	240	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	240	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	240	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	240	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	240	603	70:5d:cc:e7:c5:a6	-83
+0	120	240	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	240	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	240	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	240	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	240	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	240	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	240	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	240	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	240	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	240	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	240	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	240	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	240	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	240	iptime	92:9f:33:48:13:88	-81
+0	120	246	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	246	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	246	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	246	iptime	00:08:9f:64:67:82	-82
+0	120	246	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	246	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	246	netis	08:10:76:90:83:4d	-79
+0	120	246	infocar	88:36:6c:71:2d:86	-89
+0	120	246	AIL-K	70:5d:cc:80:62:58	-72
+0	120	246	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	246	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	246	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	246	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	246	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	246	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	246	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	246	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	246	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	246	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	246	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	246	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	246	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	246	ADL2	58:86:94:2e:73:4e	-85
+0	120	246	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	246	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	246	iptime	58:86:94:45:da:1a	-93
+0	120	246	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	246	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	246	eduroam	a4:9b:cd:17:28:00	-60
+0	120	246	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	246	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	246	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	246	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	246	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	246	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	246	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	246	603	70:5d:cc:e7:c5:a6	-83
+0	120	246	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	246	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	246	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	246	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	246	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	246	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	246	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	246	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	246	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	246	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	246	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	246	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	246	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	246	iptime	92:9f:33:48:13:88	-81
+0	120	252	eduroam	a4:9b:cd:3c:40:6f	-59
+0	120	252	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+0	120	252	infocar_ceo	58:86:94:2e:9f:36	-85
+0	120	252	iptime	00:08:9f:64:67:82	-82
+0	120	252	AIL-K5G	70:5d:cc:80:62:5a	-88
+0	120	252	iptime5G-Therano	58:86:94:26:6a:14	-92
+0	120	252	netis	08:10:76:90:83:4d	-79
+0	120	252	infocar	88:36:6c:71:2d:86	-89
+0	120	252	AIL-K	70:5d:cc:80:62:58	-72
+0	120	252	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+0	120	252	eduroam	a4:9b:cd:3c:c8:af	-85
+0	120	252	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+0	120	252	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+0	120	252	eduroam	a4:9b:cd:3c:40:60	-62
+0	120	252	neuracles	70:5d:cc:d7:9c:02	-92
+0	120	252	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+0	120	252	KUInfo AP	a4:9b:cd:3c:40:62	-64
+0	120	252	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+0	120	252	eduroam	a4:9b:cd:3d:4a:8f	-62
+0	120	252	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	252	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	252	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+0	120	252	ADL2	58:86:94:2e:73:4e	-85
+0	120	252	eduroam	a4:9b:cd:41:68:cf	-90
+0	120	252	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+0	120	252	iptime	58:86:94:45:da:1a	-93
+0	120	252	thankyou_Guest	c6:06:c3:69:27:4e	-84
+0	120	252	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+0	120	252	eduroam	a4:9b:cd:17:28:00	-60
+0	120	252	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+0	120	252	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+0	120	252	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+0	120	252	KUInfo AP	a4:9b:cd:17:28:02	-60
+0	120	252	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+0	120	252	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	252	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+0	120	252	603	70:5d:cc:e7:c5:a6	-83
+0	120	252	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+0	120	252	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	252	KUInfo AP	a4:9b:cd:17:28:0d	-64
+0	120	252	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	252	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	252	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+0	120	252	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+0	120	252	iptime509	64:e5:99:2c:4b:fa	-91
+0	120	252	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	252	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+0	120	252	lordnorth	92:9f:33:c1:eb:20	-70
+0	120	252	KIM-310	70:5d:cc:2a:e7:22	-81
+0	120	252	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+0	120	252	iptime	92:9f:33:48:13:88	-81
+1	120	252	eduroam	a4:9b:cd:3c:40:6f	-59
+1	120	252	KoreaUniv AP	a4:9b:cd:3c:40:6e	-51
+1	120	252	infocar_ceo	58:86:94:2e:9f:36	-85
+1	120	252	iptime	00:08:9f:64:67:82	-82
+1	120	252	AIL-K5G	70:5d:cc:80:62:5a	-88
+1	120	252	iptime5G-Therano	58:86:94:26:6a:14	-92
+1	120	252	netis	08:10:76:90:83:4d	-79
+1	120	252	infocar	88:36:6c:71:2d:86	-89
+1	120	252	AIL-K	70:5d:cc:80:62:58	-72
+1	120	252	Wonshik's office	6c:70:9f:e6:9d:b4	-84
+1	120	252	eduroam	a4:9b:cd:3c:c8:af	-85
+1	120	252	KoreaUniv AP	a4:9b:cd:3c:c8:ae	-85
+1	120	252	KUInfo AP	a4:9b:cd:3c:c8:ad	-85
+1	120	252	eduroam	a4:9b:cd:3c:40:60	-62
+1	120	252	neuracles	70:5d:cc:d7:9c:02	-92
+1	120	252	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-62
+1	120	252	KUInfo AP	a4:9b:cd:3c:40:62	-64
+1	120	252	KoreaUniv AP	a4:9b:cd:3c:40:61	-49
+1	120	252	eduroam	a4:9b:cd:3d:4a:8f	-62
+1	120	252	QCLAB	90:9f:33:cc:02:ee	-82
+1	120	252	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	252	KUInfo AP	a4:9b:cd:3d:4a:8d	-61
+1	120	252	ADL2	58:86:94:2e:73:4e	-85
+1	120	252	eduroam	a4:9b:cd:41:68:cf	-90
+1	120	252	KoreaUniv AP	a4:9b:cd:41:68:ce	-90
+1	120	252	iptime	58:86:94:45:da:1a	-93
+1	120	252	thankyou_Guest	c6:06:c3:69:27:4e	-84
+1	120	252	Apple Network df16d3	1c:36:bb:05:5b:4a	-93
+1	120	252	eduroam	a4:9b:cd:17:28:00	-60
+1	120	252	KoreaUniv AP	a4:9b:cd:17:28:01	-60
+1	120	252	[LG_CeilingCassette A/C]006c	1e:39:29:6f:00:6c	-92
+1	120	252	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-95
+1	120	252	KUInfo AP	a4:9b:cd:17:28:02	-60
+1	120	252	KUInfo AP	a4:9b:cd:42:0e:ad	-86
+1	120	252	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	252	KoreaUniv AP	a4:9b:cd:42:0e:ae	-86
+1	120	252	603	70:5d:cc:e7:c5:a6	-83
+1	120	252	KoreaUniv AP	a4:9b:cd:17:28:0e	-64
+1	120	252	eduroam	a4:9b:cd:17:28:0f	-63
+1	120	252	KUInfo AP	a4:9b:cd:17:28:0d	-64
+1	120	252	hughkim_3	70:5d:cc:80:7e:68	-80
+1	120	252	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+1	120	252	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-83
+1	120	252	KT_GiGA_Mesh_8519	12:96:cd:54:85:1d	-80
+1	120	252	iptime509	64:e5:99:2c:4b:fa	-91
+1	120	252	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+1	120	252	KT_GiGA_8519	0c:96:cd:54:85:1d	-79
+1	120	252	lordnorth	92:9f:33:c1:eb:20	-70
+1	120	252	KIM-310	70:5d:cc:2a:e7:22	-81
+1	120	252	CHEON-602'	70:5d:cc:9f:b4:a8	-78
+1	120	252	iptime	92:9f:33:48:13:88	-81
+0	120	258	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+0	120	258	eduroam	a4:9b:cd:3c:40:6f	-61
+0	120	258	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+0	120	258	Portthru	22:2f:cd:00:68:05	-95
+0	120	258	iptime	00:08:9f:64:67:82	-74
+0	120	258	iptime_609c	88:36:6c:12:bf:8a	-88
+0	120	258	AIL-K5G	70:5d:cc:80:62:5a	-85
+0	120	258	lordnorth5G	90:9f:33:81:eb:20	-92
+0	120	258	iptime-Therano	58:86:94:26:6a:16	-79
+0	120	258	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+0	120	258	eduroam	a4:9b:cd:3c:40:60	-66
+0	120	258	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+0	120	258	KUInfo AP	a4:9b:cd:3c:40:62	-66
+0	120	258	eduroam	a4:9b:cd:3d:4a:8f	-60
+0	120	258	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+0	120	258	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	258	fpl311	70:5d:cc:6c:31:66	-84
+0	120	258	kbt	68:ff:7b:1d:56:29	-88
+0	120	258	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+0	120	258	island-024EB0	34:20:e3:42:4e:b7	-83
+0	120	258	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+0	120	258	thankyou	c0:06:c3:69:27:4e	-86
+0	120	258	iptime	58:86:94:45:da:1a	-88
+0	120	258	thankyou_Guest	c6:06:c3:69:27:4e	-82
+0	120	258	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+0	120	258	eduroam	a4:9b:cd:17:28:00	-62
+0	120	258		ca:06:c3:69:27:4e	-86
+0	120	258	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+0	120	258	KUInfo AP	a4:9b:cd:17:28:02	-63
+0	120	258	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	258	eduroam	a4:9b:cd:42:0e:af	-84
+0	120	258	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+0	120	258	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+0	120	258	603	70:5d:cc:e7:c5:a6	-82
+0	120	258	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+0	120	258	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	258	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+0	120	258	KUInfo AP	a4:9b:cd:17:28:0d	-63
+0	120	258	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	258	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	258	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+0	120	258	507	10:62:eb:32:47:e2	-87
+0	120	258	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	258	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	258	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	264	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+0	120	264	eduroam	a4:9b:cd:3c:40:6f	-61
+0	120	264	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+0	120	264	Portthru	22:2f:cd:00:68:05	-95
+0	120	264	iptime	00:08:9f:64:67:82	-74
+0	120	264	iptime_609c	88:36:6c:12:bf:8a	-88
+0	120	264	AIL-K5G	70:5d:cc:80:62:5a	-85
+0	120	264	lordnorth5G	90:9f:33:81:eb:20	-92
+0	120	264	iptime-Therano	58:86:94:26:6a:16	-79
+0	120	264	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+0	120	264	eduroam	a4:9b:cd:3c:40:60	-66
+0	120	264	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+0	120	264	KUInfo AP	a4:9b:cd:3c:40:62	-66
+0	120	264	eduroam	a4:9b:cd:3d:4a:8f	-60
+0	120	264	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+0	120	264	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	264	fpl311	70:5d:cc:6c:31:66	-84
+0	120	264	kbt	68:ff:7b:1d:56:29	-88
+0	120	264	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+0	120	264	island-024EB0	34:20:e3:42:4e:b7	-83
+0	120	264	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+0	120	264	thankyou	c0:06:c3:69:27:4e	-86
+0	120	264	iptime	58:86:94:45:da:1a	-88
+0	120	264	thankyou_Guest	c6:06:c3:69:27:4e	-82
+0	120	264	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+0	120	264	eduroam	a4:9b:cd:17:28:00	-62
+0	120	264		ca:06:c3:69:27:4e	-86
+0	120	264	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+0	120	264	KUInfo AP	a4:9b:cd:17:28:02	-63
+0	120	264	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	264	eduroam	a4:9b:cd:42:0e:af	-84
+0	120	264	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+0	120	264	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+0	120	264	603	70:5d:cc:e7:c5:a6	-82
+0	120	264	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+0	120	264	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	264	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+0	120	264	KUInfo AP	a4:9b:cd:17:28:0d	-63
+0	120	264	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	264	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	264	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+0	120	264	507	10:62:eb:32:47:e2	-87
+0	120	264	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	264	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	264	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	270	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+0	120	270	eduroam	a4:9b:cd:3c:40:6f	-61
+0	120	270	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+0	120	270	Portthru	22:2f:cd:00:68:05	-95
+0	120	270	iptime	00:08:9f:64:67:82	-74
+0	120	270	iptime_609c	88:36:6c:12:bf:8a	-88
+0	120	270	AIL-K5G	70:5d:cc:80:62:5a	-85
+0	120	270	lordnorth5G	90:9f:33:81:eb:20	-92
+0	120	270	iptime-Therano	58:86:94:26:6a:16	-79
+0	120	270	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+0	120	270	eduroam	a4:9b:cd:3c:40:60	-66
+0	120	270	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+0	120	270	KUInfo AP	a4:9b:cd:3c:40:62	-66
+0	120	270	eduroam	a4:9b:cd:3d:4a:8f	-60
+0	120	270	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+0	120	270	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	270	fpl311	70:5d:cc:6c:31:66	-84
+0	120	270	kbt	68:ff:7b:1d:56:29	-88
+0	120	270	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+0	120	270	island-024EB0	34:20:e3:42:4e:b7	-83
+0	120	270	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+0	120	270	thankyou	c0:06:c3:69:27:4e	-86
+0	120	270	iptime	58:86:94:45:da:1a	-88
+0	120	270	thankyou_Guest	c6:06:c3:69:27:4e	-82
+0	120	270	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+0	120	270	eduroam	a4:9b:cd:17:28:00	-62
+0	120	270		ca:06:c3:69:27:4e	-86
+0	120	270	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+0	120	270	KUInfo AP	a4:9b:cd:17:28:02	-63
+0	120	270	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	270	eduroam	a4:9b:cd:42:0e:af	-84
+0	120	270	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+0	120	270	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+0	120	270	603	70:5d:cc:e7:c5:a6	-82
+0	120	270	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+0	120	270	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	270	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+0	120	270	KUInfo AP	a4:9b:cd:17:28:0d	-63
+0	120	270	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	270	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	270	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+0	120	270	507	10:62:eb:32:47:e2	-87
+0	120	270	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	270	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	270	KIM-310	70:5d:cc:2a:e7:22	-80
+1	120	270	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+1	120	270	eduroam	a4:9b:cd:3c:40:6f	-61
+1	120	270	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+1	120	270	Portthru	22:2f:cd:00:68:05	-95
+1	120	270	iptime	00:08:9f:64:67:82	-74
+1	120	270	iptime_609c	88:36:6c:12:bf:8a	-88
+1	120	270	AIL-K5G	70:5d:cc:80:62:5a	-85
+1	120	270	lordnorth5G	90:9f:33:81:eb:20	-92
+1	120	270	iptime-Therano	58:86:94:26:6a:16	-79
+1	120	270	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+1	120	270	eduroam	a4:9b:cd:3c:40:60	-66
+1	120	270	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+1	120	270	KUInfo AP	a4:9b:cd:3c:40:62	-66
+1	120	270	eduroam	a4:9b:cd:3d:4a:8f	-60
+1	120	270	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+1	120	270	QCLAB	90:9f:33:cc:02:ee	-82
+1	120	270	fpl311	70:5d:cc:6c:31:66	-84
+1	120	270	kbt	68:ff:7b:1d:56:29	-88
+1	120	270	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+1	120	270	island-024EB0	34:20:e3:42:4e:b7	-83
+1	120	270	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+1	120	270	thankyou	c0:06:c3:69:27:4e	-86
+1	120	270	iptime	58:86:94:45:da:1a	-88
+1	120	270	thankyou_Guest	c6:06:c3:69:27:4e	-82
+1	120	270	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+1	120	270	eduroam	a4:9b:cd:17:28:00	-62
+1	120	270		ca:06:c3:69:27:4e	-86
+1	120	270	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+1	120	270	KUInfo AP	a4:9b:cd:17:28:02	-63
+1	120	270	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+1	120	270	eduroam	a4:9b:cd:42:0e:af	-84
+1	120	270	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+1	120	270	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+1	120	270	603	70:5d:cc:e7:c5:a6	-82
+1	120	270	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+1	120	270	eduroam	a4:9b:cd:17:28:0f	-63
+1	120	270	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+1	120	270	KUInfo AP	a4:9b:cd:17:28:0d	-63
+1	120	270	hughkim_3	70:5d:cc:80:7e:68	-80
+1	120	270	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+1	120	270	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+1	120	270	507	10:62:eb:32:47:e2	-87
+1	120	270	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+1	120	270	lordnorth	92:9f:33:c1:eb:20	-69
+1	120	270	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	276	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+0	120	276	eduroam	a4:9b:cd:3c:40:6f	-61
+0	120	276	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+0	120	276	Portthru	22:2f:cd:00:68:05	-95
+0	120	276	iptime	00:08:9f:64:67:82	-74
+0	120	276	iptime_609c	88:36:6c:12:bf:8a	-88
+0	120	276	AIL-K5G	70:5d:cc:80:62:5a	-85
+0	120	276	lordnorth5G	90:9f:33:81:eb:20	-92
+0	120	276	iptime-Therano	58:86:94:26:6a:16	-79
+0	120	276	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+0	120	276	eduroam	a4:9b:cd:3c:40:60	-66
+0	120	276	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+0	120	276	KUInfo AP	a4:9b:cd:3c:40:62	-66
+0	120	276	eduroam	a4:9b:cd:3d:4a:8f	-60
+0	120	276	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+0	120	276	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	276	fpl311	70:5d:cc:6c:31:66	-84
+0	120	276	kbt	68:ff:7b:1d:56:29	-88
+0	120	276	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+0	120	276	island-024EB0	34:20:e3:42:4e:b7	-83
+0	120	276	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+0	120	276	thankyou	c0:06:c3:69:27:4e	-86
+0	120	276	iptime	58:86:94:45:da:1a	-88
+0	120	276	thankyou_Guest	c6:06:c3:69:27:4e	-82
+0	120	276	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+0	120	276	eduroam	a4:9b:cd:17:28:00	-62
+0	120	276		ca:06:c3:69:27:4e	-86
+0	120	276	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+0	120	276	KUInfo AP	a4:9b:cd:17:28:02	-63
+0	120	276	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	276	eduroam	a4:9b:cd:42:0e:af	-84
+0	120	276	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+0	120	276	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+0	120	276	603	70:5d:cc:e7:c5:a6	-82
+0	120	276	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+0	120	276	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	276	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+0	120	276	KUInfo AP	a4:9b:cd:17:28:0d	-63
+0	120	276	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	276	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	276	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+0	120	276	507	10:62:eb:32:47:e2	-87
+0	120	276	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	276	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	276	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	282	Darjeeling 2.4G	58:86:94:6b:15:8e	-91
+0	120	282	eduroam	a4:9b:cd:3c:40:6f	-61
+0	120	282	KoreaUniv AP	a4:9b:cd:3c:40:6e	-54
+0	120	282	Portthru	22:2f:cd:00:68:05	-95
+0	120	282	iptime	00:08:9f:64:67:82	-74
+0	120	282	iptime_609c	88:36:6c:12:bf:8a	-88
+0	120	282	AIL-K5G	70:5d:cc:80:62:5a	-85
+0	120	282	lordnorth5G	90:9f:33:81:eb:20	-92
+0	120	282	iptime-Therano	58:86:94:26:6a:16	-79
+0	120	282	Wonshik's office	6c:70:9f:e6:9d:b4	-90
+0	120	282	eduroam	a4:9b:cd:3c:40:60	-66
+0	120	282	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-61
+0	120	282	KUInfo AP	a4:9b:cd:3c:40:62	-66
+0	120	282	eduroam	a4:9b:cd:3d:4a:8f	-60
+0	120	282	KoreaUniv AP	a4:9b:cd:3c:40:61	-67
+0	120	282	QCLAB	90:9f:33:cc:02:ee	-82
+0	120	282	fpl311	70:5d:cc:6c:31:66	-84
+0	120	282	kbt	68:ff:7b:1d:56:29	-88
+0	120	282	SSL-KoreaUniv 5.0G	88:36:6c:b0:27:ce	-91
+0	120	282	island-024EB0	34:20:e3:42:4e:b7	-83
+0	120	282	KUInfo AP	a4:9b:cd:3d:4a:8d	-60
+0	120	282	thankyou	c0:06:c3:69:27:4e	-86
+0	120	282	iptime	58:86:94:45:da:1a	-88
+0	120	282	thankyou_Guest	c6:06:c3:69:27:4e	-82
+0	120	282	Apple Network df16d3	1c:36:bb:05:5b:4a	-92
+0	120	282	eduroam	a4:9b:cd:17:28:00	-62
+0	120	282		ca:06:c3:69:27:4e	-86
+0	120	282	KoreaUniv AP	a4:9b:cd:17:28:01	-63
+0	120	282	KUInfo AP	a4:9b:cd:17:28:02	-63
+0	120	282	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	282	eduroam	a4:9b:cd:42:0e:af	-84
+0	120	282	KoreaUniv AP	a4:9b:cd:42:0e:ae	-84
+0	120	282	KoreaUniv AP	a4:9b:cd:42:0e:a1	-80
+0	120	282	603	70:5d:cc:e7:c5:a6	-82
+0	120	282	KoreaUniv AP	a4:9b:cd:17:28:0e	-63
+0	120	282	eduroam	a4:9b:cd:17:28:0f	-63
+0	120	282	DIRECT-e0-HP M281 LaserJet	b2:52:16:89:b5:e0	-85
+0	120	282	KUInfo AP	a4:9b:cd:17:28:0d	-63
+0	120	282	hughkim_3	70:5d:cc:80:7e:68	-80
+0	120	282	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-90
+0	120	282	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-84
+0	120	282	507	10:62:eb:32:47:e2	-87
+0	120	282	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-89
+0	120	282	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	282	KIM-310	70:5d:cc:2a:e7:22	-80
+1	120	282	eduroam	a4:9b:cd:3c:40:6f	-68
+1	120	282	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+1	120	282	iptime	00:08:9f:64:67:82	-77
+1	120	282	iptime_609c	88:36:6c:12:bf:8a	-87
+1	120	282	AIL-K5G	70:5d:cc:80:62:5a	-86
+1	120	282	ksjeong	90:9f:33:8a:3f:aa	-81
+1	120	282	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+1	120	282	netis	08:10:76:90:83:4d	-83
+1	120	282	AIL-K	70:5d:cc:80:62:58	-76
+1	120	282	eduroam	a4:9b:cd:3c:40:60	-71
+1	120	282	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+1	120	282	KUInfo AP	a4:9b:cd:3c:40:62	-72
+1	120	282	eduroam	a4:9b:cd:3d:4a:8f	-58
+1	120	282	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+1	120	282	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+1	120	282	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+1	120	282	fpl311	70:5d:cc:6c:31:66	-83
+1	120	282		34:20:e3:82:4e:b7	-87
+1	120	282	island-024EB0	34:20:e3:42:4e:b7	-85
+1	120	282	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	282	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+1	120	282	ADL2	58:86:94:2e:73:4e	-94
+1	120	282		b2:a7:b9:2c:ca:31	-91
+1	120	282	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+1	120	282	CPGR_2G	ec:08:6b:37:4e:fa	-93
+1	120	282	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+1	120	282	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+1	120	282	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	282	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+1	120	282	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+1	120	282	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+1	120	282	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+1	120	282	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+1	120	282	Ionia	68:d7:9a:4f:d3:67	-81
+1	120	282	eduroam	a4:9b:cd:17:28:0f	-60
+1	120	282	kkwak	70:5d:cc:cd:8b:d6	-94
+1	120	282	KUInfo AP	a4:9b:cd:17:28:0d	-60
+1	120	282	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+1	120	282	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+1	120	282	507	10:62:eb:32:47:e2	-90
+1	120	282	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+1	120	282	lordnorth	92:9f:33:c1:eb:20	-69
+1	120	282	KIM-310	70:5d:cc:2a:e7:22	-80
+1	120	282	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+1	120	282	iptime	92:9f:33:48:13:88	-86
+0	120	288	eduroam	a4:9b:cd:3c:40:6f	-68
+0	120	288	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+0	120	288	iptime	00:08:9f:64:67:82	-77
+0	120	288	iptime_609c	88:36:6c:12:bf:8a	-87
+0	120	288	AIL-K5G	70:5d:cc:80:62:5a	-86
+0	120	288	ksjeong	90:9f:33:8a:3f:aa	-81
+0	120	288	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+0	120	288	netis	08:10:76:90:83:4d	-83
+0	120	288	AIL-K	70:5d:cc:80:62:58	-76
+0	120	288	eduroam	a4:9b:cd:3c:40:60	-71
+0	120	288	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+0	120	288	KUInfo AP	a4:9b:cd:3c:40:62	-72
+0	120	288	eduroam	a4:9b:cd:3d:4a:8f	-58
+0	120	288	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+0	120	288	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+0	120	288	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+0	120	288	fpl311	70:5d:cc:6c:31:66	-83
+0	120	288		34:20:e3:82:4e:b7	-87
+0	120	288	island-024EB0	34:20:e3:42:4e:b7	-85
+0	120	288	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	288	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+0	120	288	ADL2	58:86:94:2e:73:4e	-94
+0	120	288		b2:a7:b9:2c:ca:31	-91
+0	120	288	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+0	120	288	CPGR_2G	ec:08:6b:37:4e:fa	-93
+0	120	288	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+0	120	288	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	288	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	288	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+0	120	288	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+0	120	288	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+0	120	288	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+0	120	288	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+0	120	288	Ionia	68:d7:9a:4f:d3:67	-81
+0	120	288	eduroam	a4:9b:cd:17:28:0f	-60
+0	120	288	kkwak	70:5d:cc:cd:8b:d6	-94
+0	120	288	KUInfo AP	a4:9b:cd:17:28:0d	-60
+0	120	288	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+0	120	288	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+0	120	288	507	10:62:eb:32:47:e2	-90
+0	120	288	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+0	120	288	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	288	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	288	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+0	120	288	iptime	92:9f:33:48:13:88	-86
+0	120	294	eduroam	a4:9b:cd:3c:40:6f	-68
+0	120	294	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+0	120	294	iptime	00:08:9f:64:67:82	-77
+0	120	294	iptime_609c	88:36:6c:12:bf:8a	-87
+0	120	294	AIL-K5G	70:5d:cc:80:62:5a	-86
+0	120	294	ksjeong	90:9f:33:8a:3f:aa	-81
+0	120	294	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+0	120	294	netis	08:10:76:90:83:4d	-83
+0	120	294	AIL-K	70:5d:cc:80:62:58	-76
+0	120	294	eduroam	a4:9b:cd:3c:40:60	-71
+0	120	294	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+0	120	294	KUInfo AP	a4:9b:cd:3c:40:62	-72
+0	120	294	eduroam	a4:9b:cd:3d:4a:8f	-58
+0	120	294	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+0	120	294	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+0	120	294	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+0	120	294	fpl311	70:5d:cc:6c:31:66	-83
+0	120	294		34:20:e3:82:4e:b7	-87
+0	120	294	island-024EB0	34:20:e3:42:4e:b7	-85
+0	120	294	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	294	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+0	120	294	ADL2	58:86:94:2e:73:4e	-94
+0	120	294		b2:a7:b9:2c:ca:31	-91
+0	120	294	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+0	120	294	CPGR_2G	ec:08:6b:37:4e:fa	-93
+0	120	294	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+0	120	294	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	294	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	294	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+0	120	294	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+0	120	294	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+0	120	294	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+0	120	294	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+0	120	294	Ionia	68:d7:9a:4f:d3:67	-81
+0	120	294	eduroam	a4:9b:cd:17:28:0f	-60
+0	120	294	kkwak	70:5d:cc:cd:8b:d6	-94
+0	120	294	KUInfo AP	a4:9b:cd:17:28:0d	-60
+0	120	294	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+0	120	294	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+0	120	294	507	10:62:eb:32:47:e2	-90
+0	120	294	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+0	120	294	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	294	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	294	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+0	120	294	iptime	92:9f:33:48:13:88	-86
+1	120	294	eduroam	a4:9b:cd:3c:40:6f	-68
+1	120	294	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+1	120	294	iptime	00:08:9f:64:67:82	-77
+1	120	294	iptime_609c	88:36:6c:12:bf:8a	-87
+1	120	294	AIL-K5G	70:5d:cc:80:62:5a	-86
+1	120	294	ksjeong	90:9f:33:8a:3f:aa	-81
+1	120	294	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+1	120	294	netis	08:10:76:90:83:4d	-83
+1	120	294	AIL-K	70:5d:cc:80:62:58	-76
+1	120	294	eduroam	a4:9b:cd:3c:40:60	-71
+1	120	294	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+1	120	294	KUInfo AP	a4:9b:cd:3c:40:62	-72
+1	120	294	eduroam	a4:9b:cd:3d:4a:8f	-58
+1	120	294	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+1	120	294	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+1	120	294	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+1	120	294	fpl311	70:5d:cc:6c:31:66	-83
+1	120	294		34:20:e3:82:4e:b7	-87
+1	120	294	island-024EB0	34:20:e3:42:4e:b7	-85
+1	120	294	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	294	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+1	120	294	ADL2	58:86:94:2e:73:4e	-94
+1	120	294		b2:a7:b9:2c:ca:31	-91
+1	120	294	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+1	120	294	CPGR_2G	ec:08:6b:37:4e:fa	-93
+1	120	294	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+1	120	294	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+1	120	294	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	294	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+1	120	294	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+1	120	294	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+1	120	294	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+1	120	294	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+1	120	294	Ionia	68:d7:9a:4f:d3:67	-81
+1	120	294	eduroam	a4:9b:cd:17:28:0f	-60
+1	120	294	kkwak	70:5d:cc:cd:8b:d6	-94
+1	120	294	KUInfo AP	a4:9b:cd:17:28:0d	-60
+1	120	294	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+1	120	294	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+1	120	294	507	10:62:eb:32:47:e2	-90
+1	120	294	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+1	120	294	lordnorth	92:9f:33:c1:eb:20	-69
+1	120	294	KIM-310	70:5d:cc:2a:e7:22	-80
+1	120	294	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+1	120	294	iptime	92:9f:33:48:13:88	-86
+0	120	300	eduroam	a4:9b:cd:3c:40:6f	-68
+0	120	300	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+0	120	300	iptime	00:08:9f:64:67:82	-77
+0	120	300	iptime_609c	88:36:6c:12:bf:8a	-87
+0	120	300	AIL-K5G	70:5d:cc:80:62:5a	-86
+0	120	300	ksjeong	90:9f:33:8a:3f:aa	-81
+0	120	300	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+0	120	300	netis	08:10:76:90:83:4d	-83
+0	120	300	AIL-K	70:5d:cc:80:62:58	-76
+0	120	300	eduroam	a4:9b:cd:3c:40:60	-71
+0	120	300	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+0	120	300	KUInfo AP	a4:9b:cd:3c:40:62	-72
+0	120	300	eduroam	a4:9b:cd:3d:4a:8f	-58
+0	120	300	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+0	120	300	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+0	120	300	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+0	120	300	fpl311	70:5d:cc:6c:31:66	-83
+0	120	300		34:20:e3:82:4e:b7	-87
+0	120	300	island-024EB0	34:20:e3:42:4e:b7	-85
+0	120	300	KUInfo AP	a4:9b:cd:41:68:cd	-90
+0	120	300	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+0	120	300	ADL2	58:86:94:2e:73:4e	-94
+0	120	300		b2:a7:b9:2c:ca:31	-91
+0	120	300	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+0	120	300	CPGR_2G	ec:08:6b:37:4e:fa	-93
+0	120	300	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+0	120	300	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+0	120	300	eduroam	a4:9b:cd:42:0e:af	-85
+0	120	300	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+0	120	300	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+0	120	300	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+0	120	300	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+0	120	300	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+0	120	300	Ionia	68:d7:9a:4f:d3:67	-81
+0	120	300	eduroam	a4:9b:cd:17:28:0f	-60
+0	120	300	kkwak	70:5d:cc:cd:8b:d6	-94
+0	120	300	KUInfo AP	a4:9b:cd:17:28:0d	-60
+0	120	300	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+0	120	300	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+0	120	300	507	10:62:eb:32:47:e2	-90
+0	120	300	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+0	120	300	lordnorth	92:9f:33:c1:eb:20	-69
+0	120	300	KIM-310	70:5d:cc:2a:e7:22	-80
+0	120	300	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+0	120	300	iptime	92:9f:33:48:13:88	-86
+1	120	300	eduroam	a4:9b:cd:3c:40:6f	-68
+1	120	300	KoreaUniv AP	a4:9b:cd:3c:40:6e	-58
+1	120	300	iptime	00:08:9f:64:67:82	-77
+1	120	300	iptime_609c	88:36:6c:12:bf:8a	-87
+1	120	300	AIL-K5G	70:5d:cc:80:62:5a	-86
+1	120	300	ksjeong	90:9f:33:8a:3f:aa	-81
+1	120	300	[LG_Wall-Mount A/C]b223	1e:39:29:4c:b2:23	-93
+1	120	300	netis	08:10:76:90:83:4d	-83
+1	120	300	AIL-K	70:5d:cc:80:62:58	-76
+1	120	300	eduroam	a4:9b:cd:3c:40:60	-71
+1	120	300	KoreaUniv AP	a4:9b:cd:3d:4a:8e	-58
+1	120	300	KUInfo AP	a4:9b:cd:3c:40:62	-72
+1	120	300	eduroam	a4:9b:cd:3d:4a:8f	-58
+1	120	300	KoreaUniv AP	a4:9b:cd:3c:40:61	-71
+1	120	300	[LG_Wall-Mount A/C]e5b8	1e:39:29:66:e5:b8	-89
+1	120	300	DIRECT-3e-HP M282 LaserJet	66:6c:80:61:92:3e	-89
+1	120	300	fpl311	70:5d:cc:6c:31:66	-83
+1	120	300		34:20:e3:82:4e:b7	-87
+1	120	300	island-024EB0	34:20:e3:42:4e:b7	-85
+1	120	300	KUInfo AP	a4:9b:cd:41:68:cd	-90
+1	120	300	KUInfo AP	a4:9b:cd:3d:4a:8d	-58
+1	120	300	ADL2	58:86:94:2e:73:4e	-94
+1	120	300		b2:a7:b9:2c:ca:31	-91
+1	120	300	Apple Network df16d3	1c:36:bb:05:5b:4a	-86
+1	120	300	CPGR_2G	ec:08:6b:37:4e:fa	-93
+1	120	300	AT_401_CST_570004_WW_783f	1c:39:29:26:78:3f	-93
+1	120	300	KUInfo AP	a4:9b:cd:42:0e:ad	-84
+1	120	300	eduroam	a4:9b:cd:42:0e:af	-85
+1	120	300	KoreaUniv AP	a4:9b:cd:42:0e:ae	-83
+1	120	300	NETGEAR83-5G	bc:a5:11:0e:f3:f3	-86
+1	120	300	AT_401_RAC_056905_WW_b87e	42:2f:86:cb:b8:7e	-87
+1	120	300	DIRECT-a7-HP M477 LaserJet	2a:3a:4d:7f:f9:a7	-91
+1	120	300	KoreaUniv AP	a4:9b:cd:17:28:0e	-60
+1	120	300	Ionia	68:d7:9a:4f:d3:67	-81
+1	120	300	eduroam	a4:9b:cd:17:28:0f	-60
+1	120	300	kkwak	70:5d:cc:cd:8b:d6	-94
+1	120	300	KUInfo AP	a4:9b:cd:17:28:0d	-60
+1	120	300	[LG_CeilingCassette A/C]e8d7	1e:39:29:6e:e8:d7	-89
+1	120	300	HP-Print-8F-Officejet Pro 8610	fc:3f:db:eb:97:8f	-86
+1	120	300	507	10:62:eb:32:47:e2	-90
+1	120	300	SNOM-2.4GHz	90:9f:33:fd:6a:fa	-87
+1	120	300	lordnorth	92:9f:33:c1:eb:20	-69
+1	120	300	KIM-310	70:5d:cc:2a:e7:22	-80
+1	120	300	CHEON-602'	70:5d:cc:9f:b4:a8	-86
+1	120	300	iptime	92:9f:33:48:13:88	-86

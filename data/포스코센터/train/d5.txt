@@ -1,0 +1,981 @@
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	144.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	144.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	144.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	144.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	144.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	144.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	144.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	144.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	144.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	144.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	144.0		f4:d9:fb:bf:57:61	-66
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	144.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	144.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	144.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	144.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	144.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	144.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	144.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	144.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	144.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	144.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	144.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	144.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	144.0		a8:ca:b9:07:49:6f	-91
+0	144.0	144.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	144.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	144.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	144.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+1	144.0	144.0		f4:d9:fb:bf:c2:4d	-54
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+1	144.0	144.0		f4:d9:fb:bf:c2:4f	-55
+1	144.0	144.0		f4:d9:fb:bf:57:2f	-55
+1	144.0	144.0		f4:d9:fb:bf:57:2d	-55
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+1	144.0	144.0		f4:d9:fb:bf:5e:a1	-59
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+1	144.0	144.0		f4:d9:fb:bf:c2:8f	-62
+1	144.0	144.0		f4:d9:fb:bf:c2:8d	-62
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+1	144.0	144.0		f4:d9:fb:bf:b2:c1	-64
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+1	144.0	144.0		f4:d9:fb:bf:6d:6f	-65
+1	144.0	144.0		f4:d9:fb:bf:6d:6d	-65
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+1	144.0	144.0		f4:d9:fb:bf:57:61	-66
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+1	144.0	144.0		f4:d9:fb:bf:6a:6d	-66
+1	144.0	144.0		f4:d9:fb:bf:6a:6f	-66
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+1	144.0	144.0		f4:d9:fb:bf:b3:0f	-67
+1	144.0	144.0		f4:d9:fb:bf:b3:0d	-67
+1	144.0	144.0		f4:d9:fb:bf:bc:c1	-67
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+1	144.0	144.0		f4:d9:fb:bf:b4:81	-69
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+1	144.0	144.0		f4:d9:fb:bf:6a:2f	-73
+1	144.0	144.0		f4:d9:fb:bf:6a:2d	-73
+1	144.0	144.0		f4:d9:fb:bf:b1:cf	-73
+1	144.0	144.0		f4:d9:fb:bf:b1:cd	-73
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+1	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+1	144.0	144.0		f4:d9:fb:bf:b1:c1	-83
+1	144.0	144.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+1	144.0	144.0		a8:ca:b9:07:49:6f	-91
+1	144.0	144.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+1	144.0	144.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+1	144.0	144.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+1	144.0	144.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+2	144.0	144.0		f4:d9:fb:bf:c2:4d	-54
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+2	144.0	144.0		f4:d9:fb:bf:c2:4f	-55
+2	144.0	144.0		f4:d9:fb:bf:57:2f	-55
+2	144.0	144.0		f4:d9:fb:bf:57:2d	-55
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+2	144.0	144.0		f4:d9:fb:bf:5e:a1	-59
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+2	144.0	144.0		f4:d9:fb:bf:c2:8f	-62
+2	144.0	144.0		f4:d9:fb:bf:c2:8d	-62
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+2	144.0	144.0		f4:d9:fb:bf:b2:c1	-64
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+2	144.0	144.0		f4:d9:fb:bf:6d:6f	-65
+2	144.0	144.0		f4:d9:fb:bf:6d:6d	-65
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+2	144.0	144.0		f4:d9:fb:bf:57:61	-66
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+2	144.0	144.0		f4:d9:fb:bf:6a:6d	-66
+2	144.0	144.0		f4:d9:fb:bf:6a:6f	-66
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+2	144.0	144.0		f4:d9:fb:bf:b3:0f	-67
+2	144.0	144.0		f4:d9:fb:bf:b3:0d	-67
+2	144.0	144.0		f4:d9:fb:bf:bc:c1	-67
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+2	144.0	144.0		f4:d9:fb:bf:b4:81	-69
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+2	144.0	144.0		f4:d9:fb:bf:6a:2f	-73
+2	144.0	144.0		f4:d9:fb:bf:6a:2d	-73
+2	144.0	144.0		f4:d9:fb:bf:b1:cf	-73
+2	144.0	144.0		f4:d9:fb:bf:b1:cd	-73
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+2	144.0	144.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+2	144.0	144.0		f4:d9:fb:bf:b1:c1	-83
+2	144.0	144.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+2	144.0	144.0		a8:ca:b9:07:49:6f	-91
+2	144.0	144.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+2	144.0	144.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+2	144.0	144.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+2	144.0	144.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	150.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	150.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	150.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	150.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	150.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	150.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	150.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	150.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	150.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	150.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	150.0		f4:d9:fb:bf:57:61	-66
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	150.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	150.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	150.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	150.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	150.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	150.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	150.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	150.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	150.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	150.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	150.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	150.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	150.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	150.0		a8:ca:b9:07:49:6f	-91
+0	144.0	150.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	150.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	150.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	150.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	156.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	156.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	156.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	156.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	156.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	156.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	156.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	156.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	156.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	156.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	156.0		f4:d9:fb:bf:57:61	-66
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	156.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	156.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	156.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	156.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	156.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	156.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	156.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	156.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	156.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	156.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	156.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	156.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	156.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	156.0		a8:ca:b9:07:49:6f	-91
+0	144.0	156.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	156.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	156.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	156.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+1	144.0	162.0		f4:d9:fb:bf:c2:4d	-54
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+1	144.0	162.0		f4:d9:fb:bf:c2:4f	-55
+1	144.0	162.0		f4:d9:fb:bf:57:2f	-55
+1	144.0	162.0		f4:d9:fb:bf:57:2d	-55
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+1	144.0	162.0		f4:d9:fb:bf:5e:a1	-59
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+1	144.0	162.0		f4:d9:fb:bf:c2:8f	-62
+1	144.0	162.0		f4:d9:fb:bf:c2:8d	-62
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+1	144.0	162.0		f4:d9:fb:bf:b2:c1	-64
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+1	144.0	162.0		f4:d9:fb:bf:6d:6f	-65
+1	144.0	162.0		f4:d9:fb:bf:6d:6d	-65
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+1	144.0	162.0		f4:d9:fb:bf:57:61	-66
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+1	144.0	162.0		f4:d9:fb:bf:6a:6d	-66
+1	144.0	162.0		f4:d9:fb:bf:6a:6f	-66
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+1	144.0	162.0		f4:d9:fb:bf:b3:0f	-67
+1	144.0	162.0		f4:d9:fb:bf:b3:0d	-67
+1	144.0	162.0		f4:d9:fb:bf:bc:c1	-67
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+1	144.0	162.0		f4:d9:fb:bf:b4:81	-69
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+1	144.0	162.0		f4:d9:fb:bf:6a:2f	-73
+1	144.0	162.0		f4:d9:fb:bf:6a:2d	-73
+1	144.0	162.0		f4:d9:fb:bf:b1:cf	-73
+1	144.0	162.0		f4:d9:fb:bf:b1:cd	-73
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+1	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+1	144.0	162.0		f4:d9:fb:bf:b1:c1	-83
+1	144.0	162.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+1	144.0	162.0		a8:ca:b9:07:49:6f	-91
+1	144.0	162.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+1	144.0	162.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+1	144.0	162.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+1	144.0	162.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	162.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	162.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	162.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	162.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	162.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	162.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	162.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	162.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	162.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	162.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	162.0		f4:d9:fb:bf:57:61	-66
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	162.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	162.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	162.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	162.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	162.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	162.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	162.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	162.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	162.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	162.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	162.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	162.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	162.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	162.0		a8:ca:b9:07:49:6f	-91
+0	144.0	162.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	162.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	162.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	162.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	168.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	168.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	168.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	168.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	168.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	168.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	168.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	168.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	168.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	168.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	168.0		f4:d9:fb:bf:57:61	-66
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	168.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	168.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	168.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	168.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	168.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	168.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	168.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	168.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	168.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	168.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	168.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	168.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	168.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	168.0		a8:ca:b9:07:49:6f	-91
+0	144.0	168.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	168.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	168.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	168.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:c2:4d	-53
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:57:2f	-54
+0	144.0	174.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-55
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:5e:af	-55
+0	144.0	174.0		f4:d9:fb:bf:c2:4f	-55
+0	144.0	174.0		f4:d9:fb:bf:57:2f	-55
+0	144.0	174.0		f4:d9:fb:bf:57:2d	-55
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-56
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:57:20	-59
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-59
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:5e:a0	-59
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-59
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-59
+0	144.0	174.0		f4:d9:fb:bf:5e:a1	-59
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-60
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b2:cf	-60
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:c2:8f	-61
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	174.0		f4:d9:fb:bf:c2:8f	-62
+0	144.0	174.0		f4:d9:fb:bf:c2:8d	-62
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:57:6f	-63
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-63
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b2:c0	-64
+0	144.0	174.0		f4:d9:fb:bf:b2:c1	-64
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-64
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-64
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-65
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6d:6f	-65
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	174.0		f4:d9:fb:bf:6d:6f	-65
+0	144.0	174.0		f4:d9:fb:bf:6d:6d	-65
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-66
+0	144.0	174.0		f4:d9:fb:bf:57:61	-66
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6a:6f	-66
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-66
+0	144.0	174.0		f4:d9:fb:bf:6a:6d	-66
+0	144.0	174.0		f4:d9:fb:bf:6a:6f	-66
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-67
+0	144.0	174.0		f4:d9:fb:bf:b3:0f	-67
+0	144.0	174.0		f4:d9:fb:bf:b3:0d	-67
+0	144.0	174.0		f4:d9:fb:bf:bc:c1	-67
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:57:60	-68
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-68
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b4:8f	-68
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b4:80	-69
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-69
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b3:00	-69
+0	144.0	174.0		f4:d9:fb:bf:b4:81	-69
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:c2:80	-70
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-70
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-72
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6a:20	-73
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-73
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6d:60	-73
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6a:60	-73
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-73
+0	144.0	174.0		f4:d9:fb:bf:6a:2f	-73
+0	144.0	174.0		f4:d9:fb:bf:6a:2d	-73
+0	144.0	174.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	174.0		f4:d9:fb:bf:b1:cd	-73
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:6a:2f	-74
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-74
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b1:cf	-74
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-74
+0	144.0	174.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:b1:c0	-83
+0	144.0	174.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	174.0	P_WIFI	f4:d9:fb:bf:af:cf	-85
+0	144.0	174.0		a8:ca:b9:07:49:6f	-91
+0	144.0	174.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	174.0	AT_401_CST_570004_WW_e173	1c:39:29:25:e1:73	-92
+0	144.0	174.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-95
+0	144.0	174.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-96
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:4f	-53
+0	144.0	180.0		f4:d9:fb:bf:c2:4f	-54
+0	144.0	180.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-56
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:2f	-56
+0	144.0	180.0		f4:d9:fb:bf:57:2f	-57
+0	144.0	180.0		f4:d9:fb:bf:57:2d	-57
+0	144.0	180.0		f4:d9:fb:bf:5e:af	-57
+0	144.0	180.0		f4:d9:fb:bf:5e:ad	-57
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-58
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b2:cf	-58
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:5e:af	-58
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-58
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:6f	-59
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-59
+0	144.0	180.0		f4:d9:fb:bf:c2:8d	-59
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-60
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-60
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:8f	-60
+0	144.0	180.0		f4:d9:fb:bf:c2:8f	-60
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:20	-61
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-61
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	180.0		f4:d9:fb:bf:5e:a1	-61
+0	144.0	180.0		f4:d9:fb:bf:bc:cf	-61
+0	144.0	180.0		f4:d9:fb:bf:bc:cd	-61
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:5e:a0	-62
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-63
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-63
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:60	-64
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-64
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b4:8f	-64
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-64
+0	144.0	180.0		f4:d9:fb:bf:b3:0d	-64
+0	144.0	180.0		f4:d9:fb:bf:b2:c1	-65
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-65
+0	144.0	180.0		f4:d9:fb:bf:57:61	-65
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:6f	-65
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	180.0		f4:d9:fb:bf:6a:6d	-65
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:2f	-65
+0	144.0	180.0		f4:d9:fb:bf:6a:6f	-65
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-65
+0	144.0	180.0		f4:d9:fb:bf:b3:0f	-65
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b2:c0	-66
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-66
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6d:6f	-66
+0	144.0	180.0		f4:d9:fb:bf:6a:2f	-66
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b4:80	-67
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-67
+0	144.0	180.0		f4:d9:fb:bf:6d:6f	-67
+0	144.0	180.0		f4:d9:fb:bf:6d:6d	-67
+0	144.0	180.0		f4:d9:fb:bf:b4:81	-67
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-68
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b3:00	-68
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	180.0		f4:d9:fb:bf:b3:01	-69
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-71
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:80	-72
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-72
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:60	-72
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-72
+0	144.0	180.0		f4:d9:fb:bf:b1:cd	-72
+0	144.0	180.0		f4:d9:fb:bf:c2:81	-72
+0	144.0	180.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:20	-74
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-74
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:6d:60	-74
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-74
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:b1:c0	-78
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	180.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:af:cf	-86
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:af:cd	-86
+0	144.0	180.0		f4:d9:fb:bf:af:cf	-86
+0	144.0	180.0		f4:d9:fb:bf:af:cd	-86
+0	144.0	180.0	AT_401_CST_570004_WW_c635	1c:39:29:25:c6:35	-88
+0	144.0	180.0		a8:ca:b9:07:49:6f	-90
+0	144.0	180.0	SE-MO-WIFI	a8:ca:b9:07:49:6e	-91
+0	144.0	180.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	180.0	P_WIFI	f4:d9:fb:bf:af:c0	-93
+0	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:af:c2	-93
+0	144.0	180.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-94
+0	144.0	180.0		a8:ca:b9:07:48:ef	-94
+0	144.0	180.0		a8:ca:b9:07:46:6f	-94
+0	144.0	180.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-96
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:4f	-53
+1	144.0	180.0		f4:d9:fb:bf:c2:4f	-54
+1	144.0	180.0		f4:d9:fb:bf:c2:4d	-54
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-56
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:2f	-56
+1	144.0	180.0		f4:d9:fb:bf:57:2f	-57
+1	144.0	180.0		f4:d9:fb:bf:57:2d	-57
+1	144.0	180.0		f4:d9:fb:bf:5e:af	-57
+1	144.0	180.0		f4:d9:fb:bf:5e:ad	-57
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-58
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b2:cf	-58
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:5e:af	-58
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-58
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:6f	-59
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-59
+1	144.0	180.0		f4:d9:fb:bf:c2:8d	-59
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-60
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-60
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:8f	-60
+1	144.0	180.0		f4:d9:fb:bf:c2:8f	-60
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:20	-61
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-61
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+1	144.0	180.0		f4:d9:fb:bf:5e:a1	-61
+1	144.0	180.0		f4:d9:fb:bf:bc:cf	-61
+1	144.0	180.0		f4:d9:fb:bf:bc:cd	-61
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:5e:a0	-62
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-63
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-63
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:57:60	-64
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-64
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b4:8f	-64
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-64
+1	144.0	180.0		f4:d9:fb:bf:b3:0d	-64
+1	144.0	180.0		f4:d9:fb:bf:b2:c1	-65
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-65
+1	144.0	180.0		f4:d9:fb:bf:57:61	-65
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:6f	-65
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+1	144.0	180.0		f4:d9:fb:bf:6a:6d	-65
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:2f	-65
+1	144.0	180.0		f4:d9:fb:bf:6a:6f	-65
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-65
+1	144.0	180.0		f4:d9:fb:bf:b3:0f	-65
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b2:c0	-66
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-66
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6d:6f	-66
+1	144.0	180.0		f4:d9:fb:bf:6a:2f	-66
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b4:80	-67
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-67
+1	144.0	180.0		f4:d9:fb:bf:6d:6f	-67
+1	144.0	180.0		f4:d9:fb:bf:6d:6d	-67
+1	144.0	180.0		f4:d9:fb:bf:b4:81	-67
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-68
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b3:00	-68
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+1	144.0	180.0		f4:d9:fb:bf:b3:01	-69
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-71
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:c2:80	-72
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-72
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:60	-72
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-72
+1	144.0	180.0		f4:d9:fb:bf:b1:cd	-72
+1	144.0	180.0		f4:d9:fb:bf:c2:81	-72
+1	144.0	180.0		f4:d9:fb:bf:b1:cf	-73
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6a:20	-74
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-74
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:6d:60	-74
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-74
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:b1:c0	-78
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+1	144.0	180.0		f4:d9:fb:bf:b1:c1	-83
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:af:cf	-86
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:af:cd	-86
+1	144.0	180.0		f4:d9:fb:bf:af:cf	-86
+1	144.0	180.0		f4:d9:fb:bf:af:cd	-86
+1	144.0	180.0	AT_401_CST_570004_WW_c635	1c:39:29:25:c6:35	-88
+1	144.0	180.0		a8:ca:b9:07:49:6f	-90
+1	144.0	180.0	SE-MO-WIFI	a8:ca:b9:07:49:6e	-91
+1	144.0	180.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+1	144.0	180.0	P_WIFI	f4:d9:fb:bf:af:c0	-93
+1	144.0	180.0	SE-MO-WIFI	f4:d9:fb:bf:af:c2	-93
+1	144.0	180.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-94
+1	144.0	180.0		a8:ca:b9:07:48:ef	-94
+1	144.0	180.0		a8:ca:b9:07:46:6f	-94
+1	144.0	180.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-96
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:c2:4f	-53
+0	144.0	186.0		f4:d9:fb:bf:c2:4f	-54
+0	144.0	186.0		f4:d9:fb:bf:c2:4d	-54
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:57:2d	-56
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:57:2f	-56
+0	144.0	186.0		f4:d9:fb:bf:57:2f	-57
+0	144.0	186.0		f4:d9:fb:bf:57:2d	-57
+0	144.0	186.0		f4:d9:fb:bf:5e:af	-57
+0	144.0	186.0		f4:d9:fb:bf:5e:ad	-57
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b2:cd	-58
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b2:cf	-58
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:5e:af	-58
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:5e:ad	-58
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:57:6f	-59
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:57:6d	-59
+0	144.0	186.0		f4:d9:fb:bf:c2:8d	-59
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:57:22	-60
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:bc:cd	-60
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:c2:8f	-60
+0	144.0	186.0		f4:d9:fb:bf:c2:8f	-60
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:57:20	-61
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:5e:a2	-61
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:c2:8d	-61
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:bc:cf	-61
+0	144.0	186.0		f4:d9:fb:bf:5e:a1	-61
+0	144.0	186.0		f4:d9:fb:bf:bc:cf	-61
+0	144.0	186.0		f4:d9:fb:bf:bc:cd	-61
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:5e:a0	-62
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:c2:42	-63
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:57:62	-63
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b2:c2	-64
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:c2:40	-64
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:57:60	-64
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6a:6d	-64
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b4:8f	-64
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b4:8d	-64
+0	144.0	186.0		f4:d9:fb:bf:b3:0d	-64
+0	144.0	186.0		f4:d9:fb:bf:b2:c1	-65
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b3:0d	-65
+0	144.0	186.0		f4:d9:fb:bf:57:61	-65
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6a:6f	-65
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b3:0f	-65
+0	144.0	186.0		f4:d9:fb:bf:6a:6d	-65
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6a:2f	-65
+0	144.0	186.0		f4:d9:fb:bf:6a:6f	-65
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6a:2d	-65
+0	144.0	186.0		f4:d9:fb:bf:b3:0f	-65
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b2:c0	-66
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6d:6d	-66
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6d:6f	-66
+0	144.0	186.0		f4:d9:fb:bf:6a:2f	-66
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:bc:c0	-67
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b4:80	-67
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b4:82	-67
+0	144.0	186.0		f4:d9:fb:bf:6d:6f	-67
+0	144.0	186.0		f4:d9:fb:bf:6d:6d	-67
+0	144.0	186.0		f4:d9:fb:bf:b4:81	-67
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:bc:c2	-68
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b3:00	-68
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b3:02	-69
+0	144.0	186.0		f4:d9:fb:bf:b3:01	-69
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b1:cd	-71
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:c2:80	-72
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:c2:82	-72
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6a:60	-72
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6a:62	-72
+0	144.0	186.0		f4:d9:fb:bf:b1:cd	-72
+0	144.0	186.0		f4:d9:fb:bf:c2:81	-72
+0	144.0	186.0		f4:d9:fb:bf:b1:cf	-73
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6a:20	-74
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6a:22	-74
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:6d:60	-74
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:6d:62	-74
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:b1:c0	-78
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:b1:c2	-83
+0	144.0	186.0		f4:d9:fb:bf:b1:c1	-83
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:af:cf	-86
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:af:cd	-86
+0	144.0	186.0		f4:d9:fb:bf:af:cf	-86
+0	144.0	186.0		f4:d9:fb:bf:af:cd	-86
+0	144.0	186.0	AT_401_CST_570004_WW_c635	1c:39:29:25:c6:35	-88
+0	144.0	186.0		a8:ca:b9:07:49:6f	-90
+0	144.0	186.0	SE-MO-WIFI	a8:ca:b9:07:49:6e	-91
+0	144.0	186.0	AT_203_S5MPC_c74f	4c:bc:e9:e4:c7:4f	-92
+0	144.0	186.0	P_WIFI	f4:d9:fb:bf:af:c0	-93
+0	144.0	186.0	SE-MO-WIFI	f4:d9:fb:bf:af:c2	-93
+0	144.0	186.0	AT_402_AIR_910604_WW_aa92	1c:39:29:37:aa:92	-94
+0	144.0	186.0		a8:ca:b9:07:48:ef	-94
+0	144.0	186.0		a8:ca:b9:07:46:6f	-94
+0	144.0	186.0	AT_402_AIR_910604_WW_aa80	1c:39:29:37:aa:80	-96

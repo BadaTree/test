@@ -1,0 +1,4039 @@
+0	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	0.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	0.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	0.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	0.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	0.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	0.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	0.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	0.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	0.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	0.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	0.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	0.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	0.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	0.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	0.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	0.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	0.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	0.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	0.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	0.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	0.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	0.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	0.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+1	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+1	228.0	0.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+1	228.0	0.0	eduroam	70:6d:15:dc:1d:af	-66
+1	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+1	228.0	0.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+1	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+1	228.0	0.0	eduroam	70:6d:15:db:45:6f	-70
+1	228.0	0.0	eduroam	70:6d:15:ee:6a:6f	-70
+1	228.0	0.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+1	228.0	0.0	eduroam	70:6d:15:bf:f8:60	-74
+1	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+1	228.0	0.0	eduroam	70:6d:15:e0:94:8f	-75
+1	228.0	0.0	eduroam	38:0e:4d:92:7d:cf	-76
+1	228.0	0.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+1	228.0	0.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+1	228.0	0.0	eduroam	70:6d:15:e0:ac:6f	-77
+1	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+1	228.0	0.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+1	228.0	0.0	eduroam	70:6d:15:e0:23:0f	-78
+1	228.0	0.0	eduroam	70:6d:15:e0:ac:60	-78
+1	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+1	228.0	0.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+1	228.0	0.0	eduroam	70:6d:15:d4:72:ef	-80
+1	228.0	0.0	eduroam	70:6d:15:e0:94:80	-80
+1	228.0	0.0	eduroam	00:2c:c8:ea:eb:8f	-84
+1	228.0	0.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+1	228.0	0.0	eduroam	00:2c:c8:cf:82:ef	-85
+1	228.0	0.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+1	228.0	0.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+2	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+2	228.0	0.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+2	228.0	0.0	eduroam	70:6d:15:dc:1d:af	-66
+2	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+2	228.0	0.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+2	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+2	228.0	0.0	eduroam	70:6d:15:db:45:6f	-70
+2	228.0	0.0	eduroam	70:6d:15:ee:6a:6f	-70
+2	228.0	0.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+2	228.0	0.0	eduroam	70:6d:15:bf:f8:60	-74
+2	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+2	228.0	0.0	eduroam	70:6d:15:e0:94:8f	-75
+2	228.0	0.0	eduroam	38:0e:4d:92:7d:cf	-76
+2	228.0	0.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+2	228.0	0.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+2	228.0	0.0	eduroam	70:6d:15:e0:ac:6f	-77
+2	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+2	228.0	0.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+2	228.0	0.0	eduroam	70:6d:15:e0:23:0f	-78
+2	228.0	0.0	eduroam	70:6d:15:e0:ac:60	-78
+2	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+2	228.0	0.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+2	228.0	0.0	eduroam	70:6d:15:d4:72:ef	-80
+2	228.0	0.0	eduroam	70:6d:15:e0:94:80	-80
+2	228.0	0.0	eduroam	00:2c:c8:ea:eb:8f	-84
+2	228.0	0.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+2	228.0	0.0	eduroam	00:2c:c8:cf:82:ef	-85
+2	228.0	0.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+2	228.0	0.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+3	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+3	228.0	0.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+3	228.0	0.0	eduroam	70:6d:15:dc:1d:af	-66
+3	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+3	228.0	0.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+3	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+3	228.0	0.0	eduroam	70:6d:15:db:45:6f	-70
+3	228.0	0.0	eduroam	70:6d:15:ee:6a:6f	-70
+3	228.0	0.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+3	228.0	0.0	eduroam	70:6d:15:bf:f8:60	-74
+3	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+3	228.0	0.0	eduroam	70:6d:15:e0:94:8f	-75
+3	228.0	0.0	eduroam	38:0e:4d:92:7d:cf	-76
+3	228.0	0.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+3	228.0	0.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+3	228.0	0.0	eduroam	70:6d:15:e0:ac:6f	-77
+3	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+3	228.0	0.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+3	228.0	0.0	eduroam	70:6d:15:e0:23:0f	-78
+3	228.0	0.0	eduroam	70:6d:15:e0:ac:60	-78
+3	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+3	228.0	0.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+3	228.0	0.0	eduroam	70:6d:15:d4:72:ef	-80
+3	228.0	0.0	eduroam	70:6d:15:e0:94:80	-80
+3	228.0	0.0	eduroam	00:2c:c8:ea:eb:8f	-84
+3	228.0	0.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+3	228.0	0.0	eduroam	00:2c:c8:cf:82:ef	-85
+3	228.0	0.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+3	228.0	0.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+4	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+4	228.0	0.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+4	228.0	0.0	eduroam	70:6d:15:dc:1d:af	-66
+4	228.0	0.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+4	228.0	0.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+4	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+4	228.0	0.0	eduroam	70:6d:15:db:45:6f	-70
+4	228.0	0.0	eduroam	70:6d:15:ee:6a:6f	-70
+4	228.0	0.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+4	228.0	0.0	eduroam	70:6d:15:bf:f8:60	-74
+4	228.0	0.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+4	228.0	0.0	eduroam	70:6d:15:e0:94:8f	-75
+4	228.0	0.0	eduroam	38:0e:4d:92:7d:cf	-76
+4	228.0	0.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+4	228.0	0.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+4	228.0	0.0	eduroam	70:6d:15:e0:ac:6f	-77
+4	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+4	228.0	0.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+4	228.0	0.0	eduroam	70:6d:15:e0:23:0f	-78
+4	228.0	0.0	eduroam	70:6d:15:e0:ac:60	-78
+4	228.0	0.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+4	228.0	0.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+4	228.0	0.0	eduroam	70:6d:15:d4:72:ef	-80
+4	228.0	0.0	eduroam	70:6d:15:e0:94:80	-80
+4	228.0	0.0	eduroam	00:2c:c8:ea:eb:8f	-84
+4	228.0	0.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+4	228.0	0.0	eduroam	00:2c:c8:cf:82:ef	-85
+4	228.0	0.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+4	228.0	0.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	6.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	6.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	6.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	6.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	6.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	6.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	6.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	6.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	6.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	6.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	6.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	6.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	6.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	6.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	6.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	6.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	6.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	6.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	6.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	6.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	6.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	6.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	6.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	6.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	6.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	6.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	6.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	6.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	6.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	12.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	12.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	12.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	12.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	12.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	12.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	12.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	12.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	12.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	12.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	12.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	12.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	12.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	12.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	12.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	12.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	12.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	12.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	12.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	12.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	12.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	12.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	12.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	12.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	12.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	12.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	12.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	12.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	12.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	18.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	18.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	18.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	18.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	18.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	18.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	18.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	18.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	18.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	18.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	18.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	18.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	18.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	18.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	18.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	18.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	18.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	18.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	18.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	18.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	18.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	18.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	18.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	18.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	18.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	18.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	18.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	18.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	18.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+1	228.0	18.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+1	228.0	18.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+1	228.0	18.0	eduroam	70:6d:15:dc:1d:af	-66
+1	228.0	18.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+1	228.0	18.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+1	228.0	18.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+1	228.0	18.0	eduroam	70:6d:15:db:45:6f	-70
+1	228.0	18.0	eduroam	70:6d:15:ee:6a:6f	-70
+1	228.0	18.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+1	228.0	18.0	eduroam	70:6d:15:bf:f8:60	-74
+1	228.0	18.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+1	228.0	18.0	eduroam	70:6d:15:e0:94:8f	-75
+1	228.0	18.0	eduroam	38:0e:4d:92:7d:cf	-76
+1	228.0	18.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+1	228.0	18.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+1	228.0	18.0	eduroam	70:6d:15:e0:ac:6f	-77
+1	228.0	18.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+1	228.0	18.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+1	228.0	18.0	eduroam	70:6d:15:e0:23:0f	-78
+1	228.0	18.0	eduroam	70:6d:15:e0:ac:60	-78
+1	228.0	18.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+1	228.0	18.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+1	228.0	18.0	eduroam	70:6d:15:d4:72:ef	-80
+1	228.0	18.0	eduroam	70:6d:15:e0:94:80	-80
+1	228.0	18.0	eduroam	00:2c:c8:ea:eb:8f	-84
+1	228.0	18.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+1	228.0	18.0	eduroam	00:2c:c8:cf:82:ef	-85
+1	228.0	18.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+1	228.0	18.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	24.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	24.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	24.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	24.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	24.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	24.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	24.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	24.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	24.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	24.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	24.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	24.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	24.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	24.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	24.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	24.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	24.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	24.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	24.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	24.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	24.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	24.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	24.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	24.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	24.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	24.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	24.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	24.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	24.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	30.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-60
+0	228.0	30.0	SKINFO3	70:5d:cc:0d:0d:88	-65
+0	228.0	30.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	30.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	30.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-68
+0	228.0	30.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	30.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	30.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	30.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	30.0	eduroam	70:6d:15:bf:f8:60	-74
+0	228.0	30.0	KoreaUniv AP	70:6d:15:db:45:61	-75
+0	228.0	30.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	30.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	30.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	30.0	SKINFO2	64:ee:b7:f1:12:3a	-76
+0	228.0	30.0	eduroam	70:6d:15:e0:ac:6f	-77
+0	228.0	30.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-77
+0	228.0	30.0	KoreaUniv AP	70:6d:15:e0:23:0e	-77
+0	228.0	30.0	eduroam	70:6d:15:e0:23:0f	-78
+0	228.0	30.0	eduroam	70:6d:15:e0:ac:60	-78
+0	228.0	30.0	KoreaUniv AP	70:6d:15:e0:ac:61	-78
+0	228.0	30.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	30.0	eduroam	70:6d:15:d4:72:ef	-80
+0	228.0	30.0	eduroam	70:6d:15:e0:94:80	-80
+0	228.0	30.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	30.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-84
+0	228.0	30.0	eduroam	00:2c:c8:cf:82:ef	-85
+0	228.0	30.0	KoreaUniv AP	70:6d:15:db:8c:8e	-85
+0	228.0	30.0	KoreaUniv AP	00:2c:c8:cf:82:ee	-85
+0	228.0	36.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	36.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	36.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	36.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	36.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	36.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	36.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	36.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	36.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	36.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	36.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	36.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	36.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	36.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	36.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	36.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	36.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	36.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	36.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	36.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	36.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	36.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	36.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	36.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	36.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	36.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	36.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	36.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	36.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	36.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	36.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	42.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	42.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	42.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	42.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	42.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	42.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	42.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	42.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	42.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	42.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	42.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	42.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	42.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	42.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	42.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	42.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	42.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	42.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	42.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	42.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	42.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	42.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	42.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	42.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	42.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	42.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	42.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	42.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	42.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	42.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	42.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	48.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	48.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	48.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	48.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	48.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	48.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	48.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	48.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	48.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	48.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	48.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	48.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	48.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	48.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	48.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	48.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	48.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	48.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	48.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	48.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	48.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	48.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	48.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	48.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	48.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	48.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	48.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	48.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	48.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	48.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	48.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	54.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	54.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	54.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	54.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	54.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	54.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	54.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	54.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	54.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	54.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	54.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	54.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	54.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	54.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	54.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	54.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	54.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	54.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	54.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	54.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	54.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	54.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	54.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	54.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	54.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	54.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	54.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	54.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	54.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	54.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	54.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	60.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	60.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	60.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	60.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	60.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	60.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	60.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	60.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	60.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	60.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	60.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	60.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	60.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	60.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	60.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	60.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	60.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	60.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	60.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	60.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	60.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	60.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	60.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	60.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	60.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	60.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	60.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	60.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	60.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	60.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	60.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	66.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	66.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	66.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	66.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	66.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	66.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	66.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	66.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	66.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	66.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	66.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	66.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	66.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	66.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	66.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	66.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	66.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	66.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	66.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	66.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	66.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	66.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	66.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	66.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	66.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	66.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	66.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	66.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	66.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	66.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	66.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	72.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	72.0	SKINFO3	70:5d:cc:0d:0d:88	-64
+0	228.0	72.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	72.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	72.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	72.0	eduroam	38:0e:4d:92:7d:cf	-73
+0	228.0	72.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-73
+0	228.0	72.0	eduroam	70:6d:15:e0:23:0f	-73
+0	228.0	72.0	KoreaUniv AP	70:6d:15:e0:23:0e	-73
+0	228.0	72.0	eduroam	70:6d:15:db:45:6f	-73
+0	228.0	72.0		b6:5b:d6:f2:0f:39	-74
+0	228.0	72.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	72.0	KoreaUniv AP	70:6d:15:d2:51:ae	-75
+0	228.0	72.0	KoreaUniv AP	70:6d:15:d4:72:ee	-76
+0	228.0	72.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	72.0	eduroam	70:6d:15:bf:f8:60	-76
+0	228.0	72.0	YSY	da:47:03:d3:71:1f	-76
+0	228.0	72.0	eduroam	70:6d:15:db:45:60	-76
+0	228.0	72.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	72.0	KoreaUniv AP	70:6d:15:bf:f8:61	-77
+0	228.0	72.0	eduroam	70:6d:15:e0:ac:6f	-80
+0	228.0	72.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-80
+0	228.0	72.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-81
+0	228.0	72.0	KoreaUniv AP	70:6d:15:db:8c:8e	-82
+0	228.0	72.0	eduroam	00:2c:c8:ea:eb:8f	-84
+0	228.0	72.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-85
+0	228.0	72.0	eduroam	70:6d:15:db:cd:af	-86
+0	228.0	72.0	KoreaUniv AP	70:6d:15:db:cd:ae	-86
+0	228.0	72.0	eduroam	70:6d:15:ee:6b:cf	-88
+0	228.0	72.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-89
+0	228.0	72.0	DIRECT-BF-HP M479fdw Color LJ	02:68:eb:52:16:bf	-91
+0	228.0	78.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	78.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	78.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	78.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	78.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	78.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	78.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	78.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	78.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	78.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	78.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	78.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	78.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	78.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	78.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	78.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	78.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	78.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	78.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	78.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	78.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	78.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	78.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	78.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	78.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	78.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	78.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	78.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	78.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	78.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	78.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	78.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	78.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	78.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	84.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	84.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	84.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	84.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	84.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	84.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	84.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	84.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	84.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	84.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	84.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	84.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	84.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	84.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	84.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	84.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	84.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	84.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	84.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	84.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	84.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	84.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	84.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	84.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	84.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	84.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	84.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	84.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	84.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	84.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	84.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	84.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	84.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	84.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	90.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	90.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	90.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	90.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	90.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	90.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	90.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	90.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	90.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	90.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	90.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	90.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	90.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	90.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	90.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	90.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	90.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	90.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	90.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	90.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	90.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	90.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	90.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	90.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	90.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	90.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	90.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	90.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	90.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	90.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	90.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	90.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	90.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	90.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	96.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	96.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	96.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	96.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	96.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	96.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	96.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	96.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	96.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	96.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	96.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	96.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	96.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	96.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	96.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	96.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	96.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	96.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	96.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	96.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	96.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	96.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	96.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	96.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	96.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	96.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	96.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	96.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	96.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	96.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	96.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	96.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	96.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	96.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	102.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	102.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	102.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	102.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	102.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	102.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	102.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	102.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	102.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	102.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	102.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	102.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	102.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	102.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	102.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	102.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	102.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	102.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	102.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	102.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	102.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	102.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	102.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	102.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	102.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	102.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	102.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	102.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	102.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	102.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	102.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	102.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	102.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	102.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	108.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	108.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	108.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	108.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	108.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	108.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	108.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	108.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	108.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	108.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	108.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	108.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	108.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	108.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	108.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	108.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	108.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	108.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	108.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	108.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	108.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	108.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	108.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	108.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	108.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	108.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	108.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	108.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	108.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	108.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	108.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	108.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	108.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	108.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	114.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	114.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	114.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	114.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	114.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	114.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	114.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	114.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	114.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	114.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	114.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	114.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	114.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	114.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	114.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	114.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	114.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	114.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	114.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	114.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	114.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	114.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	114.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	114.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	114.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	114.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	114.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	114.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	114.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	114.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	114.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	114.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	114.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	114.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	120.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	120.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	120.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	120.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	120.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	120.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	120.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	120.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	120.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	120.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	120.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	120.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	120.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	120.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	120.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	120.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	120.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	120.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	120.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	120.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	120.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	120.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	120.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	120.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	120.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	120.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	120.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	120.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	120.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	120.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	120.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	120.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	120.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	120.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+0	228.0	126.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	126.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-61
+0	228.0	126.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-63
+0	228.0	126.0	eduroam	70:6d:15:dc:1d:af	-64
+0	228.0	126.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	126.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-69
+0	228.0	126.0	eduroam	70:6d:15:db:45:6f	-69
+0	228.0	126.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	126.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	126.0	KoreaUniv AP	70:6d:15:d2:51:ae	-72
+0	228.0	126.0	eduroam	70:6d:15:d2:51:af	-72
+0	228.0	126.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	126.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	126.0	eduroam	70:6d:15:e0:23:0f	-75
+0	228.0	126.0	KoreaUniv AP	70:6d:15:e0:23:0e	-75
+0	228.0	126.0	eduroam	70:6d:15:e0:94:80	-75
+0	228.0	126.0	KoreaUniv AP	70:6d:15:bf:f8:61	-75
+0	228.0	126.0	KoreaUniv AP	70:6d:15:db:45:61	-76
+0	228.0	126.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	126.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	126.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	126.0	eduroam	70:6d:15:db:45:60	-77
+0	228.0	126.0	KoreaUniv AP	70:6d:15:d4:72:e1	-77
+0	228.0	126.0	KoreaUniv AP	70:6d:15:ee:6a:61	-77
+0	228.0	126.0	eduroam	70:6d:15:e0:ac:6f	-78
+0	228.0	126.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-78
+0	228.0	126.0	KoreaUniv AP	70:6d:15:d4:72:ee	-79
+0	228.0	126.0	eduroam	70:6d:15:d4:72:ef	-79
+0	228.0	126.0	eduroam	70:6d:15:ee:6b:c0	-81
+0	228.0	126.0	eduroam	70:6d:15:db:8c:80	-83
+0	228.0	126.0	eduroam	70:6d:15:db:8c:8f	-84
+0	228.0	126.0	KoreaUniv AP	70:6d:15:db:8c:8e	-86
+0	228.0	126.0	eduroam	00:2c:c8:ea:eb:8f	-90
+0	228.0	126.0	KoreaUniv AP	00:2c:c8:ea:eb:8e	-90
+1	228.0	126.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+1	228.0	126.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+1	228.0	126.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+1	228.0	126.0	eduroam	70:6d:15:dc:1d:a0	-60
+1	228.0	126.0	eduroam	38:0e:4d:92:7d:c0	-62
+1	228.0	126.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+1	228.0	126.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+1	228.0	126.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+1	228.0	126.0	eduroam	70:6d:15:d2:51:af	-67
+1	228.0	126.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+1	228.0	126.0		9a:f1:85:1f:42:a2	-69
+1	228.0	126.0	eduroam	70:6d:15:db:45:6f	-70
+1	228.0	126.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+1	228.0	126.0	eduroam	70:6d:15:d2:51:a0	-70
+1	228.0	126.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+1	228.0	126.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+1	228.0	126.0	eduroam	70:6d:15:ee:6a:6f	-71
+1	228.0	126.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+1	228.0	126.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+1	228.0	126.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+1	228.0	126.0	eduroam	70:6d:15:e0:94:8f	-72
+1	228.0	126.0	eduroam	38:0e:4d:92:7d:cf	-74
+1	228.0	126.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+1	228.0	126.0	eduroam	70:6d:15:e0:ac:6f	-74
+1	228.0	126.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+1	228.0	126.0	eduroam	70:6d:15:e0:23:0f	-74
+1	228.0	126.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+1	228.0	126.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+1	228.0	126.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+1	228.0	126.0	eduroam	70:6d:15:d4:72:e0	-76
+1	228.0	126.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+1	228.0	126.0	eduroam	70:6d:15:d4:72:ef	-78
+1	228.0	126.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+1	228.0	126.0	eduroam	70:6d:15:e0:94:80	-81
+1	228.0	126.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+1	228.0	126.0	eduroam	70:6d:15:db:8c:8f	-81
+1	228.0	126.0	eduroam	70:6d:15:ee:6a:60	-83
+1	228.0	126.0	eduroam	70:6d:15:ee:6b:cf	-86
+1	228.0	126.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+1	228.0	126.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	132.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	132.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	132.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	132.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	132.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	132.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	132.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	132.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	132.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	132.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	132.0		9a:f1:85:1f:42:a2	-69
+0	228.0	132.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	132.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	132.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	132.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	132.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	132.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	132.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	132.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	132.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	132.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	132.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	132.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	132.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	132.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	132.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	132.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	132.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	132.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	132.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	132.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	132.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	132.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	132.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	132.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	132.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	132.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	132.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	132.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	132.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	138.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	138.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	138.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	138.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	138.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	138.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	138.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	138.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	138.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	138.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	138.0		9a:f1:85:1f:42:a2	-69
+0	228.0	138.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	138.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	138.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	138.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	138.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	138.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	138.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	138.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	138.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	138.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	138.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	138.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	138.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	138.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	138.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	138.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	138.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	138.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	138.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	138.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	138.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	138.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	138.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	138.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	138.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	138.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	138.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	138.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	138.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	144.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	144.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	144.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	144.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	144.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	144.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	144.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	144.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	144.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	144.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	144.0		9a:f1:85:1f:42:a2	-69
+0	228.0	144.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	144.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	144.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	144.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	144.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	144.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	144.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	144.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	144.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	144.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	144.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	144.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	144.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	144.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	144.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	144.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	144.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	144.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	144.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	144.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	144.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	144.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	144.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	144.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	144.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	144.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	144.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	144.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	144.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	150.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	150.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	150.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	150.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	150.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	150.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	150.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	150.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	150.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	150.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	150.0		9a:f1:85:1f:42:a2	-69
+0	228.0	150.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	150.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	150.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	150.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	150.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	150.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	150.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	150.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	150.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	150.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	150.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	150.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	150.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	150.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	150.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	150.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	150.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	150.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	150.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	150.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	150.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	150.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	150.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	150.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	150.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	150.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	150.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	150.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	150.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	156.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	156.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	156.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	156.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	156.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	156.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	156.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	156.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	156.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	156.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	156.0		9a:f1:85:1f:42:a2	-69
+0	228.0	156.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	156.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	156.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	156.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	156.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	156.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	156.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	156.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	156.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	156.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	156.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	156.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	156.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	156.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	156.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	156.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	156.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	156.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	156.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	156.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	156.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	156.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	156.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	156.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	156.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	156.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	156.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	156.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	156.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	162.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	162.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	162.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	162.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	162.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	162.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	162.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	162.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	162.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	162.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	162.0		9a:f1:85:1f:42:a2	-69
+0	228.0	162.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	162.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	162.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	162.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	162.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	162.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	162.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	162.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	162.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	162.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	162.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	162.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	162.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	162.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	162.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	162.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	162.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	162.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	162.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	162.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	162.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	162.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	162.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	162.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	162.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	162.0	eduroam	70:6d:15:c0:e6:2f	-92
+1	228.0	162.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+1	228.0	162.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+1	228.0	162.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+1	228.0	162.0	eduroam	70:6d:15:dc:1d:a0	-60
+1	228.0	162.0	eduroam	38:0e:4d:92:7d:c0	-62
+1	228.0	162.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+1	228.0	162.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+1	228.0	162.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+1	228.0	162.0	eduroam	70:6d:15:d2:51:af	-67
+1	228.0	162.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+1	228.0	162.0		9a:f1:85:1f:42:a2	-69
+1	228.0	162.0	eduroam	70:6d:15:db:45:6f	-70
+1	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+1	228.0	162.0	eduroam	70:6d:15:d2:51:a0	-70
+1	228.0	162.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+1	228.0	162.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+1	228.0	162.0	eduroam	70:6d:15:ee:6a:6f	-71
+1	228.0	162.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+1	228.0	162.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+1	228.0	162.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+1	228.0	162.0	eduroam	70:6d:15:e0:94:8f	-72
+1	228.0	162.0	eduroam	38:0e:4d:92:7d:cf	-74
+1	228.0	162.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+1	228.0	162.0	eduroam	70:6d:15:e0:ac:6f	-74
+1	228.0	162.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+1	228.0	162.0	eduroam	70:6d:15:e0:23:0f	-74
+1	228.0	162.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+1	228.0	162.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+1	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+1	228.0	162.0	eduroam	70:6d:15:d4:72:e0	-76
+1	228.0	162.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+1	228.0	162.0	eduroam	70:6d:15:d4:72:ef	-78
+1	228.0	162.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+1	228.0	162.0	eduroam	70:6d:15:e0:94:80	-81
+1	228.0	162.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+1	228.0	162.0	eduroam	70:6d:15:db:8c:8f	-81
+1	228.0	162.0	eduroam	70:6d:15:ee:6a:60	-83
+1	228.0	162.0	eduroam	70:6d:15:ee:6b:cf	-86
+1	228.0	162.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+1	228.0	162.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	168.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	168.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	168.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	168.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	168.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	168.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	168.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	168.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	168.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	168.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	168.0		9a:f1:85:1f:42:a2	-69
+0	228.0	168.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	168.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	168.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	168.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	168.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	168.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	168.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	168.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	168.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	168.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	168.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	168.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	168.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	168.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	168.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	168.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	168.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	168.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	168.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	168.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	168.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	168.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	168.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	168.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	168.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	168.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	168.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	168.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	168.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	174.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	174.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	174.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	174.0	eduroam	70:6d:15:dc:1d:a0	-60
+0	228.0	174.0	eduroam	38:0e:4d:92:7d:c0	-62
+0	228.0	174.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-62
+0	228.0	174.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-63
+0	228.0	174.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	174.0	eduroam	70:6d:15:d2:51:af	-67
+0	228.0	174.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-68
+0	228.0	174.0		9a:f1:85:1f:42:a2	-69
+0	228.0	174.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	174.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	174.0	eduroam	70:6d:15:d2:51:a0	-70
+0	228.0	174.0	KoreaUniv AP	70:6d:15:d2:51:a1	-70
+0	228.0	174.0	SKINFO2	64:ee:b7:f1:12:3a	-70
+0	228.0	174.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	174.0	KoreaUniv AP	70:6d:15:e0:94:8e	-71
+0	228.0	174.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	174.0	KoreaUniv AP	70:6d:15:bf:f8:61	-72
+0	228.0	174.0	eduroam	70:6d:15:e0:94:8f	-72
+0	228.0	174.0	eduroam	38:0e:4d:92:7d:cf	-74
+0	228.0	174.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-74
+0	228.0	174.0	eduroam	70:6d:15:e0:ac:6f	-74
+0	228.0	174.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-74
+0	228.0	174.0	eduroam	70:6d:15:e0:23:0f	-74
+0	228.0	174.0	KoreaUniv AP	70:6d:15:e0:23:0e	-74
+0	228.0	174.0	KoreaUniv AP	70:6d:15:d4:72:e1	-74
+0	228.0	174.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-74
+0	228.0	174.0	eduroam	70:6d:15:d4:72:e0	-76
+0	228.0	174.0	KoreaUniv AP	70:6d:15:d4:72:ee	-78
+0	228.0	174.0	eduroam	70:6d:15:d4:72:ef	-78
+0	228.0	174.0	KoreaUniv AP	70:6d:15:e0:23:01	-78
+0	228.0	174.0	eduroam	70:6d:15:e0:94:80	-81
+0	228.0	174.0	KoreaUniv AP	70:6d:15:db:8c:8e	-81
+0	228.0	174.0	eduroam	70:6d:15:db:8c:8f	-81
+0	228.0	174.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	174.0	eduroam	70:6d:15:ee:6b:cf	-86
+0	228.0	174.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-86
+0	228.0	174.0	eduroam	70:6d:15:c0:e6:2f	-92
+0	228.0	180.0	eduroam	70:6d:15:d2:51:a0	-60
+0	228.0	180.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+0	228.0	180.0	eduroam	38:0e:4d:92:7d:cf	-65
+0	228.0	180.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+0	228.0	180.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	180.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	180.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	180.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	180.0	eduroam	70:6d:15:e0:23:0f	-70
+0	228.0	180.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+0	228.0	180.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	180.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+0	228.0	180.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	180.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+0	228.0	180.0	eduroam	70:6d:15:d4:72:ef	-71
+0	228.0	180.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+0	228.0	180.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	180.0		9a:f1:85:1f:42:a2	-71
+0	228.0	180.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+0	228.0	180.0	eduroam	70:6d:15:ee:6a:6f	-73
+0	228.0	180.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+0	228.0	180.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	180.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+0	228.0	180.0	eduroam	70:6d:15:e0:23:00	-76
+0	228.0	180.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	180.0	eduroam	70:6d:15:db:cd:af	-78
+0	228.0	180.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+0	228.0	180.0	eduroam	70:6d:15:db:3c:0f	-78
+0	228.0	180.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+0	228.0	180.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	180.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	180.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	180.0	eduroam	70:6d:15:db:38:6f	-90
+0	228.0	186.0	eduroam	70:6d:15:d2:51:a0	-60
+0	228.0	186.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+0	228.0	186.0	eduroam	38:0e:4d:92:7d:cf	-65
+0	228.0	186.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+0	228.0	186.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	186.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	186.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	186.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	186.0	eduroam	70:6d:15:e0:23:0f	-70
+0	228.0	186.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+0	228.0	186.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	186.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+0	228.0	186.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	186.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+0	228.0	186.0	eduroam	70:6d:15:d4:72:ef	-71
+0	228.0	186.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+0	228.0	186.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	186.0		9a:f1:85:1f:42:a2	-71
+0	228.0	186.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+0	228.0	186.0	eduroam	70:6d:15:ee:6a:6f	-73
+0	228.0	186.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+0	228.0	186.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	186.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+0	228.0	186.0	eduroam	70:6d:15:e0:23:00	-76
+0	228.0	186.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	186.0	eduroam	70:6d:15:db:cd:af	-78
+0	228.0	186.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+0	228.0	186.0	eduroam	70:6d:15:db:3c:0f	-78
+0	228.0	186.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+0	228.0	186.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	186.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	186.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	186.0	eduroam	70:6d:15:db:38:6f	-90
+0	228.0	192.0	eduroam	70:6d:15:d2:51:a0	-60
+0	228.0	192.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+0	228.0	192.0	eduroam	38:0e:4d:92:7d:cf	-65
+0	228.0	192.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+0	228.0	192.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	192.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	192.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	192.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	192.0	eduroam	70:6d:15:e0:23:0f	-70
+0	228.0	192.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+0	228.0	192.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	192.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+0	228.0	192.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	192.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+0	228.0	192.0	eduroam	70:6d:15:d4:72:ef	-71
+0	228.0	192.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+0	228.0	192.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	192.0		9a:f1:85:1f:42:a2	-71
+0	228.0	192.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+0	228.0	192.0	eduroam	70:6d:15:ee:6a:6f	-73
+0	228.0	192.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+0	228.0	192.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	192.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+0	228.0	192.0	eduroam	70:6d:15:e0:23:00	-76
+0	228.0	192.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	192.0	eduroam	70:6d:15:db:cd:af	-78
+0	228.0	192.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+0	228.0	192.0	eduroam	70:6d:15:db:3c:0f	-78
+0	228.0	192.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+0	228.0	192.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	192.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	192.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	192.0	eduroam	70:6d:15:db:38:6f	-90
+0	228.0	198.0	eduroam	70:6d:15:d2:51:a0	-60
+0	228.0	198.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+0	228.0	198.0	eduroam	38:0e:4d:92:7d:cf	-65
+0	228.0	198.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+0	228.0	198.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	198.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	198.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	198.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	198.0	eduroam	70:6d:15:e0:23:0f	-70
+0	228.0	198.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+0	228.0	198.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	198.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+0	228.0	198.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	198.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+0	228.0	198.0	eduroam	70:6d:15:d4:72:ef	-71
+0	228.0	198.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+0	228.0	198.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	198.0		9a:f1:85:1f:42:a2	-71
+0	228.0	198.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+0	228.0	198.0	eduroam	70:6d:15:ee:6a:6f	-73
+0	228.0	198.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+0	228.0	198.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	198.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+0	228.0	198.0	eduroam	70:6d:15:e0:23:00	-76
+0	228.0	198.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	198.0	eduroam	70:6d:15:db:cd:af	-78
+0	228.0	198.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+0	228.0	198.0	eduroam	70:6d:15:db:3c:0f	-78
+0	228.0	198.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+0	228.0	198.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	198.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	198.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	198.0	eduroam	70:6d:15:db:38:6f	-90
+1	228.0	204.0	eduroam	70:6d:15:d2:51:a0	-60
+1	228.0	204.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+1	228.0	204.0	eduroam	38:0e:4d:92:7d:cf	-65
+1	228.0	204.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+1	228.0	204.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+1	228.0	204.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+1	228.0	204.0	eduroam	70:6d:15:e0:ac:6f	-69
+1	228.0	204.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+1	228.0	204.0	eduroam	70:6d:15:e0:23:0f	-70
+1	228.0	204.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+1	228.0	204.0	eduroam	70:6d:15:db:45:6f	-70
+1	228.0	204.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+1	228.0	204.0	eduroam	70:6d:15:bf:f8:60	-70
+1	228.0	204.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+1	228.0	204.0	eduroam	70:6d:15:d4:72:ef	-71
+1	228.0	204.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+1	228.0	204.0	eduroam	70:6d:15:db:8c:8f	-71
+1	228.0	204.0		9a:f1:85:1f:42:a2	-71
+1	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+1	228.0	204.0	eduroam	70:6d:15:ee:6a:6f	-73
+1	228.0	204.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+1	228.0	204.0	eduroam	70:6d:15:e0:94:8f	-75
+1	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+1	228.0	204.0	eduroam	70:6d:15:e0:23:00	-76
+1	228.0	204.0	eduroam	70:6d:15:ee:6b:c0	-77
+1	228.0	204.0	eduroam	70:6d:15:db:cd:af	-78
+1	228.0	204.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+1	228.0	204.0	eduroam	70:6d:15:db:3c:0f	-78
+1	228.0	204.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+1	228.0	204.0	eduroam	70:6d:15:ee:6a:60	-83
+1	228.0	204.0	eduroam	70:6d:15:ee:6b:cf	-85
+1	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+1	228.0	204.0	eduroam	70:6d:15:db:38:6f	-90
+0	228.0	204.0	eduroam	70:6d:15:d2:51:a0	-60
+0	228.0	204.0	SKINFO3	70:5d:cc:0d:0d:88	-61
+0	228.0	204.0	eduroam	38:0e:4d:92:7d:cf	-65
+0	228.0	204.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-65
+0	228.0	204.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	204.0	KoreaUniv AP	70:6d:15:db:45:6e	-69
+0	228.0	204.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	204.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	204.0	eduroam	70:6d:15:e0:23:0f	-70
+0	228.0	204.0	KoreaUniv AP	70:6d:15:e0:23:0e	-70
+0	228.0	204.0	eduroam	70:6d:15:db:45:6f	-70
+0	228.0	204.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-70
+0	228.0	204.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	204.0	KoreaUniv AP	70:6d:15:d4:72:ee	-71
+0	228.0	204.0	eduroam	70:6d:15:d4:72:ef	-71
+0	228.0	204.0	KoreaUniv AP	70:6d:15:db:8c:8e	-71
+0	228.0	204.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	204.0		9a:f1:85:1f:42:a2	-71
+0	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-72
+0	228.0	204.0	eduroam	70:6d:15:ee:6a:6f	-73
+0	228.0	204.0	KoreaUniv AP	70:6d:15:e0:23:01	-74
+0	228.0	204.0	eduroam	70:6d:15:e0:94:8f	-75
+0	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6a:61	-76
+0	228.0	204.0	eduroam	70:6d:15:e0:23:00	-76
+0	228.0	204.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	204.0	eduroam	70:6d:15:db:cd:af	-78
+0	228.0	204.0	KoreaUniv AP	70:6d:15:db:cd:ae	-78
+0	228.0	204.0	eduroam	70:6d:15:db:3c:0f	-78
+0	228.0	204.0	KoreaUniv AP	70:6d:15:db:3c:0e	-78
+0	228.0	204.0	eduroam	70:6d:15:ee:6a:60	-83
+0	228.0	204.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	204.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	204.0	eduroam	70:6d:15:db:38:6f	-90
+0	228.0	210.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	210.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	210.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	210.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	210.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	210.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	210.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	210.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	210.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	210.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	210.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	210.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	210.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	210.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	210.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	210.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	210.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	210.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	210.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	210.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	210.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	210.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	210.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	210.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	210.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	210.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	210.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	210.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	210.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	210.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	210.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	210.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	210.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	216.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	216.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	216.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	216.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	216.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	216.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	216.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	216.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	216.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	216.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	216.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	216.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	216.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	216.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	216.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	216.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	216.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	216.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	216.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	216.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	216.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	216.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	216.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	216.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	216.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	216.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	216.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	216.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	216.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	216.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	216.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	216.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	216.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	222.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	222.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	222.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	222.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	222.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	222.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	222.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	222.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	222.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	222.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	222.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	222.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	222.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	222.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	222.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	222.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	222.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	222.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	222.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	222.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	222.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	222.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	222.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	222.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	222.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	222.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	222.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	222.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	222.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	222.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	222.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	222.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	222.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	228.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	228.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	228.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	228.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	228.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	228.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	228.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	228.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	228.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	228.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	228.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	228.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	228.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	228.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	228.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	228.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	228.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	228.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	228.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	228.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	228.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	228.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	228.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	228.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	228.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	228.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	228.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	228.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	228.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	228.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	228.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	228.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	228.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	234.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	234.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	234.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	234.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	234.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	234.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	234.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	234.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	234.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	234.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	234.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	234.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	234.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	234.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	234.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	234.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	234.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	234.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	234.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	234.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	234.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	234.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	234.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	234.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	234.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	234.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	234.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	234.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	234.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	234.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	234.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	234.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	234.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	240.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	240.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	240.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	240.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	240.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	240.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	240.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	240.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	240.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	240.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	240.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	240.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	240.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	240.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	240.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	240.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	240.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	240.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	240.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	240.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	240.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	240.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	240.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	240.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	240.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	240.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	240.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	240.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	240.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	240.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	240.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	240.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	240.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	246.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-56
+0	228.0	246.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	246.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	246.0	KoreaUniv AP	70:6d:15:dc:1d:a1	-59
+0	228.0	246.0	eduroam	38:0e:4d:92:7d:cf	-61
+0	228.0	246.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-61
+0	228.0	246.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	246.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	246.0	eduroam	70:6d:15:e0:23:0f	-63
+0	228.0	246.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	246.0	KoreaUniv AP	70:6d:15:d4:72:ee	-65
+0	228.0	246.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	246.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	246.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	246.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	246.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	246.0	eduroam	70:6d:15:ee:6a:6f	-66
+0	228.0	246.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	246.0		b6:5b:d6:f2:0f:39	-68
+0	228.0	246.0	KoreaUniv AP	70:6d:15:d4:72:e1	-69
+0	228.0	246.0	eduroam	70:6d:15:d4:72:e0	-70
+0	228.0	246.0	KoreaUniv AP	70:6d:15:db:45:6e	-72
+0	228.0	246.0	eduroam	70:6d:15:db:45:6f	-72
+0	228.0	246.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	246.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	246.0	eduroam	70:6d:15:e0:94:8f	-74
+0	228.0	246.0	eduroam	70:6d:15:db:cd:af	-82
+0	228.0	246.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	246.0	eduroam	70:6d:15:ee:6b:cf	-85
+0	228.0	246.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-85
+0	228.0	246.0	eduroam	70:6d:15:e0:26:6f	-90
+0	228.0	246.0	KoreaUniv AP	00:2c:c8:cb:df:ae	-92
+0	228.0	246.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-92
+0	228.0	252.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	252.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	252.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	252.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	252.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	252.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	252.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	252.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	252.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	252.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	252.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	252.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	252.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	252.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	252.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	252.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	252.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	252.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	252.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	252.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	252.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	252.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	252.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	252.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	252.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	252.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	252.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	252.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	252.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	252.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	252.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	252.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	252.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	252.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	252.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	252.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	252.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	252.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	252.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	258.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	258.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	258.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	258.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	258.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	258.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	258.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	258.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	258.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	258.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	258.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	258.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	258.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	258.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	258.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	258.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	258.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	258.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	258.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	258.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	258.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	258.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	258.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	258.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	258.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	258.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	258.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	258.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	258.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	258.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	258.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	258.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	258.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	258.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	258.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	258.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	258.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	258.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	258.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	264.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	264.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	264.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	264.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	264.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	264.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	264.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	264.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	264.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	264.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	264.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	264.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	264.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	264.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	264.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	264.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	264.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	264.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	264.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	264.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	264.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	264.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	264.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	264.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	264.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	264.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	264.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	264.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	264.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	264.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	264.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	264.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	264.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	264.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	264.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	264.0	eduroam	70:6d:15:c0:e6:2f	-91
+1	228.0	264.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+1	228.0	264.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+1	228.0	264.0	eduroam	70:6d:15:d4:72:e0	-58
+1	228.0	264.0	eduroam	70:6d:15:e0:ac:6f	-60
+1	228.0	264.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+1	228.0	264.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+1	228.0	264.0	eduroam	70:6d:15:dc:1d:a0	-61
+1	228.0	264.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+1	228.0	264.0	eduroam	70:6d:15:d4:72:ef	-62
+1	228.0	264.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+1	228.0	264.0	eduroam	70:6d:15:d2:51:a0	-63
+1	228.0	264.0	eduroam	38:0e:4d:92:7d:cf	-64
+1	228.0	264.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+1	228.0	264.0	eduroam	70:6d:15:e0:ac:60	-64
+1	228.0	264.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+1	228.0	264.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+1	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+1	228.0	264.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+1	228.0	264.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+1	228.0	264.0	eduroam	70:6d:15:e0:23:00	-68
+1	228.0	264.0	eduroam	70:6d:15:e0:23:0f	-69
+1	228.0	264.0	eduroam	70:6d:15:ee:6b:c0	-69
+1	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+1	228.0	264.0	eduroam	70:6d:15:ee:6a:6f	-70
+1	228.0	264.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+1	228.0	264.0	eduroam	70:6d:15:bf:f8:60	-70
+1	228.0	264.0	eduroam	70:6d:15:db:8c:8f	-71
+1	228.0	264.0	eduroam	70:6d:15:ee:6a:60	-71
+1	228.0	264.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+1	228.0	264.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+1	228.0	264.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+1	228.0	264.0	eduroam	70:6d:15:e0:94:80	-76
+1	228.0	264.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+1	228.0	264.0	eduroam	70:6d:15:db:45:6f	-78
+1	228.0	264.0	eduroam	70:6d:15:ee:6b:cf	-81
+1	228.0	264.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+1	228.0	264.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+1	228.0	264.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+1	228.0	264.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	270.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	270.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	270.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	270.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	270.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	270.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	270.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	270.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	270.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	270.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	270.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	270.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	270.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	270.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	270.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	270.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	270.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	270.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	270.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	270.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	270.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	270.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	270.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	270.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	270.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	270.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	270.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	270.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	270.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	270.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	270.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	270.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	270.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	270.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	270.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	270.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	270.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	270.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	270.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	276.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	276.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	276.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	276.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	276.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	276.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	276.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	276.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	276.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	276.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	276.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	276.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	276.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	276.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	276.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	276.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	276.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	276.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	276.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	276.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	276.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	276.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	276.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	276.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	276.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	276.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	276.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	276.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	276.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	276.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	276.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	276.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	276.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	276.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	276.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	276.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	276.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	276.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	276.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	282.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-57
+0	228.0	282.0	KoreaUniv AP	70:6d:15:d4:72:e1	-58
+0	228.0	282.0	eduroam	70:6d:15:d4:72:e0	-58
+0	228.0	282.0	eduroam	70:6d:15:e0:ac:6f	-60
+0	228.0	282.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-60
+0	228.0	282.0	KoreaUniv AP	38:0e:4d:92:7d:c1	-60
+0	228.0	282.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	282.0	KoreaUniv AP	70:6d:15:d4:72:ee	-62
+0	228.0	282.0	eduroam	70:6d:15:d4:72:ef	-62
+0	228.0	282.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	282.0	eduroam	70:6d:15:d2:51:a0	-63
+0	228.0	282.0	eduroam	38:0e:4d:92:7d:cf	-64
+0	228.0	282.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-64
+0	228.0	282.0	eduroam	70:6d:15:e0:ac:60	-64
+0	228.0	282.0	KoreaUniv AP	70:6d:15:e0:ac:61	-64
+0	228.0	282.0	KoreaUniv AP	70:6d:15:e0:23:0e	-68
+0	228.0	282.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-68
+0	228.0	282.0	KoreaUniv AP	70:6d:15:bf:f8:61	-68
+0	228.0	282.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	282.0	eduroam	70:6d:15:e0:23:00	-68
+0	228.0	282.0	eduroam	70:6d:15:e0:23:0f	-69
+0	228.0	282.0	eduroam	70:6d:15:ee:6b:c0	-69
+0	228.0	282.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-69
+0	228.0	282.0	eduroam	70:6d:15:ee:6a:6f	-70
+0	228.0	282.0	KoreaUniv AP	70:6d:15:e0:23:01	-70
+0	228.0	282.0	eduroam	70:6d:15:bf:f8:60	-70
+0	228.0	282.0	eduroam	70:6d:15:db:8c:8f	-71
+0	228.0	282.0	eduroam	70:6d:15:ee:6a:60	-71
+0	228.0	282.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	282.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	282.0	KoreaUniv AP	70:6d:15:db:45:61	-74
+0	228.0	282.0	eduroam	70:6d:15:e0:94:80	-76
+0	228.0	282.0	KoreaUniv AP	70:6d:15:e0:94:81	-76
+0	228.0	282.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	282.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	282.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	282.0	KoreaUniv AP	70:6d:15:db:cd:ae	-82
+0	228.0	282.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-90
+0	228.0	282.0	eduroam	70:6d:15:c0:e6:2f	-91
+0	228.0	288.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	288.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	288.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	288.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	288.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	288.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	288.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	288.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	288.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	288.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	288.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	288.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	288.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	288.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	288.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	288.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	288.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	288.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	288.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	288.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	288.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	288.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	288.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	288.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	288.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	288.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	288.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	288.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	288.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	288.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	288.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	288.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	288.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	288.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	288.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	288.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	288.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	288.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+0	228.0	294.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	294.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	294.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	294.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	294.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	294.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	294.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	294.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	294.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	294.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	294.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	294.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	294.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	294.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	294.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	294.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	294.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	294.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	294.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	294.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	294.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	294.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	294.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	294.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	294.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	294.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	294.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	294.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	294.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	294.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	294.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	294.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	294.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	294.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	294.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	294.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	294.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	294.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+0	228.0	300.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	300.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	300.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	300.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	300.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	300.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	300.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	300.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	300.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	300.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	300.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	300.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	300.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	300.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	300.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	300.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	300.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	300.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	300.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	300.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	300.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	300.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	300.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	300.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	300.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	300.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	300.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	300.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	300.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	300.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	300.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	300.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	300.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	300.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	300.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	300.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	300.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	300.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+0	228.0	306.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	306.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	306.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	306.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	306.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	306.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	306.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	306.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	306.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	306.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	306.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	306.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	306.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	306.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	306.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	306.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	306.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	306.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	306.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	306.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	306.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	306.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	306.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	306.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	306.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	306.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	306.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	306.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	306.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	306.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	306.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	306.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	306.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	306.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	306.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	306.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	306.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	306.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+0	228.0	312.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	312.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	312.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	312.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	312.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	312.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	312.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	312.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	312.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	312.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	312.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	312.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	312.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	312.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	312.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	312.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	312.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	312.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	312.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	312.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	312.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	312.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	312.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	312.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	312.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	312.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	312.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	312.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	312.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	312.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	312.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	312.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	312.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	312.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	312.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	312.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	312.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	312.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+0	228.0	318.0	eduroam	70:6d:15:e0:ac:60	-59
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:ac:61	-59
+0	228.0	318.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	318.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-60
+0	228.0	318.0	eduroam	70:6d:15:d4:72:ef	-61
+0	228.0	318.0	eduroam	70:6d:15:dc:1d:a0	-61
+0	228.0	318.0	KoreaUniv AP	70:6d:15:d4:72:ee	-63
+0	228.0	318.0	SKINFO3	70:5d:cc:0d:0d:88	-63
+0	228.0	318.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	318.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	318.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:23:0e	-64
+0	228.0	318.0	eduroam	70:6d:15:ee:6a:6f	-65
+0	228.0	318.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-66
+0	228.0	318.0	eduroam	70:6d:15:e0:23:00	-67
+0	228.0	318.0	eduroam	70:6d:15:d4:72:e0	-68
+0	228.0	318.0	SKINFO2	64:ee:b7:f1:12:3a	-68
+0	228.0	318.0	eduroam	70:6d:15:bf:f8:60	-68
+0	228.0	318.0	eduroam	38:0e:4d:92:7d:cf	-69
+0	228.0	318.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-69
+0	228.0	318.0	KoreaUniv AP	70:6d:15:bf:f8:61	-69
+0	228.0	318.0		b6:5b:d6:f2:0f:39	-69
+0	228.0	318.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	318.0	KoreaUniv AP	70:6d:15:ee:6a:61	-71
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	318.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-72
+0	228.0	318.0	eduroam	70:6d:15:ee:6a:60	-72
+0	228.0	318.0	KoreaUniv AP	70:6d:15:db:45:6e	-73
+0	228.0	318.0	eduroam	70:6d:15:db:3c:0f	-73
+0	228.0	318.0	KoreaUniv AP	70:6d:15:db:3c:0e	-73
+0	228.0	318.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-74
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:94:81	-74
+0	228.0	318.0	eduroam	70:6d:15:db:cd:af	-80
+0	228.0	318.0	KoreaUniv AP	70:6d:15:db:cd:ae	-80
+0	228.0	318.0	eduroam	70:6d:15:db:38:6f	-82
+0	228.0	318.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	318.0	eduroam	70:6d:15:c0:e6:2f	-87
+0	228.0	318.0	KoreaUniv AP	70:6d:15:e0:26:6e	-88
+0	228.0	318.0	eduroam	70:6d:15:e0:26:6f	-89
+0	228.0	318.0	eduroam	70:6d:15:ee:70:2f	-89
+0	228.0	318.0	KoreaUniv AP	70:6d:15:ee:70:2e	-89
+0	228.0	318.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-91
+1	228.0	324.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+1	228.0	324.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+1	228.0	324.0	eduroam	70:6d:15:dc:1d:a0	-59
+1	228.0	324.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+1	228.0	324.0	eduroam	70:6d:15:e0:ac:6f	-63
+1	228.0	324.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+1	228.0	324.0	eduroam	70:6d:15:d2:51:af	-65
+1	228.0	324.0	eduroam	38:0e:4d:92:7d:c0	-65
+1	228.0	324.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+1	228.0	324.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+1	228.0	324.0	eduroam	70:6d:15:d4:72:ef	-66
+1	228.0	324.0	eduroam	70:6d:15:bf:f8:60	-69
+1	228.0	324.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+1	228.0	324.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+1	228.0	324.0	eduroam	70:6d:15:db:8c:8f	-70
+1	228.0	324.0	eduroam	70:6d:15:e0:23:0f	-71
+1	228.0	324.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+1	228.0	324.0	eduroam	70:6d:15:ee:6a:6f	-71
+1	228.0	324.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+1	228.0	324.0	eduroam	70:6d:15:e0:23:00	-71
+1	228.0	324.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+1	228.0	324.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+1	228.0	324.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+1	228.0	324.0		9a:f1:85:1f:42:a2	-73
+1	228.0	324.0	eduroam	70:6d:15:ee:6a:60	-75
+1	228.0	324.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+1	228.0	324.0	eduroam	70:6d:15:db:cd:af	-77
+1	228.0	324.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+1	228.0	324.0	eduroam	70:6d:15:ee:6b:c0	-77
+1	228.0	324.0	eduroam	70:6d:15:ee:6b:cf	-81
+1	228.0	324.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+1	228.0	324.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+1	228.0	324.0	eduroam	70:6d:15:c0:e6:2f	-86
+1	228.0	324.0		00:19:70:4e:77:3b	-91
+1	228.0	324.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	330.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	330.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	330.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	330.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	330.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	330.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	330.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	330.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	330.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	330.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	330.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	330.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	330.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	330.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	330.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	330.0		9a:f1:85:1f:42:a2	-73
+0	228.0	330.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	330.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	330.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	330.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	330.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	330.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	330.0		00:19:70:4e:77:3b	-91
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	330.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	330.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	330.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	330.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	330.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	330.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	330.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	330.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	330.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	330.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	330.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	330.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	330.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	330.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	330.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	330.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	330.0		9a:f1:85:1f:42:a2	-73
+0	228.0	330.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	330.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	330.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	330.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	330.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	330.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	330.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	330.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	330.0		00:19:70:4e:77:3b	-91
+0	228.0	330.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	336.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	336.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	336.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	336.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	336.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	336.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	336.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	336.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	336.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	336.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	336.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	336.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	336.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	336.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	336.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	336.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	336.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	336.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	336.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	336.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	336.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	336.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	336.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	336.0		9a:f1:85:1f:42:a2	-73
+0	228.0	336.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	336.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	336.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	336.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	336.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	336.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	336.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	336.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	336.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	336.0		00:19:70:4e:77:3b	-91
+0	228.0	336.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	342.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	342.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	342.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	342.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	342.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	342.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	342.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	342.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	342.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	342.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	342.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	342.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	342.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	342.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	342.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	342.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	342.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	342.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	342.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	342.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	342.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	342.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	342.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	342.0		9a:f1:85:1f:42:a2	-73
+0	228.0	342.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	342.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	342.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	342.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	342.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	342.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	342.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	342.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	342.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	342.0		00:19:70:4e:77:3b	-91
+0	228.0	342.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	348.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	348.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	348.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	348.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	348.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	348.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	348.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	348.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	348.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	348.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	348.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	348.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	348.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	348.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	348.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	348.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	348.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	348.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	348.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	348.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	348.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	348.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	348.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	348.0		9a:f1:85:1f:42:a2	-73
+0	228.0	348.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	348.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	348.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	348.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	348.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	348.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	348.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	348.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	348.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	348.0		00:19:70:4e:77:3b	-91
+0	228.0	348.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	354.0	SKINFO3	70:5d:cc:0d:0d:88	-57
+0	228.0	354.0	KoreaUniv AP	70:6d:15:d2:51:a1	-57
+0	228.0	354.0	eduroam	70:6d:15:dc:1d:a0	-59
+0	228.0	354.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-62
+0	228.0	354.0	eduroam	70:6d:15:e0:ac:6f	-63
+0	228.0	354.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-63
+0	228.0	354.0	eduroam	70:6d:15:d2:51:af	-65
+0	228.0	354.0	eduroam	38:0e:4d:92:7d:c0	-65
+0	228.0	354.0	KoreaUniv AP	70:6d:15:d2:51:ae	-65
+0	228.0	354.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	354.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	354.0	eduroam	70:6d:15:bf:f8:60	-69
+0	228.0	354.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	354.0	KoreaUniv AP	70:6d:15:bf:f8:61	-70
+0	228.0	354.0	eduroam	70:6d:15:db:8c:8f	-70
+0	228.0	354.0	eduroam	70:6d:15:e0:23:0f	-71
+0	228.0	354.0	KoreaUniv AP	70:6d:15:e0:23:0e	-71
+0	228.0	354.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	354.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-71
+0	228.0	354.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	354.0	SKINFO2	64:ee:b7:f1:12:3a	-72
+0	228.0	354.0	DIRECT-YWDESKTOP-5I6O5ELmsgR	16:4f:8a:b4:9c:04	-73
+0	228.0	354.0	KoreaUniv AP	70:6d:15:ee:6a:61	-73
+0	228.0	354.0		9a:f1:85:1f:42:a2	-73
+0	228.0	354.0	eduroam	70:6d:15:ee:6a:60	-75
+0	228.0	354.0	KoreaUniv AP	70:6d:15:db:45:6e	-77
+0	228.0	354.0	eduroam	70:6d:15:db:cd:af	-77
+0	228.0	354.0	KoreaUniv AP	70:6d:15:db:cd:ae	-77
+0	228.0	354.0	eduroam	70:6d:15:ee:6b:c0	-77
+0	228.0	354.0	eduroam	70:6d:15:ee:6b:cf	-81
+0	228.0	354.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	354.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-86
+0	228.0	354.0	eduroam	70:6d:15:c0:e6:2f	-86
+0	228.0	354.0		00:19:70:4e:77:3b	-91
+0	228.0	354.0	KoreaUniv AP	70:6d:15:e0:26:6e	-92
+0	228.0	360.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	360.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	360.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	360.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	360.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	360.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	360.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	360.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	360.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	360.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	360.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	360.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	360.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	360.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	360.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	360.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	360.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	360.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	360.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	360.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	360.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	360.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	360.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	360.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	360.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	360.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	360.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	360.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	360.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	360.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	360.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	360.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	360.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	360.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	360.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	360.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	360.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	360.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	360.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	360.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	366.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	366.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	366.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	366.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	366.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	366.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	366.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	366.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	366.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	366.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	366.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	366.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	366.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	366.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	366.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	366.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	366.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	366.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	366.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	366.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	366.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	366.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	366.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	366.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	366.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	366.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	366.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	366.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	366.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	366.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	366.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	366.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	366.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	366.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	366.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	366.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	366.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	366.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	366.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	366.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	372.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	372.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	372.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	372.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	372.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	372.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	372.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	372.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	372.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	372.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	372.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	372.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	372.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	372.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	372.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	372.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	372.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	372.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	372.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	372.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	372.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	372.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	372.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	372.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	372.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	372.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	372.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	372.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	372.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	372.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	372.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	372.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	372.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	372.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	372.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	372.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	372.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	372.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	372.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	372.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	378.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	378.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	378.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	378.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	378.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	378.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	378.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	378.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	378.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	378.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	378.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	378.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	378.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	378.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	378.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	378.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	378.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	378.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	378.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	378.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	378.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	378.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	378.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	378.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	378.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	378.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	378.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	378.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	378.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	378.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	378.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	378.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	378.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	378.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	378.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	378.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	378.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	378.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	378.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	378.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	384.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	384.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	384.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	384.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	384.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	384.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	384.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	384.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	384.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	384.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	384.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	384.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	384.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	384.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	384.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	384.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	384.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	384.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	384.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	384.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	384.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	384.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	384.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	384.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	384.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	384.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	384.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	384.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	384.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	384.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	384.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	384.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	384.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	384.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	384.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	384.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	384.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	384.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	384.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	384.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	390.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	390.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	390.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	390.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	390.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	390.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	390.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	390.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	390.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	390.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	390.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	390.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	390.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	390.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	390.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	390.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	390.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	390.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	390.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	390.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	390.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	390.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	390.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	390.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	390.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	390.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	390.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	390.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	390.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	390.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	390.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	390.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	390.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	390.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	390.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	390.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	390.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	390.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	390.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	390.0	eduroam	bc:16:65:26:88:af	-91
+0	228.0	396.0	KoreaUniv AP	70:6d:15:d2:51:a1	-56
+0	228.0	396.0	SKINFO3	70:5d:cc:0d:0d:88	-58
+0	228.0	396.0	eduroam	70:6d:15:dc:1d:af	-59
+0	228.0	396.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-59
+0	228.0	396.0	eduroam	70:6d:15:d2:51:af	-60
+0	228.0	396.0	KoreaUniv AP	70:6d:15:d2:51:ae	-60
+0	228.0	396.0	eduroam	70:6d:15:e0:23:0f	-65
+0	228.0	396.0	KoreaUniv AP	70:6d:15:e0:23:0e	-65
+0	228.0	396.0	KoreaUniv AP	70:6d:15:bf:f8:61	-67
+0	228.0	396.0	eduroam	70:6d:15:bf:f8:60	-67
+0	228.0	396.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	396.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	396.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	396.0	KoreaUniv AP	70:6d:15:db:3c:0e	-69
+0	228.0	396.0	eduroam	70:6d:15:e0:94:80	-69
+0	228.0	396.0	eduroam	38:0e:4d:92:7d:cf	-70
+0	228.0	396.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-70
+0	228.0	396.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-70
+0	228.0	396.0	eduroam	70:6d:15:ee:6a:6f	-71
+0	228.0	396.0	eduroam	70:6d:15:e0:23:00	-71
+0	228.0	396.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	396.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	396.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	396.0	KoreaUniv AP	70:6d:15:db:8c:8e	-72
+0	228.0	396.0	eduroam	70:6d:15:db:8c:8f	-72
+0	228.0	396.0	KoreaUniv AP	70:6d:15:e0:23:01	-73
+0	228.0	396.0		b6:5b:d6:f2:0f:39	-73
+0	228.0	396.0	eduroam	70:6d:15:ee:6b:c0	-74
+0	228.0	396.0	eduroam	70:6d:15:db:cd:af	-79
+0	228.0	396.0	KoreaUniv AP	70:6d:15:db:cd:ae	-79
+0	228.0	396.0	eduroam	70:6d:15:ee:6b:cf	-80
+0	228.0	396.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-81
+0	228.0	396.0	KoreaUniv AP	70:6d:15:ee:70:2e	-82
+0	228.0	396.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-83
+0	228.0	396.0	eduroam	70:6d:15:c0:e6:2f	-83
+0	228.0	396.0	KoreaUniv AP	70:6d:15:db:38:61	-86
+0	228.0	396.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-89
+0	228.0	396.0	eduroam	70:6d:15:e0:22:6f	-90
+0	228.0	396.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	396.0	eduroam	bc:16:65:26:88:af	-91
+1	228.0	396.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+1	228.0	396.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+1	228.0	396.0	eduroam	70:6d:15:d2:51:af	-58
+1	228.0	396.0	eduroam	70:6d:15:dc:1d:af	-60
+1	228.0	396.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+1	228.0	396.0	eduroam	70:6d:15:bf:f8:6f	-62
+1	228.0	396.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+1	228.0	396.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+1	228.0	396.0	eduroam	70:6d:15:e0:23:0f	-64
+1	228.0	396.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+1	228.0	396.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+1	228.0	396.0	eduroam	70:6d:15:d4:72:ef	-66
+1	228.0	396.0	eduroam	70:6d:15:bf:f8:60	-66
+1	228.0	396.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+1	228.0	396.0	eduroam	70:6d:15:db:3c:0f	-67
+1	228.0	396.0	eduroam	70:6d:15:e0:94:8f	-68
+1	228.0	396.0	eduroam	70:6d:15:e0:ac:6f	-70
+1	228.0	396.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+1	228.0	396.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+1	228.0	396.0	eduroam	70:6d:15:dc:1d:a0	-71
+1	228.0	396.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+1	228.0	396.0	eduroam	70:6d:15:db:3c:00	-71
+1	228.0	396.0	eduroam	70:6d:15:ee:6a:6f	-72
+1	228.0	396.0	eduroam	70:6d:15:e0:23:00	-72
+1	228.0	396.0	eduroam	70:6d:15:db:cd:af	-73
+1	228.0	396.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+1	228.0	396.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+1	228.0	396.0	eduroam	70:6d:15:db:38:6f	-74
+1	228.0	396.0	eduroam	38:0e:4d:92:7d:cf	-75
+1	228.0	396.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+1	228.0	396.0	eduroam	70:6d:15:ee:6b:cf	-76
+1	228.0	396.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+1	228.0	396.0	eduroam	70:6d:15:db:45:6f	-78
+1	228.0	396.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+1	228.0	396.0	eduroam	70:6d:15:c0:e6:2f	-79
+1	228.0	396.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+1	228.0	396.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+1	228.0	396.0	eduroam	70:6d:15:e0:22:6f	-89
+1	228.0	396.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+1	228.0	396.0	eduroam	70:6d:15:d2:e1:6f	-89
+1	228.0	396.0		00:19:70:4e:77:3b	-92
+0	228.0	402.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	402.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	402.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	402.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	402.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	402.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	402.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	402.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	402.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	402.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	402.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	402.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	402.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	402.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	402.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	402.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	402.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	402.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	402.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	402.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	402.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	402.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	402.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	402.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	402.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	402.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	402.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	402.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	402.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	402.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	402.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	402.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	402.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	402.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	402.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	402.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	402.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	402.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	402.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	402.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	402.0		00:19:70:4e:77:3b	-92
+0	228.0	408.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	408.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	408.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	408.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	408.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	408.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	408.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	408.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	408.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	408.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	408.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	408.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	408.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	408.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	408.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	408.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	408.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	408.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	408.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	408.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	408.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	408.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	408.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	408.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	408.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	408.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	408.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	408.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	408.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	408.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	408.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	408.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	408.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	408.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	408.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	408.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	408.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	408.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	408.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	408.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	408.0		00:19:70:4e:77:3b	-92
+0	228.0	414.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	414.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	414.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	414.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	414.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	414.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	414.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	414.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	414.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	414.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	414.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	414.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	414.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	414.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	414.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	414.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	414.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	414.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	414.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	414.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	414.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	414.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	414.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	414.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	414.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	414.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	414.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	414.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	414.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	414.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	414.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	414.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	414.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	414.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	414.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	414.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	414.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	414.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	414.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	414.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	414.0		00:19:70:4e:77:3b	-92
+0	228.0	420.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	420.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	420.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	420.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	420.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	420.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	420.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	420.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	420.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	420.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	420.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	420.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	420.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	420.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	420.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	420.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	420.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	420.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	420.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	420.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	420.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	420.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	420.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	420.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	420.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	420.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	420.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	420.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	420.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	420.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	420.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	420.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	420.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	420.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	420.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	420.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	420.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	420.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	420.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	420.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	420.0		00:19:70:4e:77:3b	-92
+0	228.0	426.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	426.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	426.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	426.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	426.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	426.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	426.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	426.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	426.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	426.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	426.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	426.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	426.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	426.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	426.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	426.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	426.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	426.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	426.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	426.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	426.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	426.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	426.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	426.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	426.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	426.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	426.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	426.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	426.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	426.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	426.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	426.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	426.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	426.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	426.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	426.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	426.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	426.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	426.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	426.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	426.0		00:19:70:4e:77:3b	-92
+0	228.0	432.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	432.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	432.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	432.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	432.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	432.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	432.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	432.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	432.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	432.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	432.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	432.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	432.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	432.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	432.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	432.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	432.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	432.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	432.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	432.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	432.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	432.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	432.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	432.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	432.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	432.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	432.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	432.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	432.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	432.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	432.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	432.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	432.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	432.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	432.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	432.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	432.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	432.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	432.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	432.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	432.0		00:19:70:4e:77:3b	-92
+0	228.0	438.0	SKINFO3	70:5d:cc:0d:0d:88	-56
+0	228.0	438.0	KoreaUniv AP	70:6d:15:d2:51:ae	-57
+0	228.0	438.0	eduroam	70:6d:15:d2:51:af	-58
+0	228.0	438.0	eduroam	70:6d:15:dc:1d:af	-60
+0	228.0	438.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-61
+0	228.0	438.0	eduroam	70:6d:15:bf:f8:6f	-62
+0	228.0	438.0	KoreaUniv AP	70:6d:15:e0:23:0e	-63
+0	228.0	438.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-63
+0	228.0	438.0	eduroam	70:6d:15:e0:23:0f	-64
+0	228.0	438.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-65
+0	228.0	438.0	KoreaUniv AP	70:6d:15:d4:72:ee	-66
+0	228.0	438.0	eduroam	70:6d:15:d4:72:ef	-66
+0	228.0	438.0	eduroam	70:6d:15:bf:f8:60	-66
+0	228.0	438.0	KoreaUniv AP	70:6d:15:db:3c:0e	-67
+0	228.0	438.0	eduroam	70:6d:15:db:3c:0f	-67
+0	228.0	438.0	eduroam	70:6d:15:e0:94:8f	-68
+0	228.0	438.0	eduroam	70:6d:15:e0:ac:6f	-70
+0	228.0	438.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-70
+0	228.0	438.0	KoreaUniv AP	70:6d:15:e0:94:8e	-70
+0	228.0	438.0	eduroam	70:6d:15:dc:1d:a0	-71
+0	228.0	438.0	KoreaUniv AP	70:6d:15:e0:23:01	-71
+0	228.0	438.0	eduroam	70:6d:15:db:3c:00	-71
+0	228.0	438.0	eduroam	70:6d:15:ee:6a:6f	-72
+0	228.0	438.0	eduroam	70:6d:15:e0:23:00	-72
+0	228.0	438.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	438.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	438.0	KoreaUniv AP	70:6d:15:db:38:6e	-73
+0	228.0	438.0	eduroam	70:6d:15:db:38:6f	-74
+0	228.0	438.0	eduroam	38:0e:4d:92:7d:cf	-75
+0	228.0	438.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	438.0	eduroam	70:6d:15:ee:6b:cf	-76
+0	228.0	438.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-77
+0	228.0	438.0	eduroam	70:6d:15:db:45:6f	-78
+0	228.0	438.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-79
+0	228.0	438.0	eduroam	70:6d:15:c0:e6:2f	-79
+0	228.0	438.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-80
+0	228.0	438.0	KoreaUniv AP	70:6d:15:ee:70:2e	-81
+0	228.0	438.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	438.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	438.0	eduroam	70:6d:15:d2:e1:6f	-89
+0	228.0	438.0		00:19:70:4e:77:3b	-92
+0	228.0	444.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	444.0	eduroam	70:6d:15:d2:51:a0	-56
+0	228.0	444.0	eduroam	70:6d:15:bf:f8:6f	-56
+0	228.0	444.0	KoreaUniv AP	70:6d:15:bf:f8:61	-59
+0	228.0	444.0	eduroam	70:6d:15:d2:51:af	-59
+0	228.0	444.0	eduroam	70:6d:15:bf:f8:60	-59
+0	228.0	444.0	KoreaUniv AP	70:6d:15:d2:51:ae	-59
+0	228.0	444.0	eduroam	70:6d:15:e0:23:0f	-60
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:23:0e	-61
+0	228.0	444.0	SKINFO2	64:ee:b7:f1:12:3a	-61
+0	228.0	444.0	eduroam	70:6d:15:e0:94:8f	-64
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:94:8e	-64
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	444.0	eduroam	70:6d:15:e0:23:00	-65
+0	228.0	444.0	eduroam	70:6d:15:dc:1d:a0	-66
+0	228.0	444.0	KoreaUniv AP	70:6d:15:db:3c:0e	-66
+0	228.0	444.0	eduroam	70:6d:15:db:3c:0f	-66
+0	228.0	444.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	444.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-67
+0	228.0	444.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-67
+0	228.0	444.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	444.0	eduroam	70:6d:15:e0:94:80	-68
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	444.0	eduroam	70:6d:15:db:3c:00	-68
+0	228.0	444.0	eduroam	70:6d:15:ee:6b:cf	-71
+0	228.0	444.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-71
+0	228.0	444.0	KoreaUniv AP	70:6d:15:ee:70:2e	-71
+0	228.0	444.0	eduroam	70:6d:15:ee:70:2f	-71
+0	228.0	444.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	444.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	444.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	444.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	444.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	444.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	444.0	KoreaUniv AP	70:6d:15:db:8c:8e	-75
+0	228.0	444.0	eduroam	70:6d:15:db:8c:8f	-75
+0	228.0	444.0		9a:f1:85:1f:42:a2	-75
+0	228.0	444.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	444.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	444.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	444.0	eduroam	70:6d:15:c0:e6:2f	-76
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:ab:41	-76
+0	228.0	444.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	444.0	eduroam	70:6d:15:db:38:6f	-81
+0	228.0	444.0	eduroam	70:6d:15:d2:dd:0f	-81
+0	228.0	444.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-82
+0	228.0	444.0	eduroam	70:6d:15:ee:09:0f	-83
+0	228.0	444.0		00:19:70:4e:77:3b	-89
+0	228.0	444.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	444.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	444.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-90
+0	228.0	444.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-94
+0	228.0	450.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	450.0	eduroam	70:6d:15:d2:51:a0	-56
+0	228.0	450.0	eduroam	70:6d:15:bf:f8:6f	-56
+0	228.0	450.0	KoreaUniv AP	70:6d:15:bf:f8:61	-59
+0	228.0	450.0	eduroam	70:6d:15:d2:51:af	-59
+0	228.0	450.0	eduroam	70:6d:15:bf:f8:60	-59
+0	228.0	450.0	KoreaUniv AP	70:6d:15:d2:51:ae	-59
+0	228.0	450.0	eduroam	70:6d:15:e0:23:0f	-60
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:23:0e	-61
+0	228.0	450.0	SKINFO2	64:ee:b7:f1:12:3a	-61
+0	228.0	450.0	eduroam	70:6d:15:e0:94:8f	-64
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:94:8e	-64
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	450.0	eduroam	70:6d:15:e0:23:00	-65
+0	228.0	450.0	eduroam	70:6d:15:dc:1d:a0	-66
+0	228.0	450.0	KoreaUniv AP	70:6d:15:db:3c:0e	-66
+0	228.0	450.0	eduroam	70:6d:15:db:3c:0f	-66
+0	228.0	450.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	450.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-67
+0	228.0	450.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-67
+0	228.0	450.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	450.0	eduroam	70:6d:15:e0:94:80	-68
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	450.0	eduroam	70:6d:15:db:3c:00	-68
+0	228.0	450.0	eduroam	70:6d:15:ee:6b:cf	-71
+0	228.0	450.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-71
+0	228.0	450.0	KoreaUniv AP	70:6d:15:ee:70:2e	-71
+0	228.0	450.0	eduroam	70:6d:15:ee:70:2f	-71
+0	228.0	450.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	450.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	450.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	450.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	450.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	450.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	450.0	KoreaUniv AP	70:6d:15:db:8c:8e	-75
+0	228.0	450.0	eduroam	70:6d:15:db:8c:8f	-75
+0	228.0	450.0		9a:f1:85:1f:42:a2	-75
+0	228.0	450.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	450.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	450.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	450.0	eduroam	70:6d:15:c0:e6:2f	-76
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:ab:41	-76
+0	228.0	450.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	450.0	eduroam	70:6d:15:db:38:6f	-81
+0	228.0	450.0	eduroam	70:6d:15:d2:dd:0f	-81
+0	228.0	450.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-82
+0	228.0	450.0	eduroam	70:6d:15:ee:09:0f	-83
+0	228.0	450.0		00:19:70:4e:77:3b	-89
+0	228.0	450.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	450.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	450.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-90
+0	228.0	450.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-94
+0	228.0	456.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	456.0	eduroam	70:6d:15:d2:51:a0	-56
+0	228.0	456.0	eduroam	70:6d:15:bf:f8:6f	-56
+0	228.0	456.0	KoreaUniv AP	70:6d:15:bf:f8:61	-59
+0	228.0	456.0	eduroam	70:6d:15:d2:51:af	-59
+0	228.0	456.0	eduroam	70:6d:15:bf:f8:60	-59
+0	228.0	456.0	KoreaUniv AP	70:6d:15:d2:51:ae	-59
+0	228.0	456.0	eduroam	70:6d:15:e0:23:0f	-60
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:23:0e	-61
+0	228.0	456.0	SKINFO2	64:ee:b7:f1:12:3a	-61
+0	228.0	456.0	eduroam	70:6d:15:e0:94:8f	-64
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:94:8e	-64
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	456.0	eduroam	70:6d:15:e0:23:00	-65
+0	228.0	456.0	eduroam	70:6d:15:dc:1d:a0	-66
+0	228.0	456.0	KoreaUniv AP	70:6d:15:db:3c:0e	-66
+0	228.0	456.0	eduroam	70:6d:15:db:3c:0f	-66
+0	228.0	456.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	456.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-67
+0	228.0	456.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-67
+0	228.0	456.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	456.0	eduroam	70:6d:15:e0:94:80	-68
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	456.0	eduroam	70:6d:15:db:3c:00	-68
+0	228.0	456.0	eduroam	70:6d:15:ee:6b:cf	-71
+0	228.0	456.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-71
+0	228.0	456.0	KoreaUniv AP	70:6d:15:ee:70:2e	-71
+0	228.0	456.0	eduroam	70:6d:15:ee:70:2f	-71
+0	228.0	456.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	456.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	456.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	456.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	456.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	456.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	456.0	KoreaUniv AP	70:6d:15:db:8c:8e	-75
+0	228.0	456.0	eduroam	70:6d:15:db:8c:8f	-75
+0	228.0	456.0		9a:f1:85:1f:42:a2	-75
+0	228.0	456.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	456.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	456.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	456.0	eduroam	70:6d:15:c0:e6:2f	-76
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:ab:41	-76
+0	228.0	456.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	456.0	eduroam	70:6d:15:db:38:6f	-81
+0	228.0	456.0	eduroam	70:6d:15:d2:dd:0f	-81
+0	228.0	456.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-82
+0	228.0	456.0	eduroam	70:6d:15:ee:09:0f	-83
+0	228.0	456.0		00:19:70:4e:77:3b	-89
+0	228.0	456.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	456.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	456.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-90
+0	228.0	456.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-94
+0	228.0	462.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	462.0	eduroam	70:6d:15:d2:51:a0	-56
+0	228.0	462.0	eduroam	70:6d:15:bf:f8:6f	-56
+0	228.0	462.0	KoreaUniv AP	70:6d:15:bf:f8:61	-59
+0	228.0	462.0	eduroam	70:6d:15:d2:51:af	-59
+0	228.0	462.0	eduroam	70:6d:15:bf:f8:60	-59
+0	228.0	462.0	KoreaUniv AP	70:6d:15:d2:51:ae	-59
+0	228.0	462.0	eduroam	70:6d:15:e0:23:0f	-60
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:23:0e	-61
+0	228.0	462.0	SKINFO2	64:ee:b7:f1:12:3a	-61
+0	228.0	462.0	eduroam	70:6d:15:e0:94:8f	-64
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:94:8e	-64
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	462.0	eduroam	70:6d:15:e0:23:00	-65
+0	228.0	462.0	eduroam	70:6d:15:dc:1d:a0	-66
+0	228.0	462.0	KoreaUniv AP	70:6d:15:db:3c:0e	-66
+0	228.0	462.0	eduroam	70:6d:15:db:3c:0f	-66
+0	228.0	462.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	462.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-67
+0	228.0	462.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-67
+0	228.0	462.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	462.0	eduroam	70:6d:15:e0:94:80	-68
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	462.0	eduroam	70:6d:15:db:3c:00	-68
+0	228.0	462.0	eduroam	70:6d:15:ee:6b:cf	-71
+0	228.0	462.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-71
+0	228.0	462.0	KoreaUniv AP	70:6d:15:ee:70:2e	-71
+0	228.0	462.0	eduroam	70:6d:15:ee:70:2f	-71
+0	228.0	462.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	462.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	462.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	462.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	462.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	462.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	462.0	KoreaUniv AP	70:6d:15:db:8c:8e	-75
+0	228.0	462.0	eduroam	70:6d:15:db:8c:8f	-75
+0	228.0	462.0		9a:f1:85:1f:42:a2	-75
+0	228.0	462.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	462.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	462.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	462.0	eduroam	70:6d:15:c0:e6:2f	-76
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:ab:41	-76
+0	228.0	462.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	462.0	eduroam	70:6d:15:db:38:6f	-81
+0	228.0	462.0	eduroam	70:6d:15:d2:dd:0f	-81
+0	228.0	462.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-82
+0	228.0	462.0	eduroam	70:6d:15:ee:09:0f	-83
+0	228.0	462.0		00:19:70:4e:77:3b	-89
+0	228.0	462.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	462.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	462.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-90
+0	228.0	462.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-94
+0	228.0	468.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	468.0	eduroam	70:6d:15:d2:51:a0	-56
+0	228.0	468.0	eduroam	70:6d:15:bf:f8:6f	-56
+0	228.0	468.0	KoreaUniv AP	70:6d:15:bf:f8:61	-59
+0	228.0	468.0	eduroam	70:6d:15:d2:51:af	-59
+0	228.0	468.0	eduroam	70:6d:15:bf:f8:60	-59
+0	228.0	468.0	KoreaUniv AP	70:6d:15:d2:51:ae	-59
+0	228.0	468.0	eduroam	70:6d:15:e0:23:0f	-60
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:23:0e	-61
+0	228.0	468.0	SKINFO2	64:ee:b7:f1:12:3a	-61
+0	228.0	468.0	eduroam	70:6d:15:e0:94:8f	-64
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:94:8e	-64
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:23:01	-65
+0	228.0	468.0	eduroam	70:6d:15:e0:23:00	-65
+0	228.0	468.0	eduroam	70:6d:15:dc:1d:a0	-66
+0	228.0	468.0	KoreaUniv AP	70:6d:15:db:3c:0e	-66
+0	228.0	468.0	eduroam	70:6d:15:db:3c:0f	-66
+0	228.0	468.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	468.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-67
+0	228.0	468.0	KoreaUniv AP	70:6d:15:ee:6b:c1	-67
+0	228.0	468.0	eduroam	70:6d:15:e0:ac:6f	-68
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-68
+0	228.0	468.0	eduroam	70:6d:15:e0:94:80	-68
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:94:81	-68
+0	228.0	468.0	eduroam	70:6d:15:db:3c:00	-68
+0	228.0	468.0	eduroam	70:6d:15:ee:6b:cf	-71
+0	228.0	468.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-71
+0	228.0	468.0	KoreaUniv AP	70:6d:15:ee:70:2e	-71
+0	228.0	468.0	eduroam	70:6d:15:ee:70:2f	-71
+0	228.0	468.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	468.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	468.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-73
+0	228.0	468.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	468.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	468.0	eduroam	70:6d:15:ee:6a:6f	-74
+0	228.0	468.0	KoreaUniv AP	70:6d:15:db:8c:8e	-75
+0	228.0	468.0	eduroam	70:6d:15:db:8c:8f	-75
+0	228.0	468.0		9a:f1:85:1f:42:a2	-75
+0	228.0	468.0	eduroam	38:0e:4d:92:7d:cf	-76
+0	228.0	468.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-76
+0	228.0	468.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	468.0	eduroam	70:6d:15:c0:e6:2f	-76
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:ab:41	-76
+0	228.0	468.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	468.0	eduroam	70:6d:15:db:38:6f	-81
+0	228.0	468.0	eduroam	70:6d:15:d2:dd:0f	-81
+0	228.0	468.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-82
+0	228.0	468.0	eduroam	70:6d:15:ee:09:0f	-83
+0	228.0	468.0		00:19:70:4e:77:3b	-89
+0	228.0	468.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	468.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	468.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-90
+0	228.0	468.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-94
+0	228.0	474.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	474.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+0	228.0	474.0	eduroam	70:6d:15:e0:23:0f	-58
+0	228.0	474.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+0	228.0	474.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+0	228.0	474.0	eduroam	70:6d:15:bf:f8:60	-58
+0	228.0	474.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+0	228.0	474.0	eduroam	70:6d:15:e0:94:8f	-58
+0	228.0	474.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	474.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+0	228.0	474.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	474.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	474.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	474.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+0	228.0	474.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+0	228.0	474.0	eduroam	70:6d:15:e0:94:80	-65
+0	228.0	474.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	474.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	474.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	474.0	eduroam	70:6d:15:dc:1d:a0	-69
+0	228.0	474.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	474.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	474.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	474.0	eduroam	70:6d:15:ee:6b:cf	-73
+0	228.0	474.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+0	228.0	474.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	474.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	474.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+0	228.0	474.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	474.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+0	228.0	474.0	eduroam	38:0e:4d:92:7d:cf	-79
+0	228.0	474.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+0	228.0	474.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	474.0	eduroam	70:6d:15:db:38:6f	-80
+0	228.0	474.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+0	228.0	474.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+0	228.0	474.0	eduroam	70:6d:15:d2:e1:6f	-88
+0	228.0	474.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	474.0		00:19:70:4e:77:3b	-89
+0	228.0	474.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+0	228.0	474.0	eduroam	70:6d:15:e0:22:6f	-92
+1	228.0	474.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+1	228.0	474.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+1	228.0	474.0	eduroam	70:6d:15:e0:23:0f	-58
+1	228.0	474.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+1	228.0	474.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+1	228.0	474.0	eduroam	70:6d:15:bf:f8:60	-58
+1	228.0	474.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+1	228.0	474.0	eduroam	70:6d:15:e0:94:8f	-58
+1	228.0	474.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+1	228.0	474.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+1	228.0	474.0	eduroam	70:6d:15:db:3c:0f	-59
+1	228.0	474.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+1	228.0	474.0	eduroam	70:6d:15:d2:51:af	-63
+1	228.0	474.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+1	228.0	474.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+1	228.0	474.0	eduroam	70:6d:15:e0:94:80	-65
+1	228.0	474.0	eduroam	70:6d:15:dc:1d:af	-66
+1	228.0	474.0	eduroam	70:6d:15:e0:ac:6f	-69
+1	228.0	474.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+1	228.0	474.0	eduroam	70:6d:15:dc:1d:a0	-69
+1	228.0	474.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+1	228.0	474.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+1	228.0	474.0	eduroam	70:6d:15:d4:72:ef	-72
+1	228.0	474.0	eduroam	70:6d:15:ee:6b:cf	-73
+1	228.0	474.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+1	228.0	474.0	eduroam	70:6d:15:db:cd:af	-73
+1	228.0	474.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+1	228.0	474.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+1	228.0	474.0	eduroam	70:6d:15:c0:e6:2f	-75
+1	228.0	474.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+1	228.0	474.0	eduroam	38:0e:4d:92:7d:cf	-79
+1	228.0	474.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+1	228.0	474.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+1	228.0	474.0	eduroam	70:6d:15:db:38:6f	-80
+1	228.0	474.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+1	228.0	474.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+1	228.0	474.0	eduroam	70:6d:15:d2:e1:6f	-88
+1	228.0	474.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+1	228.0	474.0		00:19:70:4e:77:3b	-89
+1	228.0	474.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+1	228.0	474.0	eduroam	70:6d:15:e0:22:6f	-92
+0	228.0	480.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	480.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+0	228.0	480.0	eduroam	70:6d:15:e0:23:0f	-58
+0	228.0	480.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+0	228.0	480.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+0	228.0	480.0	eduroam	70:6d:15:bf:f8:60	-58
+0	228.0	480.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+0	228.0	480.0	eduroam	70:6d:15:e0:94:8f	-58
+0	228.0	480.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	480.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+0	228.0	480.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	480.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	480.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	480.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+0	228.0	480.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+0	228.0	480.0	eduroam	70:6d:15:e0:94:80	-65
+0	228.0	480.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	480.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	480.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	480.0	eduroam	70:6d:15:dc:1d:a0	-69
+0	228.0	480.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	480.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	480.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	480.0	eduroam	70:6d:15:ee:6b:cf	-73
+0	228.0	480.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+0	228.0	480.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	480.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	480.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+0	228.0	480.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	480.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+0	228.0	480.0	eduroam	38:0e:4d:92:7d:cf	-79
+0	228.0	480.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+0	228.0	480.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	480.0	eduroam	70:6d:15:db:38:6f	-80
+0	228.0	480.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+0	228.0	480.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+0	228.0	480.0	eduroam	70:6d:15:d2:e1:6f	-88
+0	228.0	480.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	480.0		00:19:70:4e:77:3b	-89
+0	228.0	480.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+0	228.0	480.0	eduroam	70:6d:15:e0:22:6f	-92
+0	228.0	486.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	486.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+0	228.0	486.0	eduroam	70:6d:15:e0:23:0f	-58
+0	228.0	486.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+0	228.0	486.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+0	228.0	486.0	eduroam	70:6d:15:bf:f8:60	-58
+0	228.0	486.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+0	228.0	486.0	eduroam	70:6d:15:e0:94:8f	-58
+0	228.0	486.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	486.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+0	228.0	486.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	486.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	486.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	486.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+0	228.0	486.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+0	228.0	486.0	eduroam	70:6d:15:e0:94:80	-65
+0	228.0	486.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	486.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	486.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	486.0	eduroam	70:6d:15:dc:1d:a0	-69
+0	228.0	486.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	486.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	486.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	486.0	eduroam	70:6d:15:ee:6b:cf	-73
+0	228.0	486.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+0	228.0	486.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	486.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	486.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+0	228.0	486.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	486.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+0	228.0	486.0	eduroam	38:0e:4d:92:7d:cf	-79
+0	228.0	486.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+0	228.0	486.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	486.0	eduroam	70:6d:15:db:38:6f	-80
+0	228.0	486.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+0	228.0	486.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+0	228.0	486.0	eduroam	70:6d:15:d2:e1:6f	-88
+0	228.0	486.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	486.0		00:19:70:4e:77:3b	-89
+0	228.0	486.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+0	228.0	486.0	eduroam	70:6d:15:e0:22:6f	-92
+0	228.0	492.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	492.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+0	228.0	492.0	eduroam	70:6d:15:e0:23:0f	-58
+0	228.0	492.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+0	228.0	492.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+0	228.0	492.0	eduroam	70:6d:15:bf:f8:60	-58
+0	228.0	492.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+0	228.0	492.0	eduroam	70:6d:15:e0:94:8f	-58
+0	228.0	492.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	492.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+0	228.0	492.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	492.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	492.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	492.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+0	228.0	492.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+0	228.0	492.0	eduroam	70:6d:15:e0:94:80	-65
+0	228.0	492.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	492.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	492.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	492.0	eduroam	70:6d:15:dc:1d:a0	-69
+0	228.0	492.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	492.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	492.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	492.0	eduroam	70:6d:15:ee:6b:cf	-73
+0	228.0	492.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+0	228.0	492.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	492.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	492.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+0	228.0	492.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	492.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+0	228.0	492.0	eduroam	38:0e:4d:92:7d:cf	-79
+0	228.0	492.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+0	228.0	492.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	492.0	eduroam	70:6d:15:db:38:6f	-80
+0	228.0	492.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+0	228.0	492.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+0	228.0	492.0	eduroam	70:6d:15:d2:e1:6f	-88
+0	228.0	492.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	492.0		00:19:70:4e:77:3b	-89
+0	228.0	492.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+0	228.0	492.0	eduroam	70:6d:15:e0:22:6f	-92
+0	228.0	498.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	498.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-54
+0	228.0	498.0	eduroam	70:6d:15:e0:23:0f	-58
+0	228.0	498.0	KoreaUniv AP	70:6d:15:e0:23:0e	-58
+0	228.0	498.0	KoreaUniv AP	70:6d:15:bf:f8:61	-58
+0	228.0	498.0	eduroam	70:6d:15:bf:f8:60	-58
+0	228.0	498.0	KoreaUniv AP	70:6d:15:db:3c:0e	-58
+0	228.0	498.0	eduroam	70:6d:15:e0:94:8f	-58
+0	228.0	498.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	498.0	KoreaUniv AP	70:6d:15:e0:94:8e	-59
+0	228.0	498.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	498.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	498.0	eduroam	70:6d:15:d2:51:af	-63
+0	228.0	498.0	KoreaUniv AP	70:6d:15:d2:51:ae	-63
+0	228.0	498.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-65
+0	228.0	498.0	eduroam	70:6d:15:e0:94:80	-65
+0	228.0	498.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	498.0	eduroam	70:6d:15:e0:ac:6f	-69
+0	228.0	498.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-69
+0	228.0	498.0	eduroam	70:6d:15:dc:1d:a0	-69
+0	228.0	498.0	KoreaUniv AP	70:6d:15:db:8c:8e	-70
+0	228.0	498.0	KoreaUniv AP	70:6d:15:d4:72:ee	-72
+0	228.0	498.0	eduroam	70:6d:15:d4:72:ef	-72
+0	228.0	498.0	eduroam	70:6d:15:ee:6b:cf	-73
+0	228.0	498.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-73
+0	228.0	498.0	eduroam	70:6d:15:db:cd:af	-73
+0	228.0	498.0	KoreaUniv AP	70:6d:15:db:cd:ae	-73
+0	228.0	498.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-75
+0	228.0	498.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	498.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-76
+0	228.0	498.0	eduroam	38:0e:4d:92:7d:cf	-79
+0	228.0	498.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-79
+0	228.0	498.0	KoreaUniv AP	70:6d:15:db:38:6e	-79
+0	228.0	498.0	eduroam	70:6d:15:db:38:6f	-80
+0	228.0	498.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-84
+0	228.0	498.0	KoreaUniv AP	bc:16:65:26:88:ae	-86
+0	228.0	498.0	eduroam	70:6d:15:d2:e1:6f	-88
+0	228.0	498.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	498.0		00:19:70:4e:77:3b	-89
+0	228.0	498.0	KoreaUniv AP	70:6d:15:e0:22:6e	-91
+0	228.0	498.0	eduroam	70:6d:15:e0:22:6f	-92
+0	228.0	504.0	eduroam	70:6d:15:e0:23:0f	-52
+0	228.0	504.0	KoreaUniv AP	70:6d:15:e0:23:0e	-52
+0	228.0	504.0	KoreaUniv AP	70:6d:15:bf:f8:61	-55
+0	228.0	504.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	504.0	eduroam	70:6d:15:bf:f8:6f	-55
+0	228.0	504.0	eduroam	70:6d:15:bf:f8:60	-56
+0	228.0	504.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	504.0	eduroam	70:6d:15:e0:94:8f	-61
+0	228.0	504.0	KoreaUniv AP	70:6d:15:e0:94:8e	-61
+0	228.0	504.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	504.0	eduroam	70:6d:15:ee:6b:cf	-63
+0	228.0	504.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-63
+0	228.0	504.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	504.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	504.0	eduroam	70:6d:15:d2:51:af	-64
+0	228.0	504.0	eduroam	70:6d:15:e0:94:80	-64
+0	228.0	504.0	KoreaUniv AP	70:6d:15:d2:51:ae	-64
+0	228.0	504.0	KoreaUniv AP	70:6d:15:db:3c:0e	-65
+0	228.0	504.0	eduroam	70:6d:15:db:3c:0f	-65
+0	228.0	504.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	504.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-68
+0	228.0	504.0	KoreaUniv AP	70:6d:15:db:8c:8e	-69
+0	228.0	504.0	eduroam	70:6d:15:db:8c:8f	-69
+0	228.0	504.0	eduroam	70:6d:15:db:cd:af	-72
+0	228.0	504.0	KoreaUniv AP	70:6d:15:db:cd:ae	-72
+0	228.0	504.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-73
+0	228.0	504.0	KoreaUniv AP	70:6d:15:d4:72:ee	-75
+0	228.0	504.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	504.0	KoreaUniv AP	70:6d:15:ee:09:0e	-76
+0	228.0	504.0	eduroam	70:6d:15:ee:6a:6f	-77
+0	228.0	504.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-77
+0	228.0	504.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-78
+0	228.0	504.0	PBL-142	ec:5c:68:cd:3c:47	-80
+0	228.0	504.0	eduroam	38:0e:4d:92:7d:cf	-81
+0	228.0	504.0	eduroam	70:6d:15:c0:e6:2f	-81
+0	228.0	504.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-82
+0	228.0	504.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	504.0		00:19:70:4e:77:3b	-89
+0	228.0	504.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	504.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	504.0	KoreaUniv AP	a4:9b:cd:40:3b:8e	-90
+0	228.0	504.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	504.0	KoreaUniv AP	70:6d:15:d2:df:6e	-91
+0	228.0	510.0	eduroam	70:6d:15:e0:23:0f	-52
+0	228.0	510.0	KoreaUniv AP	70:6d:15:e0:23:0e	-52
+0	228.0	510.0	KoreaUniv AP	70:6d:15:bf:f8:61	-55
+0	228.0	510.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	510.0	eduroam	70:6d:15:bf:f8:6f	-55
+0	228.0	510.0	eduroam	70:6d:15:bf:f8:60	-56
+0	228.0	510.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	510.0	eduroam	70:6d:15:e0:94:8f	-61
+0	228.0	510.0	KoreaUniv AP	70:6d:15:e0:94:8e	-61
+0	228.0	510.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	510.0	eduroam	70:6d:15:ee:6b:cf	-63
+0	228.0	510.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-63
+0	228.0	510.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	510.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	510.0	eduroam	70:6d:15:d2:51:af	-64
+0	228.0	510.0	eduroam	70:6d:15:e0:94:80	-64
+0	228.0	510.0	KoreaUniv AP	70:6d:15:d2:51:ae	-64
+0	228.0	510.0	KoreaUniv AP	70:6d:15:db:3c:0e	-65
+0	228.0	510.0	eduroam	70:6d:15:db:3c:0f	-65
+0	228.0	510.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	510.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-68
+0	228.0	510.0	KoreaUniv AP	70:6d:15:db:8c:8e	-69
+0	228.0	510.0	eduroam	70:6d:15:db:8c:8f	-69
+0	228.0	510.0	eduroam	70:6d:15:db:cd:af	-72
+0	228.0	510.0	KoreaUniv AP	70:6d:15:db:cd:ae	-72
+0	228.0	510.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-73
+0	228.0	510.0	KoreaUniv AP	70:6d:15:d4:72:ee	-75
+0	228.0	510.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	510.0	KoreaUniv AP	70:6d:15:ee:09:0e	-76
+0	228.0	510.0	eduroam	70:6d:15:ee:6a:6f	-77
+0	228.0	510.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-77
+0	228.0	510.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-78
+0	228.0	510.0	PBL-142	ec:5c:68:cd:3c:47	-80
+0	228.0	510.0	eduroam	38:0e:4d:92:7d:cf	-81
+0	228.0	510.0	eduroam	70:6d:15:c0:e6:2f	-81
+0	228.0	510.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-82
+0	228.0	510.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	510.0		00:19:70:4e:77:3b	-89
+0	228.0	510.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	510.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	510.0	KoreaUniv AP	a4:9b:cd:40:3b:8e	-90
+0	228.0	510.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	510.0	KoreaUniv AP	70:6d:15:d2:df:6e	-91
+0	228.0	516.0	eduroam	70:6d:15:e0:23:0f	-52
+0	228.0	516.0	KoreaUniv AP	70:6d:15:e0:23:0e	-52
+0	228.0	516.0	KoreaUniv AP	70:6d:15:bf:f8:61	-55
+0	228.0	516.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	516.0	eduroam	70:6d:15:bf:f8:6f	-55
+0	228.0	516.0	eduroam	70:6d:15:bf:f8:60	-56
+0	228.0	516.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	516.0	eduroam	70:6d:15:e0:94:8f	-61
+0	228.0	516.0	KoreaUniv AP	70:6d:15:e0:94:8e	-61
+0	228.0	516.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	516.0	eduroam	70:6d:15:ee:6b:cf	-63
+0	228.0	516.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-63
+0	228.0	516.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	516.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	516.0	eduroam	70:6d:15:d2:51:af	-64
+0	228.0	516.0	eduroam	70:6d:15:e0:94:80	-64
+0	228.0	516.0	KoreaUniv AP	70:6d:15:d2:51:ae	-64
+0	228.0	516.0	KoreaUniv AP	70:6d:15:db:3c:0e	-65
+0	228.0	516.0	eduroam	70:6d:15:db:3c:0f	-65
+0	228.0	516.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	516.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-68
+0	228.0	516.0	KoreaUniv AP	70:6d:15:db:8c:8e	-69
+0	228.0	516.0	eduroam	70:6d:15:db:8c:8f	-69
+0	228.0	516.0	eduroam	70:6d:15:db:cd:af	-72
+0	228.0	516.0	KoreaUniv AP	70:6d:15:db:cd:ae	-72
+0	228.0	516.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-73
+0	228.0	516.0	KoreaUniv AP	70:6d:15:d4:72:ee	-75
+0	228.0	516.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	516.0	KoreaUniv AP	70:6d:15:ee:09:0e	-76
+0	228.0	516.0	eduroam	70:6d:15:ee:6a:6f	-77
+0	228.0	516.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-77
+0	228.0	516.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-78
+0	228.0	516.0	PBL-142	ec:5c:68:cd:3c:47	-80
+0	228.0	516.0	eduroam	38:0e:4d:92:7d:cf	-81
+0	228.0	516.0	eduroam	70:6d:15:c0:e6:2f	-81
+0	228.0	516.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-82
+0	228.0	516.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	516.0		00:19:70:4e:77:3b	-89
+0	228.0	516.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	516.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	516.0	KoreaUniv AP	a4:9b:cd:40:3b:8e	-90
+0	228.0	516.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	516.0	KoreaUniv AP	70:6d:15:d2:df:6e	-91
+0	228.0	522.0	eduroam	70:6d:15:e0:23:0f	-52
+0	228.0	522.0	KoreaUniv AP	70:6d:15:e0:23:0e	-52
+0	228.0	522.0	KoreaUniv AP	70:6d:15:bf:f8:61	-55
+0	228.0	522.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	522.0	eduroam	70:6d:15:bf:f8:6f	-55
+0	228.0	522.0	eduroam	70:6d:15:bf:f8:60	-56
+0	228.0	522.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+0	228.0	522.0	eduroam	70:6d:15:e0:94:8f	-61
+0	228.0	522.0	KoreaUniv AP	70:6d:15:e0:94:8e	-61
+0	228.0	522.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+0	228.0	522.0	eduroam	70:6d:15:ee:6b:cf	-63
+0	228.0	522.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-63
+0	228.0	522.0	eduroam	70:6d:15:e0:ac:6f	-64
+0	228.0	522.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+0	228.0	522.0	eduroam	70:6d:15:d2:51:af	-64
+0	228.0	522.0	eduroam	70:6d:15:e0:94:80	-64
+0	228.0	522.0	KoreaUniv AP	70:6d:15:d2:51:ae	-64
+0	228.0	522.0	KoreaUniv AP	70:6d:15:db:3c:0e	-65
+0	228.0	522.0	eduroam	70:6d:15:db:3c:0f	-65
+0	228.0	522.0	eduroam	70:6d:15:dc:1d:af	-67
+0	228.0	522.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-68
+0	228.0	522.0	KoreaUniv AP	70:6d:15:db:8c:8e	-69
+0	228.0	522.0	eduroam	70:6d:15:db:8c:8f	-69
+0	228.0	522.0	eduroam	70:6d:15:db:cd:af	-72
+0	228.0	522.0	KoreaUniv AP	70:6d:15:db:cd:ae	-72
+0	228.0	522.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-73
+0	228.0	522.0	KoreaUniv AP	70:6d:15:d4:72:ee	-75
+0	228.0	522.0	eduroam	70:6d:15:d4:72:ef	-76
+0	228.0	522.0	KoreaUniv AP	70:6d:15:ee:09:0e	-76
+0	228.0	522.0	eduroam	70:6d:15:ee:6a:6f	-77
+0	228.0	522.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-77
+0	228.0	522.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-78
+0	228.0	522.0	PBL-142	ec:5c:68:cd:3c:47	-80
+0	228.0	522.0	eduroam	38:0e:4d:92:7d:cf	-81
+0	228.0	522.0	eduroam	70:6d:15:c0:e6:2f	-81
+0	228.0	522.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-82
+0	228.0	522.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+0	228.0	522.0		00:19:70:4e:77:3b	-89
+0	228.0	522.0	eduroam	70:6d:15:e0:22:6f	-89
+0	228.0	522.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+0	228.0	522.0	KoreaUniv AP	a4:9b:cd:40:3b:8e	-90
+0	228.0	522.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	522.0	KoreaUniv AP	70:6d:15:d2:df:6e	-91
+1	228.0	522.0	eduroam	70:6d:15:e0:23:0f	-52
+1	228.0	522.0	KoreaUniv AP	70:6d:15:e0:23:0e	-52
+1	228.0	522.0	KoreaUniv AP	70:6d:15:bf:f8:61	-55
+1	228.0	522.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+1	228.0	522.0	eduroam	70:6d:15:bf:f8:6f	-55
+1	228.0	522.0	eduroam	70:6d:15:bf:f8:60	-56
+1	228.0	522.0	KoreaUniv AP	70:6d:15:d2:51:a1	-59
+1	228.0	522.0	eduroam	70:6d:15:e0:94:8f	-61
+1	228.0	522.0	KoreaUniv AP	70:6d:15:e0:94:8e	-61
+1	228.0	522.0	SKINFO2	64:ee:b7:f1:12:3a	-62
+1	228.0	522.0	eduroam	70:6d:15:ee:6b:cf	-63
+1	228.0	522.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-63
+1	228.0	522.0	eduroam	70:6d:15:e0:ac:6f	-64
+1	228.0	522.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-64
+1	228.0	522.0	eduroam	70:6d:15:d2:51:af	-64
+1	228.0	522.0	eduroam	70:6d:15:e0:94:80	-64
+1	228.0	522.0	KoreaUniv AP	70:6d:15:d2:51:ae	-64
+1	228.0	522.0	KoreaUniv AP	70:6d:15:db:3c:0e	-65
+1	228.0	522.0	eduroam	70:6d:15:db:3c:0f	-65
+1	228.0	522.0	eduroam	70:6d:15:dc:1d:af	-67
+1	228.0	522.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-68
+1	228.0	522.0	KoreaUniv AP	70:6d:15:db:8c:8e	-69
+1	228.0	522.0	eduroam	70:6d:15:db:8c:8f	-69
+1	228.0	522.0	eduroam	70:6d:15:db:cd:af	-72
+1	228.0	522.0	KoreaUniv AP	70:6d:15:db:cd:ae	-72
+1	228.0	522.0	POCO X3 NFC	9e:13:a1:e5:ee:38	-73
+1	228.0	522.0	KoreaUniv AP	70:6d:15:d4:72:ee	-75
+1	228.0	522.0	eduroam	70:6d:15:d4:72:ef	-76
+1	228.0	522.0	KoreaUniv AP	70:6d:15:ee:09:0e	-76
+1	228.0	522.0	eduroam	70:6d:15:ee:6a:6f	-77
+1	228.0	522.0	KoreaUniv AP	70:6d:15:ee:6a:6e	-77
+1	228.0	522.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-78
+1	228.0	522.0	PBL-142	ec:5c:68:cd:3c:47	-80
+1	228.0	522.0	eduroam	38:0e:4d:92:7d:cf	-81
+1	228.0	522.0	eduroam	70:6d:15:c0:e6:2f	-81
+1	228.0	522.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-82
+1	228.0	522.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-88
+1	228.0	522.0		00:19:70:4e:77:3b	-89
+1	228.0	522.0	eduroam	70:6d:15:e0:22:6f	-89
+1	228.0	522.0	KoreaUniv AP	70:6d:15:e0:22:6e	-90
+1	228.0	522.0	KoreaUniv AP	a4:9b:cd:40:3b:8e	-90
+1	228.0	522.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+1	228.0	522.0	KoreaUniv AP	70:6d:15:d2:df:6e	-91
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+0	228.0	528.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	528.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	528.0	eduroam	70:6d:15:e0:94:8f	-57
+0	228.0	528.0	eduroam	70:6d:15:bf:f8:6f	-57
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+0	228.0	528.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+0	228.0	528.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	528.0	eduroam	70:6d:15:e0:94:80	-60
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+0	228.0	528.0	eduroam	70:6d:15:e0:ac:6f	-61
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	528.0	eduroam	70:6d:15:e0:23:00	-62
+0	228.0	528.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+0	228.0	528.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+0	228.0	528.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	528.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	528.0	eduroam	70:6d:15:ee:6b:cf	-66
+0	228.0	528.0	eduroam	70:6d:15:d2:51:af	-66
+0	228.0	528.0	eduroam	70:6d:15:db:3c:00	-66
+0	228.0	528.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+0	228.0	528.0	eduroam	70:6d:15:db:8c:8f	-67
+0	228.0	528.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	528.0	eduroam	70:6d:15:e0:ac:60	-67
+0	228.0	528.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+0	228.0	528.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+0	228.0	528.0	eduroam	70:6d:15:db:cd:af	-74
+0	228.0	528.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+0	228.0	528.0	eduroam	70:6d:15:d4:72:ef	-75
+0	228.0	528.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	528.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	528.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	528.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	528.0	eduroam	70:6d:15:ee:6a:6f	-78
+0	228.0	528.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+0	228.0	528.0		00:19:70:4e:77:3b	-86
+0	228.0	528.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+0	228.0	528.0	eduroam	bc:16:65:26:88:af	-87
+0	228.0	528.0	eduroam	70:6d:15:e0:22:6f	-88
+0	228.0	528.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	528.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+0	228.0	528.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+0	228.0	534.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	534.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	534.0	eduroam	70:6d:15:e0:94:8f	-57
+0	228.0	534.0	eduroam	70:6d:15:bf:f8:6f	-57
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+0	228.0	534.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+0	228.0	534.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	534.0	eduroam	70:6d:15:e0:94:80	-60
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+0	228.0	534.0	eduroam	70:6d:15:e0:ac:6f	-61
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	534.0	eduroam	70:6d:15:e0:23:00	-62
+0	228.0	534.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+0	228.0	534.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+0	228.0	534.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	534.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	534.0	eduroam	70:6d:15:ee:6b:cf	-66
+0	228.0	534.0	eduroam	70:6d:15:d2:51:af	-66
+0	228.0	534.0	eduroam	70:6d:15:db:3c:00	-66
+0	228.0	534.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+0	228.0	534.0	eduroam	70:6d:15:db:8c:8f	-67
+0	228.0	534.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	534.0	eduroam	70:6d:15:e0:ac:60	-67
+0	228.0	534.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+0	228.0	534.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+0	228.0	534.0	eduroam	70:6d:15:db:cd:af	-74
+0	228.0	534.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+0	228.0	534.0	eduroam	70:6d:15:d4:72:ef	-75
+0	228.0	534.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	534.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	534.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	534.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	534.0	eduroam	70:6d:15:ee:6a:6f	-78
+0	228.0	534.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+0	228.0	534.0		00:19:70:4e:77:3b	-86
+0	228.0	534.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+0	228.0	534.0	eduroam	bc:16:65:26:88:af	-87
+0	228.0	534.0	eduroam	70:6d:15:e0:22:6f	-88
+0	228.0	534.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	534.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+0	228.0	534.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+0	228.0	540.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	540.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	540.0	eduroam	70:6d:15:e0:94:8f	-57
+0	228.0	540.0	eduroam	70:6d:15:bf:f8:6f	-57
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+0	228.0	540.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+0	228.0	540.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	540.0	eduroam	70:6d:15:e0:94:80	-60
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+0	228.0	540.0	eduroam	70:6d:15:e0:ac:6f	-61
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	540.0	eduroam	70:6d:15:e0:23:00	-62
+0	228.0	540.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+0	228.0	540.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+0	228.0	540.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	540.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	540.0	eduroam	70:6d:15:ee:6b:cf	-66
+0	228.0	540.0	eduroam	70:6d:15:d2:51:af	-66
+0	228.0	540.0	eduroam	70:6d:15:db:3c:00	-66
+0	228.0	540.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+0	228.0	540.0	eduroam	70:6d:15:db:8c:8f	-67
+0	228.0	540.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	540.0	eduroam	70:6d:15:e0:ac:60	-67
+0	228.0	540.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+0	228.0	540.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+0	228.0	540.0	eduroam	70:6d:15:db:cd:af	-74
+0	228.0	540.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+0	228.0	540.0	eduroam	70:6d:15:d4:72:ef	-75
+0	228.0	540.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	540.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	540.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	540.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	540.0	eduroam	70:6d:15:ee:6a:6f	-78
+0	228.0	540.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+0	228.0	540.0		00:19:70:4e:77:3b	-86
+0	228.0	540.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+0	228.0	540.0	eduroam	bc:16:65:26:88:af	-87
+0	228.0	540.0	eduroam	70:6d:15:e0:22:6f	-88
+0	228.0	540.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	540.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+0	228.0	540.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+0	228.0	546.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+0	228.0	546.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+0	228.0	546.0	eduroam	70:6d:15:e0:94:8f	-57
+0	228.0	546.0	eduroam	70:6d:15:bf:f8:6f	-57
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+0	228.0	546.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+0	228.0	546.0	eduroam	70:6d:15:db:3c:0f	-59
+0	228.0	546.0	eduroam	70:6d:15:e0:94:80	-60
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+0	228.0	546.0	eduroam	70:6d:15:e0:ac:6f	-61
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+0	228.0	546.0	eduroam	70:6d:15:e0:23:00	-62
+0	228.0	546.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+0	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+0	228.0	546.0	eduroam	70:6d:15:dc:1d:af	-66
+0	228.0	546.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+0	228.0	546.0	eduroam	70:6d:15:ee:6b:cf	-66
+0	228.0	546.0	eduroam	70:6d:15:d2:51:af	-66
+0	228.0	546.0	eduroam	70:6d:15:db:3c:00	-66
+0	228.0	546.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+0	228.0	546.0	eduroam	70:6d:15:db:8c:8f	-67
+0	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+0	228.0	546.0	eduroam	70:6d:15:e0:ac:60	-67
+0	228.0	546.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+0	228.0	546.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+0	228.0	546.0	eduroam	70:6d:15:db:cd:af	-74
+0	228.0	546.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+0	228.0	546.0	eduroam	70:6d:15:d4:72:ef	-75
+0	228.0	546.0	eduroam	70:6d:15:c0:e6:2f	-75
+0	228.0	546.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+0	228.0	546.0	eduroam	38:0e:4d:92:7d:cf	-77
+0	228.0	546.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+0	228.0	546.0	eduroam	70:6d:15:ee:6a:6f	-78
+0	228.0	546.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+0	228.0	546.0		00:19:70:4e:77:3b	-86
+0	228.0	546.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+0	228.0	546.0	eduroam	bc:16:65:26:88:af	-87
+0	228.0	546.0	eduroam	70:6d:15:e0:22:6f	-88
+0	228.0	546.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+0	228.0	546.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+0	228.0	546.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+1	228.0	546.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+1	228.0	546.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+1	228.0	546.0	eduroam	70:6d:15:e0:94:8f	-57
+1	228.0	546.0	eduroam	70:6d:15:bf:f8:6f	-57
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+1	228.0	546.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+1	228.0	546.0	eduroam	70:6d:15:db:3c:0f	-59
+1	228.0	546.0	eduroam	70:6d:15:e0:94:80	-60
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+1	228.0	546.0	eduroam	70:6d:15:e0:ac:6f	-61
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+1	228.0	546.0	eduroam	70:6d:15:e0:23:00	-62
+1	228.0	546.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+1	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+1	228.0	546.0	eduroam	70:6d:15:dc:1d:af	-66
+1	228.0	546.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+1	228.0	546.0	eduroam	70:6d:15:ee:6b:cf	-66
+1	228.0	546.0	eduroam	70:6d:15:d2:51:af	-66
+1	228.0	546.0	eduroam	70:6d:15:db:3c:00	-66
+1	228.0	546.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+1	228.0	546.0	eduroam	70:6d:15:db:8c:8f	-67
+1	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+1	228.0	546.0	eduroam	70:6d:15:e0:ac:60	-67
+1	228.0	546.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+1	228.0	546.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+1	228.0	546.0	eduroam	70:6d:15:db:cd:af	-74
+1	228.0	546.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+1	228.0	546.0	eduroam	70:6d:15:d4:72:ef	-75
+1	228.0	546.0	eduroam	70:6d:15:c0:e6:2f	-75
+1	228.0	546.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+1	228.0	546.0	eduroam	38:0e:4d:92:7d:cf	-77
+1	228.0	546.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+1	228.0	546.0	eduroam	70:6d:15:ee:6a:6f	-78
+1	228.0	546.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+1	228.0	546.0		00:19:70:4e:77:3b	-86
+1	228.0	546.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+1	228.0	546.0	eduroam	bc:16:65:26:88:af	-87
+1	228.0	546.0	eduroam	70:6d:15:e0:22:6f	-88
+1	228.0	546.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+1	228.0	546.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+1	228.0	546.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:23:0e	-53
+2	228.0	546.0	SKINFO3	70:5d:cc:0d:0d:88	-54
+2	228.0	546.0	KoreaUniv AP	70:6d:15:bf:f8:6e	-55
+2	228.0	546.0	eduroam	70:6d:15:e0:94:8f	-57
+2	228.0	546.0	eduroam	70:6d:15:bf:f8:6f	-57
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:8e	-58
+2	228.0	546.0	KoreaUniv AP	70:6d:15:db:3c:0e	-59
+2	228.0	546.0	eduroam	70:6d:15:db:3c:0f	-59
+2	228.0	546.0	eduroam	70:6d:15:e0:94:80	-60
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:94:81	-60
+2	228.0	546.0	eduroam	70:6d:15:e0:ac:6f	-61
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:6e	-62
+2	228.0	546.0	eduroam	70:6d:15:e0:23:00	-62
+2	228.0	546.0	SKINFO2	64:ee:b7:f1:12:3a	-63
+2	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:a1	-64
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:ac:61	-65
+2	228.0	546.0	eduroam	70:6d:15:dc:1d:af	-66
+2	228.0	546.0	KoreaUniv AP	70:6d:15:dc:1d:ae	-66
+2	228.0	546.0	eduroam	70:6d:15:ee:6b:cf	-66
+2	228.0	546.0	eduroam	70:6d:15:d2:51:af	-66
+2	228.0	546.0	eduroam	70:6d:15:db:3c:00	-66
+2	228.0	546.0	KoreaUniv AP	70:6d:15:ee:6b:ce	-67
+2	228.0	546.0	eduroam	70:6d:15:db:8c:8f	-67
+2	228.0	546.0	KoreaUniv AP	70:6d:15:d2:51:ae	-67
+2	228.0	546.0	eduroam	70:6d:15:e0:ac:60	-67
+2	228.0	546.0	KoreaUniv AP	70:6d:15:db:8c:8e	-68
+2	228.0	546.0	KoreaUniv AP	70:6d:15:d4:72:ee	-74
+2	228.0	546.0	eduroam	70:6d:15:db:cd:af	-74
+2	228.0	546.0	KoreaUniv AP	70:6d:15:db:cd:ae	-74
+2	228.0	546.0	eduroam	70:6d:15:d4:72:ef	-75
+2	228.0	546.0	eduroam	70:6d:15:c0:e6:2f	-75
+2	228.0	546.0	KoreaUniv AP	70:6d:15:c0:e6:2e	-76
+2	228.0	546.0	eduroam	38:0e:4d:92:7d:cf	-77
+2	228.0	546.0	KoreaUniv AP	38:0e:4d:92:7d:ce	-77
+2	228.0	546.0	eduroam	70:6d:15:ee:6a:6f	-78
+2	228.0	546.0	MAXHUB-d2070cca	70:2e:d9:23:25:1c	-85
+2	228.0	546.0		00:19:70:4e:77:3b	-86
+2	228.0	546.0	KoreaUniv AP	bc:16:65:26:88:ae	-87
+2	228.0	546.0	eduroam	bc:16:65:26:88:af	-87
+2	228.0	546.0	eduroam	70:6d:15:e0:22:6f	-88
+2	228.0	546.0	KoreaUniv AP	70:6d:15:e0:22:6e	-89
+2	228.0	546.0	KoreaUniv AP	70:6d:15:d2:e1:6e	-89
+2	228.0	546.0	TP-LINK_5G	a4:2b:b0:da:3c:b7	-91
