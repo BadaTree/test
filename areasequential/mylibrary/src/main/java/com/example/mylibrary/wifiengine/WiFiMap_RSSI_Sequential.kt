@@ -45,6 +45,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     var founddir = false
 
     var cur_step = -1
+
     //하나스퀘어
     private var early_stop_in_n_mother : Float = 4.0f
     private var rssi_thres = -75
@@ -375,8 +376,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 //            if((minX <= posx[i]) && (posx[i] <= maxX) && (minY <= posy[i]) && (posy[i] <= maxY)){
 //                coord_particle = coord_particle.plus(WiFiParticle(arrayListOf(posx[i].toFloat(), posy[i].toFloat())))
 //            }
-//        }
-//
+
 //
 //        for (i in angleList.indices){
 //            wifi_particle_mother_list.add(WiFiParticle_Mother(angleList[i]))
