@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    compileSdk 29
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.hasequential"
