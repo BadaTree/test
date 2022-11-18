@@ -237,6 +237,41 @@
 
     </FrameLayout>
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:orientation="horizen">
+
+        <Button
+            android:id="@+id/btnB1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7F7EFF"
+            android:text="지하 1층" />
+
+        <Button
+            android:id="@+id/btnB2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7F7EFF"
+            android:text="지하 2층" />
+
+        <Button
+            android:id="@+id/btnB3_bo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="플랫폼1_보문"
+            android:backgroundTint="#7F7EFF"/>
+        <Button
+            android:id="@+id/btnB3_ko"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="플랫폼2_고려대"
+            android:backgroundTint="#7F7EFF"/>
+    </LinearLayout>
+
 
     <Button
         android:id="@+id/btnReset"

@@ -26,7 +26,11 @@ class ExIndoorLocalization {
         instantLocalization = InstantLocalization(resourceDataManager.magneticFieldMap, resourceDataManager.instantMap)
         wifiengine = WiFiMap_RSSI_Sequential(resourceDataManager.wifiDataMap, resourceDataManager.magneticFieldMap)
     }
-
+    fun setClass(magneticStream : InputStream?, magneticStreamForInstant : InputStream?, wifiStreamTotal : InputStream?, wifiStreamRSSI : InputStream?, wifiStreamUnq : InputStream?){
+        resourceDataManager = ResourceDataManager(magneticStream, magneticStreamForInstant, wifiStreamTotal, wifiStreamRSSI, wifiStreamUnq)
+        instantLocalization = InstantLocalization(resourceDataManager.magneticFieldMap, resourceDataManager.instantMap)
+        wifiengine = WiFiMap_RSSI_Sequential(resourceDataManager.wifiDataMap, resourceDataManager.magneticFieldMap)
+    }
     var rangecheck = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
 
 
@@ -38,7 +42,7 @@ class ExIndoorLocalization {
     private var returnIns : String = "not support"
     private var returnX : String = "unknown"
     private var returnY : String = "unknown"
-    private val resourceDataManager : ResourceDataManager
+    private var resourceDataManager : ResourceDataManager
 
     private var magMatrix = FloatArray(3)
     private var accMatrix = FloatArray(3)
@@ -160,6 +164,8 @@ class ExIndoorLocalization {
     var wifidataready = false
     var wifiengineready = false
 
+
+
     private fun isReadyLocalization(event: SensorEvent) : Boolean {
         if (isSensorStabled) {
             return true
@@ -258,7 +264,7 @@ class ExIndoorLocalization {
                         if((ILResult["status_code"]!! == 400.0f)){
 //                            getGyroscope.gyro_reset()
                             returnState = "완전 실패"
-                            }
+                        }
                         else if ((ILResult["status_code"] == 200.0f) || (ILResult["status_code"] == 202.0f)) {
 //                            particleFilter = ParticleFilter(resourceDataManager.magneticFieldMap, 100, round(ILResult["pos_x"]!!).toInt(), round(ILResult["pos_y"]!!).toInt(), 10)
 //                            PFResult = arrayOf(ILResult["pos_x"]!!.toDouble(), ILResult["pos_y"]!!.toDouble())

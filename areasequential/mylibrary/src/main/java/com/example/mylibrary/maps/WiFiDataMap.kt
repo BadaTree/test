@@ -113,24 +113,26 @@ class WiFiDataMap {
         }}
 
 //     #### WIFI RSSI 읽어들이기
-        wifiStreamRSSI.bufferedReader().useLines { lines -> lines.forEach{
-            splitData = it.split("\t").toTypedArray()
-            var datalen = splitData.size
-            x = splitData[0].toInt()
-            y = splitData[1].toInt()
-            index = x * 10000 + y
-            var temp = splitData.slice(2 .. splitData.size - 1)
-            wifi_rssi.apply{ this[index] = splitData.slice(2.. splitData.size - 1).toTypedArray()}
-            temp_wifi_rssi.apply{this[index] = 0}
-            temp_wifi_cnt.apply{this[index] = 0}
-
-            if (x > mapWidth) {
-                mapWidth = x
-            }
-            if (y > mapHeight) {
-                mapHeight = y
-            }
-        }}
+//        wifiStreamRSSI.bufferedReader().useLines { lines -> lines.forEach{
+//            splitData = it.split("\t").toTypedArray()
+//            var datalen = splitData.size
+//            print(splitData[0])
+//            x = splitData[0].toInt()
+//            y = splitData[1].toInt()
+//            index = x * 10000 + y
+//            var temp = splitData.slice(2 .. splitData.size - 1)
+//            wifi_rssi.apply{ this[index] = splitData.slice(2.. splitData.size - 1).toTypedArray()}
+//            temp_wifi_rssi.apply{this[index] = 0}
+//            temp_wifi_cnt.apply{this[index] = 0}
+//
+//            if (x > mapWidth) {
+//                mapWidth = x
+//            }
+//            if (y > mapHeight) {
+//                mapHeight = y
+//            }
+//        }}
 
     }
+
 }

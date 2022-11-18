@@ -31,8 +31,8 @@ import com.example.mylibrary.ExIndoorLocalization
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.math.round
 
-private val WEB_ADDRESS_HANA = "file:///android_asset/HanaSquare_map_for_result.html"
-
+//private val WEB_ADDRESS = "file:///android_asset/HanaSquare_map_for_result.html"
+private val WEB_ADDRESS = "file:///android_asset/anam_result.html"
 
 class MainActivity : AppCompatActivity(), SensorEventListener {
     private val mSensorManager by lazy {
@@ -88,11 +88,49 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         scanstarted = true
         wifiManager.startScan()
 
-        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
-                                                    resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
-                                                    resources.openRawResource(R.raw.hanasquare_wifihashmap),
-                                                    resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
-                                                    resources.openRawResource(R.raw.hanasquare_wifilist))
+        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hashmap_1f),
+                                                    resources.openRawResource(R.raw.hashmap_1f),
+                                                    resources.openRawResource(R.raw.wifihashmap_1),
+                                                    resources.openRawResource(R.raw.wifirssihashmap_1),
+                                                    resources.openRawResource(R.raw.wifilist_1))
+     /*   exIndoorLocalizaon = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
+            resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+            resources.openRawResource(R.raw.hanasquare_wifihashmap),
+            resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+            resources.openRawResource(R.raw.hanasquare_wifilist))*/
+
+        btnB1.setOnClickListener {
+            wvLayout0401v3.loadUrl("javascript:changeMapB1()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_1f),
+                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.wifihashmap_1),
+                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifilist_1))
+        }
+        btnB2.setOnClickListener {
+            wvLayout0401v3.loadUrl("javascript:changeMapB2()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_2f),
+                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.wifihashmap_2),
+                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifilist_2))
+        }
+        btnB3_bo.setOnClickListener {
+            wvLayout0401v3.loadUrl("javascript:changeMapB3_bo()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_3f),
+                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.wifihashmap_3),
+                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifilist_3))
+        }
+        btnB3_ko.setOnClickListener {
+            wvLayout0401v3.loadUrl("javascript:changeMapB3_ko()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_4f),
+                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.wifihashmap_4),
+                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifilist_4))
+        }
 
         btnReset.setOnClickListener {
             vibrator.vibrate(30)
@@ -118,6 +156,9 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                 && ActivityCompat.shouldShowRequestPermissionRationale(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                 ActivityCompat.requestPermissions(this, arrayOf(
                     Manifest.permission.ACCESS_FINE_LOCATION,
+
+
+
                     Manifest.permission.ACCESS_COARSE_LOCATION,
                     Manifest.permission.WRITE_EXTERNAL_STORAGE), 101)
             } else {
@@ -131,7 +172,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 
     private fun initUI() {
         webView.goBack()
-        webView.loadUrl(WEB_ADDRESS_HANA)
+        webView.loadUrl(WEB_ADDRESS)
         wvLayout0401v3 = webView
         webView.scrollTo(1380, 450)
         webView.isScrollbarFadingEnabled = true
