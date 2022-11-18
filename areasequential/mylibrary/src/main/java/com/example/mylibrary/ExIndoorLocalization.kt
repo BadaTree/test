@@ -59,6 +59,7 @@ class ExIndoorLocalization {
     private val poseTypes = arrayOf("On Hand", "In Pocket", "Hand Swing")
     private val stepTypes = arrayOf("normal", "fast", "slow", "prowl", "non")
     internal var particleOn : Boolean = false
+    internal var main_step : String = ""
     ///////////////pdrResult의 내부 구조////////////////////////
 //                    data class PDR(
 //                      val devicePosture : Int,
@@ -297,6 +298,7 @@ class ExIndoorLocalization {
         returnIns = ILResult["status_code"].toString()
         returnX = PFResult[0].toString()
         returnY = PFResult[1].toString()
+        main_step = stepCount.toString()
         return arrayOf(returnGyro, returnState, returnIns, stepCount.toString(), returnX, returnY)
     }
 
@@ -304,6 +306,6 @@ class ExIndoorLocalization {
         return poseTypes[devicePosture]
     }
     fun getType() : String {
-        return stepTypes[stepType]
+        return main_step
     }
 }

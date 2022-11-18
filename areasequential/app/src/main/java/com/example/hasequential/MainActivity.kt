@@ -102,33 +102,33 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         btnB1.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeMapB1()")
             exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_1f),
-                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.hashmap_1f),
                 resources.openRawResource(R.raw.wifihashmap_1),
-                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifirssihashmap_1),
                 resources.openRawResource(R.raw.wifilist_1))
         }
         btnB2.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeMapB2()")
             exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_2f),
-                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.hashmap_2f),
                 resources.openRawResource(R.raw.wifihashmap_2),
-                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifirssihashmap_2),
                 resources.openRawResource(R.raw.wifilist_2))
         }
         btnB3_bo.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeMapB3_bo()")
             exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_3f),
-                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.hashmap_3f),
                 resources.openRawResource(R.raw.wifihashmap_3),
-                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifirssihashmap_3),
                 resources.openRawResource(R.raw.wifilist_3))
         }
         btnB3_ko.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeMapB3_ko()")
             exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_4f),
-                resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+                resources.openRawResource(R.raw.hashmap_4f),
                 resources.openRawResource(R.raw.wifihashmap_4),
-                resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+                resources.openRawResource(R.raw.wifirssihashmap_4),
                 resources.openRawResource(R.raw.wifilist_4))
         }
 

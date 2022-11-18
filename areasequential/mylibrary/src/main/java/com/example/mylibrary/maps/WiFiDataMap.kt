@@ -71,7 +71,7 @@ class WiFiDataMap {
 //        }
 //
 //    }
-    
+
 
 
     constructor(wifiStreamTotal : InputStream, wifiStreamRSSI : InputStream, wifiStreamUnq : InputStream){
