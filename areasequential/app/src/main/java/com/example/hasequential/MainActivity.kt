@@ -189,7 +189,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 
     override fun onSensorChanged(event: SensorEvent?) {
         if (event != null) {
-            /* [원준]
+                        /* [원준]
                자기장 센서 calibration 단계가 3단계가 아니라면, 어떠한 동작도 하지 않게 함.
                자기장 센서 calibration 단계까 3단계가 될 때까지 calibration 동작만 유도.
              */
@@ -205,8 +205,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 //            if (wifidataready) {
 //                if (exIndoorLocalization.wifi_range[0] == -100) {
                     var result = exIndoorLocalization.sensorChanged(event)
-
-                    when (result[1]) {
+                         when (result[1]) {
                         "The sensors is not ready yet" -> return
 //                        "완전 실패" -> {
 //                            if (lastStep != result[3].toInt()) {

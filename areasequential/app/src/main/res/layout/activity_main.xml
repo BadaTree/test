@@ -242,7 +242,7 @@
         android:layout_height="40dp"
         android:layout_marginLeft="10dp"
         android:gravity="center"
-        android:orientation="horizen">
+        android:orientation="horizontal">
 
         <Button
             android:id="@+id/btnB1"
