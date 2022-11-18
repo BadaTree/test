@@ -78,7 +78,7 @@
 
     var corrX = X_B1
     var corrY = Y_B1
-    
+   /*
     for (var i=0; i<dot_num; i++) {
         pos_x = 100
         pos_y = 100
@@ -90,6 +90,7 @@
         plusUI.width = "15"
         document.getElementById("map_area").appendChild(plusUI);
     }
+   */
 
     for (var j=0; j<2000; j++) {
         var plusUI2 = document.createElement("div");
@@ -122,10 +123,6 @@
     var changeMapB2 = function(){
         corrX = X_B2, corrY = Y_B2;
         document.getElementById("map_img").src = "./images/anam6_2.jpg";
-        document.getElementById("map_img").width="650";
-    }
-
-    var changeMapB3_bo = function(){
         corrX = X_B3_BO, corrY = Y_B3_BO;
         document.getElementById("map_img").src = "./images/anam6_3_bo.jpg";
         document.getElementById("map_img").width="450";
