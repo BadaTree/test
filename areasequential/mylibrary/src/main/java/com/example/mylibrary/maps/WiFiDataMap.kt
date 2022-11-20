@@ -2,6 +2,7 @@ package com.example.mylibrary.maps
 
 import java.io.InputStream
 
+// RSSI 
 
 class WiFiDataMap {
     internal var pos = arrayListOf<Int>()
