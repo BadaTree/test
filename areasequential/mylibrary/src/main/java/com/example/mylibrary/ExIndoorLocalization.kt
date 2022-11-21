@@ -59,7 +59,7 @@ class ExIndoorLocalization {
     private val poseTypes = arrayOf("On Hand", "In Pocket", "Hand Swing")
     private val stepTypes = arrayOf("normal", "fast", "slow", "prowl", "non")
     internal var particleOn : Boolean = false
-    internal var main_step : String = ""
+    internal var  particle_num = 0
     ///////////////pdrResult의 내부 구조////////////////////////
 //                    data class PDR(
 //                      val devicePosture : Int,
@@ -207,7 +207,7 @@ class ExIndoorLocalization {
                     // 폰 켜지자마자 바로 instant 실행되도록 함
                     if (first_sampling && caliVector[0]!=0.0 && caliVector[1]!=0.0 && caliVector[2]!=0.0 && (wifidata != "")) { // 해당 if문은 꼭 있어야됨. 자기장 센서 안정화가 안될 때가 간혹있어서, 여기서 한번더 확실하게 안정화해주는 것임.
                         //////WiFi Engine
-                        Log.d("rangeval12", wifi_range.joinToString("\t"))
+                        Log.d("rangeval12", "asdasdasd123"+ wifi_range.joinToString("\t"))
                         wifiengine.getLocation(wifidata, 0.0, gyro_value_map_collection, gyro_value_reset_direction, PFResult)
                         first_sampling = false
                     }
@@ -252,6 +252,8 @@ class ExIndoorLocalization {
                         //////Instant Localization
                         var temp_steplength = 0.7
                         //pdrResult.stepLength
+
+                        // #### ILResult : wifiengine.getLocation
                         CoroutineScope(Dispatchers.Default).async {
                             ILResult = async { wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction, PFResult) }.await()
                             rangecheck = wifiengine.range_check
@@ -298,7 +300,7 @@ class ExIndoorLocalization {
         returnIns = ILResult["status_code"].toString()
         returnX = PFResult[0].toString()
         returnY = PFResult[1].toString()
-        main_step = stepCount.toString()
+        particle_num = wifiengine.particle_num
         return arrayOf(returnGyro, returnState, returnIns, stepCount.toString(), returnX, returnY)
     }
 
@@ -306,6 +308,6 @@ class ExIndoorLocalization {
         return poseTypes[devicePosture]
     }
     fun getType() : String {
-        return main_step
+        return particle_num.toString()
     }
 }

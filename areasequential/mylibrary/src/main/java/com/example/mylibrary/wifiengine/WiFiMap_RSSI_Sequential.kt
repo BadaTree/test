@@ -88,6 +88,8 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     var correction_angle = 0.0f
 
     var area_check_range = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
+    var particle_num = 0
+
     init {
         wifi = wiFiDataMap.wifi
         wifi_rssi = wiFiDataMap.wifi_rssi
@@ -751,6 +753,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     // 초기 위치 방향 추정
     private fun estimateInitialDirAndPos(mother_list: List<WiFiParticle_Mother>, gyro: Float): MutableMap<String, Float> {
         var num_of_mother = wifi_particle_mother_list.size
+        particle_num = num_of_mother
         lateinit var best_mother : WiFiParticle_Mother
 
         // 위치 후보군이 여러개일 때
