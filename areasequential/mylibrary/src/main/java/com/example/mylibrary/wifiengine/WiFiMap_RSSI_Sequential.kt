@@ -722,18 +722,22 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             }
         }
     }
-    // 방향 수렴 후 초기 위치 계산
+    // 방향 수렴 후 초기 위치 계산(수렴 판단)
     private fun calculate_answer_position(mother : WiFiParticle_Mother) : ArrayList<Double>{
         var answer_x = 0.0
         var answer_y = 0.0
+        // 살아남은 파티클들의 x좌표 합(answer_x),y 좌표 합(answer_y) 계산
         for (children in mother.particle_children_list){
             answer_x += children.x
             answer_y += children.y
         }
 
+        // 살아남은 파티클들의 무게중심 계산
         var num_of_children = mother.particle_children_list.size
         answer_x = answer_x / num_of_children
         answer_y = answer_y / num_of_children
+
+        // 무게중심과 파티클 사이의 거리 평균 계산
         var dist_avg = 0.0
         for (children in mother.particle_children_list) {
             dist_avg += sqrt(Math.pow(answer_x - children.x, 2.0) + Math.pow(answer_y - children.y, 2.0)) * 0.1
