@@ -759,6 +759,10 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         // 위치 후보군이 여러개일 때
         // IL 진행 중. 아직 수렴 안됨
         if(num_of_mother >= 2){
+            area_check_pos_list = arrayListOf<Array<Float>>()
+            for (c in best_mother.particle_children_list) {
+                area_check_pos_list.add(arrayOf(c.x, c.y))
+            }
             return mutableMapOf("status_code" to 100.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
         // 위치 후보군이 한 개일 때, 방향만 수렴

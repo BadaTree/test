@@ -253,16 +253,17 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                                 //                        exIndoorLocalization.setGPS(getGpsInfo())
                                 lastStep = result[3].toInt()
 
-//                                wvLayout0401v3.loadUrl("javascript:remove_children")
-//                                var children_pos_list =
-//                                    exIndoorLocalization.wifiengine.area_check_pos_list
-//                                var string_pos_list = "["
-//                                for (pos in children_pos_list) {
-//                                    string_pos_list += "[${pos[0]}, ${pos[1]}],"
-//                                }
-//                                string_pos_list += "]"
-//                                wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
-//                                vibrator.vibrate(30)
+
+                                wvLayout0401v3.loadUrl("javascript:remove_children")
+                                var children_pos_list =
+                                    exIndoorLocalization.wifiengine.area_check_pos_list
+                                var string_pos_list = "["
+                                for (pos in children_pos_list) {
+                                    string_pos_list += "[${pos[0]}, ${pos[1]}],"
+                                }
+                                string_pos_list += "]"
+                                wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
+                                vibrator.vibrate(30)
                             }
                         }
                         else -> {
