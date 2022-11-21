@@ -54,7 +54,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     private var rssi_range_num = 40
     private var second_rssi_range_num = 40*/
 
-    // anam staion
+    // Anam staion
     // 지하 [-75,3], 플랫폼 [-66,4]
     private var early_stop_in_n_mother : Float = 4.0f
     private var rssi_thres = -75
@@ -217,6 +217,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         return instant_result
     }
 
+    // 실시간 WIFI data와
     fun vectorcompare(wifi_string: String, cur_step : Int){
         wifidata = wifi_string
         temp_wifi_cnt = mutableMapOf<Int, Int>()
