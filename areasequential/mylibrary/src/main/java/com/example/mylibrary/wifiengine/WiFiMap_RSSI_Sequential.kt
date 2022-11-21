@@ -217,8 +217,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         return instant_result
     }
 
-    // 실시간 WIFI data와
-    fun vectorcompare(wifi_string: String, cur_step : Int){
+    // 실시간 WIFI data와 Wifi Map과 유사도, RSSI 차를 비교하여
+    // unq_cnt_list(유사 갯수),unq_rssi_diff_list(RSSI 차)를 내림차순으로 정리
+   fun vectorcompare(wifi_string: String, cur_step : Int){
         wifidata = wifi_string
         temp_wifi_cnt = mutableMapOf<Int, Int>()
         temp_wifi_rssi = mutableMapOf<Int, Double>()
