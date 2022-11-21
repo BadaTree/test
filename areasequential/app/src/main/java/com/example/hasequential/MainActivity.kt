@@ -193,15 +193,18 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                자기장 센서 calibration 단계가 3단계가 아니라면, 어떠한 동작도 하지 않게 함.
                자기장 센서 calibration 단계까 3단계가 될 때까지 calibration 동작만 유도.
              */
-            if (event.sensor.type == Sensor.TYPE_MAGNETIC_FIELD) {
-                if (event.accuracy != 3) {
-                    if (!is_popup_on) {  // popup 창이 여러개 뜨는 것을 방지
-                        is_popup_on = true
-                        showSettingPopup(event.accuracy)  // popup 창을 띄움
-                    }
-                    return
-                }
-            }
+
+            // ## 2022.11.21 바다 수정 : 자기장 센서 안정화 코드 불 필요하여 주석 처리
+            // ## wifi engine에서는 측위에 자기장 센서 사용하지않음
+//            if (event.sensor.type == Sensor.TYPE_MAGNETIC_FIELD) {
+//                if (event.accuracy != 3) {
+//                    if (!is_popup_on) {  // popup 창이 여러개 뜨는 것을 방지
+//                        is_popup_on = true
+//                        showSettingPopup(event.accuracy)  // popup 창을 띄움
+//                    }
+//                    return
+//                }
+//            }
 //            if (wifidataready) {
 //                if (exIndoorLocalization.wifi_range[0] == -100) {
                     var result = exIndoorLocalization.sensorChanged(event)

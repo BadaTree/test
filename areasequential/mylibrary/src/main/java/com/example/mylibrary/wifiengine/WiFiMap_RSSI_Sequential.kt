@@ -54,7 +54,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     private var rssi_range_num = 40
     private var second_rssi_range_num = 40*/
 
-    // Anam staion
+    // anam staion
     // 지하 [-75,3], 플랫폼 [-66,4]
     private var early_stop_in_n_mother : Float = 4.0f
     private var rssi_thres = -75
@@ -217,9 +217,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         return instant_result
     }
 
-    // 실시간 WIFI data와 Wifi Map과 유사도, RSSI 차를 비교하여
-    // unq_cnt_list(유사 갯수),unq_rssi_diff_list(RSSI 차)를 내림차순으로 정리
-   fun vectorcompare(wifi_string: String, cur_step : Int){
+    fun vectorcompare(wifi_string: String, cur_step : Int){
         wifidata = wifi_string
         temp_wifi_cnt = mutableMapOf<Int, Int>()
         temp_wifi_rssi = mutableMapOf<Int, Double>()
@@ -280,12 +278,14 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         for (i in pos){
             var both_cnt = 0
             var rssi_sum = 0.0
-
-            for (j in 0 .. wifilistsize - 1 step(1)){
-                if(test_vector[j] + wifi[i]!![j].toInt() == 2){
+            for (j in 0..wifilistsize - 1 step (1)) {
+                if ((test_vector[j] + wifi[i]!![j].toInt() == 2) and (rssi_vector[j] != 0)) {
                     both_cnt += 1
                     rssi_sum += Math.abs(rssi_vector[j] - wifi_rssi[i]!![j].toInt())
+
                 }
+
+
             }
             temp_wifi_rssi[i] = rssi_sum
             if (both_cnt >= rangeval){
@@ -339,9 +339,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         area_check_pos_list = arrayListOf<Array<Float>>()
         for (i in pos.indices){
             if((minX <= posx[i]) && (posx[i] <= maxX) && (minY <= posy[i]) && (posy[i] <= maxY)){
-                    if (mapVector.isPossiblePosition(posx[i].toDouble(), posy[i].toDouble())) {
-                        area_check_pos_list.add(arrayOf(posx[i].toFloat(), posy[i].toFloat()))
-                    }
+                if (mapVector.isPossiblePosition(posx[i].toDouble(), posy[i].toDouble())) {
+                    area_check_pos_list.add(arrayOf(posx[i].toFloat(), posy[i].toFloat()))
+                }
             }
         }
 
@@ -389,7 +389,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 //                coord_particle = coord_particle.plus(WiFiParticle(arrayListOf(posx[i].toFloat(), posy[i].toFloat())))
 //            }
 
-//
+    //
 //        for (i in angleList.indices){
 //            wifi_particle_mother_list.add(WiFiParticle_Mother(angleList[i]))
 //            if (wifi_particle_mother_list.size == 0) {
@@ -711,9 +711,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 //                }
 //            }
             if (mapVector.isPossiblePosition(
-                act_x.toDouble(),
-                act_y.toDouble()
-            )){
+                    act_x.toDouble(),
+                    act_y.toDouble()
+                )){
                 remain_bool = true
             }
             if (remain_bool == false) {
@@ -722,7 +722,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             }
         }
     }
-
+    // 방향 수렴 후 초기 위치 계산
     private fun calculate_answer_position(mother : WiFiParticle_Mother) : ArrayList<Double>{
         var answer_x = 0.0
         var answer_y = 0.0
@@ -744,14 +744,17 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         }
         return arrayListOf(answer_x, answer_y)
     }
-
+    // 초기 위치 방향 추정
     private fun estimateInitialDirAndPos(mother_list: List<WiFiParticle_Mother>, gyro: Float): MutableMap<String, Float> {
         var num_of_mother = wifi_particle_mother_list.size
         lateinit var best_mother : WiFiParticle_Mother
 
+        // 위치 후보군이 여러개일 때
+        // IL 진행 중. 아직 수렴 안됨
         if(num_of_mother >= 2){
             return mutableMapOf("status_code" to 100.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
+        // 위치 후보군이 한 개일 때, 방향만 수렴
         else if(num_of_mother == 1){
             best_mother = mother_list[0]
             if(!founddir) {
@@ -766,12 +769,15 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 //                    area_check_pos_list.add(arrayOf(c.x, c.y))
 //                }
             }
+
         }else if(num_of_mother == 0){
+            // 400.0f -> IL 혹은 AON 에러. 수렴하지 못함.
             return return mutableMapOf("status_code" to 400.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
         // 혹시 모를 에러를 방지
         var num_of_children = best_mother.particle_children_list.size
         if (num_of_children == 0) {
+            // 400.0f -> IL 혹은 AON 에러. 수렴하지 못함.
             return return mutableMapOf("status_code" to 400.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
 
@@ -784,7 +790,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             founddir = true
             foundpos = true
             temp_gyro = answer_dir
-
+            // 200.0f -> IL 완료. 완전 수렴
             return mutableMapOf("status_code" to 200.0f, "gyro_from_map" to answer_dir, "pos_x" to answer_x, "pos_y" to answer_y)
 //            return return mutableMapOf("status_code" to 101.0f, "gyro_from_map" to answer_dir, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
@@ -792,6 +798,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             foundpos = true
             founddir = true
             temp_gyro = answer_dir
+            // 200.0f -> IL 완료. 완전 수렴
             return mutableMapOf("status_code" to 200.0f, "gyro_from_map" to answer_dir, "pos_x" to answer_x, "pos_y" to answer_y)
         }
     }
