@@ -14,10 +14,7 @@
         display: table-cell;
         vertical-align: middle;
     }
-
-
 </style>
-
 <html lang="en">
 <!-- floor2 -->
 <head>
@@ -37,16 +34,7 @@
 <main>
     <section>
         <article>
-            <button class="select_btn" onclick="changeMapB1()">지하 1층</button> <br><br><br>
-            <button class="select_btn" onclick="changeMapB2()">지하 2층</button> <br><br><br>
-            <button class="select_btn" onclick="changeMapB3_bo()">플랫폼 보문행</button> <br><br><br>
-            <button class="select_btn" onclick="changeMapB3_ko()">플랫폼 고려대행</button> <br><br><br>
-        </article>
-    </section>
-
-    <section>
-        <article>
-            <div id="map_area" style="position:absolute; z-index:1; left:400px; top:350px; overflow:scroll; transition: all 0.1s; transform: rotate(270deg)">
+            <div id="map_area" style="position:absolute; z-index:1;left: 600px; top: 300px; overflow:scroll; transition: all 0.1s; transform: rotate(270deg)">
                 <img id="map_img" src="./images/anam6_1.jpg"  width="1580">
                 <!-- <img id="map_img" src="./images/anam6_2.jpg"  width="650"> -->
                 <!-- <img id="map_img" src="./images/anam6_3_bo.jpg"  width="450"> -->
@@ -69,31 +57,34 @@
     var mode = 0;
     const X_B1 = 170;
     const Y_B1 = 550;
+    const WIDTH_B1 = 1580;
 
-    const X_B2 = 42;
-    const Y_B2 = 100;
+    const X_B2 = 63;    //감소 시 좌측 이동
+    const Y_B2 = 383;   //감소 시 아래로 이동
+    const WIDTH_B2 = 1300;
 
-    const X_B3_BO = 25;
-    const Y_B3_BO = 10;
+    const X_B3_BO = 165;  //증가 시 이미지 좌측이동
+    const Y_B3_BO = 50;   //증가 시 이미지 아래로
+    const WIDTH_B3 = 2170;
 
-    const X_B3_KO = 25;
-    const Y_B3_KO = 7;
+    const X_B3_KO = 230;
+    const Y_B3_KO = 36;
+    const WIDTH_B4 = 2170;
 
     var corrX = X_B1
     var corrY = Y_B1
-   /*
-    for (var i=0; i<dot_num; i++) {
-        pos_x = 100
-        pos_y = 100
-        positions.push([pos_x, pos_y]);
-        var plusUI = document.createElement("img");
-        plusUI.src = "./images/dot.png"
-        plusUI.style = "position:absolute; z-index:0; left:"+(pos_x)+"px; top:"+(pos_y)+"px; display:block;";
-        plusUI.id = "dot"+String(i);
-        plusUI.width = "15"
-        document.getElementById("map_area").appendChild(plusUI);
-    }
-   */
+
+// <!--    for (var i=0; i<dot_num; i++) {-->
+// <!--        pos_x = 100-->
+// <!--        pos_y = 100-->
+// <!--        positions.push([pos_x, pos_y]);-->
+// <!--        var plusUI = document.createElement("img");-->
+// <!--        plusUI.src = "./images/dot.png"-->
+// <!--        plusUI.style = "position:absolute; z-index:0; left:"+(pos_x)+"px; top:"+(pos_y)+"px; display:block;";-->
+// <!--        plusUI.id = "dot"+String(i);-->
+// <!--        plusUI.width = "15"-->
+// <!--        document.getElementById("map_area").appendChild(plusUI);-->
+// <!--    }-->
 
     for (var j=0; j<2000; j++) {
         var plusUI2 = document.createElement("div");
@@ -120,23 +111,27 @@
     var changeMapB1 = function(){
         corrX = X_B1, corrY = Y_B1;
         document.getElementById("map_img").src = "./images/anam6_1.jpg";
-        document.getElementById("map_img").width="1580";
+        document.getElementById("map_img").width=WIDTH_B1;
     }
 
     var changeMapB2 = function(){
         corrX = X_B2, corrY = Y_B2;
         document.getElementById("map_img").src = "./images/anam6_2.jpg";
-        corrX = X_B3_BO, corrY = Y_B3_BO;
-
-        document.getElementById("map_img").width="450";
+        document.getElementById("map_img").width=WIDTH_B2;
     }
-    
+
+    var changeMapB3_bo = function(){
+        corrX = X_B3_BO, corrY = Y_B3_BO;
+        document.getElementById("map_img").src = "./images/anam6_3_bo.jpg";
+        document.getElementById("map_img").width=WIDTH_B3;
+    }
+
     var changeMapB3_ko = function(){
         corrX = X_B3_KO, corrY = Y_B3_KO;
         document.getElementById("map_img").src = "./images/anam6_3_ko.jpg";
-        document.getElementById("map_img").width="450";
+        document.getElementById("map_img").width=WIDTH_B4;
     }
-    
+
     var show_all_children = function (pos_list) {
         var num = 0
         for (var pos of pos_list) {
@@ -161,20 +156,20 @@
         positions.unshift([xPosition2, yPosition2]); // 배열의 가장 처음에 값 추가
         for (var i = 0; i < dot_num; i++) {
 
-            var plusUI = document.getElementById("dot" + String(i));
-            if (i === 0) {
-                if (pose === "On Hand") {
-                    plusUI.src = "./images/dot.png"
-                } else if (pose === "In Pocket") {
-                    plusUI.src = "./images/dotb.png"
-                } else {
-                    plusUI.src = "./images/dotg.png"
-                }
-            } else {
-                plusUI.src = "./images/dot.png"
-            }
-            plusUI.style = "position:absolute; z-index:2; left:" + (positions[i][1] + 40) + "px; top:" + (positions[i][0] + 313) + "px; display:block; opacity:" + (1.0 - (i / dot_num)) + ";";
-            // document.getElementById("map_area").appendChild(plusUI);
+// <!--            var plusUI = document.getElementById("dot" + String(i));-->
+// <!--            if (i === 0) {-->
+// <!--                if (pose === "On Hand") {-->
+// <!--                    plusUI.src = "./images/dot.png"-->
+// <!--                } else if (pose === "In Pocket") {-->
+// <!--                    plusUI.src = "./images/dotb.png"-->
+// <!--                } else {-->
+// <!--                    plusUI.src = "./images/dotg.png"-->
+// <!--                }-->
+// <!--            } else {-->
+// <!--                plusUI.src = "./images/dot.png"-->
+// <!--            }-->
+// <!--            plusUI.style = "position:absolute; z-index:2; left:" + (positions[i][1] + 40) + "px; top:" + (positions[i][0] + 313) + "px; display:block; opacity:" + (1.0 - (i / dot_num)) + ";";-->
+// <!--            // document.getElementById("map_area").appendChild(plusUI);-->
         }
 
         // 점 따라 맵 이미지 움직이기
