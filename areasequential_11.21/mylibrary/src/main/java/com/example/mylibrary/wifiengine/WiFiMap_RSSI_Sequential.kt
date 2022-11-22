@@ -6,6 +6,10 @@ import com.example.mylibrary.maps.MagneticFieldMap
 import java.lang.Exception
 import kotlin.math.*
 
+/*
+map과 동일하게 pair 또한 한 쌍으로 이루어져 있다. 다른 점은 pair의 first second 모두 value를 뜻하는 것이다.
+Pair은 코틀린의 표준 라이브러리 클래스로 두 원소로 이루어진 순서쌍을 표현한다.
+*/
 
 class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: MagneticFieldMap) {
     private var instant_result : MutableMap<String, Float> = mutableMapOf("status_code" to -1.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
@@ -151,7 +155,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         }
         return Pair(instant_result, unqWifi)
     }
-
+    // 초기 위치 수렴 이후에 영역체크 및 이동 시켜주는 함수
     fun getlocation_WF(wifi_string: String, stepLength: Double, gyro: Float, gyro_for_pf:Float) : Pair<MutableMap<String, Float>, Int> {
         init_parameters(instant_result["status_code"]!!, gyro.toFloat())
 
@@ -223,6 +227,10 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             var (instant_result_, particle_num_) = estimateInitialDirAndPos(wifi_particle_mother_list, gyro.toFloat())
             instant_result = instant_result_
             particle_num = particle_num_
+
+            // 11.22 bada check 3
+            Log.d("getlocation_WF_instant", instant_result.toString())
+            Log.d("getlocation_WF_unique", particle_num.toString())
         }
         return Pair(instant_result, unqWifi)
     }
@@ -297,9 +305,15 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             var both_cnt = 0
             var rssi_sum = 0.0
             for (j in 0..wifilistsize - 1 step (1)) {
-                if ((test_vector[j] + wifi[i]!![j].toInt() == 2) and (rssi_vector[j] != 0)) {
-                    both_cnt += 1
-                    rssi_sum += Math.abs(rssi_vector[j] - wifi_rssi[i]!![j].toInt())
+                try{
+                    if ((test_vector[j] + wifi[i]!![j].toInt() == 2) and (rssi_vector[j] != 0)) {
+                        both_cnt += 1
+                        rssi_sum += Math.abs(rssi_vector[j] - wifi_rssi[i]!![j].toInt())
+                        Log.d("성고고고고고공", "성공 :" + both_cnt.toString())
+
+                    }
+                }catch (e: Exception){
+                    Log.d("wifi rssi error", "error at :" + both_cnt.toString())
                 }
 
 
@@ -766,24 +780,26 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         }
         return arrayListOf(answer_x, answer_y)
     }
-    // 초기 위치 방향 추정
+    // 초기 위치 및 방향 추정
     private fun estimateInitialDirAndPos(mother_list: List<WiFiParticle_Mother>, gyro: Float): Pair<MutableMap<String, Float>, Int> {
         var num_of_mother = wifi_particle_mother_list.size
         particle_num = num_of_mother
         lateinit var best_mother : WiFiParticle_Mother
-
+        // 11.22 bada check 4
         // 위치 후보군이 여러개일 때
         // IL 진행 중. 아직 수렴 안됨
         if(num_of_mother >= 2){
             area_check_pos_list = arrayListOf<Array<Float>>()
-            for (c in best_mother.particle_children_list) {
-                area_check_pos_list.add(arrayOf(c.x, c.y))
-            }
+//            for (c in best_mother.particle_children_list) {
+//                area_check_pos_list.add(arrayOf(c.x, c.y))
+//            }
+            Log.d("num_of_mother >= 2",num_of_mother.toString())
             return Pair(mutableMapOf("status_code" to 100.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f), particle_num)
         }
         // 위치 후보군이 한 개일 때, 방향만 수렴
         else if(num_of_mother == 1){
             best_mother = mother_list[0]
+            Log.d("num_of_mother == 1",best_mother.toString())
             if(!founddir) {
                 founddir = true
 //                var minx = 1000000f
@@ -799,6 +815,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 
         }else if(num_of_mother == 0){
             // 400.0f -> IL 혹은 AON 에러. 수렴하지 못함.
+            Log.d("num_of_mother == 0",best_mother.toString())
             return return Pair(mutableMapOf("status_code" to 400.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f), particle_num)
         }
         // 혹시 모를 에러를 방지

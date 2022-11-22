@@ -196,8 +196,8 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
    자기장 센서 calibration 단계가 3단계가 아니라면, 어떠한 동작도 하지 않게 함.
    자기장 센서 calibration 단계까 3단계가 될 때까지 calibration 동작만 유도.
  */
-     // ## 2022.11.21 바다 수정 : 자기장 센서 안정화 코드 불 필요하여 주석 처리
-     // ## wifi engine에서는 측위에 자기장 센서 사용하지않음
+            // ## 2022.11.21 바다 수정 : 자기장 센서 안정화 코드 불 필요하여 주석 처리
+            // ## wifi engine에서는 측위에 자기장 센서 사용하지않음
 //            if (event.sensor.type == Sensor.TYPE_MAGNETIC_FIELD) {
 //                if (event.accuracy != 3) {
 //                    if (!is_popup_on) {  // popup 창이 여러개 뜨는 것을 방지
@@ -211,7 +211,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 //                if (exIndoorLocalization.wifi_range[0] == -100) {
             var result = exIndoorLocalization.sensorChanged(event)
             when (result[1]) {
-                "The sensors is not ready yet" -> {Log.d("ddd", "완전 실패")
+                "The sensors is not ready yet" -> {
                     return}
 
 //                        "완전 실패" -> {
@@ -221,7 +221,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 //                            }
                 "완전 수렴" -> {
 //                            walkingPopup(false)
-                    Log.d("ddd", "완전수렴")
+                    Log.d("완전수렴", "완전수렴")
                     if (lastStep != result[3].toInt()) {
 //                                exIndoorLocalization.setGPS(getGpsInfo())
 //                                if (exIndoorLocalization.getPose() == "On Hand") {
@@ -253,24 +253,25 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                         wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
                     }
                 }
-                "방향 수렴" -> {
-                    Log.d("ddd", "방향수렴")
-                    if (lastStep != result[3].toInt()) {
-                        //                        exIndoorLocalization.setGPS(getGpsInfo())
-                        lastStep = result[3].toInt()
-                        wvLayout0401v3.loadUrl("javascript:remove_children")
-                        var children_pos_list =
-                            exIndoorLocalization.wifiengine.area_check_pos_list
-                        var string_pos_list = "["
-                        for (pos in children_pos_list) {
-                            string_pos_list += "[${pos[0]}, ${pos[1]}],"
-                        }
-                        string_pos_list += "]"
-                        wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
-                        vibrator.vibrate(30)
-
-                    }
-                }
+                // 11.22 바다수정 :  INDOOR 결과로 사용되지 않는 방향 수렴 주석 처리
+//                "방향 수렴" -> {
+//                    Log.d("방향수렴", "방향수렴")
+//                    if (lastStep != result[3].toInt()) {
+//                        //                        exIndoorLocalization.setGPS(getGpsInfo())
+//                        lastStep = result[3].toInt()
+//                        wvLayout0401v3.loadUrl("javascript:remove_children")
+//                        var children_pos_list =
+//                            exIndoorLocalization.wifiengine.area_check_pos_list
+//                        var string_pos_list = "["
+//                        for (pos in children_pos_list) {
+//                            string_pos_list += "[${pos[0]}, ${pos[1]}],"
+//                        }
+//                        string_pos_list += "]"
+//                        wvLayout0401v3.loadUrl("javascript:show_all_children($string_pos_list)")
+//                        vibrator.vibrate(30)
+//
+//                    }
+//                }
                 else -> {
 
                     if (isFirstInit) {
@@ -295,7 +296,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                             exIndoorLocalization.wifiengine.area_check_pos_list
                         var string_pos_list = "["
                         var cnt = 0
-                        Log.d("ddd", children_pos_list.size.toString())
+                        Log.d("else", children_pos_list.size.toString())
                         if (children_pos_list.size >= 100) {
                             for (pos in children_pos_list) {
                                 if (cnt % 2 == 0) {
@@ -409,6 +410,8 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             for (i in 1 until scanResultList!!.size) {
                 updatedata += scanResultList[i].BSSID.toString() +
                         "\t" + scanResultList[i].level.toString() + "\r\n"
+                //실시간 WIFI 잘 받아오는지 확인
+//                Log.d ("wifiinfo####", updatedata.toString())
             }
 
 
@@ -416,6 +419,8 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             scanstarted = false
 
             if(firstwifiscan) {
+                //실시간 WIFI 잘 받아오는지 확인
+//                Log.d ("wifiinfo", updatedata.toString())
                 exIndoorLocalization.wifidata = updatedata
                 vibrator.vibrate(160)
                 firstwifiscan = false

@@ -209,7 +209,7 @@ class ExIndoorLocalization {
 //                    Log.d("range", "caliVector" + caliVector[0].toString())
 //                    Log.d("range", "wifidata" + (wifidata != ""))
 //                    Log.d("range", "first_sampling" + first_sampling.toString())
-                    if (first_sampling && caliVector[0]!=0.0 && caliVector[1]!=0.0 && caliVector[2]!=0.0 && (wifidata == "")) { // 해당 if문은 꼭 있어야됨. 자기장 센서 안정화가 안될 때가 간혹있어서, 여기서 한번더 확실하게 안정화해주는 것임.
+                    if (first_sampling && caliVector[0]!=0.0 && caliVector[1]!=0.0 && caliVector[2]!=0.0 && (wifidata != "")) { // 해당 if문은 꼭 있어야됨. 자기장 센서 안정화가 안될 때가 간혹있어서, 여기서 한번더 확실하게 안정화해주는 것임.
                         Log.d("range", "aosdjasoidj" + wifi_range.joinToString("\t"))
                         //////WiFi Engine
                         wifiengine.getLocation(wifidata, 0.0, gyro_value_map_collection, gyro_value_reset_direction, PFResult)
@@ -217,8 +217,6 @@ class ExIndoorLocalization {
                     }
 
                     //자기장 쓸 경우 자기장 값도 MovingFloor로 넘겨줘야 함. 지금은 자기장 안쓰니 보류.
-
-
                 }
                 Sensor.TYPE_GYROSCOPE -> {
                     getGyroscope.calc_gyro_value(event)
@@ -260,6 +258,9 @@ class ExIndoorLocalization {
                             var (ILResult_, unqWifi_) = async { wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction, PFResult) }.await()
                             ILResult = ILResult_
                             unqWifi = unqWifi_
+                            // 11.22 bada check 2 :
+                            Log.d("Indoor_ILResult", ILResult["status_code"].toString())
+                            Log.d("Indoor_unqWifi", unqWifi.toString())
                             rangecheck = wifiengine.range_check
                         }
 //                        ILResult = wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction, PFResult)
@@ -305,6 +306,9 @@ class ExIndoorLocalization {
         returnX = PFResult[0].toString()
         returnY = PFResult[1].toString()
         main_step = stepCount.toString()
+        // 11.22 bada check 1 : not support라고 뜸
+//        Log.d("returnstate", returnState)
+//        Log.d("retuIns", returnState)
         return arrayOf(returnGyro, returnState, returnIns, stepCount.toString(), returnX, returnY, unqWifi.toString())
     }
 
