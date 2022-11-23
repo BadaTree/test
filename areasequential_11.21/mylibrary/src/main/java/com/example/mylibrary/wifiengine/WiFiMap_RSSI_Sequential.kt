@@ -251,6 +251,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         var rssi_diff_list = arrayListOf<Double>()
 
         var splitline = wifi_string.split("\r\n").toTypedArray()
+
         for (i in splitline){
             var data = i.split("\t").toTypedArray()
             if(data.size == 2) {
@@ -260,6 +261,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
                 if ((wifilist.indexOf(SSID) != -1) and (RSSI >= rssi_thres)) {
                     test_vector[wifilist.indexOf(SSID)] = 1
                     rssi_vector[wifilist.indexOf(SSID)] = RSSI
+                    Log.d("common wifi",SSID)
                 }
             }
         }

@@ -64,11 +64,8 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             var success = intent.getBooleanExtra(WifiManager.EXTRA_RESULTS_UPDATED, false)
             if(success){
                 wifipermitted = true
-                Log.d("check scc", "success")
             } else{
                 wifipermitted = false
-                Log.d("check scc", "fail")
-
             }
         }
     }
@@ -96,11 +93,11 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             resources.openRawResource(R.raw.wifihashmap_1),
             resources.openRawResource(R.raw.wifirssihashmap_1),
             resources.openRawResource(R.raw.wifilist_1))
-        /*   exIndoorLocalizaon = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
-               resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
-               resources.openRawResource(R.raw.hanasquare_wifihashmap),
-               resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
-               resources.openRawResource(R.raw.hanasquare_wifilist))*/
+//        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
+//               resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
+//               resources.openRawResource(R.raw.hanasquare_wifihashmap),
+//               resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+//               resources.openRawResource(R.raw.hanasquare_wifilist))
 
         btnB1.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeMapB1()")

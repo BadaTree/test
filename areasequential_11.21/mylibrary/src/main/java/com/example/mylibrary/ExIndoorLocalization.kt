@@ -206,9 +206,7 @@ class ExIndoorLocalization {
                     magMatrix = event.values.clone()
                     caliVector = vectorCalibration.calibrate(accMatrix, magMatrix, gyro_value_map_collection)
                     // 폰 켜지자마자 바로 instant 실행되도록 함
-//                    Log.d("range", "caliVector" + caliVector[0].toString())
-//                    Log.d("range", "wifidata" + (wifidata != ""))
-//                    Log.d("range", "first_sampling" + first_sampling.toString())
+
                     if (first_sampling && caliVector[0]!=0.0 && caliVector[1]!=0.0 && caliVector[2]!=0.0 && (wifidata != "")) { // 해당 if문은 꼭 있어야됨. 자기장 센서 안정화가 안될 때가 간혹있어서, 여기서 한번더 확실하게 안정화해주는 것임.
                         Log.d("range", "aosdjasoidj" + wifi_range.joinToString("\t"))
                         //////WiFi Engine
