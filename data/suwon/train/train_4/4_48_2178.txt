@@ -1,0 +1,484 @@
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+0	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+0	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+0	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+0	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+0	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+0	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+0	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+0	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+0	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+0	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+0	48.0	2646.0		00:19:70:4e:78:34	-93
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+0	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+0	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+0	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+0	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+0	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+0	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+0	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+0	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+0	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+0	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+0	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+0	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+1	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+1	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+1	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+1	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+1	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+1	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+1	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+1	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+1	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+1	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+1	48.0	2646.0		00:19:70:4e:78:34	-93
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+1	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+1	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+1	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+1	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+1	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+1	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+1	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+1	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+1	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+1	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+1	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+1	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+2	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+2	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+2	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+2	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+2	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+2	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+2	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+2	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+2	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+2	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+2	48.0	2646.0		00:19:70:4e:78:34	-93
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+2	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+2	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+2	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+2	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+2	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+2	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+2	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+2	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+2	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+2	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+2	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+2	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+3	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+3	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+3	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+3	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+3	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+3	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+3	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+3	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+3	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+3	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+3	48.0	2646.0		00:19:70:4e:78:34	-93
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+3	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+3	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+3	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+3	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+3	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+3	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+3	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+3	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+3	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+3	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+3	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+3	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+4	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+4	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+4	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+4	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+4	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+4	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+4	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+4	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+4	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+4	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+4	48.0	2646.0		00:19:70:4e:78:34	-93
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+4	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+4	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+4	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+4	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+4	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+4	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+4	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+4	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+4	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+4	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+4	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+4	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+5	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+5	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+5	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+5	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+5	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+5	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+5	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+5	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+5	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+5	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+5	48.0	2646.0		00:19:70:4e:78:34	-93
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+5	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+5	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+5	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+5	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+5	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+5	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+5	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+5	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+5	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+5	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+5	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+5	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+6	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+6	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+6	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+6	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+6	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+6	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+6	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+6	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+6	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+6	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+6	48.0	2646.0		00:19:70:4e:78:34	-93
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+6	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+6	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+6	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+6	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+6	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+6	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+6	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+6	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+6	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+6	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+6	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+6	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+7	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+7	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+7	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+7	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+7	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+7	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+7	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+7	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+7	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+7	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+7	48.0	2646.0		00:19:70:4e:78:34	-93
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+7	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+7	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+7	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+7	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+7	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+7	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+7	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+7	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+7	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+7	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+7	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+7	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+8	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+8	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+8	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+8	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+8	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+8	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+8	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+8	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+8	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+8	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+8	48.0	2646.0		00:19:70:4e:78:34	-93
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+8	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+8	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+8	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+8	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+8	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+8	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+8	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+8	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+8	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+8	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+8	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+8	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+9	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+9	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+9	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+9	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+9	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+9	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+9	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+9	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+9	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+9	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+9	48.0	2646.0		00:19:70:4e:78:34	-93
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+9	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+9	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+9	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+9	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+9	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+9	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+9	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+9	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+9	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+9	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+9	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+9	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:4e	-82
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:61	-55
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:62	-56
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:04:3c	-74
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:1e	-92
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:34:34	-71
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:34:35	-65
+10	48.0	2646.0	KT WiFi 	0a:09:b4:75:58:dc	-73
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:3e	-89
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:34:43	-83
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:61	-55
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:62	-58
+10	48.0	2646.0	KT WiFi	00:09:b4:61:08:87	-76
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:04:1e	-89
+10	48.0	2646.0	KT GiGA WiFi	0e:09:b4:75:58:dc	-72
+10	48.0	2646.0	KT WiFi 	02:09:b4:61:08:87	-77
+10	48.0	2646.0	KT WiFi 	02:09:b4:61:08:86	-69
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:3e	-89
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:04:3c	-75
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:34:61	-55
+10	48.0	2646.0	T wifi zone	10:e3:c7:09:34:62	-56
+10	48.0	2646.0	Suwon_Transfer_Center	20:db:ab:72:b5:40	-89
+10	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:0a:bf	-52
+10	48.0	2646.0	Korail_WiFi_Free_2.4G	40:27:0b:05:f6:88	-73
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:39	-88
+10	48.0	2646.0	Korail_WiFi_Free_5G	40:27:0b:05:f6:89	-89
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:35	-66
+10	48.0	2646.0		00:19:70:4e:78:34	-93
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:34:34	-72
+10	48.0	2646.0	KT_Free_WiFi	00:09:b4:75:58:dc	-73
+10	48.0	2646.0	ollehWiFi	2a:5d:dd:3a:6b:3e	-83
+10	48.0	2646.0	KT GiGA WiFi 	12:09:b4:75:58:dc	-73
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:39	-88
+10	48.0	2646.0	KT WiFi	06:09:b4:75:58:dc	-72
+10	48.0	2646.0	T wifi zone_secure	02:e3:c7:09:04:3c	-74
+10	48.0	2646.0	KT_Free_WiFi	12:09:b4:61:08:87	-77
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:43	-84
+10	48.0	2646.0	TP-Link_A1F8_5G	c0:c9:e3:ab:a1:f6	-91
+10	48.0	2646.0	KT WiFi	00:09:b4:61:0a:be	-62
+10	48.0	2646.0	KT WiFi	00:09:b4:61:0a:bf	-52
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:34	-71
+10	48.0	2646.0	T Free WiFi Zone	12:e3:c7:09:34:35	-66
+10	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:be	-59
+10	48.0	2646.0	KT WiFi 	02:09:b4:61:0a:bf	-52
