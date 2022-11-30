@@ -342,8 +342,8 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     override fun onAccuracyChanged(sensor: Sensor?, accuracy: Int) {
         if (sensor != null) {
             if ((sensor.type == Sensor.TYPE_MAGNETIC_FIELD) && accuracy != 3) {
-                if (is_popup_on)
-                    showSettingPopup(accuracy)   // sensor calibration 동작으로 sensor accuracy 가 변했다면, popup을 새로 띄움.
+//                if (is_popup_on)
+//                    showSettingPopup(accuracy)   // sensor calibration 동작으로 sensor accuracy 가 변했다면, popup을 새로 띄움.
             }
         }
     }

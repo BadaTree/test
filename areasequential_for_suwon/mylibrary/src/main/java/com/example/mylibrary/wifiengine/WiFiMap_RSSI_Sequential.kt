@@ -247,12 +247,14 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         test_vector = Array(wifilistsize, {0})
         rssi_vector = Array(wifilistsize, {0})
 
+        var wifimap_uiqwifi = wifilist.size
+
         var cnt_list = arrayListOf<Int>()
         var rssi_diff_list = arrayListOf<Double>()
 
         var splitline = wifi_string.split("\r\n").toTypedArray()
 
-        for (i in splitline){
+        for (i in splitline) {
             var data = i.split("\t").toTypedArray()
             if(data.size == 2) {
                 var SSID = data[0]
@@ -286,7 +288,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         }
 
         var unq_cnt_list = cnt_list.distinct().sortedDescending()
-
+        Log.d("wifimap Unique wifi list",((unq_cnt_list[0] / wifilist.size)*100).toString())
         var compare_val = 0
 
         if (cur_step == 0){
@@ -362,7 +364,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             ans_range = arrayListOf(x_list.minOrNull()!!.toFloat(), x_list.maxOrNull()!!.toFloat(),
                 y_list.minOrNull()!!.toFloat(), y_list.maxOrNull()!!.toFloat())
         }
-        return unq_cnt_list[0]
+        return (unq_cnt_list[0]/wifimap_uiqwifi) *100
     }
     fun first_find_area(ans_range : ArrayList<Float>){
         var minX = ans_range[0]
