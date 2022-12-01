@@ -31,7 +31,6 @@ import com.example.mylibrary.ExIndoorLocalization
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.math.round
 
-//private val WEB_ADDRESS = "file:///android_asset/HanaSquare_map_for_result.html"
 private val WEB_ADDRESS = "file:///android_asset/suwon.html"
 
 class MainActivity : AppCompatActivity(), SensorEventListener {
@@ -93,12 +92,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             resources.openRawResource(R.raw.wifihashmap_1),
             resources.openRawResource(R.raw.wifirssihashmap_1),
             resources.openRawResource(R.raw.wifilist_1))
-//        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
-//               resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
-//               resources.openRawResource(R.raw.hanasquare_wifihashmap),
-//               resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
-//               resources.openRawResource(R.raw.hanasquare_wifilist))
-
         hall.setOnClickListener {
             wvLayout0401v3.loadUrl("javascript:changeHall()")
             exIndoorLocalization.setClass(resources.openRawResource(R.raw.hashmap_1f),

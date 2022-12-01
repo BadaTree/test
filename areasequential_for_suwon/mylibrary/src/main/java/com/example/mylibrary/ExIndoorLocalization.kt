@@ -87,32 +87,6 @@ class ExIndoorLocalization {
     private var ILResult : MutableMap<String, Float> = mutableMapOf("status_code" to -1.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
     private var unqWifi: Int = 0
     var pos_pos : MutableMap<String, ArrayList<Int>> = mutableMapOf("pos_x_list" to arrayListOf(0), "pos_y_list" to arrayListOf(0))
-    /*
-    ILResult :
-        <Key & Value 설명>
-        "pos_x" : IL 혹은 AON의 추정 좌표 x 가 들어있음 (수렴하지 않았으면 "pos_x" 는 -1.0f)
-        "pos_y" : IL 혹은 AON의 추정 좌표 x 가 들어있음 (수렴하지 않았으면 "pos_y" 는 -1.0f)
-        "gyro_from_map" : IL 혹은 AON이 추정한 절대적인 이동 방향. --> 이 값은 getGyroscope.setGyroCalivalue() 메서드에 인자로 들어가야함. (sensorChanged 메소드 본문 참고.)
-        "status_code" : IL 혹은 AON의 상태 정보
-                        100.0f -> IL 진행 중. 아직 수렴 안됨
-                        101.0f -> IL 진행 중. 방향만 수렴
-                        200.0f -> IL 완료. 완전 수렴. --> 해당 status일 때, 파티클필터가 바로 "pos_x", "pos_y", "gyro_from_map" 가져다가 initialize 해주면 됨.
-                        201.0f -> AON 진행 중. (IL 완전 수렴 이후의 상태임.)
-                        202.0f -> AON 수렴 완료. (IL 완전 수렴 이후의 상태임.) --> 해당 status일 때, 파티클필터가 바로 "pos_x", "pos_y", "gyro_from_map" 가져다가 initialize 해주면 됨.
-                        400.0f -> IL 혹은 AON 에러. 수렴하지 못함.
-     */
-
-    /*
-    changedFloor_and_resetInstatLocalization(map_vector : MagneticFieldMap, map_for_instant_hand : MagneticFieldMap, gyro: Float=-1.0f)
-          사용형태 : changedFloor_and_resetInstatLocalization(new_map_vector, new_map_for_instant_hand, gyro)
-          입력 : 새로 바뀐 층의 맵, 새로 바뀐 층의 인스턴트 전용 맵, 층이 바뀌고 난 이후의 자이로 (자이로는 안넣어줘도 무방)
-          출력 : None
-          특징 : 엘베타고 층 도착하자마자 해당 메소드 호출 해야됨.
-                 엘베 도착 후의 메소드 호출 순서가 대략 이런식이어야 됨.
-                        엘베 도착 -> changedFloor_and_resetInstatLocalization() 호출 -> 파티클 필터 리셋
-                 이렇게 하고서 파티클 필터는 계속 점을 찍고 있어줘야 되고,
-                 getLocation() 메소드에 파티클 필터 좌표값들을 넣어주기만 한다면, 자동으로 AON 시작함.
-     */
 
     var wifiengine : WiFiMap_RSSI_Sequential
     var wifidata = ""
@@ -258,9 +232,7 @@ class ExIndoorLocalization {
         returnX = PFResult[0].toString()
         returnY = PFResult[1].toString()
         main_step = stepCount.toString()
-        // 11.22 bada check 1 : not support라고 뜸
-//        Log.d("returnstate", returnState)
-//        Log.d("retuIns", returnState)
+
         return arrayOf(returnGyro, returnState, returnIns, stepCount.toString(), returnX, returnY, unqWifi.toString())
     }
 
