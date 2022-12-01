@@ -60,15 +60,6 @@ class ExIndoorLocalization {
     private val stepTypes = arrayOf("normal", "fast", "slow", "prowl", "non")
     internal var particleOn : Boolean = false
     internal var main_step : String = ""
-    ///////////////pdrResult의 내부 구조////////////////////////
-//                    data class PDR(
-//                      val devicePosture : Int,
-//                      val stepType : Int,
-//                      val stepLength : Double,
-//                      val direction : Double,
-//                      val totalStepCount : Int
-//                    )
-    /////////////////////////////////////////////////////////
 
     // 자이로스코프 관련 // (원준)
     private val getGyroscope by lazy {
@@ -77,49 +68,12 @@ class ExIndoorLocalization {
     private var gyro_constant_from_app_start_to_map_collection : Float = 0f
     private var gyro_value_map_collection : Float = 0f
     private var gyro_value_reset_direction : Float = 0f
-    /*
-        자이로 값 설명
-        1. gyro_constant_from_app_start_to_map_collection :
-                    단위 : degree
-                    기준 : -
-                    특징 : 첫 수렴 이후, [맵 수집 방향]과 [앱 시작시의 방향]의 차이를 갖고 있음.
-                           첫 수렴 이후에 값이 정해지며, 이후에는 자이로가 변해도 그냥 계속 값이 일정한 상수임.
-                           한준이형만 신경쓰면 되는 값.
-
-        2. gyro_value_map_collection :
-                    단위 : degree
-                    기준 : 수렴전 - 앱 시작시의 방향 / 수렴후 - 맵 수집 방향
-                    특징 : gyro_value_reset_direction + gyroCalivalue 의 결과값임.
-                           맵 수집 방향을 기준으로 회전된 각도이므로, 수렴 이후 vector calibration을 통해 자기장 맵과 지문을 일치시키기 위한 용도로 사용됨.
-                           Always On Instant 에 의해 수시로 보정됨.
-                           Particle Filter에서 사용.
-
-        3. gyro_value_reset_direction :
-                    단위 : degree
-                    기준 : gyro reset이 됐을 때의 방향
-                    특징 : gyro reset이 될 때마다 기준 방향이 변하기 때문에 해당 값이 수시로 변함.
-                           Always On Instant를 위해 사용됨. 원준만 신경쓰면 되는 값.
-    */
-
 
 
     // Vector Calibration 관련 // (원준)
     private val vectorCalibration = VectorCalibration()
     private var caliVector: Array<Double> = arrayOf()
     private var caliVector_AON: Array<Double> = arrayOf()
-    /*
-        캘리브레이션 벡터 값 설명
-        1. caliVector
-                    보정 기준 : 자기장 벡터를 '맵 수집 방향'으로 보정
-                    특징 : 측정되는 자기장 벡터를 모두 '맵 수집 방향' 으로 보정.
-                           일반적으로 알고 있는 그 자기장 벡터임. 모든 사람들이 이 벡터를 사용하면 됨.
-
-        2. caliVector_AON
-                    보정 기준 : 자기장 벡터를 'Always On이 처음 시작한 그 순간의 방향'으로 보정
-                    특징 : 측정되는 자기장 벡터를 'Always On이 처음 시작한 그 순간의 방향'으로 보정.
-                           절대적인 이동 방향을 추정해내기 위해, 이 벡터를 사용함. 원준이만 신경쓰면 됨.
-    */
-
 
     // 파티클 필터 관련 // (원준)
     private var PFResult : Array<Double> = arrayOf(-1.0, -1.0)
