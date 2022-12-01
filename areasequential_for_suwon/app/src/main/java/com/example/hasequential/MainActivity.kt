@@ -220,12 +220,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 //                            walkingPopup(false)
                     Log.d("완전수렴", "완전수렴")
                     if (lastStep != result[3].toInt()) {
-//                                exIndoorLocalization.setGPS(getGpsInfo())
-//                                if (exIndoorLocalization.getPose() == "On Hand") {
-//                                    SyncPositionSendRed(result[4].toDouble(), result[5].toDouble())
-//                                } else {
-//                                    SyncPositionSendBlue(result[4].toDouble(), result[5].toDouble())
-//                                }
                         lastStep = result[3].toInt()
                         vibrator.vibrate(30)
 
