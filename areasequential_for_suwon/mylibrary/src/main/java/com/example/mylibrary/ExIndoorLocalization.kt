@@ -19,6 +19,8 @@ import kotlinx.coroutines.async
 import java.io.InputStream
 import kotlin.math.round
 
+// 수원역에서 연산량이 너무 많아서 앱이 꺼지거나 렉 걸리는 문제 발생
+
 class ExIndoorLocalization {
 
     constructor(magneticStream : InputStream?, magneticStreamForInstant : InputStream?, wifiStreamTotal : InputStream?, wifiStreamRSSI : InputStream?, wifiStreamUnq : InputStream?) {

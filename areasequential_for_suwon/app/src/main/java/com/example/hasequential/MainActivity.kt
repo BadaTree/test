@@ -401,8 +401,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             for (i in 1 until scanResultList!!.size) {
                 updatedata += scanResultList[i].BSSID.toString() +
                         "\t" + scanResultList[i].level.toString() + "\r\n"
-                //실시간 WIFI 잘 받아오는지 확인
-//                Log.d ("wifiinfo####", updatedata.toString())
             }
 
 

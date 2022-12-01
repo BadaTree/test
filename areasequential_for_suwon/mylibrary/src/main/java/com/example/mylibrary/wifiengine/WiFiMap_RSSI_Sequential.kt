@@ -52,13 +52,6 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 
     var cur_step = -1
 
-    // hanasquare
-/*    private var early_stop_in_n_mother : Float = 4.0f
-    private var rssi_thres = -75
-    private var range_thres = 7
-    private var second_range_thres = 7 //7
-    private var rssi_range_num = 40
-    private var second_rssi_range_num = 40*/
 
     // anam staion
     // 지하 [-75,3], 플랫폼 [-66,4]
