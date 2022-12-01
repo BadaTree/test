@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:viewBindingIgnore="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#FFFFFF">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/gyroView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#DDDDDD"
+                        android:text="gyro"
+                        android:textColor="#000000"
+                        android:gravity="left"/>
+
+                    <TextView
+                        android:id="@+id/insView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="ins"
+                        android:textColor="#0055FF"
+                        android:gravity="left"/>
+                    <TextView
+                        android:id="@+id/unqWifi"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="unqWifi: "
+                        android:textColor="#0055FF"
+                        android:gravity="left"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/scView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#FFD9FA"
+                        android:text="step"
+                        android:textStyle="bold"
+                        android:textColor="#FF0000"
+                        android:gravity="center"
+                        android:layout_gravity="center_vertical"/>
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="reset"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/minxView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="#DDDDDD"
+                    android:textColor="#000000"
+                    android:text="minX"/>
+                <TextView
+                    android:id="@+id/maxxView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="#DDDDDD"
+                    android:textColor="#000000"
+                    android:text="maxX"/>
+
+                <TextView
+                    android:id="@+id/minyView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="#EEEEEE"
+                    android:textColor="#000000"
+                    android:text="miny"/>
+                <TextView
+                    android:id="@+id/maxyView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="#EEEEEE"
+                    android:textColor="#000000"
+                    android:text="maxy"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/mFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+
+        <Switch
+            android:id="@+id/coverSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|bottom"
+            android:thumb="@drawable/switch_thumb"
+            android:track="@drawable/switch_track_selector"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:checked="true"/>
+
+
+        <Switch
+            android:id="@+id/mapRotationSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:thumb="@drawable/switch_thumb"
+            android:track="@drawable/switch_track_selector"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:checked="false"
+            android:text="Auto Rotation "
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/typeView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:text="type:     "
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/statusView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:text="status:     "
+            android:textColor="@color/black"/>
+
+        <LinearLayout
+            android:id="@+id/loadingLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="#FFFDFF">
+
+            <ImageView
+                android:id="@+id/loadingView"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="센서 안정화 대기\nPlease don't move..."
+                android:gravity="center"
+                android:textColor="#B677FF"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/hall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#00CED1"
+            android:text="대합실" />
+
+        <Button
+            android:id="@+id/platform1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7F7EFF"
+            android:text="플랫폼1" />
+
+        <Button
+            android:id="@+id/platform2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="플랫폼2"
+            android:backgroundTint="#7F7EFF"/>
+        <Button
+            android:id="@+id/platform3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="플랫폼3"
+            android:backgroundTint="#7F7EFF"/>
+
+        <Button
+            android:id="@+id/platform4"
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7F7EFF"
+            android:text="플랫폼4" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="reset"
+        android:backgroundTint="#7F7EFF"/>
+
+</LinearLayout>
