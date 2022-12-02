@@ -1,0 +1,158 @@
+﻿<!doctype html>
+<style>
+    #mask {
+        opacity:0;
+        position:absolute;
+        z-index:3;
+        left:0px;
+        top:50px;
+    }
+    #location_area {
+        text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    }
+</style>
+<html lang="en">
+<!-- floor2 -->
+<head>
+    <meta charset="UTF-8">
+    <title>map_test</title>
+</head>
+<body>
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<style>
+    html, body {
+        margin: 0;
+        width: 200%;
+        height: 200%;
+    }
+</style>
+
+
+<div id="map_area" style="position:absolute; z-index:1; left:400px; top:350px; overflow:scroll; transition: all 0.1s; transform: rotate(270deg)">
+    <img id="map_img" src="./images/HanaSquare.png" height="873" width="1980">
+    <div id='result' style='position:absolute;'></div>
+</div>
+
+<form method = "POST"
+      enctype = "multipart/form-data">
+</form>
+<script type="text/javascript">
+    var cnt = 0;
+    var positions = [];
+    var dot_num = 100
+
+    for (var i=0; i<dot_num; i++) {
+        var pos_x, pos_y;
+        pos_x = -1000;
+        pos_y = -1000;
+        positions.push([pos_x, pos_y]);
+        var plusUI = document.createElement("img");
+        plusUI.src = "./images/dot.png"
+        plusUI.style = "position:absolute; z-index:0; left:"+(pos_x)+"px; top:"+(pos_y)+"px; display:block;";
+        plusUI.id = "dot"+String(i);
+        plusUI.width = "15"
+        document.getElementById("map_area").appendChild(plusUI);
+    }
+
+    var center_x = 800;
+    var center_y = 600;
+    var last_x = 0;
+    var last_y = 0;
+    var last_angle = 0;
+    var is_first_angle = true;
+
+
+    var androidBridge = function (xPosition2, yPosition2, pose="On Hand") { // DEVICE
+        positions.pop(); // 배열의 가장 마지막값 삭제
+        positions.unshift([xPosition2, yPosition2]); // 배열의 가장 처음에 값 추가
+        for (var i = 0; i < dot_num; i++) {
+
+            var plusUI = document.getElementById("dot" + String(i));
+            if (i === 0) {
+                if (pose === "On Hand") {
+                    plusUI.src = "./images/dot.png"
+                } else if (pose === "In Pocket") {
+                    plusUI.src = "./images/dotb.png"
+                } else {
+                    plusUI.src = "./images/dotg.png"
+                }
+            } else {
+                plusUI.src = "./images/dot.png"
+            }
+            plusUI.style = "position:absolute; z-index:2; left:" + (positions[i][1] + 40) + "px; top:" + (positions[i][0] + 313) + "px; display:block; opacity:" + (1.0 - (i / dot_num)) + ";";
+            document.getElementById("map_area").appendChild(plusUI);
+        }
+
+        // 점 따라 맵 이미지 움직이기
+        //document.getElementById("map_area").appendChild(plusUI);
+        //var elem = document.getElementById("map_area");
+        //elem.style.left = center_x - yPosition2 + "px";
+        //elem.style.top = center_y - xPosition2 + "px";
+    }
+
+    var androidBridge2 = function (xPosition2, yPosition2) { // DEVICE
+
+        var plusUI = document.createElement("div");
+        plusUI.style = "position:absolute; z-index:2; left:"+(yPosition2+43)+"px; top:"+(xPosition2+310)+"px; display:block;";
+        plusUI.id = "location_area";
+        plusUI.innerHTML = '<font color="#0000ff" size=1>●</font>';
+        cnt += 1;
+        if (cnt == 28) {
+            cnt = 0;
+        }
+        document.getElementById("map_area").appendChild(plusUI);
+        var elem = document.getElementById("map_area");
+        elem.style.top = center_x - yPosition2 + "px";
+        elem.style.left = center_y - xPosition2 + "px";
+
+        last_x = xPosition2;
+        last_y = yPosition2;
+
+    }
+
+    var androidBridge3 = function (xPosition2, yPosition2) { // DEVICE
+
+        var plusUI = document.createElement("div");
+        plusUI.style = "position:absolute; z-index:2; left:"+(yPosition2+43)+"px; top:"+(xPosition2+310)+"px; display:block;";
+        plusUI.id = "location_area";
+        plusUI.innerHTML = '<font color="#00ff00" size=1>●</font>';
+        cnt += 1;
+        if (cnt == 28) {
+            cnt = 0;
+        }
+        document.getElementById("map_area").appendChild(plusUI);
+        var elem = document.getElementById("map_area");
+        elem.style.left = center_x - yPosition2 + "px";
+        elem.style.top = center_y - xPosition2 + "px";
+
+        last_x = xPosition2;
+        last_y = yPosition2;
+
+    }
+
+    var image_rotation = function(angle) {
+        if (is_first_angle) {
+            last_angle = angle;
+            is_first_angle = false;
+        }
+
+        var elem = document.getElementById("map_area");
+        elem.style.transformOrigin = (last_y+267) + "px " + (last_x+312) + "px"
+        if ((last_angle - angle) > 180) {
+            angle += 360
+        }
+        else if ((last_angle - angle) < -180) {
+            angle -= 360
+        }
+        var result_angle = 270-angle
+        elem.style.transform = "rotate(" + result_angle + "deg)"
+        last_angle = angle
+    }
+
+
+
+
+</script>
+
+</body>
+</html>
