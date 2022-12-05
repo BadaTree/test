@@ -126,7 +126,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             instant_result = mutableMapOf("status_code" to -1.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
         }
     }
-    // wifi 새로 들어올 때마다 wifi 
+    // wifi 새로 들어올 때마다 wifi 업데이트
     private fun check_wifi_change(wifi_string: String){
         if (orig_wifi_data != wifi_string){
             orig_wifi_data = wifi_string
