@@ -222,9 +222,6 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             instant_result = instant_result_
             particle_num = particle_num_
 
-            // 11.22 bada check 3
-            Log.d("getlocation_WF_instant", instant_result.toString())
-            Log.d("getlocation_WF_unique", particle_num.toString())
         }
         return Pair(instant_result, unqWifi)
     }
@@ -241,10 +238,11 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         test_vector = Array(wifilistsize, {0})
         rssi_vector = Array(wifilistsize, {0})
 
+        // 맵에서 수집된 Unique wifi 수
         var wifimap_uiqwifi = wifilist.size
 
-        var cnt_list = arrayListOf<Int>()
-        var rssi_diff_list = arrayListOf<Double>()
+        var cnt_list = arrayListOf<Int>() // 유니크 와이파이 (맵에서 수집된)
+        var rssi_diff_list = arrayListOf<Double>() //RSSI 차
 
         var splitline = wifi_string.split("\r\n").toTypedArray()
         var both_cnt = 0
@@ -254,10 +252,10 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
                 var SSID = data[0]
                 var RSSI = data[1].toInt()
 
+                //#### 실시간 wifi 중에 MAP에서 수집되었었고, rssi_thres 이상인 wifi만 읽어들임
                 if ((wifilist.indexOf(SSID) != -1) and (RSSI >= rssi_thres)) {
                     test_vector[wifilist.indexOf(SSID)] = 1
                     rssi_vector[wifilist.indexOf(SSID)] = RSSI
-                    Log.d("common wifi",SSID)
                 }
             }
         }
@@ -282,7 +280,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         }
 
         var unq_cnt_list = cnt_list.distinct().sortedDescending()
-        Log.d("wifimap Unique wifi list",((unq_cnt_list[0] / wifilist.size)*100).toString())
+
         var compare_val = 0
 
         if (cur_step == 0){
