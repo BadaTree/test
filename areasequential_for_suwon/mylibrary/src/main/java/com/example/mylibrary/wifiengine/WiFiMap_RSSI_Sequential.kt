@@ -233,6 +233,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     // ##### 경량화 수정 필요 20221209 ########
     // 바다수정 1 : temp_wifi_cnt , temp_wifi_rssi 변수 사용하지 않는데 데이터 받아서 저장하고 있음
     // 바다수정 2 : 2.1,2.2 과정 전 좌표를 두 번 검색 -> 하나로 통합 필요
+    // pos.indice와 POS
 
     fun vectorcompare(wifi_string: String, cur_step : Int): Int{
         wifidata = wifi_string
