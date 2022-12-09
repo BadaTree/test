@@ -231,8 +231,8 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
     }
 
     // ##### 경량화 수정 필요 20221209 ########
-    // 불필요하게 RSSI, unique wifi로 분리해서 두 번 검색하고 있음 수정 필요
-    // 바다수정1 temp_wifi_cnt 변수 사용하지 않는데 데이터 받아서 저장하고 있음
+    // 바다수정 1 : temp_wifi_cnt , temp_wifi_rssi 변수 사용하지 않는데 데이터 받아서 저장하고 있음
+    // 바다수정 2 : 2.1,2.2 과정 전 좌표를 두 번 검색 -> 하나로 통합 필요
 
     fun vectorcompare(wifi_string: String, cur_step : Int): Int{
         wifidata = wifi_string
@@ -247,6 +247,10 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         var cnt_list = arrayListOf<Int>() // 유니크 와이파이 (맵에서 수집된)
         var rssi_diff_list = arrayListOf<Double>() //RSSI 차
 
+        var final_pos = arrayListOf<Int>() //바다 수정 3
+
+
+        // #### 1.
         var splitline = wifi_string.split("\r\n").toTypedArray()
         var both_cnt = 0
         for (i in splitline) {
@@ -263,9 +267,11 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             }
         }
 
+        // #### 2
         var range_idx = range_thres
         var rssi_range_idx = rssi_range_num
 
+        // #### 2.1
         // pos = x * 10000 + y
         for (i in pos){
             var both_cnt = 0
@@ -302,6 +308,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
 
         rangeval = unq_cnt_list[range_idx]
 
+        // 2.2
         for (i in pos){
 
             var rssi_sum = 0.0
@@ -321,7 +328,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             }
             temp_wifi_rssi[i] = rssi_sum
             if (both_cnt >= rangeval){
-                rssi_diff_list.add(rssi_sum / both_cnt)
+                final_pos.add(i) //바다수정3
+                rssi_diff_list.add(rssi_sum / both_cnt) // 바다수정 3, 여기서 인덱스 정보 포함해서 저장. 유니크 와이파이 갯수로 1차로 필터링된 좌표.
+                                                        // 최종 파티클 필터링 때, rssi_diff_list 좌표에서 RSSI 차만 필터링
             } else{
                 rssi_diff_list.add(100000.0)
             }
@@ -348,6 +357,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         var x_list = arrayListOf<Int>()
         var y_list = arrayListOf<Int>()
 
+        // #### 3.
         for (i in pos.indices){
             if((cnt_list[i] >= for_range_rangeval) and (rssi_diff_list[i] <= for_range_rssi_rangeval)){
                 x_list.add(posx[i])
