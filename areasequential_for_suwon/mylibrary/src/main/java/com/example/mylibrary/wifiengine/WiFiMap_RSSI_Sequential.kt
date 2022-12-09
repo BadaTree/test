@@ -98,7 +98,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         mapWidth = wiFiDataMap.mapWidth
         mapHeight = wiFiDataMap.mapHeight
 
-        pos = wiFiDataMap.pos
+        pos = wiFiDataMap.pos // pos = x * 10000 + y
         posx = wiFiDataMap.posx
         posy = wiFiDataMap.posy
 
@@ -230,8 +230,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         return particle_num
     }
 
-    // ##### 경량화 수정 필요 ########
+    // ##### 경량화 수정 필요 20221209 ########
     // 불필요하게 RSSI, unique wifi로 분리해서 두 번 검색하고 있음 수정 필요
+    // 바다수정1 temp_wifi_cnt 변수 사용하지 않는데 데이터 받아서 저장하고 있음
 
     fun vectorcompare(wifi_string: String, cur_step : Int): Int{
         wifidata = wifi_string
@@ -241,8 +242,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         test_vector = Array(wifilistsize, {0})
         rssi_vector = Array(wifilistsize, {0})
 
-        // 맵에서 수집된 Unique wifi 수
-        var wifimap_uiqwifi = wifilist.size
+        var wifimap_uiqwifi = wifilist.size  // 맵에서 수집된 Unique wifi 수
 
         var cnt_list = arrayListOf<Int>() // 유니크 와이파이 (맵에서 수집된)
         var rssi_diff_list = arrayListOf<Double>() //RSSI 차
@@ -266,6 +266,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         var range_idx = range_thres
         var rssi_range_idx = rssi_range_num
 
+        // pos = x * 10000 + y
         for (i in pos){
             var both_cnt = 0
 
@@ -282,6 +283,7 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
             cnt_list.add(both_cnt)
         }
 
+        // distinct() : 중복값 제거, sortedDescending() : 내림차순으로 정렬
         var unq_cnt_list = cnt_list.distinct().sortedDescending()
 
         var compare_val = 0
