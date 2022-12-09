@@ -230,6 +230,9 @@ class WiFiMap_RSSI_Sequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Ma
         return particle_num
     }
 
+    // ##### 경량화 수정 필요 ########
+    // 불필요하게 RSSI, unique wifi로 분리해서 두 번 검색하고 있음 수정 필요
+
     fun vectorcompare(wifi_string: String, cur_step : Int): Int{
         wifidata = wifi_string
         temp_wifi_cnt = mutableMapOf<Int, Int>()
