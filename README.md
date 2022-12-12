@@ -1,15 +1,76 @@
-# RF engine
+# wifiData
+
+# 진행 상황 공유
 
 ## 바다_ 진행 사항
 ### * 진행 중 
-#### 1. RF 측위 연산량 줄일 수 있는 방법 찾아보기 
-#### 2. 실시간 테스트 시 성능 확인할 수 있는 layout 구성 고민
-#### 3. 객관적 성능 확인 방법 고안
 
 ### * 진행 완료
 
+## 민혁_ 현재 진행 중 
+### * 진행 중 
+
+### * 진행 완료
 
 ## 차후에 진행해야하는 연구
 ### 1. RF로 층식별
 ### 2. 핫스팟 필터링
 ### 3. 실시간 테스트 경량화 
+
+
+
+## 1. 모듈별 역할
+WIFIengine/codes/ 디렉토리 내부의 모듈별 역할은 다음과 같다.
++ basic
+    + Basic_WiFi_RSSI.py  > WIFI 데이터로 시뮬레이션 진행 및 wifi hash map, wifi list 등 생성
+    + distribution.py > WIFI 데이터들의 분포를 시각화하고 범위값을 설정해줌
+    + findParameters.py > 파라미터 최적화를 진행하여 파라미터별 성능 변화를 시각화 함
++ data_visualize
+    + 수정_wifi_interpolation.py > WIFI 데이터들을 하나로 합침
+    + 직교Interpolation.py > 합쳐진 WIFI 데이터들을 시각화하여 수집 영역을 result 폴더에 저장함
++ mapAuto
+    + gyro2map.py > 자기장 수집 데이터를 기반으로 map을 생성함
+
+***
+
+
+
+## 2. 코드 진행 순서
+코드 진행 순서는 다음과 같다. 
+data_visualize/수정_wifi_interpolation.py -> data_visualize/직교Interpolation.py -> basic/distribution.py -> basic/findParameters.py -> basic/Basic_WiFi_RSSI.py -> mapAuto/gyro2map.py -> 앱 실행
+
+***
+
+
+
+## 3. 데이터 디렉토리 구조
+데이터들을 여러 파일에서 동시에 사용하기 때문에 디렉토리는 다음의 구조를 지켜서 구성해야함
+1. 자기장 데이터 디렉토리
+```
+WIFIengine
+└─────mag
+        │──files
+        │   ...
+        │   ...     
+        └            
+```
+2. Wifi 데이터 디렉토리 
+```
+WIFIengine
+└─────data
+       └──{LOCATION}
+            │───train
+            │    │──part1
+            │    │──part2
+            │    │  ...
+            │    │  ...
+            │    └
+            └───test
+                 │───part1
+                 │───part2
+                 │  ...                
+                 │  ...                
+                 └
+```
+
+***
