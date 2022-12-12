@@ -1,0 +1,47 @@
+﻿<!doctype html>
+<style>
+    #mask {
+        opacity:0;
+        position:absolute;
+        z-index:3;
+        left:0px;
+        top:50px;
+    }
+    #location_area {
+        text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    }
+    .select_btn {
+        display: table-cell;
+        vertical-align: middle;
+    }
+</style>
+<html lang="en">
+<!-- floor2 -->
+<head>
+    <meta charset="UTF-8">
+    <script type="module" src="./js/index.js"></script>
+    <title>map_test</title>
+</head>
+<body>
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<style>
+        html, body {
+            margin: 0;
+            width: 200%;
+            height: 200%;
+        }
+    </style>
+
+<main>
+    <section>
+        <article>
+            <div id="map_area" style="position:absolute; z-index:1;left: 600px; top: 300px; overflow:scroll; transition: all 0.1s; transform: rotate(270deg)">
+                <img id="map_img" src=""  >
+                <div id='result' style='position:absolute;'></div>
+            </div>
+        </article>
+    </section>
+</main>
+
+</body>
+</html>
