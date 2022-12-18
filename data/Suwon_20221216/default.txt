@@ -1,0 +1,704 @@
+0	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+0	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+0	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+0	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+0	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+0	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+0	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+0	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+0	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+0	0.0	0.0		12:07:89:ba:d3:51	-77
+0	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+0	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+0	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+0	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+0	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+0	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+0	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+0	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+0	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+0	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+0	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+0	0.0	0.0		0a:5d:dd:02:19:e8	-89
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+0	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+0	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+0	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+0	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+0	0.0	0.0		00:1c:0e:d5:ec:50	-58
+0	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+0	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+0	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+0	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+0	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+0	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+0	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+0	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+0	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+0	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+0	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+0	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+0	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+0	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+0	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+0	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+0	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+0	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+0	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+0	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+0	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+0	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+0	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+0	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+0	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+0	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+0	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+0	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+0	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+0	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+1	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+1	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+1	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+1	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+1	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+1	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+1	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+1	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+1	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+1	0.0	0.0		12:07:89:ba:d3:51	-77
+1	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+1	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+1	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+1	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+1	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+1	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+1	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+1	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+1	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+1	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+1	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+1	0.0	0.0		0a:5d:dd:02:19:e8	-89
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+1	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+1	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+1	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+1	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+1	0.0	0.0		00:1c:0e:d5:ec:50	-58
+1	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+1	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+1	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+1	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+1	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+1	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+1	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+1	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+1	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+1	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+1	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+1	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+1	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+1	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+1	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+1	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+1	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+1	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+1	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+1	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+1	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+1	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+1	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+1	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+1	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+1	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+1	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+1	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+1	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+1	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+2	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+2	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+2	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+2	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+2	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+2	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+2	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+2	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+2	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+2	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+2	0.0	0.0		12:07:89:ba:d3:51	-77
+2	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+2	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+2	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+2	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+2	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+2	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+2	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+2	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+2	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+2	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+2	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+2	0.0	0.0		0a:5d:dd:02:19:e8	-89
+2	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+2	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+2	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+2	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+2	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+2	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+2	0.0	0.0		00:1c:0e:d5:ec:50	-58
+2	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+2	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+2	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+2	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+2	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+2	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+2	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+2	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+2	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+2	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+2	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+2	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+2	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+2	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+2	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+2	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+2	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+2	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+2	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+2	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+2	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+2	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+2	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+2	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+2	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+2	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+2	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+2	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+2	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+2	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+2	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+2	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+2	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+2	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+3	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+3	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+3	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+3	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+3	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+3	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+3	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+3	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+3	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+3	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+3	0.0	0.0		12:07:89:ba:d3:51	-77
+3	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+3	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+3	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+3	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+3	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+3	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+3	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+3	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+3	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+3	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+3	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+3	0.0	0.0		0a:5d:dd:02:19:e8	-89
+3	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+3	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+3	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+3	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+3	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+3	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+3	0.0	0.0		00:1c:0e:d5:ec:50	-58
+3	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+3	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+3	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+3	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+3	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+3	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+3	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+3	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+3	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+3	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+3	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+3	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+3	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+3	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+3	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+3	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+3	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+3	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+3	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+3	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+3	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+3	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+3	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+3	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+3	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+3	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+3	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+3	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+3	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+3	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+3	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+3	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+3	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+3	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+4	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+4	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+4	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+4	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+4	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+4	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+4	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+4	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+4	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+4	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+4	0.0	0.0		12:07:89:ba:d3:51	-77
+4	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+4	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+4	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+4	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+4	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+4	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+4	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+4	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+4	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+4	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+4	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+4	0.0	0.0		0a:5d:dd:02:19:e8	-89
+4	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+4	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+4	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+4	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+4	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+4	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+4	0.0	0.0		00:1c:0e:d5:ec:50	-58
+4	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+4	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+4	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+4	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+4	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+4	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+4	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+4	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+4	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+4	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+4	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+4	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+4	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+4	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+4	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+4	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+4	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+4	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+4	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+4	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+4	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+4	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+4	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+4	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+4	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+4	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+4	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+4	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+4	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+4	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+4	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+4	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+4	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+4	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+5	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+5	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+5	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+5	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+5	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+5	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+5	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+5	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+5	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+5	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+5	0.0	0.0		12:07:89:ba:d3:51	-77
+5	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+5	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+5	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+5	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+5	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+5	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+5	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+5	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+5	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+5	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+5	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+5	0.0	0.0		0a:5d:dd:02:19:e8	-89
+5	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+5	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+5	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+5	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+5	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+5	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+5	0.0	0.0		00:1c:0e:d5:ec:50	-58
+5	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+5	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+5	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+5	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+5	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+5	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+5	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+5	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+5	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+5	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+5	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+5	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+5	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+5	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+5	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+5	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+5	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+5	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+5	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+5	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+5	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+5	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+5	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+5	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+5	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+5	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+5	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+5	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+5	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+5	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+5	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+5	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+5	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+5	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+6	0.0	0.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+6	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+6	0.0	0.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+6	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+6	0.0	0.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+6	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+6	0.0	0.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+6	0.0	0.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+6	0.0	0.0	KT WiFi	0a:09:b4:75:54:5c	-82
+6	0.0	0.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+6	0.0	0.0		12:07:89:ba:d3:51	-77
+6	0.0	0.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+6	0.0	0.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+6	0.0	0.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+6	0.0	0.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+6	0.0	0.0	BJOH	32:17:e1:9f:72:43	-55
+6	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+6	0.0	0.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+6	0.0	0.0	KT WiFi	0a:09:b4:75:54:dc	-80
+6	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+6	0.0	0.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+6	0.0	0.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+6	0.0	0.0		0a:5d:dd:02:19:e8	-89
+6	0.0	0.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+6	0.0	0.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+6	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+6	0.0	0.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+6	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+6	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+6	0.0	0.0		00:1c:0e:d5:ec:50	-58
+6	0.0	0.0	T wifi zone	10:e3:c7:09:34:48	-85
+6	0.0	0.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+6	0.0	0.0		ba:3c:1c:d1:c3:50	-70
+6	0.0	0.0	pas0staff-2	58:86:94:26:c1:46	-60
+6	0.0	0.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+6	0.0	0.0	pas-staff-2	58:86:94:26:c1:44	-54
+6	0.0	0.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+6	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+6	0.0	0.0	bonjuk	64:e5:99:ac:4c:32	-83
+6	0.0	0.0	토끼정	70:5d:cc:09:81:5c	-74
+6	0.0	0.0	lantong	12:ad:35:40:e3:37	-80
+6	0.0	0.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+6	0.0	0.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+6	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+6	0.0	0.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+6	0.0	0.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+6	0.0	0.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+6	0.0	0.0	T wifi zone	10:e3:c7:09:34:52	-71
+6	0.0	0.0	T wifi zone	10:e3:c7:09:34:53	-76
+6	0.0	0.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+6	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+6	0.0	0.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+6	0.0	0.0		38:1c:1a:c4:3d:e0	-80
+6	0.0	0.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+6	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+6	0.0	0.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+6	0.0	0.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+6	0.0	0.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+6	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+6	0.0	0.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+6	0.0	0.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+6	0.0	0.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+6	0.0	0.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+6	0.0	0.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+0	0.0	6.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+0	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+0	0.0	6.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+0	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+0	0.0	6.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+0	0.0	6.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+0	0.0	6.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+0	0.0	6.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+0	0.0	6.0	KT WiFi	0a:09:b4:75:54:5c	-82
+0	0.0	6.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+0	0.0	6.0		12:07:89:ba:d3:51	-77
+0	0.0	6.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+0	0.0	6.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+0	0.0	6.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+0	0.0	6.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+0	0.0	6.0	BJOH	32:17:e1:9f:72:43	-55
+0	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+0	0.0	6.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+0	0.0	6.0	KT WiFi	0a:09:b4:75:54:dc	-80
+0	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+0	0.0	6.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+0	0.0	6.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+0	0.0	6.0		0a:5d:dd:02:19:e8	-89
+0	0.0	6.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+0	0.0	6.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+0	0.0	6.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+0	0.0	6.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+0	0.0	6.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+0	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+0	0.0	6.0		00:1c:0e:d5:ec:50	-58
+0	0.0	6.0	T wifi zone	10:e3:c7:09:34:48	-85
+0	0.0	6.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+0	0.0	6.0		ba:3c:1c:d1:c3:50	-70
+0	0.0	6.0	pas0staff-2	58:86:94:26:c1:46	-60
+0	0.0	6.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+0	0.0	6.0	pas-staff-2	58:86:94:26:c1:44	-54
+0	0.0	6.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+0	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+0	0.0	6.0	bonjuk	64:e5:99:ac:4c:32	-83
+0	0.0	6.0	토끼정	70:5d:cc:09:81:5c	-74
+0	0.0	6.0	lantong	12:ad:35:40:e3:37	-80
+0	0.0	6.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+0	0.0	6.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+0	0.0	6.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+0	0.0	6.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+0	0.0	6.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+0	0.0	6.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+0	0.0	6.0	T wifi zone	10:e3:c7:09:34:52	-71
+0	0.0	6.0	T wifi zone	10:e3:c7:09:34:53	-76
+0	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+0	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+0	0.0	6.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+0	0.0	6.0		38:1c:1a:c4:3d:e0	-80
+0	0.0	6.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+0	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+0	0.0	6.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+0	0.0	6.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+0	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+0	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+0	0.0	6.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+0	0.0	6.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+0	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+0	0.0	6.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+0	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+1	0.0	6.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+1	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+1	0.0	6.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+1	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+1	0.0	6.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+1	0.0	6.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+1	0.0	6.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+1	0.0	6.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+1	0.0	6.0	KT WiFi	0a:09:b4:75:54:5c	-82
+1	0.0	6.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+1	0.0	6.0		12:07:89:ba:d3:51	-77
+1	0.0	6.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+1	0.0	6.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+1	0.0	6.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+1	0.0	6.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+1	0.0	6.0	BJOH	32:17:e1:9f:72:43	-55
+1	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+1	0.0	6.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+1	0.0	6.0	KT WiFi	0a:09:b4:75:54:dc	-80
+1	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+1	0.0	6.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+1	0.0	6.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+1	0.0	6.0		0a:5d:dd:02:19:e8	-89
+1	0.0	6.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+1	0.0	6.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+1	0.0	6.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+1	0.0	6.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+1	0.0	6.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+1	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+1	0.0	6.0		00:1c:0e:d5:ec:50	-58
+1	0.0	6.0	T wifi zone	10:e3:c7:09:34:48	-85
+1	0.0	6.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+1	0.0	6.0		ba:3c:1c:d1:c3:50	-70
+1	0.0	6.0	pas0staff-2	58:86:94:26:c1:46	-60
+1	0.0	6.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+1	0.0	6.0	pas-staff-2	58:86:94:26:c1:44	-54
+1	0.0	6.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+1	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+1	0.0	6.0	bonjuk	64:e5:99:ac:4c:32	-83
+1	0.0	6.0	토끼정	70:5d:cc:09:81:5c	-74
+1	0.0	6.0	lantong	12:ad:35:40:e3:37	-80
+1	0.0	6.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+1	0.0	6.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+1	0.0	6.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+1	0.0	6.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+1	0.0	6.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+1	0.0	6.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+1	0.0	6.0	T wifi zone	10:e3:c7:09:34:52	-71
+1	0.0	6.0	T wifi zone	10:e3:c7:09:34:53	-76
+1	0.0	6.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+1	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+1	0.0	6.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+1	0.0	6.0		38:1c:1a:c4:3d:e0	-80
+1	0.0	6.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+1	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+1	0.0	6.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+1	0.0	6.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+1	0.0	6.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+1	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+1	0.0	6.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+1	0.0	6.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+1	0.0	6.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+1	0.0	6.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+1	0.0	6.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+0	0.0	12.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+0	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+0	0.0	12.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+0	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+0	0.0	12.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+0	0.0	12.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+0	0.0	12.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+0	0.0	12.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+0	0.0	12.0	KT WiFi	0a:09:b4:75:54:5c	-82
+0	0.0	12.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+0	0.0	12.0		12:07:89:ba:d3:51	-77
+0	0.0	12.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+0	0.0	12.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+0	0.0	12.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+0	0.0	12.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+0	0.0	12.0	BJOH	32:17:e1:9f:72:43	-55
+0	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+0	0.0	12.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+0	0.0	12.0	KT WiFi	0a:09:b4:75:54:dc	-80
+0	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+0	0.0	12.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+0	0.0	12.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+0	0.0	12.0		0a:5d:dd:02:19:e8	-89
+0	0.0	12.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+0	0.0	12.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+0	0.0	12.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+0	0.0	12.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+0	0.0	12.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+0	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+0	0.0	12.0		00:1c:0e:d5:ec:50	-58
+0	0.0	12.0	T wifi zone	10:e3:c7:09:34:48	-85
+0	0.0	12.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+0	0.0	12.0		ba:3c:1c:d1:c3:50	-70
+0	0.0	12.0	pas0staff-2	58:86:94:26:c1:46	-60
+0	0.0	12.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+0	0.0	12.0	pas-staff-2	58:86:94:26:c1:44	-54
+0	0.0	12.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+0	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+0	0.0	12.0	bonjuk	64:e5:99:ac:4c:32	-83
+0	0.0	12.0	토끼정	70:5d:cc:09:81:5c	-74
+0	0.0	12.0	lantong	12:ad:35:40:e3:37	-80
+0	0.0	12.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+0	0.0	12.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+0	0.0	12.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+0	0.0	12.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+0	0.0	12.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+0	0.0	12.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+0	0.0	12.0	T wifi zone	10:e3:c7:09:34:52	-71
+0	0.0	12.0	T wifi zone	10:e3:c7:09:34:53	-76
+0	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+0	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+0	0.0	12.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+0	0.0	12.0		38:1c:1a:c4:3d:e0	-80
+0	0.0	12.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+0	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+0	0.0	12.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+0	0.0	12.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+0	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+0	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+0	0.0	12.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+0	0.0	12.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+0	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+0	0.0	12.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+0	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
+1	0.0	12.0	KT_GiGA_2G_Wave2_D34D	00:07:89:ba:d3:50	-68
+1	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:48	-85
+1	0.0	12.0	KT_GiGA_5G_Wave2_D34D	00:07:89:ba:d3:51	-79
+1	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:54:dc	-81
+1	0.0	12.0	KFCSUWONSTA_5G_	60:29:d5:37:c0:54	-71
+1	0.0	12.0	KT_Free_WiFi	06:09:b4:75:54:5c	-82
+1	0.0	12.0	KFCSUWONSTATION	60:29:d5:37:c0:55	-70
+1	0.0	12.0	KT WiFi 	0e:09:b4:75:20:e4	-86
+1	0.0	12.0	KT WiFi	0a:09:b4:75:54:5c	-82
+1	0.0	12.0	*Check-In	6e:ff:7b:ef:6c:6b	-62
+1	0.0	12.0		12:07:89:ba:d3:51	-77
+1	0.0	12.0	T wifi zone	10:e3:c7:09:3f:fb	-80
+1	0.0	12.0	AndroidHotspot0898	a6:57:14:c3:08:a0	-47
+1	0.0	12.0	[LG_CeilingCassette A/C]edc7	1e:39:29:7c:ed:c7	-75
+1	0.0	12.0	KT GiGA WiFi 	0e:09:b4:76:0e:7c	-92
+1	0.0	12.0	BJOH	32:17:e1:9f:72:43	-55
+1	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:54:dc	-82
+1	0.0	12.0	KT_WiFi_5G_CA21	b4:a9:4f:c5:ca:24	-74
+1	0.0	12.0	KT WiFi	0a:09:b4:75:54:dc	-80
+1	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:20:e4	-84
+1	0.0	12.0	KT_GiGA_5G_Wave2_C34D	88:3c:1c:d1:c3:50	-71
+1	0.0	12.0	KT_WiFi_5G_CF9E	b4:a9:4f:c5:cf:a1	-88
+1	0.0	12.0		0a:5d:dd:02:19:e8	-89
+1	0.0	12.0	T wifi zone_secure	02:e3:c7:09:0d:3d	-78
+1	0.0	12.0	ADTCAPS_WiFi	28:ac:67:2e:45:a0	-67
+1	0.0	12.0	pas-staff	68:ff:7b:ef:6c:6a	-72
+1	0.0	12.0	pas-staff	68:ff:7b:ef:6c:6b	-64
+1	0.0	12.0	KT GiGA WiFi	12:09:b4:75:54:dc	-82
+1	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:34:52	-70
+1	0.0	12.0		00:1c:0e:d5:ec:50	-58
+1	0.0	12.0	T wifi zone	10:e3:c7:09:34:48	-85
+1	0.0	12.0	LACOSTE-STORE-2G	b0:39:56:16:43:b0	-69
+1	0.0	12.0		ba:3c:1c:d1:c3:50	-70
+1	0.0	12.0	pas0staff-2	58:86:94:26:c1:46	-60
+1	0.0	12.0	KT GiGA WiFi 	16:09:b4:76:d6:dc	-91
+1	0.0	12.0	pas-staff-2	58:86:94:26:c1:44	-54
+1	0.0	12.0	LACOSTE-STORE	b0:39:56:16:43:b4	-62
+1	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:0d:3d	-78
+1	0.0	12.0	bonjuk	64:e5:99:ac:4c:32	-83
+1	0.0	12.0	토끼정	70:5d:cc:09:81:5c	-74
+1	0.0	12.0	lantong	12:ad:35:40:e3:37	-80
+1	0.0	12.0	KT_WiFi_5G_AEAC	b4:a9:4f:32:ae:af	-84
+1	0.0	12.0	KT_Free_WiFi	06:09:b4:75:20:e4	-86
+1	0.0	12.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6b	-63
+1	0.0	12.0	KT WiFi 	0e:09:b4:75:54:5c	-82
+1	0.0	12.0	*Happy Free WiFi	6a:ff:7b:ef:6c:6a	-71
+1	0.0	12.0	T wifi zone_secure	02:e3:c7:09:3f:fb	-80
+1	0.0	12.0	T wifi zone	10:e3:c7:09:34:52	-71
+1	0.0	12.0	T wifi zone	10:e3:c7:09:34:53	-76
+1	0.0	12.0	KT GiGA WiFi 	16:09:b4:75:54:5c	-83
+1	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:34:48	-87
+1	0.0	12.0	KT_GiGA_2G_Wave2_7A3F	00:07:89:83:7a:42	-83
+1	0.0	12.0		38:1c:1a:c4:3d:e0	-80
+1	0.0	12.0	KT_Free_WiFi	06:09:b4:75:54:dc	-83
+1	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:53	-75
+1	0.0	12.0	KT GiGA WiFi	12:09:b4:75:54:5c	-82
+1	0.0	12.0	KT WiFi 	0e:09:b4:75:54:dc	-81
+1	0.0	12.0	T wifi zone_secure	02:e3:c7:09:34:52	-72
+1	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:54:5c	-82
+1	0.0	12.0	T wifi zone	10:e3:c7:09:0d:3d	-78
+1	0.0	12.0	DIRECT-58-SA SL-J2160W Series	6c:02:e0:fe:14:59	-84
+1	0.0	12.0	T Free WiFi Zone	12:e3:c7:09:3f:fb	-80
+1	0.0	12.0	ak_suwon	28:87:ba:1a:9c:4e	-67
+1	0.0	12.0	Korail_WiFi_Free	00:09:b4:75:20:e4	-84
