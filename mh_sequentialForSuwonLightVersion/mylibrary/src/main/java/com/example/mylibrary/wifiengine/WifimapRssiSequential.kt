@@ -136,8 +136,6 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         unqWifi = unqWifi_
         if(foundpos) { instantResult["status_code"] = 400.0f }
 
-
-
         return Pair(instantResult, unqWifi)
     }
 
@@ -250,7 +248,6 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
                 if ((wifilist.indexOf(ssid) != -1) and (rssi >= rssiThres)) {
                     testVector[wifilist.indexOf(ssid)] = 1
                     rssiVector[wifilist.indexOf(ssid)] = rssi
-                    Log.d("common wifi",ssid)
                 }
             }
         }
