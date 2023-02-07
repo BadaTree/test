@@ -1,10 +1,7 @@
 package com.example.sequentialForSuwonLightVersion
 
 import android.Manifest
-import android.content.BroadcastReceiver
-import android.content.Context
-import android.content.Intent
-import android.content.IntentFilter
+import android.content.*
 import android.content.pm.PackageManager
 import android.graphics.Color
 import android.hardware.Sensor
@@ -12,15 +9,13 @@ import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.net.wifi.WifiManager
+import android.os.*
 import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
-import android.os.Vibrator
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.webkit.WebView
+import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
@@ -30,14 +25,17 @@ import com.bumptech.glide.Glide
 import com.example.sequentialForSuwonLightVersion.R
 import com.example.mylibrary.ExIndoorLocalization
 import kotlinx.android.synthetic.main.activity_main.*
+import java.io.*
 import kotlin.math.round
 
 //private val WEB_ADDRESS = "file:///android_asset/HanaSquare_map_for_result.html"
-private val WEB_ADDRESS = "file:///android_asset/HanaSquare_map_for_result copy.html"
-private val PCK_NAME = "hana"
+private val WEB_ADDRESS = "file:///android_asset/suwon.html"
 
 
 class MainActivity : AppCompatActivity(), SensorEventListener {
+    private var permissionList = arrayOf(
+            android.Manifest.permission.WRITE_EXTERNAL_STORAGE
+    )
     private val mSensorManager by lazy {
         getSystemService(Context.SENSOR_SERVICE) as SensorManager
     }
@@ -53,6 +51,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     private var is_popup_on : Boolean = false
     private var isFirstInit : Boolean = true
     private lateinit var alertDialog : AlertDialog
+    private  var isRecording : Boolean = false
 
     ////////////////SK WiFi////////////////////
     var wifipermitted = false
@@ -62,15 +61,12 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 
     lateinit var wifiManager: WifiManager
     var RSSI_value = ""
+    private var decreassion = ""
 
     val wifiScanReceiver = object : BroadcastReceiver() {
         override fun onReceive(context: Context, intent: Intent) {
-            var success = intent.getBooleanExtra(WifiManager.EXTRA_RESULTS_UPDATED, false)
-            if(success){
-                wifipermitted = true
-            } else{
-                wifipermitted = false
-            }
+            val success = intent.getBooleanExtra(WifiManager.EXTRA_RESULTS_UPDATED, false)
+            wifipermitted = success
         }
     }
 
@@ -85,8 +81,9 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         checkFunction()
 
         initUI()
-        wvLayout0401v3.loadUrl("javascript:initWebview($PCK_NAME)")
+//        wvLayout0401v3.loadUrl("javascript:initWebview($PCK_NAME)")
         threadStart()
+
 
         /////SK WIFI//////
         wifiManager = this.applicationContext.getSystemService(Context.WIFI_SERVICE) as WifiManager
@@ -94,11 +91,125 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         scanstarted = true
         wifiManager.startScan()
 
-        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
-            resources.openRawResource(R.raw.hanahandhashmap_for_instant_3),
-            resources.openRawResource(R.raw.hanasquare_wifihashmap),
-            resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
-            resources.openRawResource(R.raw.hanasquare_wifilist))
+
+//        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.hanahandhashmap),
+//            resources.openRawResource(R.raw.suwonhashmap_2),
+//            resources.openRawResource(R.raw.hanasquare_wifihashmap),
+//            resources.openRawResource(R.raw.hanasquare_wifirssihashmap),
+//            resources.openRawResource(R.raw.hanasquare_wifilist))
+
+        exIndoorLocalization = ExIndoorLocalization(resources.openRawResource(R.raw.suwonhashmap_2),
+            resources.openRawResource(R.raw.suwonhashmap_2),
+            resources.openRawResource(R.raw.suwon_wifihashmap_train_2),
+            resources.openRawResource(R.raw.suwon_wifirssihashmap_train_2),
+            resources.openRawResource(R.raw.suwon_wifilist_train_2))
+
+        hall.setOnClickListener {
+            hall.background.setTint(Color.parseColor("#00CED1"))
+            platform1.background.setTint(Color.parseColor("#7F7EFF"))
+            platform2.background.setTint(Color.parseColor("#7F7EFF"))
+            platform3.background.setTint(Color.parseColor("#7F7EFF"))
+            platform4.background.setTint(Color.parseColor("#7F7EFF"))
+            wvLayout0401v3.loadUrl("javascript:changeHall()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.suwonhashmap_2),
+                resources.openRawResource(R.raw.suwonhashmap_2),
+                resources.openRawResource(R.raw.suwon_wifihashmap_train_2),
+                resources.openRawResource(R.raw.suwon_wifirssihashmap_train_2),
+                resources.openRawResource(R.raw.suwon_wifilist_train_2))
+        }
+        platform1.setOnClickListener {
+            hall.background.setTint(Color.parseColor("#7F7EFF"))
+            platform1.background.setTint(Color.parseColor("#00CED1"))
+            platform2.background.setTint(Color.parseColor("#7F7EFF"))
+            platform3.background.setTint(Color.parseColor("#7F7EFF"))
+            platform4.background.setTint(Color.parseColor("#7F7EFF"))
+            wvLayout0401v3.loadUrl("javascript:changePlatform1()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.suwonhashmap_1),
+                resources.openRawResource(R.raw.suwonhashmap_1),
+                resources.openRawResource(R.raw.suwon_wifihashmap_train_1),
+                resources.openRawResource(R.raw.suwon_wifirssihashmap_train_1),
+                resources.openRawResource(R.raw.suwon_wifilist_train_1))
+        }
+        platform2.setOnClickListener {
+            hall.background.setTint(Color.parseColor("#7F7EFF"))
+            platform1.background.setTint(Color.parseColor("#7F7EFF"))
+            platform2.background.setTint(Color.parseColor("#00CED1"))
+            platform3.background.setTint(Color.parseColor("#7F7EFF"))
+            platform4.background.setTint(Color.parseColor("#7F7EFF"))
+            wvLayout0401v3.loadUrl("javascript:changePlatform2()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.suwonhashmap_5),
+                resources.openRawResource(R.raw.suwonhashmap_5),
+                resources.openRawResource(R.raw.suwon_wifihashmap_train_5),
+                resources.openRawResource(R.raw.suwon_wifirssihashmap_train_5),
+                resources.openRawResource(R.raw.suwon_wifilist_train_5))
+        }
+        platform3.setOnClickListener {
+            hall.background.setTint(Color.parseColor("#7F7EFF"))
+            platform1.background.setTint(Color.parseColor("#7F7EFF"))
+            platform2.background.setTint(Color.parseColor("#7F7EFF"))
+            platform3.background.setTint(Color.parseColor("#00CED1"))
+            platform4.background.setTint(Color.parseColor("#7F7EFF"))
+            wvLayout0401v3.loadUrl("javascript:changePlatform3()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.suwonhashmap_4),
+                resources.openRawResource(R.raw.suwonhashmap_4),
+                resources.openRawResource(R.raw.suwon_wifihashmap_train_4),
+                resources.openRawResource(R.raw.suwon_wifirssihashmap_train_4),
+                resources.openRawResource(R.raw.suwon_wifilist_train_4))
+        }
+        platform4.setOnClickListener {
+            hall.background.setTint(Color.parseColor("#7F7EFF"))
+            platform1.background.setTint(Color.parseColor("#7F7EFF"))
+            platform2.background.setTint(Color.parseColor("#7F7EFF"))
+            platform3.background.setTint(Color.parseColor("#7F7EFF"))
+            platform4.background.setTint(Color.parseColor("#00CED1"))
+            wvLayout0401v3.loadUrl("javascript:changePlatform4()")
+            exIndoorLocalization.setClass(resources.openRawResource(R.raw.suwonhashmap_3),
+                resources.openRawResource(R.raw.suwonhashmap_3),
+                resources.openRawResource(R.raw.suwon_wifihashmap_train_3),
+                resources.openRawResource(R.raw.suwon_wifirssihashmap_train_3),
+                resources.openRawResource(R.raw.suwon_wifilist_train_3))
+        }
+
+
+        btnrecord.setOnClickListener{
+            vibrator.vibrate(30)
+            isRecording = !isRecording
+            if (isRecording){
+                btnrecord.background.setTint(Color.parseColor("#00CED1"))
+
+            }else{
+                btnrecord.background.setTint(Color.parseColor("#7F7EFF"))
+
+//                var path: String
+                var fileName: String
+
+
+                var builder = AlertDialog.Builder(this)
+                val inflater:LayoutInflater = layoutInflater
+                val dialogLayout = inflater.inflate(R.layout.savedialog, null)
+                val editText = dialogLayout.findViewById<EditText>(R.id.name_edit)
+
+                with(builder){
+                    setTitle("Do you want to save the data?")
+
+                    setPositiveButton("저장"){ dialog, which ->
+                        checkPermission()
+//                        path = Environment.getExternalStorageDirectory().absolutePath + "/android/data/" + packageName
+                        fileName = editText.text.toString() + ".txt"
+
+//                        if (!File(path).exists()){ File(path).mkdir() }
+//                                saveToExternalStorage(decreassion, fileName)
+                        writeTextFile(fileName, decreassion)
+                        saveToExternalStorage(decreassion, fileName)
+
+                        decreassion = ""
+                    }
+                    setNegativeButton("취소", null)
+                    setView(dialogLayout)
+                    show()
+                    }
+                }
+            }
 
         btnReset.setOnClickListener {
             vibrator.vibrate(30)
@@ -111,6 +222,17 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         coverSwitch.setOnClickListener {
             val isCoverVisible = if (coverSwitch.isChecked) View.VISIBLE else View.INVISIBLE
 //            coverLayout.visibility = isCoverVisible
+        }
+    }
+
+    private fun checkPermission(){
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M){ return }
+        for (permission: String in permissionList){
+            val chk = checkCallingOrSelfPermission(permission)
+            if (chk == PackageManager.PERMISSION_DENIED){
+                requestPermissions(permissionList, 0)
+                break
+            }
         }
     }
 
@@ -250,11 +372,12 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                     }
                 }
             }
-            typeView.text = exIndoorLocalization.getType()
+//            typeView.text = exIndoorLocalization.getType()
             unqWifi.text = result[6]
             gyroView.text = RSSI_value
             insView.text = result[2]
             scView.text = result[3]
+//            decreassing.text = result[7]
 //                    xView.text = result[4]
 //                    yView.text = result[5]
             minxView.text = exIndoorLocalization.rangecheck[0].toString()
@@ -265,6 +388,9 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             if (mapRotationSwitch.isChecked) {
                 image_angle = round(result[0].toFloat())
                 SyncImageRotationSend(image_angle)
+            }
+            if (isRecording){
+                decreassion += (result[7] + "\t")
             }
         }
 //            }
@@ -437,5 +563,50 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     override fun onDestroy() {
         super.onDestroy()
         thread2.interrupt()
+    }
+    private fun saveToExternalStorage(text:String, filename: String){
+        val fileOutputStream = FileOutputStream(getAppDataFileFromExterbakStorage(filename))
+        fileOutputStream.write(text.toString().toByteArray())
+        fileOutputStream.close()
+    }
+
+    private fun getAppDataFileFromExterbakStorage(filename: String): File {
+        val dir = if (Build.VERSION.SDK_INT>= Build.VERSION_CODES.KITKAT){
+            getExternalFilesDir(Environment.DIRECTORY_DOCUMENTS)
+        } else{
+            File(Environment.getExternalStorageDirectory().absolutePath+"/Documents")
+        }
+        dir?.mkdir()
+        return File("${dir!!.absolutePath}${File.separator}${filename}")
+    }
+
+    private fun writeTextFile(filename: String, contents: String){
+        try {
+            var path = Environment.getExternalStorageDirectory().absolutePath + "/android/data/" + packageName +"/"
+//            var path = getExternalPath()
+            val fos = FileOutputStream(path + filename, true)
+            val writer = BufferedWriter(OutputStreamWriter(fos))
+            writer.write(contents)
+            writer.flush()
+            writer.close()
+            fos.close()
+        } catch (e: IOException){
+            e.printStackTrace()
+            Log.d("asd", "asdasd: "+ e.toString())
+        }
+    }
+
+    private fun getExternalPath(): String {
+        var sdPath: String
+        val ext = Environment.getExternalStorageState()
+
+//        if (!File(path).exists()){ File(path).mkdir() }
+
+        sdPath = if (ext == Environment.MEDIA_MOUNTED){
+            Environment.getExternalStorageDirectory().absolutePath+"/RfRealTimeTest/"
+        } else {
+            "$filesDir/RfRealTimeTest/"
+        }
+        return sdPath
     }
 }

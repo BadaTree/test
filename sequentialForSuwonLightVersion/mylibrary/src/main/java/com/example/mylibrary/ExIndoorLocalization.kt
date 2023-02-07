@@ -11,6 +11,7 @@ import com.example.mylibrary.instant.InstantLocalization
 import com.example.mylibrary.maps.ResourceDataManager
 import com.example.mylibrary.sensors.GetGyroscope
 import com.example.mylibrary.sensors.VectorCalibration
+import com.example.mylibrary.wifiengine.WiFiMap_RSSI_Sequential
 import com.example.mylibrary.wifiengine.WifimapRssiSequential
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -200,13 +201,14 @@ class ExIndoorLocalization {
                         var temp_steplength = 0.7
                         //pdrResult.stepLength
                         CoroutineScope(Dispatchers.Default).async {
-                            var (ILResult_, unqWifi_) = async { wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction) }.await()
+                            var (ILResult_,unqWifi_)  = async { wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction) }.await()
                             ILResult = ILResult_
                             unqWifi = unqWifi_
                             // 11.22 bada check 2 :
 //                            Log.d("Indoor_ILResult", ILResult["status_code"].toString())
 //                            Log.d("Indoor_unqWifi", unqWifi.toString())
                             rangecheck = wifiengine.rangeCheck
+                            Log.d("ILResult", ILResult.toString())
                         }
 //                        ILResult = wifiengine.getLocation(wifidata, temp_steplength, gyro_value_map_collection, gyro_value_reset_direction, PFResult)
 //                        if((ILResult["status_code"] == 101.0f)){
@@ -254,11 +256,11 @@ class ExIndoorLocalization {
         // 11.22 bada check 1 : not support라고 뜸
         return arrayOf(returnGyro, returnState, returnIns, stepCount.toString(), returnX, returnY, unqWifi.toString())
     }
-
-    fun getPose(): String {
-        return poseTypes[devicePosture]
-    }
-    fun getType() : String {
-        return wifiengine.getParticleNum().toString()
-    }
+//
+//    fun getPose(): String {
+//        return poseTypes[devicePosture]
+//    }
+//    fun getType() : String {
+//        return wifiengine.getParticleNum().toString()
+//    }
 }

@@ -17,7 +17,6 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
     private var posy = arrayListOf<Int>()
 
     private var wifilist : Array<String>
-    private var rssiTemp = ""
     private var wifilistsize : Int = 0
 
     private var wifi = mutableMapOf<Int, Array<String>>()
@@ -27,14 +26,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
     private var mapHeight : Int = 0
 
     private var mapVector = map_hand
-
-    private var universalRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
-
-    private var ansRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
-
-    private var testVector : Array<Int>
-    private var rssiVector : Array<Int>
-
+    var decreassion: Float = 0.0f
     private var angleStepNum : Int = 10
     private var angleList : IntArray = (0..359 step angleStepNum).toList().toIntArray()
 
@@ -43,16 +35,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
 
     private var curStep = -1
 
-    // hanasquare
-/*    private var early_stop_in_n_mother : Float = 4.0f
-    private var rssiThres = -75
-    private var rangeThres = 7
-    private var secondRangeThres = 7 //7
-    private var rssiRangeNum = 40
-    private var secondRssiRangeNum = 40*/
-
     // anam staion
-    // 지하 [-75,3], 플랫폼 [-66,4]
     private var rssiThres = -85
     private var rangeThres = 7
     private var rssiRangeNum = 40
@@ -74,6 +57,14 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
 
     private var areaCheckRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
     private var particleNum = 0
+//    private var testVector : Array<Int>
+//    private var rssiVector : Array<Int>
+    var wifiDataChange = false
+    var universalRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
+    var universalRange2 = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
+    var ansRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
+    private var testVector: Array<Int> = Array(wifilistsize) { 0 }
+    private var rssiVector: Array<Int> = Array(wifilistsize) { 0 }
 
     init {
         wifi = wiFiDataMap.wifi
@@ -88,8 +79,8 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         posx = wiFiDataMap.posx
         posy = wiFiDataMap.posy
 
-        testVector = Array(wifilistsize, {0})
-        rssiVector = Array(wifilistsize, {0})
+        testVector = Array(wifilistsize) { 0 }
+        rssiVector = Array(wifilistsize) { 0 }
 
         instantResult = mutableMapOf("status_code" to -1.0f, "gyro_from_map" to -1.0f, "pos_x" to -1.0f, "pos_y" to -1.0f)
     }
@@ -114,15 +105,14 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         }
     }
 
-    /** 와이파이가 바뀌었는지 체크함. 
+    /** 와이파이가 바뀌었는지 체크함.
      *  입력: wifi ssid
-     */ 
-    private fun checkWifiChange(wifi_string: String): Boolean {
-        if (origWifiData != wifi_string){
-            origWifiData = wifi_string
-            return true
+     */
+    private fun checkWifiChange(wifiString: String) {
+        if (origWifiData != wifiString){
+            origWifiData = wifiString
+            wifiDataChange = true
         }
-        return false
     }
 
     /**
@@ -130,13 +120,11 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
      *  출력: [상태코드, 방향각, x좌표, y좌표]
      */
     // 민혁 수정 불필요한 조건문 제거
-    fun getLocation(wifi_string: String, stepLength: Double, gyro_for_pf: Float, gyro: Float) : Pair<MutableMap<String, Float>, Int> {
-        val (instant_result_, unqWifi_) = getlocationWF(wifi_string, stepLength, gyro, gyro_for_pf)
+    fun getLocation(wifiString: String, stepLength: Double, gyro_for_pf: Float, gyro: Float) : Pair<MutableMap<String, Float>, Int> {
+        val (instant_result_, unqWifi_) = getlocationWF(wifiString, stepLength, gyro, gyro_for_pf)
         instantResult = instant_result_
         unqWifi = unqWifi_
         if(foundpos) { instantResult["status_code"] = 400.0f }
-
-
 
         return Pair(instantResult, unqWifi)
     }
@@ -144,29 +132,29 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
     /** 초기 위치 수렴 이후에 영역체크 및 이동 시켜주는 함수
      *  출력: [상태코드, 방향각, x좌표, y좌표]
      */
-    private fun getlocationWF(wifi_string: String, stepLength: Double, gyro: Float, gyro_for_pf:Float) : Pair<MutableMap<String, Float>, Int> {
+    private fun getlocationWF(wifiString: String, stepLength: Double, gyro: Float, gyro_for_pf:Float) : Pair<MutableMap<String, Float>, Int> {
         initParameters(instantResult["status_code"]!!)
-
         curStep += 1
-        var isWifiChanged = checkWifiChange(wifi_string)
+        checkWifiChange(wifiString)
 
         // ssid, rssi 유사 상위 값으로만 ansRange 파티클 구성
-        val unqWifi = vectorcompare(wifi_string)
+        val unqWifi = vectorcompare(wifiString)
+//        var universalRange = arrayListOf(0.0f, 0.0f, 0.0f, 0.0f)
 
-        // if문이 같은 게 두 개로 나뉘어져 있어서 합침
         // 한 스텝 이동 후 교집합 영역을 universalRange에 넣음
-        universalRange = moveRange(ansRange, universalRange, stepLength, isWifiChanged)
+        universalRange2 = moveRange(ansRange, universalRange2, stepLength)
+        universalRange = ansRange
 
         if(foundpos){
             rangeCheck = ansRange
             moveArea(stepLength, gyro_for_pf)
             if(areaCheckPosList.size == 0){
                 correctionAngle = 0.0f
-                firstFindArea(universalRange)
+                firstFindArea(universalRange2)
             }
         }
         else{
-            firstFindArea(universalRange)
+            firstFindArea(universalRange2)
         }
 
 
@@ -175,16 +163,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         }
         if(!foundpos) {
             if (curStep == 0) {
-                if (foundpos) {
-                    firstFindParticles(universalRange)
-                } else {
-                    firstFindParticles(
-                        arrayListOf(
-                            ansRange[0], ansRange[1],
-                            ansRange[2], ansRange[3]
-                        )
-                    )
-                }
+                firstFindParticles(arrayListOf(ansRange[0], ansRange[1],ansRange[2], ansRange[3]))
                 instantResult["status_code"] = 100.0f
                 return Pair(instantResult, unqWifi)
             }
@@ -197,7 +176,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
                     return Pair(instantResult, unqWifi)
                 }
                 val particleMother = wifiParticleMotherList[curIdx]
-                moveChildren(particleMother, stepLength, gyro)
+                moveChildren(particleMother, stepLength, gyro, ansRange)
 //                matchingChildren(particleMother)
                 if (particleMother.particleChildrenList.isEmpty()) {
                     wifiParticleMotherList.remove(particleMother)
@@ -211,7 +190,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
             instantResult = instant_result_
             particleNum = particle_num_
 
-            // 11.22 bada check 3
+
             Log.d("locationWF_instant", instantResult.toString())
             Log.d("getlocationWF_unique", particleNum.toString())
         }
@@ -228,25 +207,19 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
     /** ssid랑 rssi 비교 후 상위 n개 이상인 좌표들만 추출
      * 입력:[와이파이 데이터]
      */
-    private fun vectorcompare(wifi_string: String): Int{
-
-        testVector = Array(wifilistsize, {0})
-        rssiVector = Array(wifilistsize, {0})
-
+    private fun vectorcompare(wifiString: String): Int{
         // unique ssid 일치 개수
         val ssidCntList = arrayListOf<Int>()
         // rssi 차이값
         val rssiDiffList = arrayListOf<Double>()
 
-        val splitline = wifi_string.split("\r\n").toTypedArray()
+        val splitline = wifiString.split("\r\n").toTypedArray()
 
         for (i in splitline){
             val data = i.split("\t").toTypedArray()
             if(data.size == 2) {
                 val ssid = data[0]
                 val rssi = data[1].toInt()
-                rssiTemp = data[1]
-                Log.d("RSSŠ", rssiTemp)
                 if ((wifilist.indexOf(ssid) != -1) and (rssi >= rssiThres)) {
                     testVector[wifilist.indexOf(ssid)] = 1
                     rssiVector[wifilist.indexOf(ssid)] = rssi
@@ -274,11 +247,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
                 }
             }
             ssidCntList.add(ssidCnt)
-            if (rssiCnt >= rangeval){
-                rssiDiffList.add(rssiSum / rssiCnt)
-            } else{
-                rssiDiffList.add(100000.0)
-            }
+            rssiDiffList.add(rssiSum / rssiCnt)
         }
         val unqCntList = ssidCntList.distinct().sortedDescending()
 
@@ -318,6 +287,8 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
             arrayListOf(xList.minOrNull()!!.toFloat(), xList.maxOrNull()!!.toFloat(),
                 yList.minOrNull()!!.toFloat(), yList.maxOrNull()!!.toFloat())
         }
+
+        decreassion = getAccDec(ansRange)
         Log.d("comm", (unqCntList[0]).toString())
         Log.d("wifimap_cnt", ((unqCntList[0]/ wifilist.size) * 100).toString())
         return (unqCntList[0]/ wifilist.size)*100
@@ -372,9 +343,7 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
             }
         }
     }
-
     /**
-     *
      */
     private fun moveArea(step_length : Double, gyro : Float){
         var tempAreaList = arrayListOf<Array<Float>>()
@@ -382,35 +351,27 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         var miny = 1000000f
         var maxx = 0f
         var maxy = 0f
-        // 전 좌표 영역중 현스텝 부분에서  다음
+
+
+        // areaCheckPosList에서 다음 좌표를 tempAreaList에 넣음
         // 다음 스텝 모든 범위를 계산할 게 아니라 아웃라인만 검사해도 될듯
         for (pos in areaCheckPosList) {
             var posx = pos[0]
             var posy = pos[1]
             posx -= (step_length * 10 * sin((-correctionAngle - gyro) * PI / 180)).toFloat()
             posy += (step_length * 10 * cos((-correctionAngle - gyro) * PI / 180)).toFloat()
-
-            // 중복됨 여기가 제일 처음 필터링 하는 부분이니 아예 필터링을 시켜서 저장해야할듯
-            // firstfindArea()에서 이미 필터링한 애들만 areaCheckPosList에 있음
-            if (mapVector.isPossiblePosition(
-                    posx.toDouble(),
-                    posy.toDouble()
-                )
-            ) {
-                //다음 스텝 애들 중 교집합에 들어가는 애들만 tempAreaList에 넣음
-                // 뒤에서 중복되니 여기서 필터링 시킨 애들만 남기는 게 좋을듯
-                if (checkInRange(posx.toDouble(), posy.toDouble(), universalRange)) {
-                    tempAreaList.add(arrayOf(posx, posy))
-                    minx = min(posx, minx)
-                    maxx = max(posx, maxx)
-                    miny = min(posy, miny)
-                    maxy = max(posy, maxy)
-                }
+            if (mapVector.isPossiblePosition(posx.toDouble(),posy.toDouble()) && checkInRange(posx.toDouble(), posy.toDouble(), universalRange2)) {
+                tempAreaList.add(arrayOf(posx, posy))
+                minx = min(posx, minx)
+                maxx = max(posx, maxx)
+                miny = min(posy, miny)
+                maxy = max(posy, maxy)
             }
         }
 
-        // 각도 돌아가며 다음 스텝과 교집합 영역과 겹치는 영역 중 제일 큰 영역 tempAreaList에 대입
-        // 다음 스텝
+        // 현 스텝과 다음 스텝이 하나도 안 겹칠 경우 각도 재설정
+        // 각도 돌아가며 다음 스텝과 교집합 영역과 겹치는 영역 중 제일 큰 영역 areaCheckPosList에 대입
+        // 다음 스텝: areaCheckPosList, 다음 각도
         if (tempAreaList.size == 0){
             var cnt = 0
             var ansAngle = 0.0f
@@ -437,87 +398,78 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
                     }
                 }
             }
-        }else{
+        }
+        else{
             areaCheckPosList = tempAreaList
             areaCheckRange[0] = minx
             areaCheckRange[1] = maxx
             areaCheckRange[2] = miny
             areaCheckRange[3] = maxy
         }
+
+
+        // areaCheckPosList 사이즈가 0이 아니고 범위가 6걸음 이내면 areaCheckPosList에 추가
         if(areaCheckPosList.size != 0) {
             if ((areaCheckRange[1] - areaCheckRange[0]) < 36) {
-                val tempAreaList = arrayListOf<Array<Float>>()
+                val tempAreaList1 = arrayListOf<Array<Float>>()
                 val xAvg = (minx + maxx) / 2
-//                xAvg -= 3 * (step_length * 10 * sin((- correctionAngle - gyroResult) * PI / 180)).toFloat()
                 val xMin = (xAvg - 18).toInt()
                 val xMax = (xAvg + 18).toInt()
                 val yMin = miny.toInt()
                 val yMax = maxy.toInt()
                 for (i in (xMin)..(xMax)) {
                     for (j in (yMin)..(yMax)) {
-                        if (mapVector.isPossiblePosition(
-                                i.toDouble(),
-                                j.toDouble()
-                            )
-                        ) {
-                            tempAreaList.add(arrayOf(i.toFloat(), j.toFloat()))
+                        if (mapVector.isPossiblePosition(i.toDouble(),j.toDouble())) {
+                            tempAreaList1.add(arrayOf(i.toFloat(), j.toFloat()))
                         }
                     }
                 }
                 areaCheckRange[0] = xMin.toFloat()
                 areaCheckRange[1] = xMax.toFloat()
 
-                areaCheckPosList = tempAreaList
+                areaCheckPosList = tempAreaList1
             }
             if ((areaCheckRange[3] - areaCheckRange[2]) < 36) {
-                val tempAreaList = arrayListOf<Array<Float>>()
+                val tempAreaList2 = arrayListOf<Array<Float>>()
                 val yAvg = (miny + maxy) / 2
-//                yAvg += 3 * (step_length * 10 * cos((- correctionAngle - gyroResult) * PI / 180)).toFloat()
                 val xMin = minx.toInt()
                 val xMax = maxx.toInt()
                 val yMin = (yAvg - 18).toInt()
                 val yMax = (yAvg + 18).toInt()
                 for (i in (xMin)..(xMax)) {
                     for (j in (yMin)..(yMax)) {
-                        if (mapVector.isPossiblePosition(
-                                i.toDouble(),
-                                j.toDouble()
-                            )
-                        ) {
-                            tempAreaList.add(arrayOf(i.toFloat(), j.toFloat()))
+                        if (mapVector.isPossiblePosition(i.toDouble(),j.toDouble())) {
+                            tempAreaList2.add(arrayOf(i.toFloat(), j.toFloat()))
                         }
                     }
                 }
                 areaCheckRange[2] = yMin.toFloat()
                 areaCheckRange[3] = yMax.toFloat()
 
-                areaCheckPosList = tempAreaList
+                areaCheckPosList = tempAreaList2
             }
         }
     }
 
-    /** 현스텝과 다음 스텝 교집합 영역 출력 및 areaCheckRange에 입력
+    /** 다음 스텝의 영역을 출력하고 areaCheckRange에 범위를 대입
      * 입력: [스텝길이, 자이로값, 찾으려는 각도 값]
+     * 출력: [현스텝과 다음 스텝 교집합 영역 범위]
      */
     private fun findAngle(step_length : Double, gyro : Float, search_angle : Float) : ArrayList<Array<Float>>{
         val tempAreaList = arrayListOf<Array<Float>>()
+        var gyroResult = gyro
         var minx = 1000000f
         var miny = 1000000f
         var maxx = 0f
         var maxy = 0f
-        // 다음 스텝과 교집합 영역
         for (pos in areaCheckPosList) {
             var posx = pos[0]
             var posy = pos[1]
-            posx -= (step_length * 10 * sin((-correctionAngle - search_angle - gyro) * PI / 180)).toFloat()
-            posy += (step_length * 10 * cos((-correctionAngle - search_angle - gyro) * PI / 180)).toFloat()
+            posx -= (step_length * 10 * sin((-correctionAngle - search_angle - gyroResult) * PI / 180)).toFloat()
+            posy += (step_length * 10 * cos((-correctionAngle - search_angle - gyroResult) * PI / 180)).toFloat()
 
-            if (mapVector.isPossiblePosition(
-                    posx.toDouble(),
-                    posy.toDouble()
-                )
-            ) {
-                if (checkInRange(posx.toDouble(), posy.toDouble(), universalRange)) {
+            if (mapVector.isPossiblePosition(posx.toDouble(),posy.toDouble())) {
+                if (checkInRange(posx.toDouble(), posy.toDouble(), universalRange2)) {
                     tempAreaList.add(arrayOf(posx, posy))
                     minx = min(posx, minx)
                     maxx = max(posx, maxx)
@@ -535,23 +487,23 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
         return tempAreaList
     }
 
-    /** 한 스텝 이동 후의 범위를 출력함. 단, 와이파이가 바뀌었을 경우 이전 스텝이랑 현재 스텝의 교집합 영역을 출력함.
-     * 만약 범위가 3걸음 이내(18범위)라면 현재 스텝의 범위만 표시함
+    /** ansRange랑 이전 영역 universalRange 겹치는 영역을 출력함. 만약 교집합 영역이 작으면 ansRange만 출력함
      * 입력:[]
      */
-    private fun moveRange(ansRange: ArrayList<Float>, universalRange:ArrayList<Float>, step_length : Double, isWifiChanged: Boolean): ArrayList<Float>{
+    private fun moveRange(ansRange: ArrayList<Float>, universalRange:ArrayList<Float>, step_length : Double): ArrayList<Float>{
         var minX = universalRange[0]
         var maxX = universalRange[1]
         var minY = universalRange[2]
         var maxY = universalRange[3]
 
+        // why 스텝 이동이 아니라 확장이지??
         minX -= (step_length * 10).toFloat()
         maxX += (step_length * 10).toFloat()
 
         minY -= (step_length * 10).toFloat()
         maxY += (step_length * 10).toFloat()
 //
-        if(isWifiChanged) {
+        if(wifiDataChange) {
             minX = max(ansRange[0], minX)
             maxX = min(ansRange[1], maxX)
 
@@ -566,30 +518,26 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
 //        return arrayListOf(ansRange[0], ansRange[1], ansRange[2], ansRange[3])
     }
 
-    /** 파티클을 움직이는 함수. 모든 children 이동 후 ansRange(현재 움직인 파티클)영역에 없으면 제거함
+    /** 파티클을 움직이는 함수. 모든 children 이동 후 ansRange(현재 움직인 파티클)영역에 없으면 제거함.
      * 입력: [mother파티클, 스텝길이, 자이로값]
      */
     // while문이 가독성이 떨어짐 -> for문으로 변경하는 게 가독성, 계산 속도면에서 좋을듯
-    private fun moveChildren(particleMother: WifiParticleMother, step_length : Double, gyro : Float) {
+    private fun moveChildren(particleMother: WifiParticleMother, step_length : Double, gyro : Float, ansRange: ArrayList<Float>) {
         var curIdx = -1
 
         // mother의 children 개수만큼 반복
         while (true) {
+            var gyroResult = gyro
             curIdx += 1
             if (curIdx == particleMother.particleChildrenList.size) {
                 break
             }
             val children = particleMother.particleChildrenList[curIdx]
 
-            children.x -= (step_length * 10 * sin((particleMother.myAngle - gyro) * PI / 180)).toFloat()
-            children.y += (step_length * 10 * cos((particleMother.myAngle - gyro) * PI / 180)).toFloat()
+            children.x -= (step_length * 10 * sin((particleMother.myAngle - gyroResult) * PI / 180)).toFloat()
+            children.y += (step_length * 10 * cos((particleMother.myAngle - gyroResult) * PI / 180)).toFloat()
 //            if (mapVector.isPossiblePosition(children.x.toDouble(), children.y.toDouble()) == false) {
-            if (!checkInRange(
-                    children.x.toDouble(),
-                    children.y.toDouble(),
-                    ansRange
-                )
-            ) {
+            if (!checkInRange(children.x.toDouble(),children.y.toDouble(),ansRange)) {
                 particleMother.removeChildren(curIdx)
                 curIdx -= 1
             }
@@ -686,5 +634,9 @@ class WifimapRssiSequential constructor(wiFiDataMap: WiFiDataMap, map_hand: Magn
             returnBool = true
         }
         return returnBool
+    }
+    fun getAccDec(ansRange: ArrayList<Float>): Float {
+        //        var accuracy = successCnt * 100 / stepCount
+        return (ansRange[1] - ansRange[0]) * (ansRange[3] - ansRange[2]) / (posx.size.toFloat() * posy.size.toFloat())
     }
 }
