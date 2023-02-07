@@ -1,0 +1,2583 @@
+0	582.0	408.0		00:c1:64:96:de:2d	-66
+0	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+0	582.0	408.0		00:c1:64:96:de:2f	-67
+0	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+0	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+0	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+0	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+0	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+0	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+0	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+0	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+0	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+0	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+0	582.0	408.0		00:42:68:92:ee:1f	-57
+0	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	582.0	408.0		00:c8:8b:ff:82:cf	-78
+0	582.0	408.0		00:c8:8b:ff:82:cd	-78
+0	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+0	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+0	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+0	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+0	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+0	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+0	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+0	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+0	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+0	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+0	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+0	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+0	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+0	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+0	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+0	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+0	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+0	582.0	408.0		00:c8:8b:ff:82:c2	-70
+0	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+0	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+0	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+0	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+0	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+0	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+0	582.0	408.0		de:55:2d:c0:d6:04	-81
+0	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+0	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+0	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+0	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+0	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+0	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+0	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+0	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+0	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	582.0	408.0		e6:55:b8:27:7d:6e	-76
+0	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+0	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+0	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+0	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+0	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+0	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+0	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+0	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+0	582.0	408.0		da:55:a8:27:78:a8	-73
+0	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+0	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+0	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+0	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+0	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+0	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+0	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+0	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+0	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+0	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+0	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+0	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+0	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+0	582.0	408.0		a0:e0:af:d6:37:fd	-54
+0	582.0	408.0		a0:e0:af:d6:37:fc	-55
+0	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+0	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+0	582.0	408.0		00:c1:64:96:de:22	-76
+0	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+0	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+0	582.0	408.0		da:55:b8:27:7d:6e	-76
+1	582.0	408.0		00:c1:64:96:de:2d	-66
+1	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+1	582.0	408.0		00:c1:64:96:de:2f	-67
+1	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+1	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+1	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+1	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+1	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+1	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+1	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+1	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+1	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+1	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+1	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+1	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+1	582.0	408.0		00:42:68:92:ee:1f	-57
+1	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+1	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+1	582.0	408.0		00:c8:8b:ff:82:cf	-78
+1	582.0	408.0		00:c8:8b:ff:82:cd	-78
+1	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+1	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+1	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+1	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+1	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+1	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+1	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+1	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+1	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+1	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+1	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+1	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+1	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+1	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+1	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+1	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+1	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+1	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+1	582.0	408.0		00:c8:8b:ff:82:c2	-70
+1	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+1	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+1	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+1	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+1	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+1	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+1	582.0	408.0		de:55:2d:c0:d6:04	-81
+1	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+1	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+1	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+1	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+1	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+1	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+1	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+1	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+1	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+1	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+1	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+1	582.0	408.0		e6:55:b8:27:7d:6e	-76
+1	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+1	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+1	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+1	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+1	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+1	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+1	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+1	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+1	582.0	408.0		da:55:a8:27:78:a8	-73
+1	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+1	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+1	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+1	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+1	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+1	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+1	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+1	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+1	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+1	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+1	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+1	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+1	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+1	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+1	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+1	582.0	408.0		a0:e0:af:d6:37:fd	-54
+1	582.0	408.0		a0:e0:af:d6:37:fc	-55
+1	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+1	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+1	582.0	408.0		00:c1:64:96:de:22	-76
+1	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+1	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+1	582.0	408.0		da:55:b8:27:7d:6e	-76
+2	582.0	408.0		00:c1:64:96:de:2d	-66
+2	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+2	582.0	408.0		00:c1:64:96:de:2f	-67
+2	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+2	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+2	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+2	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+2	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+2	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+2	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+2	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+2	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+2	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+2	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+2	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+2	582.0	408.0		00:42:68:92:ee:1f	-57
+2	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+2	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+2	582.0	408.0		00:c8:8b:ff:82:cf	-78
+2	582.0	408.0		00:c8:8b:ff:82:cd	-78
+2	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+2	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+2	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+2	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+2	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+2	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+2	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+2	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+2	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+2	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+2	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+2	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+2	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+2	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+2	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+2	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+2	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+2	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+2	582.0	408.0		00:c8:8b:ff:82:c2	-70
+2	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+2	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+2	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+2	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+2	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+2	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+2	582.0	408.0		de:55:2d:c0:d6:04	-81
+2	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+2	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+2	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+2	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+2	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+2	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+2	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+2	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+2	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+2	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+2	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+2	582.0	408.0		e6:55:b8:27:7d:6e	-76
+2	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+2	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+2	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+2	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+2	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+2	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+2	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+2	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+2	582.0	408.0		da:55:a8:27:78:a8	-73
+2	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+2	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+2	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+2	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+2	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+2	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+2	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+2	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+2	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+2	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+2	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+2	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+2	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+2	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+2	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+2	582.0	408.0		a0:e0:af:d6:37:fd	-54
+2	582.0	408.0		a0:e0:af:d6:37:fc	-55
+2	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+2	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+2	582.0	408.0		00:c1:64:96:de:22	-76
+2	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+2	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+2	582.0	408.0		da:55:b8:27:7d:6e	-76
+3	582.0	408.0		00:c1:64:96:de:2d	-66
+3	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+3	582.0	408.0		00:c1:64:96:de:2f	-67
+3	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+3	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+3	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+3	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+3	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+3	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+3	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+3	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+3	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+3	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+3	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+3	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+3	582.0	408.0		00:42:68:92:ee:1f	-57
+3	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+3	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+3	582.0	408.0		00:c8:8b:ff:82:cf	-78
+3	582.0	408.0		00:c8:8b:ff:82:cd	-78
+3	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+3	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+3	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+3	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+3	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+3	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+3	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+3	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+3	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+3	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+3	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+3	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+3	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+3	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+3	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+3	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+3	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+3	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+3	582.0	408.0		00:c8:8b:ff:82:c2	-70
+3	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+3	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+3	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+3	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+3	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+3	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+3	582.0	408.0		de:55:2d:c0:d6:04	-81
+3	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+3	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+3	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+3	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+3	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+3	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+3	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+3	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+3	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+3	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+3	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+3	582.0	408.0		e6:55:b8:27:7d:6e	-76
+3	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+3	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+3	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+3	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+3	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+3	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+3	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+3	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+3	582.0	408.0		da:55:a8:27:78:a8	-73
+3	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+3	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+3	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+3	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+3	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+3	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+3	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+3	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+3	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+3	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+3	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+3	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+3	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+3	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+3	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+3	582.0	408.0		a0:e0:af:d6:37:fd	-54
+3	582.0	408.0		a0:e0:af:d6:37:fc	-55
+3	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+3	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+3	582.0	408.0		00:c1:64:96:de:22	-76
+3	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+3	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+3	582.0	408.0		da:55:b8:27:7d:6e	-76
+4	582.0	408.0		00:c1:64:96:de:2d	-66
+4	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+4	582.0	408.0		00:c1:64:96:de:2f	-67
+4	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+4	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+4	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+4	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+4	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+4	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+4	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+4	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+4	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+4	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+4	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+4	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+4	582.0	408.0		00:42:68:92:ee:1f	-57
+4	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+4	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+4	582.0	408.0		00:c8:8b:ff:82:cf	-78
+4	582.0	408.0		00:c8:8b:ff:82:cd	-78
+4	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+4	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+4	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+4	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+4	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+4	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+4	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+4	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+4	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+4	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+4	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+4	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+4	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+4	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+4	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+4	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+4	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+4	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+4	582.0	408.0		00:c8:8b:ff:82:c2	-70
+4	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+4	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+4	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+4	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+4	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+4	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+4	582.0	408.0		de:55:2d:c0:d6:04	-81
+4	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+4	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+4	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+4	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+4	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+4	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+4	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+4	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+4	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+4	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+4	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+4	582.0	408.0		e6:55:b8:27:7d:6e	-76
+4	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+4	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+4	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+4	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+4	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+4	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+4	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+4	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+4	582.0	408.0		da:55:a8:27:78:a8	-73
+4	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+4	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+4	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+4	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+4	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+4	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+4	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+4	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+4	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+4	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+4	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+4	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+4	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+4	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+4	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+4	582.0	408.0		a0:e0:af:d6:37:fd	-54
+4	582.0	408.0		a0:e0:af:d6:37:fc	-55
+4	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+4	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+4	582.0	408.0		00:c1:64:96:de:22	-76
+4	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+4	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+4	582.0	408.0		da:55:b8:27:7d:6e	-76
+5	582.0	408.0		00:c1:64:96:de:2d	-66
+5	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+5	582.0	408.0		00:c1:64:96:de:2f	-67
+5	582.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+5	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+5	582.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+5	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+5	582.0	408.0		a0:e0:af:e3:d2:ed	-57
+5	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+5	582.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+5	582.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+5	582.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+5	582.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+5	582.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+5	582.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+5	582.0	408.0		00:42:68:92:ee:1f	-57
+5	582.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+5	582.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+5	582.0	408.0		00:c8:8b:ff:82:cf	-78
+5	582.0	408.0		00:c8:8b:ff:82:cd	-78
+5	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+5	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+5	582.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+5	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+5	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+5	582.0	408.0		a0:e0:af:e3:d2:ec	-57
+5	582.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+5	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+5	582.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+5	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+5	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+5	582.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+5	582.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+5	582.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+5	582.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+5	582.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+5	582.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+5	582.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+5	582.0	408.0		00:c8:8b:ff:82:c2	-70
+5	582.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+5	582.0	408.0		a0:e0:af:e3:d2:e2	-63
+5	582.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+5	582.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+5	582.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+5	582.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+5	582.0	408.0		de:55:2d:c0:d6:04	-81
+5	582.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+5	582.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+5	582.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+5	582.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+5	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+5	582.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+5	582.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+5	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+5	582.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+5	582.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+5	582.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+5	582.0	408.0		e6:55:b8:27:7d:6e	-76
+5	582.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+5	582.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+5	582.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+5	582.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+5	582.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+5	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+5	582.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+5	582.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+5	582.0	408.0		da:55:a8:27:78:a8	-73
+5	582.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+5	582.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+5	582.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+5	582.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+5	582.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+5	582.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+5	582.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+5	582.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+5	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+5	582.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+5	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+5	582.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+5	582.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+5	582.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+5	582.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+5	582.0	408.0		a0:e0:af:d6:37:fd	-54
+5	582.0	408.0		a0:e0:af:d6:37:fc	-55
+5	582.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+5	582.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+5	582.0	408.0		00:c1:64:96:de:22	-76
+5	582.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+5	582.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+5	582.0	408.0		da:55:b8:27:7d:6e	-76
+0	576.0	408.0		00:c1:64:96:de:2d	-66
+0	576.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+0	576.0	408.0		00:c1:64:96:de:2f	-67
+0	576.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	576.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	576.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+0	576.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+0	576.0	408.0		a0:e0:af:e3:d2:ed	-57
+0	576.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+0	576.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+0	576.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+0	576.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+0	576.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+0	576.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+0	576.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+0	576.0	408.0		00:42:68:92:ee:1f	-57
+0	576.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	576.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	576.0	408.0		00:c8:8b:ff:82:cf	-78
+0	576.0	408.0		00:c8:8b:ff:82:cd	-78
+0	576.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+0	576.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	576.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+0	576.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+0	576.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+0	576.0	408.0		a0:e0:af:e3:d2:ec	-57
+0	576.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+0	576.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+0	576.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+0	576.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+0	576.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+0	576.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+0	576.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+0	576.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+0	576.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+0	576.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+0	576.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+0	576.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+0	576.0	408.0		00:c8:8b:ff:82:c2	-70
+0	576.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+0	576.0	408.0		a0:e0:af:e3:d2:e2	-63
+0	576.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+0	576.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+0	576.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+0	576.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+0	576.0	408.0		de:55:2d:c0:d6:04	-81
+0	576.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+0	576.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+0	576.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+0	576.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+0	576.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+0	576.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+0	576.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	576.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+0	576.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	576.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+0	576.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	576.0	408.0		e6:55:b8:27:7d:6e	-76
+0	576.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+0	576.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+0	576.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+0	576.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+0	576.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+0	576.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+0	576.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+0	576.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+0	576.0	408.0		da:55:a8:27:78:a8	-73
+0	576.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+0	576.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+0	576.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+0	576.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+0	576.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+0	576.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+0	576.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+0	576.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+0	576.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+0	576.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+0	576.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	576.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+0	576.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	576.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+0	576.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+0	576.0	408.0		a0:e0:af:d6:37:fd	-54
+0	576.0	408.0		a0:e0:af:d6:37:fc	-55
+0	576.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+0	576.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+0	576.0	408.0		00:c1:64:96:de:22	-76
+0	576.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+0	576.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+0	576.0	408.0		da:55:b8:27:7d:6e	-76
+0	570.0	408.0		00:c1:64:96:de:2d	-66
+0	570.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+0	570.0	408.0		00:c1:64:96:de:2f	-67
+0	570.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	570.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	570.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+0	570.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+0	570.0	408.0		a0:e0:af:e3:d2:ed	-57
+0	570.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+0	570.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+0	570.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+0	570.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+0	570.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+0	570.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+0	570.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+0	570.0	408.0		00:42:68:92:ee:1f	-57
+0	570.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	570.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	570.0	408.0		00:c8:8b:ff:82:cf	-78
+0	570.0	408.0		00:c8:8b:ff:82:cd	-78
+0	570.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+0	570.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	570.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+0	570.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+0	570.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+0	570.0	408.0		a0:e0:af:e3:d2:ec	-57
+0	570.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+0	570.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+0	570.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+0	570.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+0	570.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+0	570.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+0	570.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+0	570.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+0	570.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+0	570.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+0	570.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+0	570.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+0	570.0	408.0		00:c8:8b:ff:82:c2	-70
+0	570.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+0	570.0	408.0		a0:e0:af:e3:d2:e2	-63
+0	570.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+0	570.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+0	570.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+0	570.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+0	570.0	408.0		de:55:2d:c0:d6:04	-81
+0	570.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+0	570.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+0	570.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+0	570.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+0	570.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+0	570.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+0	570.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	570.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+0	570.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	570.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+0	570.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	570.0	408.0		e6:55:b8:27:7d:6e	-76
+0	570.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+0	570.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+0	570.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+0	570.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+0	570.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+0	570.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+0	570.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+0	570.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+0	570.0	408.0		da:55:a8:27:78:a8	-73
+0	570.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+0	570.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+0	570.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+0	570.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+0	570.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+0	570.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+0	570.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+0	570.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+0	570.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+0	570.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+0	570.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	570.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+0	570.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	570.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+0	570.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+0	570.0	408.0		a0:e0:af:d6:37:fd	-54
+0	570.0	408.0		a0:e0:af:d6:37:fc	-55
+0	570.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+0	570.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+0	570.0	408.0		00:c1:64:96:de:22	-76
+0	570.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+0	570.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+0	570.0	408.0		da:55:b8:27:7d:6e	-76
+0	564.0	408.0		00:c1:64:96:de:2d	-66
+0	564.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+0	564.0	408.0		00:c1:64:96:de:2f	-67
+0	564.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	564.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	564.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+0	564.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+0	564.0	408.0		a0:e0:af:e3:d2:ed	-57
+0	564.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+0	564.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+0	564.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+0	564.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+0	564.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+0	564.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+0	564.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+0	564.0	408.0		00:42:68:92:ee:1f	-57
+0	564.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	564.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	564.0	408.0		00:c8:8b:ff:82:cf	-78
+0	564.0	408.0		00:c8:8b:ff:82:cd	-78
+0	564.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+0	564.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	564.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+0	564.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+0	564.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+0	564.0	408.0		a0:e0:af:e3:d2:ec	-57
+0	564.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+0	564.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+0	564.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+0	564.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+0	564.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+0	564.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+0	564.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+0	564.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+0	564.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+0	564.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+0	564.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+0	564.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+0	564.0	408.0		00:c8:8b:ff:82:c2	-70
+0	564.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+0	564.0	408.0		a0:e0:af:e3:d2:e2	-63
+0	564.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+0	564.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+0	564.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+0	564.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+0	564.0	408.0		de:55:2d:c0:d6:04	-81
+0	564.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+0	564.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+0	564.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+0	564.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+0	564.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+0	564.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+0	564.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	564.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+0	564.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	564.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+0	564.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	564.0	408.0		e6:55:b8:27:7d:6e	-76
+0	564.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+0	564.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+0	564.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+0	564.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+0	564.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+0	564.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+0	564.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+0	564.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+0	564.0	408.0		da:55:a8:27:78:a8	-73
+0	564.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+0	564.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+0	564.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+0	564.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+0	564.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+0	564.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+0	564.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+0	564.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+0	564.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+0	564.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+0	564.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	564.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+0	564.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	564.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+0	564.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+0	564.0	408.0		a0:e0:af:d6:37:fd	-54
+0	564.0	408.0		a0:e0:af:d6:37:fc	-55
+0	564.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+0	564.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+0	564.0	408.0		00:c1:64:96:de:22	-76
+0	564.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+0	564.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+0	564.0	408.0		da:55:b8:27:7d:6e	-76
+0	558.0	408.0		00:c1:64:96:de:2d	-66
+0	558.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-67
+0	558.0	408.0		00:c1:64:96:de:2f	-67
+0	558.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	558.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	558.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-58
+0	558.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-78
+0	558.0	408.0		a0:e0:af:e3:d2:ed	-57
+0	558.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-74
+0	558.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-56
+0	558.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-46
+0	558.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-57
+0	558.0	408.0	Redwood	70:b3:17:90:a0:62	-74
+0	558.0	408.0	SpecialK	70:b3:17:90:a0:63	-73
+0	558.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+0	558.0	408.0		00:42:68:92:ee:1f	-57
+0	558.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	558.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	558.0	408.0		00:c8:8b:ff:82:cf	-78
+0	558.0	408.0		00:c8:8b:ff:82:cd	-78
+0	558.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-77
+0	558.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	558.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-78
+0	558.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-80
+0	558.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-56
+0	558.0	408.0		a0:e0:af:e3:d2:ec	-57
+0	558.0	408.0	Store_YC	00:35:1a:1d:8a:83	-68
+0	558.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-82
+0	558.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-64
+0	558.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-63
+0	558.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-64
+0	558.0	408.0	mpd	a0:e0:af:e3:d2:e7	-57
+0	558.0	408.0	mpd	a0:e0:af:e3:d2:e8	-66
+0	558.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-57
+0	558.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-68
+0	558.0	408.0	Redwood	00:35:1a:1d:8a:80	-66
+0	558.0	408.0	동장군	de:bf:ad:ce:d6:fe	-79
+0	558.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-63
+0	558.0	408.0		00:c8:8b:ff:82:c2	-70
+0	558.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-65
+0	558.0	408.0		a0:e0:af:e3:d2:e2	-63
+0	558.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-82
+0	558.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-65
+0	558.0	408.0	Redwood	70:b3:17:90:a0:6d	-74
+0	558.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-75
+0	558.0	408.0		de:55:2d:c0:d6:04	-81
+0	558.0	408.0	SpecialK	70:b3:17:90:a0:6c	-74
+0	558.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-70
+0	558.0	408.0	Redwood	70:b3:17:90:a2:0d	-69
+0	558.0	408.0	SpecialK	70:b3:17:90:a2:0c	-70
+0	558.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-81
+0	558.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-82
+0	558.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	558.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-79
+0	558.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	558.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-82
+0	558.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	558.0	408.0		e6:55:b8:27:7d:6e	-76
+0	558.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-79
+0	558.0	408.0	mpd	a0:e0:af:d6:37:f8	-58
+0	558.0	408.0	mpd	a0:e0:af:d6:37:f7	-54
+0	558.0	408.0	Store_YC	00:35:1a:4e:16:0c	-66
+0	558.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-77
+0	558.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-55
+0	558.0	408.0	Redwood	00:35:1a:4e:16:0f	-66
+0	558.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-66
+0	558.0	408.0		da:55:a8:27:78:a8	-73
+0	558.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-75
+0	558.0	408.0	DIRECT-tXM267x 287x Series	86:25:19:34:56:79	-85
+0	558.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-85
+0	558.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-84
+0	558.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-73
+0	558.0	408.0	hf-c	a0:e0:af:d6:37:f0	-58
+0	558.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-83
+0	558.0	408.0	hf-v	a0:e0:af:d6:37:f1	-58
+0	558.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-59
+0	558.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-58
+0	558.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	558.0	408.0	CLEANAIR	f0:61:c0:7c:a6:e4	-91
+0	558.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	558.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-54
+0	558.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-54
+0	558.0	408.0		a0:e0:af:d6:37:fd	-54
+0	558.0	408.0		a0:e0:af:d6:37:fc	-55
+0	558.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-75
+0	558.0	408.0	hf-c	a0:e0:af:d6:37:ff	-54
+0	558.0	408.0		00:c1:64:96:de:22	-76
+0	558.0	408.0	hf-v	a0:e0:af:d6:37:fe	-54
+0	558.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-75
+0	558.0	408.0		da:55:b8:27:7d:6e	-76
+0	552.0	408.0	Store_YC	00:35:1a:4e:16:03	-74
+0	552.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	552.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	552.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+0	552.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	552.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-57
+0	552.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-71
+0	552.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-72
+0	552.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-37
+0	552.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-55
+0	552.0	408.0	Redwood	70:b3:17:90:a0:62	-77
+0	552.0	408.0	SpecialK	70:b3:17:90:a0:63	-76
+0	552.0	408.0		00:42:68:92:ee:1f	-55
+0	552.0	408.0		00:42:68:92:ee:1d	-57
+0	552.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	552.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	552.0	408.0		00:c8:8b:ff:82:cf	-80
+0	552.0	408.0		00:c8:8b:ff:82:cd	-78
+0	552.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-80
+0	552.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-75
+0	552.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-80
+0	552.0	408.0	Store_YC	00:35:1a:1d:8a:83	-83
+0	552.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-78
+0	552.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-61
+0	552.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-62
+0	552.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-63
+0	552.0	408.0	mpd	a0:e0:af:e3:d2:e8	-61
+0	552.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-58
+0	552.0	408.0	Redwood	00:35:1a:1d:8a:80	-58
+0	552.0	408.0		00:42:68:92:ee:10	-45
+0	552.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-48
+0	552.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-60
+0	552.0	408.0		00:c8:8b:ff:82:c2	-79
+0	552.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-61
+0	552.0	408.0		a0:e0:af:e3:d2:e2	-61
+0	552.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-77
+0	552.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-83
+0	552.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+0	552.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-86
+0	552.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+0	552.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-74
+0	552.0	408.0	Redwood	70:b3:17:90:a2:0d	-73
+0	552.0	408.0	SpecialK	70:b3:17:90:a2:0c	-75
+0	552.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-49
+0	552.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-77
+0	552.0	408.0		e0:55:3d:c0:d6:04	-78
+0	552.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	552.0	408.0	Redwood	70:b3:17:58:6e:6d	-78
+0	552.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-75
+0	552.0	408.0	SpecialK	70:b3:17:58:6e:6c	-78
+0	552.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-81
+0	552.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	552.0	408.0		e6:55:b8:27:7d:6e	-76
+0	552.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-77
+0	552.0	408.0	mpd	a0:e0:af:d6:37:f8	-64
+0	552.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+0	552.0	408.0	Store_YC	00:35:1a:4e:16:0c	-67
+0	552.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-80
+0	552.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-63
+0	552.0	408.0	Redwood	00:35:1a:4e:16:0f	-67
+0	552.0	408.0	SpecialK	70:b3:17:58:6e:63	-60
+0	552.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-67
+0	552.0	408.0		da:55:a8:27:78:a8	-88
+0	552.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-76
+0	552.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-79
+0	552.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	552.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-90
+0	552.0	408.0	hf-c	a0:e0:af:d6:37:f0	-62
+0	552.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-82
+0	552.0	408.0		a0:e0:af:d6:37:f2	-61
+0	552.0	408.0	hf-v	a0:e0:af:d6:37:f1	-60
+0	552.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-61
+0	552.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	552.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	552.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	552.0	408.0	MONCLER	00:81:c4:f8:96:f0	-86
+0	552.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	552.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-64
+0	552.0	408.0		a0:e0:af:d6:37:fd	-60
+0	552.0	408.0		a0:e0:af:d6:37:fc	-64
+0	552.0	408.0	hf-c	a0:e0:af:d6:37:ff	-60
+0	552.0	408.0	hf-v	a0:e0:af:d6:37:fe	-63
+0	552.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-73
+0	552.0	408.0		da:55:b8:27:7d:6e	-76
+0	552.0	408.0		ea:55:3d:c0:d6:04	-78
+0	552.0	408.0	Fendi	00:26:66:7f:9e:e6	-94
+0	546.0	408.0	Store_YC	00:35:1a:4e:16:03	-74
+0	546.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	546.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	546.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+0	546.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	546.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-57
+0	546.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-71
+0	546.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-72
+0	546.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-37
+0	546.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-55
+0	546.0	408.0	Redwood	70:b3:17:90:a0:62	-77
+0	546.0	408.0	SpecialK	70:b3:17:90:a0:63	-76
+0	546.0	408.0		00:42:68:92:ee:1f	-55
+0	546.0	408.0		00:42:68:92:ee:1d	-57
+0	546.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	546.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	546.0	408.0		00:c8:8b:ff:82:cf	-80
+0	546.0	408.0		00:c8:8b:ff:82:cd	-78
+0	546.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-80
+0	546.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-75
+0	546.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-80
+0	546.0	408.0	Store_YC	00:35:1a:1d:8a:83	-83
+0	546.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-78
+0	546.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-61
+0	546.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-62
+0	546.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-63
+0	546.0	408.0	mpd	a0:e0:af:e3:d2:e8	-61
+0	546.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-58
+0	546.0	408.0	Redwood	00:35:1a:1d:8a:80	-58
+0	546.0	408.0		00:42:68:92:ee:10	-45
+0	546.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-48
+0	546.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-60
+0	546.0	408.0		00:c8:8b:ff:82:c2	-79
+0	546.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-61
+0	546.0	408.0		a0:e0:af:e3:d2:e2	-61
+0	546.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-77
+0	546.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-83
+0	546.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+0	546.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-86
+0	546.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+0	546.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-74
+0	546.0	408.0	Redwood	70:b3:17:90:a2:0d	-73
+0	546.0	408.0	SpecialK	70:b3:17:90:a2:0c	-75
+0	546.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-49
+0	546.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-77
+0	546.0	408.0		e0:55:3d:c0:d6:04	-78
+0	546.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	546.0	408.0	Redwood	70:b3:17:58:6e:6d	-78
+0	546.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-75
+0	546.0	408.0	SpecialK	70:b3:17:58:6e:6c	-78
+0	546.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-81
+0	546.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	546.0	408.0		e6:55:b8:27:7d:6e	-76
+0	546.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-77
+0	546.0	408.0	mpd	a0:e0:af:d6:37:f8	-64
+0	546.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+0	546.0	408.0	Store_YC	00:35:1a:4e:16:0c	-67
+0	546.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-80
+0	546.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-63
+0	546.0	408.0	Redwood	00:35:1a:4e:16:0f	-67
+0	546.0	408.0	SpecialK	70:b3:17:58:6e:63	-60
+0	546.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-67
+0	546.0	408.0		da:55:a8:27:78:a8	-88
+0	546.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-76
+0	546.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-79
+0	546.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	546.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-90
+0	546.0	408.0	hf-c	a0:e0:af:d6:37:f0	-62
+0	546.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-82
+0	546.0	408.0		a0:e0:af:d6:37:f2	-61
+0	546.0	408.0	hf-v	a0:e0:af:d6:37:f1	-60
+0	546.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-61
+0	546.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	546.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	546.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	546.0	408.0	MONCLER	00:81:c4:f8:96:f0	-86
+0	546.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	546.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-64
+0	546.0	408.0		a0:e0:af:d6:37:fd	-60
+0	546.0	408.0		a0:e0:af:d6:37:fc	-64
+0	546.0	408.0	hf-c	a0:e0:af:d6:37:ff	-60
+0	546.0	408.0	hf-v	a0:e0:af:d6:37:fe	-63
+0	546.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-73
+0	546.0	408.0		da:55:b8:27:7d:6e	-76
+0	546.0	408.0		ea:55:3d:c0:d6:04	-78
+0	546.0	408.0	Fendi	00:26:66:7f:9e:e6	-94
+0	540.0	408.0	Store_YC	00:35:1a:4e:16:03	-74
+0	540.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	540.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+0	540.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+0	540.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+0	540.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-57
+0	540.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-71
+0	540.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-72
+0	540.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-37
+0	540.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-55
+0	540.0	408.0	Redwood	70:b3:17:90:a0:62	-77
+0	540.0	408.0	SpecialK	70:b3:17:90:a0:63	-76
+0	540.0	408.0		00:42:68:92:ee:1f	-55
+0	540.0	408.0		00:42:68:92:ee:1d	-57
+0	540.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+0	540.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+0	540.0	408.0		00:c8:8b:ff:82:cf	-80
+0	540.0	408.0		00:c8:8b:ff:82:cd	-78
+0	540.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-80
+0	540.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-75
+0	540.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-80
+0	540.0	408.0	Store_YC	00:35:1a:1d:8a:83	-83
+0	540.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-78
+0	540.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-61
+0	540.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-62
+0	540.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-63
+0	540.0	408.0	mpd	a0:e0:af:e3:d2:e8	-61
+0	540.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-58
+0	540.0	408.0	Redwood	00:35:1a:1d:8a:80	-58
+0	540.0	408.0		00:42:68:92:ee:10	-45
+0	540.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-48
+0	540.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-60
+0	540.0	408.0		00:c8:8b:ff:82:c2	-79
+0	540.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-61
+0	540.0	408.0		a0:e0:af:e3:d2:e2	-61
+0	540.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-77
+0	540.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-83
+0	540.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+0	540.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-86
+0	540.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+0	540.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-74
+0	540.0	408.0	Redwood	70:b3:17:90:a2:0d	-73
+0	540.0	408.0	SpecialK	70:b3:17:90:a2:0c	-75
+0	540.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-49
+0	540.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-77
+0	540.0	408.0		e0:55:3d:c0:d6:04	-78
+0	540.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	540.0	408.0	Redwood	70:b3:17:58:6e:6d	-78
+0	540.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-75
+0	540.0	408.0	SpecialK	70:b3:17:58:6e:6c	-78
+0	540.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-81
+0	540.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+0	540.0	408.0		e6:55:b8:27:7d:6e	-76
+0	540.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-77
+0	540.0	408.0	mpd	a0:e0:af:d6:37:f8	-64
+0	540.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+0	540.0	408.0	Store_YC	00:35:1a:4e:16:0c	-67
+0	540.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-80
+0	540.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-63
+0	540.0	408.0	Redwood	00:35:1a:4e:16:0f	-67
+0	540.0	408.0	SpecialK	70:b3:17:58:6e:63	-60
+0	540.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-67
+0	540.0	408.0		da:55:a8:27:78:a8	-88
+0	540.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-76
+0	540.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-79
+0	540.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	540.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-90
+0	540.0	408.0	hf-c	a0:e0:af:d6:37:f0	-62
+0	540.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-82
+0	540.0	408.0		a0:e0:af:d6:37:f2	-61
+0	540.0	408.0	hf-v	a0:e0:af:d6:37:f1	-60
+0	540.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-61
+0	540.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	540.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+0	540.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+0	540.0	408.0	MONCLER	00:81:c4:f8:96:f0	-86
+0	540.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	540.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-64
+0	540.0	408.0		a0:e0:af:d6:37:fd	-60
+0	540.0	408.0		a0:e0:af:d6:37:fc	-64
+0	540.0	408.0	hf-c	a0:e0:af:d6:37:ff	-60
+0	540.0	408.0	hf-v	a0:e0:af:d6:37:fe	-63
+0	540.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-73
+0	540.0	408.0		da:55:b8:27:7d:6e	-76
+0	540.0	408.0		ea:55:3d:c0:d6:04	-78
+0	540.0	408.0	Fendi	00:26:66:7f:9e:e6	-94
+1	534.0	408.0	Store_YC	00:35:1a:4e:16:03	-74
+1	534.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+1	534.0	408.0	Redwood	00:35:1a:1d:8a:8f	-58
+1	534.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+1	534.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-57
+1	534.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-57
+1	534.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-71
+1	534.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-72
+1	534.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-37
+1	534.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-55
+1	534.0	408.0	Redwood	70:b3:17:90:a0:62	-77
+1	534.0	408.0	SpecialK	70:b3:17:90:a0:63	-76
+1	534.0	408.0		00:42:68:92:ee:1f	-55
+1	534.0	408.0		00:42:68:92:ee:1d	-57
+1	534.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-60
+1	534.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-60
+1	534.0	408.0		00:c8:8b:ff:82:cf	-80
+1	534.0	408.0		00:c8:8b:ff:82:cd	-78
+1	534.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-80
+1	534.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-75
+1	534.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-80
+1	534.0	408.0	Store_YC	00:35:1a:1d:8a:83	-83
+1	534.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-78
+1	534.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-61
+1	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-62
+1	534.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-63
+1	534.0	408.0	mpd	a0:e0:af:e3:d2:e8	-61
+1	534.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-58
+1	534.0	408.0	Redwood	00:35:1a:1d:8a:80	-58
+1	534.0	408.0		00:42:68:92:ee:10	-45
+1	534.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-48
+1	534.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-60
+1	534.0	408.0		00:c8:8b:ff:82:c2	-79
+1	534.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-61
+1	534.0	408.0		a0:e0:af:e3:d2:e2	-61
+1	534.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-77
+1	534.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-83
+1	534.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+1	534.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-86
+1	534.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+1	534.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-74
+1	534.0	408.0	Redwood	70:b3:17:90:a2:0d	-73
+1	534.0	408.0	SpecialK	70:b3:17:90:a2:0c	-75
+1	534.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-49
+1	534.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-77
+1	534.0	408.0		e0:55:3d:c0:d6:04	-78
+1	534.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+1	534.0	408.0	Redwood	70:b3:17:58:6e:6d	-78
+1	534.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-75
+1	534.0	408.0	SpecialK	70:b3:17:58:6e:6c	-78
+1	534.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-81
+1	534.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-82
+1	534.0	408.0		e6:55:b8:27:7d:6e	-76
+1	534.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-77
+1	534.0	408.0	mpd	a0:e0:af:d6:37:f8	-64
+1	534.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+1	534.0	408.0	Store_YC	00:35:1a:4e:16:0c	-67
+1	534.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-80
+1	534.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-63
+1	534.0	408.0	Redwood	00:35:1a:4e:16:0f	-67
+1	534.0	408.0	SpecialK	70:b3:17:58:6e:63	-60
+1	534.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-67
+1	534.0	408.0		da:55:a8:27:78:a8	-88
+1	534.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-76
+1	534.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-79
+1	534.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+1	534.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-90
+1	534.0	408.0	hf-c	a0:e0:af:d6:37:f0	-62
+1	534.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-82
+1	534.0	408.0		a0:e0:af:d6:37:f2	-61
+1	534.0	408.0	hf-v	a0:e0:af:d6:37:f1	-60
+1	534.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-61
+1	534.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+1	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-58
+1	534.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-84
+1	534.0	408.0	MONCLER	00:81:c4:f8:96:f0	-86
+1	534.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+1	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-64
+1	534.0	408.0		a0:e0:af:d6:37:fd	-60
+1	534.0	408.0		a0:e0:af:d6:37:fc	-64
+1	534.0	408.0	hf-c	a0:e0:af:d6:37:ff	-60
+1	534.0	408.0	hf-v	a0:e0:af:d6:37:fe	-63
+1	534.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-73
+1	534.0	408.0		da:55:b8:27:7d:6e	-76
+1	534.0	408.0		ea:55:3d:c0:d6:04	-78
+1	534.0	408.0	Fendi	00:26:66:7f:9e:e6	-94
+0	534.0	408.0	Store_YC	00:35:1a:4e:16:03	-76
+0	534.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-78
+0	534.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	534.0	408.0		00:c1:64:96:de:2f	-77
+0	534.0	408.0	Redwood	00:35:1a:1d:8a:8f	-62
+0	534.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-72
+0	534.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-62
+0	534.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-83
+0	534.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-63
+0	534.0	408.0		00:42:68:84:05:bd	-92
+0	534.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-79
+0	534.0	408.0		a0:e0:af:e3:d2:ed	-52
+0	534.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-81
+0	534.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-54
+0	534.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	534.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-52
+0	534.0	408.0	Redwood	70:b3:17:90:a0:62	-84
+0	534.0	408.0	SpecialK	70:b3:17:90:a0:63	-84
+0	534.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-49
+0	534.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-47
+0	534.0	408.0		00:c8:8b:ff:82:cd	-79
+0	534.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-78
+0	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-55
+0	534.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-77
+0	534.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-87
+0	534.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-51
+0	534.0	408.0		a0:e0:af:e3:d2:ec	-53
+0	534.0	408.0	Store_YC	00:35:1a:1d:8a:83	-67
+0	534.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-86
+0	534.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-58
+0	534.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-40
+0	534.0	408.0	mpd	a0:e0:af:e3:d2:e7	-51
+0	534.0	408.0	mpd	a0:e0:af:e3:d2:e8	-58
+0	534.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-55
+0	534.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-64
+0	534.0	408.0	Redwood	00:35:1a:1d:8a:80	-68
+0	534.0	408.0		00:42:68:92:ee:10	-45
+0	534.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-43
+0	534.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-58
+0	534.0	408.0		00:c8:8b:ff:82:c2	-67
+0	534.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-56
+0	534.0	408.0		a0:e0:af:e3:d2:e2	-58
+0	534.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-85
+0	534.0	408.0	Redwood	70:b3:17:90:a0:6d	-85
+0	534.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-85
+0	534.0	408.0	SpecialK	70:b3:17:90:a0:6c	-86
+0	534.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	534.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+0	534.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+0	534.0	408.0		00:42:68:92:ee:12	-45
+0	534.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-85
+0	534.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-88
+0	534.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	534.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	534.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	534.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	534.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-81
+0	534.0	408.0		e6:55:b8:27:7d:6e	-76
+0	534.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-74
+0	534.0	408.0	mpd	a0:e0:af:d6:37:f8	-63
+0	534.0	408.0	Store_YC	00:35:1a:4e:16:0c	-63
+0	534.0	408.0	mpd	a0:e0:af:d6:37:f7	-68
+0	534.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-89
+0	534.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-68
+0	534.0	408.0	Redwood	00:35:1a:4e:16:0f	-63
+0	534.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-63
+0	534.0	408.0		da:55:a8:27:78:a8	-77
+0	534.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-74
+0	534.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-84
+0	534.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-68
+0	534.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	534.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-89
+0	534.0	408.0	hf-c	a0:e0:af:d6:37:f0	-64
+0	534.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	534.0	408.0	hf-v	a0:e0:af:d6:37:f1	-61
+0	534.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-63
+0	534.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-60
+0	534.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-68
+0	534.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-66
+0	534.0	408.0		a0:e0:af:d6:37:fd	-67
+0	534.0	408.0		00:c1:64:96:de:20	-85
+0	534.0	408.0		a0:e0:af:d6:37:fc	-62
+0	534.0	408.0	hf-c	a0:e0:af:d6:37:ff	-67
+0	534.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+0	534.0	408.0		da:55:b8:27:7d:6e	-76
+0	528.0	408.0	Store_YC	00:35:1a:4e:16:03	-76
+0	528.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-78
+0	528.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	528.0	408.0		00:c1:64:96:de:2f	-77
+0	528.0	408.0	Redwood	00:35:1a:1d:8a:8f	-62
+0	528.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-72
+0	528.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-62
+0	528.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-83
+0	528.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-63
+0	528.0	408.0		00:42:68:84:05:bd	-92
+0	528.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-79
+0	528.0	408.0		a0:e0:af:e3:d2:ed	-52
+0	528.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-81
+0	528.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-54
+0	528.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	528.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-52
+0	528.0	408.0	Redwood	70:b3:17:90:a0:62	-84
+0	528.0	408.0	SpecialK	70:b3:17:90:a0:63	-84
+0	528.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-49
+0	528.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-47
+0	528.0	408.0		00:c8:8b:ff:82:cd	-79
+0	528.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-78
+0	528.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-55
+0	528.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-77
+0	528.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-87
+0	528.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-51
+0	528.0	408.0		a0:e0:af:e3:d2:ec	-53
+0	528.0	408.0	Store_YC	00:35:1a:1d:8a:83	-67
+0	528.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-86
+0	528.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-58
+0	528.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-40
+0	528.0	408.0	mpd	a0:e0:af:e3:d2:e7	-51
+0	528.0	408.0	mpd	a0:e0:af:e3:d2:e8	-58
+0	528.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-55
+0	528.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-64
+0	528.0	408.0	Redwood	00:35:1a:1d:8a:80	-68
+0	528.0	408.0		00:42:68:92:ee:10	-45
+0	528.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-43
+0	528.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-58
+0	528.0	408.0		00:c8:8b:ff:82:c2	-67
+0	528.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-56
+0	528.0	408.0		a0:e0:af:e3:d2:e2	-58
+0	528.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-85
+0	528.0	408.0	Redwood	70:b3:17:90:a0:6d	-85
+0	528.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-85
+0	528.0	408.0	SpecialK	70:b3:17:90:a0:6c	-86
+0	528.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	528.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+0	528.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+0	528.0	408.0		00:42:68:92:ee:12	-45
+0	528.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-85
+0	528.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-88
+0	528.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	528.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	528.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	528.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	528.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-81
+0	528.0	408.0		e6:55:b8:27:7d:6e	-76
+0	528.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-74
+0	528.0	408.0	mpd	a0:e0:af:d6:37:f8	-63
+0	528.0	408.0	Store_YC	00:35:1a:4e:16:0c	-63
+0	528.0	408.0	mpd	a0:e0:af:d6:37:f7	-68
+0	528.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-89
+0	528.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-68
+0	528.0	408.0	Redwood	00:35:1a:4e:16:0f	-63
+0	528.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-63
+0	528.0	408.0		da:55:a8:27:78:a8	-77
+0	528.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-74
+0	528.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-84
+0	528.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-68
+0	528.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	528.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-89
+0	528.0	408.0	hf-c	a0:e0:af:d6:37:f0	-64
+0	528.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	528.0	408.0	hf-v	a0:e0:af:d6:37:f1	-61
+0	528.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-63
+0	528.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	528.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-60
+0	528.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-68
+0	528.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-66
+0	528.0	408.0		a0:e0:af:d6:37:fd	-67
+0	528.0	408.0		00:c1:64:96:de:20	-85
+0	528.0	408.0		a0:e0:af:d6:37:fc	-62
+0	528.0	408.0	hf-c	a0:e0:af:d6:37:ff	-67
+0	528.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+0	528.0	408.0		da:55:b8:27:7d:6e	-76
+0	522.0	408.0	Store_YC	00:35:1a:4e:16:03	-76
+0	522.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-78
+0	522.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	522.0	408.0		00:c1:64:96:de:2f	-77
+0	522.0	408.0	Redwood	00:35:1a:1d:8a:8f	-62
+0	522.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-72
+0	522.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-62
+0	522.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-83
+0	522.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-63
+0	522.0	408.0		00:42:68:84:05:bd	-92
+0	522.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-79
+0	522.0	408.0		a0:e0:af:e3:d2:ed	-52
+0	522.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-81
+0	522.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-54
+0	522.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	522.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-52
+0	522.0	408.0	Redwood	70:b3:17:90:a0:62	-84
+0	522.0	408.0	SpecialK	70:b3:17:90:a0:63	-84
+0	522.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-49
+0	522.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-47
+0	522.0	408.0		00:c8:8b:ff:82:cd	-79
+0	522.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-78
+0	522.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-55
+0	522.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-77
+0	522.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-87
+0	522.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-51
+0	522.0	408.0		a0:e0:af:e3:d2:ec	-53
+0	522.0	408.0	Store_YC	00:35:1a:1d:8a:83	-67
+0	522.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-86
+0	522.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-58
+0	522.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-40
+0	522.0	408.0	mpd	a0:e0:af:e3:d2:e7	-51
+0	522.0	408.0	mpd	a0:e0:af:e3:d2:e8	-58
+0	522.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-55
+0	522.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-64
+0	522.0	408.0	Redwood	00:35:1a:1d:8a:80	-68
+0	522.0	408.0		00:42:68:92:ee:10	-45
+0	522.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-43
+0	522.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-58
+0	522.0	408.0		00:c8:8b:ff:82:c2	-67
+0	522.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-56
+0	522.0	408.0		a0:e0:af:e3:d2:e2	-58
+0	522.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-85
+0	522.0	408.0	Redwood	70:b3:17:90:a0:6d	-85
+0	522.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-85
+0	522.0	408.0	SpecialK	70:b3:17:90:a0:6c	-86
+0	522.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	522.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+0	522.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+0	522.0	408.0		00:42:68:92:ee:12	-45
+0	522.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-85
+0	522.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-88
+0	522.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	522.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	522.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	522.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	522.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-81
+0	522.0	408.0		e6:55:b8:27:7d:6e	-76
+0	522.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-74
+0	522.0	408.0	mpd	a0:e0:af:d6:37:f8	-63
+0	522.0	408.0	Store_YC	00:35:1a:4e:16:0c	-63
+0	522.0	408.0	mpd	a0:e0:af:d6:37:f7	-68
+0	522.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-89
+0	522.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-68
+0	522.0	408.0	Redwood	00:35:1a:4e:16:0f	-63
+0	522.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-63
+0	522.0	408.0		da:55:a8:27:78:a8	-77
+0	522.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-74
+0	522.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-84
+0	522.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-68
+0	522.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	522.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-89
+0	522.0	408.0	hf-c	a0:e0:af:d6:37:f0	-64
+0	522.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	522.0	408.0	hf-v	a0:e0:af:d6:37:f1	-61
+0	522.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-63
+0	522.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	522.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-60
+0	522.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-68
+0	522.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-66
+0	522.0	408.0		a0:e0:af:d6:37:fd	-67
+0	522.0	408.0		00:c1:64:96:de:20	-85
+0	522.0	408.0		a0:e0:af:d6:37:fc	-62
+0	522.0	408.0	hf-c	a0:e0:af:d6:37:ff	-67
+0	522.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+0	522.0	408.0		da:55:b8:27:7d:6e	-76
+0	516.0	408.0	Store_YC	00:35:1a:4e:16:03	-76
+0	516.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-78
+0	516.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	516.0	408.0		00:c1:64:96:de:2f	-77
+0	516.0	408.0	Redwood	00:35:1a:1d:8a:8f	-62
+0	516.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-72
+0	516.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-62
+0	516.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-83
+0	516.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-63
+0	516.0	408.0		00:42:68:84:05:bd	-92
+0	516.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-79
+0	516.0	408.0		a0:e0:af:e3:d2:ed	-52
+0	516.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-81
+0	516.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-54
+0	516.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	516.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-52
+0	516.0	408.0	Redwood	70:b3:17:90:a0:62	-84
+0	516.0	408.0	SpecialK	70:b3:17:90:a0:63	-84
+0	516.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-49
+0	516.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-47
+0	516.0	408.0		00:c8:8b:ff:82:cd	-79
+0	516.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-78
+0	516.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-55
+0	516.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-77
+0	516.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-87
+0	516.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-51
+0	516.0	408.0		a0:e0:af:e3:d2:ec	-53
+0	516.0	408.0	Store_YC	00:35:1a:1d:8a:83	-67
+0	516.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-86
+0	516.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-58
+0	516.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-40
+0	516.0	408.0	mpd	a0:e0:af:e3:d2:e7	-51
+0	516.0	408.0	mpd	a0:e0:af:e3:d2:e8	-58
+0	516.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-55
+0	516.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-64
+0	516.0	408.0	Redwood	00:35:1a:1d:8a:80	-68
+0	516.0	408.0		00:42:68:92:ee:10	-45
+0	516.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-43
+0	516.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-58
+0	516.0	408.0		00:c8:8b:ff:82:c2	-67
+0	516.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-56
+0	516.0	408.0		a0:e0:af:e3:d2:e2	-58
+0	516.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-85
+0	516.0	408.0	Redwood	70:b3:17:90:a0:6d	-85
+0	516.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-85
+0	516.0	408.0	SpecialK	70:b3:17:90:a0:6c	-86
+0	516.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	516.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+0	516.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+0	516.0	408.0		00:42:68:92:ee:12	-45
+0	516.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-85
+0	516.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-88
+0	516.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	516.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	516.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	516.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	516.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-81
+0	516.0	408.0		e6:55:b8:27:7d:6e	-76
+0	516.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-74
+0	516.0	408.0	mpd	a0:e0:af:d6:37:f8	-63
+0	516.0	408.0	Store_YC	00:35:1a:4e:16:0c	-63
+0	516.0	408.0	mpd	a0:e0:af:d6:37:f7	-68
+0	516.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-89
+0	516.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-68
+0	516.0	408.0	Redwood	00:35:1a:4e:16:0f	-63
+0	516.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-63
+0	516.0	408.0		da:55:a8:27:78:a8	-77
+0	516.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-74
+0	516.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-84
+0	516.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-68
+0	516.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	516.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-89
+0	516.0	408.0	hf-c	a0:e0:af:d6:37:f0	-64
+0	516.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	516.0	408.0	hf-v	a0:e0:af:d6:37:f1	-61
+0	516.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-63
+0	516.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	516.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-60
+0	516.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-68
+0	516.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-66
+0	516.0	408.0		a0:e0:af:d6:37:fd	-67
+0	516.0	408.0		00:c1:64:96:de:20	-85
+0	516.0	408.0		a0:e0:af:d6:37:fc	-62
+0	516.0	408.0	hf-c	a0:e0:af:d6:37:ff	-67
+0	516.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+0	516.0	408.0		da:55:b8:27:7d:6e	-76
+0	510.0	408.0	Store_YC	00:35:1a:4e:16:03	-76
+0	510.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-78
+0	510.0	408.0	Redwood	00:35:1a:4e:16:00	-71
+0	510.0	408.0		00:c1:64:96:de:2f	-77
+0	510.0	408.0	Redwood	00:35:1a:1d:8a:8f	-62
+0	510.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-72
+0	510.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-62
+0	510.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-83
+0	510.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-63
+0	510.0	408.0		00:42:68:84:05:bd	-92
+0	510.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-79
+0	510.0	408.0		a0:e0:af:e3:d2:ed	-52
+0	510.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-81
+0	510.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-54
+0	510.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	510.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-52
+0	510.0	408.0	Redwood	70:b3:17:90:a0:62	-84
+0	510.0	408.0	SpecialK	70:b3:17:90:a0:63	-84
+0	510.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-49
+0	510.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-47
+0	510.0	408.0		00:c8:8b:ff:82:cd	-79
+0	510.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-78
+0	510.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-55
+0	510.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-77
+0	510.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-87
+0	510.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-51
+0	510.0	408.0		a0:e0:af:e3:d2:ec	-53
+0	510.0	408.0	Store_YC	00:35:1a:1d:8a:83	-67
+0	510.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-86
+0	510.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-58
+0	510.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-40
+0	510.0	408.0	mpd	a0:e0:af:e3:d2:e7	-51
+0	510.0	408.0	mpd	a0:e0:af:e3:d2:e8	-58
+0	510.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-55
+0	510.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-64
+0	510.0	408.0	Redwood	00:35:1a:1d:8a:80	-68
+0	510.0	408.0		00:42:68:92:ee:10	-45
+0	510.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-43
+0	510.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-58
+0	510.0	408.0		00:c8:8b:ff:82:c2	-67
+0	510.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-56
+0	510.0	408.0		a0:e0:af:e3:d2:e2	-58
+0	510.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-85
+0	510.0	408.0	Redwood	70:b3:17:90:a0:6d	-85
+0	510.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-85
+0	510.0	408.0	SpecialK	70:b3:17:90:a0:6c	-86
+0	510.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	510.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+0	510.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+0	510.0	408.0		00:42:68:92:ee:12	-45
+0	510.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-85
+0	510.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-88
+0	510.0	408.0	Redwood	70:b3:17:58:6e:6d	-79
+0	510.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	510.0	408.0	SpecialK	70:b3:17:58:6e:6c	-79
+0	510.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	510.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-81
+0	510.0	408.0		e6:55:b8:27:7d:6e	-76
+0	510.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-74
+0	510.0	408.0	mpd	a0:e0:af:d6:37:f8	-63
+0	510.0	408.0	Store_YC	00:35:1a:4e:16:0c	-63
+0	510.0	408.0	mpd	a0:e0:af:d6:37:f7	-68
+0	510.0	408.0	BottegaVeneta	70:b3:17:58:6e:61	-89
+0	510.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-68
+0	510.0	408.0	Redwood	00:35:1a:4e:16:0f	-63
+0	510.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-63
+0	510.0	408.0		da:55:a8:27:78:a8	-77
+0	510.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-74
+0	510.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-84
+0	510.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-68
+0	510.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-82
+0	510.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-89
+0	510.0	408.0	hf-c	a0:e0:af:d6:37:f0	-64
+0	510.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	510.0	408.0	hf-v	a0:e0:af:d6:37:f1	-61
+0	510.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-63
+0	510.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-60
+0	510.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-60
+0	510.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-68
+0	510.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-66
+0	510.0	408.0		a0:e0:af:d6:37:fd	-67
+0	510.0	408.0		00:c1:64:96:de:20	-85
+0	510.0	408.0		a0:e0:af:d6:37:fc	-62
+0	510.0	408.0	hf-c	a0:e0:af:d6:37:ff	-67
+0	510.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+0	510.0	408.0		da:55:b8:27:7d:6e	-76
+0	504.0	408.0		00:42:68:84:05:bf	-87
+0	504.0	408.0		00:c1:64:96:de:2d	-76
+0	504.0	408.0	Store_YC	00:35:1a:4e:16:03	-63
+0	504.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-76
+0	504.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-83
+0	504.0	408.0	Redwood	00:35:1a:4e:16:00	-64
+0	504.0	408.0		00:c1:64:96:de:2f	-74
+0	504.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-89
+0	504.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-64
+0	504.0	408.0	Redwood	00:35:1a:1d:8a:8f	-65
+0	504.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-66
+0	504.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	504.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-65
+0	504.0	408.0		00:42:68:84:05:bd	-88
+0	504.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-75
+0	504.0	408.0		a0:e0:af:e3:d2:ed	-49
+0	504.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-83
+0	504.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-48
+0	504.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-39
+0	504.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-46
+0	504.0	408.0	Redwood	70:b3:17:90:a0:62	-88
+0	504.0	408.0	SpecialK	70:b3:17:90:a0:63	-83
+0	504.0	408.0		00:42:68:92:ee:1f	-50
+0	504.0	408.0		00:42:68:92:ee:1d	-49
+0	504.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-52
+0	504.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-51
+0	504.0	408.0		00:c8:8b:ff:82:cf	-75
+0	504.0	408.0		00:c8:8b:ff:82:cd	-72
+0	504.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-74
+0	504.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-51
+0	504.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-75
+0	504.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-47
+0	504.0	408.0		a0:e0:af:e3:d2:ec	-50
+0	504.0	408.0		00:42:68:84:05:b2	-83
+0	504.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	504.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-77
+0	504.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-52
+0	504.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-55
+0	504.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	504.0	408.0	mpd	a0:e0:af:e3:d2:e7	-46
+0	504.0	408.0	mpd	a0:e0:af:e3:d2:e8	-52
+0	504.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-50
+0	504.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-69
+0	504.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	504.0	408.0		00:42:68:92:ee:10	-51
+0	504.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	504.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	504.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-55
+0	504.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-89
+0	504.0	408.0	Redwood	70:b3:17:90:a0:6d	-82
+0	504.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-83
+0	504.0	408.0	SpecialK	70:b3:17:90:a0:6c	-84
+0	504.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-80
+0	504.0	408.0	Redwood	70:b3:17:90:a2:0d	-79
+0	504.0	408.0	SpecialK	70:b3:17:90:a2:0c	-79
+0	504.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-52
+0	504.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-78
+0	504.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	504.0	408.0	Redwood	70:b3:17:58:6e:6d	-83
+0	504.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-85
+0	504.0	408.0	SpecialK	70:b3:17:58:6e:6c	-84
+0	504.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	504.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-79
+0	504.0	408.0		e6:55:b8:27:7d:6e	-74
+0	504.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	504.0	408.0		a0:e0:af:d6:37:f8	-65
+0	504.0	408.0	Store_YC	00:35:1a:4e:16:0c	-57
+0	504.0	408.0	mpd	a0:e0:af:d6:37:f7	-64
+0	504.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-65
+0	504.0	408.0	Redwood	00:35:1a:4e:16:0f	-57
+0	504.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-57
+0	504.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-71
+0	504.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-74
+0	504.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-73
+0	504.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-84
+0	504.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-87
+0	504.0	408.0	hf-c	a0:e0:af:d6:37:f0	-63
+0	504.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	504.0	408.0	hf-v	a0:e0:af:d6:37:f1	-63
+0	504.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-87
+0	504.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-63
+0	504.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-64
+0	504.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	504.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-61
+0	504.0	408.0		a0:e0:af:d6:37:fd	-62
+0	504.0	408.0		a0:e0:af:d6:37:fc	-63
+0	504.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-82
+0	504.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	504.0	408.0		00:c1:64:96:de:22	-81
+0	504.0	408.0	hf-v	a0:e0:af:d6:37:fe	-64
+0	504.0	408.0		da:55:b8:27:7d:6e	-74
+0	498.0	408.0		00:42:68:84:05:bf	-87
+0	498.0	408.0		00:c1:64:96:de:2d	-76
+0	498.0	408.0	Store_YC	00:35:1a:4e:16:03	-63
+0	498.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-76
+0	498.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-83
+0	498.0	408.0	Redwood	00:35:1a:4e:16:00	-64
+0	498.0	408.0		00:c1:64:96:de:2f	-74
+0	498.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-89
+0	498.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-64
+0	498.0	408.0	Redwood	00:35:1a:1d:8a:8f	-65
+0	498.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-66
+0	498.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	498.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-65
+0	498.0	408.0		00:42:68:84:05:bd	-88
+0	498.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-75
+0	498.0	408.0		a0:e0:af:e3:d2:ed	-49
+0	498.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-83
+0	498.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-48
+0	498.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-39
+0	498.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-46
+0	498.0	408.0	Redwood	70:b3:17:90:a0:62	-88
+0	498.0	408.0	SpecialK	70:b3:17:90:a0:63	-83
+0	498.0	408.0		00:42:68:92:ee:1f	-50
+0	498.0	408.0		00:42:68:92:ee:1d	-49
+0	498.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-52
+0	498.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-51
+0	498.0	408.0		00:c8:8b:ff:82:cf	-75
+0	498.0	408.0		00:c8:8b:ff:82:cd	-72
+0	498.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-74
+0	498.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-51
+0	498.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-75
+0	498.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-47
+0	498.0	408.0		a0:e0:af:e3:d2:ec	-50
+0	498.0	408.0		00:42:68:84:05:b2	-83
+0	498.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	498.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-77
+0	498.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-52
+0	498.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-55
+0	498.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	498.0	408.0	mpd	a0:e0:af:e3:d2:e7	-46
+0	498.0	408.0	mpd	a0:e0:af:e3:d2:e8	-52
+0	498.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-50
+0	498.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-69
+0	498.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	498.0	408.0		00:42:68:92:ee:10	-51
+0	498.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	498.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	498.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-55
+0	498.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-89
+0	498.0	408.0	Redwood	70:b3:17:90:a0:6d	-82
+0	498.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-83
+0	498.0	408.0	SpecialK	70:b3:17:90:a0:6c	-84
+0	498.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-80
+0	498.0	408.0	Redwood	70:b3:17:90:a2:0d	-79
+0	498.0	408.0	SpecialK	70:b3:17:90:a2:0c	-79
+0	498.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-52
+0	498.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-78
+0	498.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	498.0	408.0	Redwood	70:b3:17:58:6e:6d	-83
+0	498.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-85
+0	498.0	408.0	SpecialK	70:b3:17:58:6e:6c	-84
+0	498.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	498.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-79
+0	498.0	408.0		e6:55:b8:27:7d:6e	-74
+0	498.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	498.0	408.0		a0:e0:af:d6:37:f8	-65
+0	498.0	408.0	Store_YC	00:35:1a:4e:16:0c	-57
+0	498.0	408.0	mpd	a0:e0:af:d6:37:f7	-64
+0	498.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-65
+0	498.0	408.0	Redwood	00:35:1a:4e:16:0f	-57
+0	498.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-57
+0	498.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-71
+0	498.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-74
+0	498.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-73
+0	498.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-84
+0	498.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-87
+0	498.0	408.0	hf-c	a0:e0:af:d6:37:f0	-63
+0	498.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	498.0	408.0	hf-v	a0:e0:af:d6:37:f1	-63
+0	498.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-87
+0	498.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-63
+0	498.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-64
+0	498.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	498.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-61
+0	498.0	408.0		a0:e0:af:d6:37:fd	-62
+0	498.0	408.0		a0:e0:af:d6:37:fc	-63
+0	498.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-82
+0	498.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	498.0	408.0		00:c1:64:96:de:22	-81
+0	498.0	408.0	hf-v	a0:e0:af:d6:37:fe	-64
+0	498.0	408.0		da:55:b8:27:7d:6e	-74
+0	492.0	408.0		00:42:68:84:05:bf	-87
+0	492.0	408.0		00:c1:64:96:de:2d	-76
+0	492.0	408.0	Store_YC	00:35:1a:4e:16:03	-63
+0	492.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-76
+0	492.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-83
+0	492.0	408.0	Redwood	00:35:1a:4e:16:00	-64
+0	492.0	408.0		00:c1:64:96:de:2f	-74
+0	492.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-89
+0	492.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-64
+0	492.0	408.0	Redwood	00:35:1a:1d:8a:8f	-65
+0	492.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-66
+0	492.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	492.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-65
+0	492.0	408.0		00:42:68:84:05:bd	-88
+0	492.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-75
+0	492.0	408.0		a0:e0:af:e3:d2:ed	-49
+0	492.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-83
+0	492.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-48
+0	492.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-39
+0	492.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-46
+0	492.0	408.0	Redwood	70:b3:17:90:a0:62	-88
+0	492.0	408.0	SpecialK	70:b3:17:90:a0:63	-83
+0	492.0	408.0		00:42:68:92:ee:1f	-50
+0	492.0	408.0		00:42:68:92:ee:1d	-49
+0	492.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-52
+0	492.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-51
+0	492.0	408.0		00:c8:8b:ff:82:cf	-75
+0	492.0	408.0		00:c8:8b:ff:82:cd	-72
+0	492.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-74
+0	492.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-51
+0	492.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-75
+0	492.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-47
+0	492.0	408.0		a0:e0:af:e3:d2:ec	-50
+0	492.0	408.0		00:42:68:84:05:b2	-83
+0	492.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	492.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-77
+0	492.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-52
+0	492.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-55
+0	492.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	492.0	408.0	mpd	a0:e0:af:e3:d2:e7	-46
+0	492.0	408.0	mpd	a0:e0:af:e3:d2:e8	-52
+0	492.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-50
+0	492.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-69
+0	492.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	492.0	408.0		00:42:68:92:ee:10	-51
+0	492.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	492.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	492.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-55
+0	492.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-89
+0	492.0	408.0	Redwood	70:b3:17:90:a0:6d	-82
+0	492.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-83
+0	492.0	408.0	SpecialK	70:b3:17:90:a0:6c	-84
+0	492.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-80
+0	492.0	408.0	Redwood	70:b3:17:90:a2:0d	-79
+0	492.0	408.0	SpecialK	70:b3:17:90:a2:0c	-79
+0	492.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-52
+0	492.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-78
+0	492.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	492.0	408.0	Redwood	70:b3:17:58:6e:6d	-83
+0	492.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-85
+0	492.0	408.0	SpecialK	70:b3:17:58:6e:6c	-84
+0	492.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	492.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-79
+0	492.0	408.0		e6:55:b8:27:7d:6e	-74
+0	492.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	492.0	408.0		a0:e0:af:d6:37:f8	-65
+0	492.0	408.0	Store_YC	00:35:1a:4e:16:0c	-57
+0	492.0	408.0	mpd	a0:e0:af:d6:37:f7	-64
+0	492.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-65
+0	492.0	408.0	Redwood	00:35:1a:4e:16:0f	-57
+0	492.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-57
+0	492.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-71
+0	492.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-74
+0	492.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-73
+0	492.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-84
+0	492.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-87
+0	492.0	408.0	hf-c	a0:e0:af:d6:37:f0	-63
+0	492.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	492.0	408.0	hf-v	a0:e0:af:d6:37:f1	-63
+0	492.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-87
+0	492.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-63
+0	492.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-64
+0	492.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	492.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-61
+0	492.0	408.0		a0:e0:af:d6:37:fd	-62
+0	492.0	408.0		a0:e0:af:d6:37:fc	-63
+0	492.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-82
+0	492.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	492.0	408.0		00:c1:64:96:de:22	-81
+0	492.0	408.0	hf-v	a0:e0:af:d6:37:fe	-64
+0	492.0	408.0		da:55:b8:27:7d:6e	-74
+0	486.0	408.0		00:42:68:84:05:bf	-87
+0	486.0	408.0		00:c1:64:96:de:2d	-76
+0	486.0	408.0	Store_YC	00:35:1a:4e:16:03	-63
+0	486.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-76
+0	486.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-83
+0	486.0	408.0	Redwood	00:35:1a:4e:16:00	-64
+0	486.0	408.0		00:c1:64:96:de:2f	-74
+0	486.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-89
+0	486.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-64
+0	486.0	408.0	Redwood	00:35:1a:1d:8a:8f	-65
+0	486.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-66
+0	486.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	486.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-65
+0	486.0	408.0		00:42:68:84:05:bd	-88
+0	486.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-75
+0	486.0	408.0		a0:e0:af:e3:d2:ed	-49
+0	486.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-83
+0	486.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-48
+0	486.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-39
+0	486.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-46
+0	486.0	408.0	Redwood	70:b3:17:90:a0:62	-88
+0	486.0	408.0	SpecialK	70:b3:17:90:a0:63	-83
+0	486.0	408.0		00:42:68:92:ee:1f	-50
+0	486.0	408.0		00:42:68:92:ee:1d	-49
+0	486.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-52
+0	486.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-51
+0	486.0	408.0		00:c8:8b:ff:82:cf	-75
+0	486.0	408.0		00:c8:8b:ff:82:cd	-72
+0	486.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-74
+0	486.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-51
+0	486.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-75
+0	486.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-47
+0	486.0	408.0		a0:e0:af:e3:d2:ec	-50
+0	486.0	408.0		00:42:68:84:05:b2	-83
+0	486.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	486.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-77
+0	486.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-52
+0	486.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-55
+0	486.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	486.0	408.0	mpd	a0:e0:af:e3:d2:e7	-46
+0	486.0	408.0	mpd	a0:e0:af:e3:d2:e8	-52
+0	486.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-50
+0	486.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-69
+0	486.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	486.0	408.0		00:42:68:92:ee:10	-51
+0	486.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	486.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	486.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-55
+0	486.0	408.0	KT_WiFi_5G_2559	88:3c:1c:a4:25:5c	-89
+0	486.0	408.0	Redwood	70:b3:17:90:a0:6d	-82
+0	486.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-83
+0	486.0	408.0	SpecialK	70:b3:17:90:a0:6c	-84
+0	486.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-80
+0	486.0	408.0	Redwood	70:b3:17:90:a2:0d	-79
+0	486.0	408.0	SpecialK	70:b3:17:90:a2:0c	-79
+0	486.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-52
+0	486.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-78
+0	486.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-77
+0	486.0	408.0	Redwood	70:b3:17:58:6e:6d	-83
+0	486.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-85
+0	486.0	408.0	SpecialK	70:b3:17:58:6e:6c	-84
+0	486.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-80
+0	486.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-79
+0	486.0	408.0		e6:55:b8:27:7d:6e	-74
+0	486.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	486.0	408.0		a0:e0:af:d6:37:f8	-65
+0	486.0	408.0	Store_YC	00:35:1a:4e:16:0c	-57
+0	486.0	408.0	mpd	a0:e0:af:d6:37:f7	-64
+0	486.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-65
+0	486.0	408.0	Redwood	00:35:1a:4e:16:0f	-57
+0	486.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-57
+0	486.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-71
+0	486.0	408.0	DIRECT-35-HP M130f LaserJet	b6:b5:b6:35:24:35	-74
+0	486.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-73
+0	486.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-84
+0	486.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-87
+0	486.0	408.0	hf-c	a0:e0:af:d6:37:f0	-63
+0	486.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-80
+0	486.0	408.0	hf-v	a0:e0:af:d6:37:f1	-63
+0	486.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-87
+0	486.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-63
+0	486.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-64
+0	486.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-63
+0	486.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-61
+0	486.0	408.0		a0:e0:af:d6:37:fd	-62
+0	486.0	408.0		a0:e0:af:d6:37:fc	-63
+0	486.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-82
+0	486.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	486.0	408.0		00:c1:64:96:de:22	-81
+0	486.0	408.0	hf-v	a0:e0:af:d6:37:fe	-64
+0	486.0	408.0		da:55:b8:27:7d:6e	-74
+0	480.0	408.0		00:42:68:84:05:bf	-86
+0	480.0	408.0		00:c1:64:96:de:2d	-74
+0	480.0	408.0	Store_YC	00:35:1a:4e:16:03	-70
+0	480.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-73
+0	480.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-87
+0	480.0	408.0	Redwood	00:35:1a:4e:16:00	-73
+0	480.0	408.0		00:c1:64:96:de:2f	-76
+0	480.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-85
+0	480.0	408.0	Redwood	00:35:1a:1d:8a:8f	-70
+0	480.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+0	480.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-69
+0	480.0	408.0	global.lpl.top	00:ea:bd:f8:9b:df	-82
+0	480.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	480.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-69
+0	480.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:dd	-83
+0	480.0	408.0	CLEANAIR_DF	00:42:68:84:05:bc	-90
+0	480.0	408.0		00:42:68:84:05:bd	-87
+0	480.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-73
+0	480.0	408.0		a0:e0:af:e3:d2:ed	-51
+0	480.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-52
+0	480.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	480.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-49
+0	480.0	408.0	SpecialK	70:b3:17:90:a0:63	-89
+0	480.0	408.0		da:55:b8:27:78:a8	-58
+0	480.0	408.0		00:42:68:92:ee:1f	-56
+0	480.0	408.0		00:42:68:92:ee:1d	-57
+0	480.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-58
+0	480.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-58
+0	480.0	408.0		00:c8:8b:ff:82:cf	-74
+0	480.0	408.0		00:c8:8b:ff:82:cd	-73
+0	480.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-73
+0	480.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	480.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-74
+0	480.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-89
+0	480.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-50
+0	480.0	408.0		a0:e0:af:e3:d2:ec	-49
+0	480.0	408.0		00:42:68:84:05:b0	-83
+0	480.0	408.0	Shinsegae_free_wifi_secure	a8:5b:f7:30:6b:c2	-93
+0	480.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	480.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-70
+0	480.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-55
+0	480.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	480.0	408.0	mpd	a0:e0:af:e3:d2:e7	-49
+0	480.0	408.0	mpd	a0:e0:af:e3:d2:e8	-55
+0	480.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-53
+0	480.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-74
+0	480.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	480.0	408.0	DIRECT-cXC140x Series	86:25:19:60:74:3f	-91
+0	480.0	408.0		00:42:68:92:ee:10	-46
+0	480.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	480.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-46
+0	480.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	480.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-53
+0	480.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-85
+0	480.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+0	480.0	408.0		de:55:2d:c0:d6:04	-73
+0	480.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-87
+0	480.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+0	480.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	480.0	408.0	Redwood	70:b3:17:90:a2:0d	-77
+0	480.0	408.0	SpecialK	70:b3:17:90:a2:0c	-77
+0	480.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-45
+0	480.0	408.0		e0:55:3d:c0:d6:04	-68
+0	480.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-70
+0	480.0	408.0		de:55:2d:c0:ed:66	-71
+0	480.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-70
+0	480.0	408.0		da:55:a8:27:7d:6e	-68
+0	480.0	408.0	Redwood	70:b3:17:58:6e:6d	-80
+0	480.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	480.0	408.0	SpecialK	70:b3:17:58:6e:6c	-81
+0	480.0	408.0		e6:55:b8:27:78:a8	-58
+0	480.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-72
+0	480.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-71
+0	480.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	480.0	408.0	dior	e0:1c:41:40:f4:54	-86
+0	480.0	408.0	mpd	a0:e0:af:d6:37:f8	-65
+0	480.0	408.0	Store_YC	00:35:1a:4e:16:0c	-61
+0	480.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+0	480.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-62
+0	480.0	408.0	Redwood	00:35:1a:4e:16:0f	-61
+0	480.0	408.0		e4:55:a8:27:7d:6e	-71
+0	480.0	408.0	Redwood	70:b3:17:58:6e:62	-85
+0	480.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-61
+0	480.0	408.0	SpecialK	70:b3:17:58:6e:63	-77
+0	480.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-65
+0	480.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-63
+0	480.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-78
+0	480.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-83
+0	480.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-68
+0	480.0	408.0	hf-c	a0:e0:af:d6:37:f0	-66
+0	480.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-72
+0	480.0	408.0	hf-v	a0:e0:af:d6:37:f1	-66
+0	480.0	408.0	dior	e0:1c:41:40:f4:69	-88
+0	480.0	408.0		de:55:3d:c0:d6:04	-66
+0	480.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-68
+0	480.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-67
+0	480.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-67
+0	480.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-78
+0	480.0	408.0	iptime5G	88:36:6c:88:30:9a	-90
+0	480.0	408.0	MONCLER	00:81:c4:f8:96:f0	-81
+0	480.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-62
+0	480.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-63
+0	480.0	408.0		a0:e0:af:d6:37:fc	-60
+0	480.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	480.0	408.0	hf-v	a0:e0:af:d6:37:fe	-62
+0	480.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-80
+0	480.0	408.0	Fendi	00:26:66:7f:9e:e6	-82
+0	474.0	408.0		00:42:68:84:05:bf	-86
+0	474.0	408.0		00:c1:64:96:de:2d	-74
+0	474.0	408.0	Store_YC	00:35:1a:4e:16:03	-70
+0	474.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-73
+0	474.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-87
+0	474.0	408.0	Redwood	00:35:1a:4e:16:00	-73
+0	474.0	408.0		00:c1:64:96:de:2f	-76
+0	474.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-85
+0	474.0	408.0	Redwood	00:35:1a:1d:8a:8f	-70
+0	474.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+0	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-69
+0	474.0	408.0	global.lpl.top	00:ea:bd:f8:9b:df	-82
+0	474.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+0	474.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-69
+0	474.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:dd	-83
+0	474.0	408.0	CLEANAIR_DF	00:42:68:84:05:bc	-90
+0	474.0	408.0		00:42:68:84:05:bd	-87
+0	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-73
+0	474.0	408.0		a0:e0:af:e3:d2:ed	-51
+0	474.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-52
+0	474.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+0	474.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-49
+0	474.0	408.0	SpecialK	70:b3:17:90:a0:63	-89
+0	474.0	408.0		da:55:b8:27:78:a8	-58
+0	474.0	408.0		00:42:68:92:ee:1f	-56
+0	474.0	408.0		00:42:68:92:ee:1d	-57
+0	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-58
+0	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-58
+0	474.0	408.0		00:c8:8b:ff:82:cf	-74
+0	474.0	408.0		00:c8:8b:ff:82:cd	-73
+0	474.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-73
+0	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+0	474.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-74
+0	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-89
+0	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-50
+0	474.0	408.0		a0:e0:af:e3:d2:ec	-49
+0	474.0	408.0		00:42:68:84:05:b0	-83
+0	474.0	408.0	Shinsegae_free_wifi_secure	a8:5b:f7:30:6b:c2	-93
+0	474.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+0	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-70
+0	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-55
+0	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+0	474.0	408.0	mpd	a0:e0:af:e3:d2:e7	-49
+0	474.0	408.0	mpd	a0:e0:af:e3:d2:e8	-55
+0	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-53
+0	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-74
+0	474.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+0	474.0	408.0	DIRECT-cXC140x Series	86:25:19:60:74:3f	-91
+0	474.0	408.0		00:42:68:92:ee:10	-46
+0	474.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+0	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-46
+0	474.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+0	474.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-53
+0	474.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-85
+0	474.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+0	474.0	408.0		de:55:2d:c0:d6:04	-73
+0	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-87
+0	474.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+0	474.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+0	474.0	408.0	Redwood	70:b3:17:90:a2:0d	-77
+0	474.0	408.0	SpecialK	70:b3:17:90:a2:0c	-77
+0	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-45
+0	474.0	408.0		e0:55:3d:c0:d6:04	-68
+0	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-70
+0	474.0	408.0		de:55:2d:c0:ed:66	-71
+0	474.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-70
+0	474.0	408.0		da:55:a8:27:7d:6e	-68
+0	474.0	408.0	Redwood	70:b3:17:58:6e:6d	-80
+0	474.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+0	474.0	408.0	SpecialK	70:b3:17:58:6e:6c	-81
+0	474.0	408.0		e6:55:b8:27:78:a8	-58
+0	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-72
+0	474.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-71
+0	474.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+0	474.0	408.0	dior	e0:1c:41:40:f4:54	-86
+0	474.0	408.0	mpd	a0:e0:af:d6:37:f8	-65
+0	474.0	408.0	Store_YC	00:35:1a:4e:16:0c	-61
+0	474.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+0	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-62
+0	474.0	408.0	Redwood	00:35:1a:4e:16:0f	-61
+0	474.0	408.0		e4:55:a8:27:7d:6e	-71
+0	474.0	408.0	Redwood	70:b3:17:58:6e:62	-85
+0	474.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-61
+0	474.0	408.0	SpecialK	70:b3:17:58:6e:63	-77
+0	474.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-65
+0	474.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-63
+0	474.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-78
+0	474.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-83
+0	474.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-68
+0	474.0	408.0	hf-c	a0:e0:af:d6:37:f0	-66
+0	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-72
+0	474.0	408.0	hf-v	a0:e0:af:d6:37:f1	-66
+0	474.0	408.0	dior	e0:1c:41:40:f4:69	-88
+0	474.0	408.0		de:55:3d:c0:d6:04	-66
+0	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-68
+0	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-67
+0	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-67
+0	474.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-78
+0	474.0	408.0	iptime5G	88:36:6c:88:30:9a	-90
+0	474.0	408.0	MONCLER	00:81:c4:f8:96:f0	-81
+0	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-62
+0	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-63
+0	474.0	408.0		a0:e0:af:d6:37:fc	-60
+0	474.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+0	474.0	408.0	hf-v	a0:e0:af:d6:37:fe	-62
+0	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-80
+0	474.0	408.0	Fendi	00:26:66:7f:9e:e6	-82
+1	474.0	408.0		00:42:68:84:05:bf	-86
+1	474.0	408.0		00:c1:64:96:de:2d	-74
+1	474.0	408.0	Store_YC	00:35:1a:4e:16:03	-70
+1	474.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-73
+1	474.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-87
+1	474.0	408.0	Redwood	00:35:1a:4e:16:00	-73
+1	474.0	408.0		00:c1:64:96:de:2f	-76
+1	474.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-85
+1	474.0	408.0	Redwood	00:35:1a:1d:8a:8f	-70
+1	474.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+1	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-69
+1	474.0	408.0	global.lpl.top	00:ea:bd:f8:9b:df	-82
+1	474.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+1	474.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-69
+1	474.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:dd	-83
+1	474.0	408.0	CLEANAIR_DF	00:42:68:84:05:bc	-90
+1	474.0	408.0		00:42:68:84:05:bd	-87
+1	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-73
+1	474.0	408.0		a0:e0:af:e3:d2:ed	-51
+1	474.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-52
+1	474.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+1	474.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-49
+1	474.0	408.0	SpecialK	70:b3:17:90:a0:63	-89
+1	474.0	408.0		da:55:b8:27:78:a8	-58
+1	474.0	408.0		00:42:68:92:ee:1f	-56
+1	474.0	408.0		00:42:68:92:ee:1d	-57
+1	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-58
+1	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-58
+1	474.0	408.0		00:c8:8b:ff:82:cf	-74
+1	474.0	408.0		00:c8:8b:ff:82:cd	-73
+1	474.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-73
+1	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+1	474.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-74
+1	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-89
+1	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-50
+1	474.0	408.0		a0:e0:af:e3:d2:ec	-49
+1	474.0	408.0		00:42:68:84:05:b0	-83
+1	474.0	408.0	Shinsegae_free_wifi_secure	a8:5b:f7:30:6b:c2	-93
+1	474.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+1	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-70
+1	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-55
+1	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+1	474.0	408.0	mpd	a0:e0:af:e3:d2:e7	-49
+1	474.0	408.0	mpd	a0:e0:af:e3:d2:e8	-55
+1	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-53
+1	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-74
+1	474.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+1	474.0	408.0	DIRECT-cXC140x Series	86:25:19:60:74:3f	-91
+1	474.0	408.0		00:42:68:92:ee:10	-46
+1	474.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+1	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-46
+1	474.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+1	474.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-53
+1	474.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-85
+1	474.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+1	474.0	408.0		de:55:2d:c0:d6:04	-73
+1	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-87
+1	474.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+1	474.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+1	474.0	408.0	Redwood	70:b3:17:90:a2:0d	-77
+1	474.0	408.0	SpecialK	70:b3:17:90:a2:0c	-77
+1	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-45
+1	474.0	408.0		e0:55:3d:c0:d6:04	-68
+1	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-70
+1	474.0	408.0		de:55:2d:c0:ed:66	-71
+1	474.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-70
+1	474.0	408.0		da:55:a8:27:7d:6e	-68
+1	474.0	408.0	Redwood	70:b3:17:58:6e:6d	-80
+1	474.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+1	474.0	408.0	SpecialK	70:b3:17:58:6e:6c	-81
+1	474.0	408.0		e6:55:b8:27:78:a8	-58
+1	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-72
+1	474.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-71
+1	474.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+1	474.0	408.0	dior	e0:1c:41:40:f4:54	-86
+1	474.0	408.0	mpd	a0:e0:af:d6:37:f8	-65
+1	474.0	408.0	Store_YC	00:35:1a:4e:16:0c	-61
+1	474.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+1	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-62
+1	474.0	408.0	Redwood	00:35:1a:4e:16:0f	-61
+1	474.0	408.0		e4:55:a8:27:7d:6e	-71
+1	474.0	408.0	Redwood	70:b3:17:58:6e:62	-85
+1	474.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-61
+1	474.0	408.0	SpecialK	70:b3:17:58:6e:63	-77
+1	474.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-65
+1	474.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-63
+1	474.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-78
+1	474.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-83
+1	474.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-68
+1	474.0	408.0	hf-c	a0:e0:af:d6:37:f0	-66
+1	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-72
+1	474.0	408.0	hf-v	a0:e0:af:d6:37:f1	-66
+1	474.0	408.0	dior	e0:1c:41:40:f4:69	-88
+1	474.0	408.0		de:55:3d:c0:d6:04	-66
+1	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-68
+1	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-67
+1	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-67
+1	474.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-78
+1	474.0	408.0	iptime5G	88:36:6c:88:30:9a	-90
+1	474.0	408.0	MONCLER	00:81:c4:f8:96:f0	-81
+1	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-62
+1	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-63
+1	474.0	408.0		a0:e0:af:d6:37:fc	-60
+1	474.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+1	474.0	408.0	hf-v	a0:e0:af:d6:37:fe	-62
+1	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-80
+1	474.0	408.0	Fendi	00:26:66:7f:9e:e6	-82
+2	474.0	408.0		00:42:68:84:05:bf	-86
+2	474.0	408.0		00:c1:64:96:de:2d	-74
+2	474.0	408.0	Store_YC	00:35:1a:4e:16:03	-70
+2	474.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-73
+2	474.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-87
+2	474.0	408.0	Redwood	00:35:1a:4e:16:00	-73
+2	474.0	408.0		00:c1:64:96:de:2f	-76
+2	474.0	408.0	HP-Print-09-Officejet Pro 6830	50:65:f3:e4:78:09	-85
+2	474.0	408.0	Redwood	00:35:1a:1d:8a:8f	-70
+2	474.0	408.0	SaintLaurent	00:35:1a:4e:16:01	-74
+2	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-69
+2	474.0	408.0	global.lpl.top	00:ea:bd:f8:9b:df	-82
+2	474.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-85
+2	474.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-69
+2	474.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:dd	-83
+2	474.0	408.0	CLEANAIR_DF	00:42:68:84:05:bc	-90
+2	474.0	408.0		00:42:68:84:05:bd	-87
+2	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-73
+2	474.0	408.0		a0:e0:af:e3:d2:ed	-51
+2	474.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-52
+2	474.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-35
+2	474.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-49
+2	474.0	408.0	SpecialK	70:b3:17:90:a0:63	-89
+2	474.0	408.0		da:55:b8:27:78:a8	-58
+2	474.0	408.0		00:42:68:92:ee:1f	-56
+2	474.0	408.0		00:42:68:92:ee:1d	-57
+2	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-58
+2	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-58
+2	474.0	408.0		00:c8:8b:ff:82:cf	-74
+2	474.0	408.0		00:c8:8b:ff:82:cd	-73
+2	474.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-73
+2	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-56
+2	474.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-74
+2	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:61	-89
+2	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-50
+2	474.0	408.0		a0:e0:af:e3:d2:ec	-49
+2	474.0	408.0		00:42:68:84:05:b0	-83
+2	474.0	408.0	Shinsegae_free_wifi_secure	a8:5b:f7:30:6b:c2	-93
+2	474.0	408.0	Store_YC	00:35:1a:1d:8a:83	-71
+2	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-70
+2	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-55
+2	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-53
+2	474.0	408.0	mpd	a0:e0:af:e3:d2:e7	-49
+2	474.0	408.0	mpd	a0:e0:af:e3:d2:e8	-55
+2	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-53
+2	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-74
+2	474.0	408.0	Redwood	00:35:1a:1d:8a:80	-71
+2	474.0	408.0	DIRECT-cXC140x Series	86:25:19:60:74:3f	-91
+2	474.0	408.0		00:42:68:92:ee:10	-46
+2	474.0	408.0	myungboinc	90:9f:33:d4:b9:2e	-79
+2	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-46
+2	474.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-54
+2	474.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-53
+2	474.0	408.0	KT_WiFi_2G_2559	88:3c:1c:a4:25:5d	-85
+2	474.0	408.0	Redwood	70:b3:17:90:a0:6d	-86
+2	474.0	408.0		de:55:2d:c0:d6:04	-73
+2	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-87
+2	474.0	408.0	SpecialK	70:b3:17:90:a0:6c	-85
+2	474.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-75
+2	474.0	408.0	Redwood	70:b3:17:90:a2:0d	-77
+2	474.0	408.0	SpecialK	70:b3:17:90:a2:0c	-77
+2	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-45
+2	474.0	408.0		e0:55:3d:c0:d6:04	-68
+2	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-70
+2	474.0	408.0		de:55:2d:c0:ed:66	-71
+2	474.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-70
+2	474.0	408.0		da:55:a8:27:7d:6e	-68
+2	474.0	408.0	Redwood	70:b3:17:58:6e:6d	-80
+2	474.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+2	474.0	408.0	SpecialK	70:b3:17:58:6e:6c	-81
+2	474.0	408.0		e6:55:b8:27:78:a8	-58
+2	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-72
+2	474.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-71
+2	474.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-69
+2	474.0	408.0	dior	e0:1c:41:40:f4:54	-86
+2	474.0	408.0	mpd	a0:e0:af:d6:37:f8	-65
+2	474.0	408.0	Store_YC	00:35:1a:4e:16:0c	-61
+2	474.0	408.0	mpd	a0:e0:af:d6:37:f7	-62
+2	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-62
+2	474.0	408.0	Redwood	00:35:1a:4e:16:0f	-61
+2	474.0	408.0		e4:55:a8:27:7d:6e	-71
+2	474.0	408.0	Redwood	70:b3:17:58:6e:62	-85
+2	474.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-61
+2	474.0	408.0	SpecialK	70:b3:17:58:6e:63	-77
+2	474.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-65
+2	474.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-63
+2	474.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-78
+2	474.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-83
+2	474.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-68
+2	474.0	408.0	hf-c	a0:e0:af:d6:37:f0	-66
+2	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-72
+2	474.0	408.0	hf-v	a0:e0:af:d6:37:f1	-66
+2	474.0	408.0	dior	e0:1c:41:40:f4:69	-88
+2	474.0	408.0		de:55:3d:c0:d6:04	-66
+2	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-68
+2	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-67
+2	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-67
+2	474.0	408.0	SA-Print-46-SL-J1760FW	b0:5a:da:a3:96:46	-78
+2	474.0	408.0	iptime5G	88:36:6c:88:30:9a	-90
+2	474.0	408.0	MONCLER	00:81:c4:f8:96:f0	-81
+2	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-62
+2	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-63
+2	474.0	408.0		a0:e0:af:d6:37:fc	-60
+2	474.0	408.0	hf-c	a0:e0:af:d6:37:ff	-62
+2	474.0	408.0	hf-v	a0:e0:af:d6:37:fe	-62
+2	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:23	-80
+2	474.0	408.0	Fendi	00:26:66:7f:9e:e6	-82
+3	474.0	408.0	Chanel_Guest	00:ea:bd:f8:a3:5a	-80
+3	474.0	408.0		00:42:68:84:05:bf	-86
+3	474.0	408.0	globals.lpl.top	00:ea:bd:f8:a3:5d	-82
+3	474.0	408.0	global.lpl.top	00:ea:bd:f8:a3:5f	-79
+3	474.0	408.0	CHPPC	00:ea:bd:f8:a3:5e	-81
+3	474.0	408.0		00:c1:64:96:de:2d	-78
+3	474.0	408.0	Store_YC	00:35:1a:4e:16:03	-69
+3	474.0	408.0	ShinsegaeDF	00:c1:64:96:de:2e	-75
+3	474.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:da	-79
+3	474.0	408.0	Redwood	00:35:1a:4e:16:00	-67
+3	474.0	408.0		00:c1:64:96:de:2f	-78
+3	474.0	408.0	Redwood	00:35:1a:1d:8a:8f	-75
+3	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:8e	-75
+3	474.0	408.0	global.lpl.top	00:ea:bd:f8:9b:df	-81
+3	474.0	408.0	CHPPC	00:ea:bd:f8:9b:de	-77
+3	474.0	408.0	Store_YC	00:35:1a:1d:8a:8c	-75
+3	474.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:dd	-83
+3	474.0	408.0	CLEANAIR_DF	00:42:68:84:05:bc	-89
+3	474.0	408.0		00:42:68:84:05:bd	-84
+3	474.0	408.0	CLEANAIR_DF	00:c1:64:96:de:2c	-73
+3	474.0	408.0		a0:e0:af:e3:d2:ed	-55
+3	474.0	408.0	BottegaVeneta	70:b3:17:90:a2:01	-91
+3	474.0	408.0	globals.lpl.top	00:ea:bd:f8:9b:d2	-91
+3	474.0	408.0	hf-v	a0:e0:af:e3:d2:ee	-59
+3	474.0	408.0	Galaxy A232044	e6:86:1a:66:4d:5e	-47
+3	474.0	408.0	hf-c	a0:e0:af:e3:d2:ef	-53
+3	474.0	408.0	Chanel_Guest	00:ea:bd:f8:9b:d5	-90
+3	474.0	408.0		da:55:b8:27:78:a8	-62
+3	474.0	408.0		00:42:68:92:ee:1f	-61
+3	474.0	408.0		00:42:68:92:ee:1d	-61
+3	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:1e	-62
+3	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:1c	-61
+3	474.0	408.0		00:c8:8b:ff:82:cf	-72
+3	474.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:ce	-72
+3	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:ea	-54
+3	474.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:cc	-75
+3	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:eb	-53
+3	474.0	408.0		a0:e0:af:e3:d2:ec	-55
+3	474.0	408.0		00:42:68:84:05:b0	-78
+3	474.0	408.0	Store_YC	00:35:1a:1d:8a:83	-76
+3	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:d6:04	-76
+3	474.0	408.0	BURBERRY-GUEST	a0:e0:af:e3:d2:e4	-56
+3	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:e3:d2:e5	-55
+3	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e6	-56
+3	474.0	408.0	mpd	a0:e0:af:e3:d2:e7	-53
+3	474.0	408.0	mpd	a0:e0:af:e3:d2:e8	-56
+3	474.0	408.0	hf-rspp	a0:e0:af:e3:d2:e9	-59
+3	474.0	408.0	SaintLaurent	00:35:1a:1d:8a:81	-78
+3	474.0	408.0	Redwood	00:35:1a:1d:8a:80	-74
+3	474.0	408.0	ShinsegaeDF	00:42:68:92:ee:11	-51
+3	474.0	408.0	hf-c	a0:e0:af:e3:d2:e0	-57
+3	474.0	408.0		00:c8:8b:ff:82:c2	-57
+3	474.0	408.0	hf-v	a0:e0:af:e3:d2:e1	-54
+3	474.0	408.0	CLEANAIR_DF	00:c8:8b:ff:82:c3	-55
+3	474.0	408.0		a0:e0:af:e3:d2:e2	-56
+3	474.0	408.0		00:c8:8b:ff:82:c0	-57
+3	474.0	408.0	ShinsegaeDF	00:c8:8b:ff:82:c1	-55
+3	474.0	408.0	Redwood	70:b3:17:90:a0:6d	-87
+3	474.0	408.0		de:55:2d:c0:d6:04	-78
+3	474.0	408.0	BottegaVeneta	70:b3:17:90:a0:6e	-88
+3	474.0	408.0	SpecialK	70:b3:17:90:a0:6c	-84
+3	474.0	408.0	BottegaVeneta	70:b3:17:90:a2:0e	-78
+3	474.0	408.0	Redwood	70:b3:17:90:a2:0d	-78
+3	474.0	408.0	SpecialK	70:b3:17:90:a2:0c	-78
+3	474.0	408.0		ea:55:3d:c0:ed:66	-69
+3	474.0	408.0	F&B_WAITTING	a8:5b:f7:30:6b:c3	-90
+3	474.0	408.0		00:42:68:92:ee:12	-53
+3	474.0	408.0	CLEANAIR_DF	00:42:68:92:ee:13	-48
+3	474.0	408.0	DEPTWIFI_PC	a8:5b:f7:30:6b:c6	-87
+3	474.0	408.0		de:55:2d:c0:ed:66	-71
+3	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:d6:04	-76
+3	474.0	408.0	TiffanyandCo	ea:55:2d:c0:d6:04	-75
+3	474.0	408.0		da:55:a8:27:7d:6e	-69
+3	474.0	408.0	Redwood	70:b3:17:58:6e:6d	-83
+3	474.0	408.0	BottegaVeneta	70:b3:17:58:6e:6e	-80
+3	474.0	408.0	SpecialK	70:b3:17:58:6e:6c	-81
+3	474.0	408.0		e6:55:b8:27:78:a8	-62
+3	474.0	408.0	RessS33015!!RFd1	e2:55:2d:c0:ed:66	-73
+3	474.0	408.0	TiffanyandCo	ea:55:2d:c0:ed:66	-72
+3	474.0	408.0		e6:55:b8:27:7d:6e	-68
+3	474.0	408.0	dior	e0:1c:41:40:f4:54	-73
+3	474.0	408.0	DIRECT-3d-HP M426 LaserJet	4a:5f:99:c6:0f:3d	-75
+3	474.0	408.0	mpd	a0:e0:af:d6:37:f8	-67
+3	474.0	408.0	Store_YC	00:35:1a:4e:16:0c	-67
+3	474.0	408.0	mpd	a0:e0:af:d6:37:f7	-67
+3	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f9	-65
+3	474.0	408.0	Redwood	00:35:1a:4e:16:0f	-67
+3	474.0	408.0		e4:55:a8:27:7d:6e	-69
+3	474.0	408.0	Redwood	70:b3:17:58:6e:62	-83
+3	474.0	408.0		da:55:a8:27:78:a8	-64
+3	474.0	408.0	SaintLaurent	00:35:1a:4e:16:0e	-67
+3	474.0	408.0	olleh_WiFi_43B9_5GHz	08:5d:dd:d0:43:bc	-67
+3	474.0	408.0	ZZ-Korea-XG_2.4G	14:cc:20:ef:99:c2	-81
+3	474.0	408.0	ZZ-Korea-XG_5G	14:cc:20:ef:99:c1	-78
+3	474.0	408.0	MONCLER	00:81:c4:f7:cf:f0	-83
+3	474.0	408.0	olleh_WiFi_43B9	08:5d:dd:d0:43:bd	-67
+3	474.0	408.0	hf-c	a0:e0:af:d6:37:f0	-67
+3	474.0	408.0		e0:55:3d:c0:ed:66	-70
+3	474.0	408.0	RessS33015!!RFv1	e6:55:2d:c0:ed:66	-73
+3	474.0	408.0	hf-v	a0:e0:af:d6:37:f1	-65
+3	474.0	408.0	dior	e0:1c:41:40:f4:69	-78
+3	474.0	408.0		de:55:3d:c0:d6:04	-62
+3	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:f4	-67
+3	474.0	408.0	hf-rspp	a0:e0:af:d6:37:f6	-67
+3	474.0	408.0		e0:1c:41:40:f4:64	-77
+3	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:f5	-69
+3	474.0	408.0	BURBERRY-GUEST	a0:e0:af:d6:37:fb	-65
+3	474.0	408.0	BURBERRY-RETAIL	a0:e0:af:d6:37:fa	-65
+3	474.0	408.0		a0:e0:af:d6:37:fd	-62
+3	474.0	408.0		00:c1:64:96:de:20	-79
+3	474.0	408.0		a0:e0:af:d6:37:fc	-67
+3	474.0	408.0	ShinsegaeDF	00:c1:64:96:de:21	-83
+3	474.0	408.0	hf-c	a0:e0:af:d6:37:ff	-65
+3	474.0	408.0	hf-v	a0:e0:af:d6:37:fe	-65
+3	474.0	408.0		da:55:b8:27:7d:6e	-69
+3	474.0	408.0		ea:55:3d:c0:d6:04	-62
+3	474.0	408.0	Fendi	00:26:66:7f:9e:e6	-77
