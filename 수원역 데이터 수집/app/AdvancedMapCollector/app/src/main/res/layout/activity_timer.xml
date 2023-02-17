@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/gyroView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GYRO : "/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btnGyroReset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GYRO RESET"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/saveCountView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" save count : "/>
+    <TextView
+        android:id="@+id/magXView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="자기장 X : "/>
+    <TextView
+        android:id="@+id/magYView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="자기장 Y : "/>
+    <TextView
+        android:id="@+id/magZView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="자기장 Z : "/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical|center_horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="저장할 파일 이름 : "/>
+        <EditText
+            android:id="@+id/fileName"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="fileName.txt"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSamplingStart"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="10dp"
+        android:onClick="onBtnSamplingStartClicked"
+        android:text="RECORD"/>
+
+</LinearLayout>

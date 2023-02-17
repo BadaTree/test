@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingLeft="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/gyroView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GYRO : "/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btnGyroReset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GYRO RESET"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioGroup
+            android:id="@+id/groupSamplingMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/manualSampling"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Manual"
+                android:visibility="gone"
+                android:layout_marginRight="8dp" />
+
+        </RadioGroup>
+
+        <LinearLayout
+            android:id="@+id/edge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Switch
+                android:id="@+id/angleFixMode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:switchPadding="0dp"
+                android:text="Fix "
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track_selector" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Angle" />
+
+            <EditText
+                android:id="@+id/angleView"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="0.00" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:gravity="center_vertical|center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="X : "/>
+        <EditText
+            android:id="@+id/positionXView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:gravity="center"/>
+        <Button
+            android:id="@+id/plusX"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="+"
+            android:onClick="onChangePositionClicked"/>
+        <Button
+            android:id="@+id/minusX"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:onClick="onChangePositionClicked"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Y : "
+            android:layout_marginLeft="15dp"/>
+        <EditText
+            android:id="@+id/positionYView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:gravity="center"/>
+        <Button
+            android:id="@+id/plusY"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="+"
+            android:onClick="onChangePositionClicked"/>
+        <Button
+            android:id="@+id/minusY"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:onClick="onChangePositionClicked"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/stepCountView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" step count : "/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <TextView
+            android:id="@+id/magXView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="자기장 X : " />
+
+        <TextView
+            android:id="@+id/magYView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="자기장 Y : " />
+
+        <TextView
+            android:id="@+id/magZView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="자기장 Z : " />
+
+        <TextView
+            android:id="@+id/AzimuthView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="방위각 : " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="저장할 파일 이름 : "/>
+        <EditText
+            android:id="@+id/fileName"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="fileName.txt"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/btnSamplingStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onBtnSamplingStartClicked"
+            android:text="START"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btnSamplingDepart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:enabled="false"
+            android:text="출발" />
+        <Button
+            android:id="@+id/btnSamplingArrival"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onBtnSamplingStartClicked"
+            android:text="도착"
+            android:enabled="false"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btnSamplingStop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onBtnSamplingStartClicked"
+            android:text="STOP"
+            android:enabled="false"
+            android:layout_weight="1"/>
+
+        <!--        <LinearLayout-->
+<!--            android:id="@+id/additionalBtn"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="vertical">-->
+<!--            <Button-->
+<!--                android:id="@+id/btnPause"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="90dp"-->
+<!--                android:text="pause"/>-->
+<!--            <Button-->
+<!--                android:id="@+id/btnRetry"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="90dp"-->
+<!--                android:text="retry"/>-->
+<!--        </LinearLayout>-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/circleCenter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="alpha : "/>
+        <EditText
+            android:id="@+id/alphaView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="beta : "
+            android:layout_marginLeft="15dp"/>
+        <EditText
+            android:id="@+id/betaView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R : "
+            android:layout_marginLeft="15dp"/>
+        <EditText
+            android:id="@+id/rView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/collectionLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="collection Log : "
+        android:layout_marginTop="3dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+</LinearLayout>

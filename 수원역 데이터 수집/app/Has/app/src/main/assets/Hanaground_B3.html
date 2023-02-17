@@ -1,0 +1,168 @@
+<!doctype html>
+<style>
+#mask {
+  opacity:0;
+  position:absolute;
+  z-index:3;
+  left:0px;
+  top:50px;
+}
+#location_area {
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+</style>
+<html lang="en">
+<!-- floor2 -->
+ <head>
+  <meta charset="UTF-8">
+  <title>map_test</title>
+ </head>
+ <body>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>    
+    <style>
+    html, body {
+    margin: 0;
+    width: 200%;
+    height: 200%;
+}
+</style>
+
+ <script type="text/javascript">
+    var i = [
+"#FFEBEE", "#FFCDD2", "#EF9A9A", "#E57373", "#EF5350", "#F44336" ,"#E53935" ,
+"#D32F2F" ,"#C62828" ,"#B71C1C" ,"#FF8A80" ,"#FF5252" ,"#FF1744" ,"#D50000",
+"#D50000" ,"#FF1744" ,"#FF5252" ,"#FF8A80" ,"#B71C1C" ,"#C62828", "#D32F2F",
+"#E53935", "#F44336", "#EF5350", "#E57373", "#EF9A9A", "#FFCDD2", "#FFEBEE"];
+var cnt = 0;
+     window.onload = function () { // WEB
+         var point = document.getElementById("location_area");
+        
+         var xDefaultPosition = 500; // x 초기값
+         var yDefaultPosition = 200; // y 초기값
+
+         point.style.left = xDefaultPosition + 'px';
+         point.style.top = yDefaultPosition + 'px';
+         document.body.scrollTop = yDefaultPosition - 100;
+         document.body.scrollLeft = xDefaultPosition - 190;
+     }
+
+     var center_x = 800;
+     var center_y = 600;
+     var last_x = 0;
+     var last_y = 0;
+     var last_angle = 0;
+     var is_first_angle = true;
+
+
+     var androidBridge = function (xPosition2, yPosition2) { // DEVICE
+        
+         var plusUI = document.createElement("div");
+         plusUI.style = "position:absolute; z-index:2; left:"+(yPosition2*3.8+53)+"px; top:"+(xPosition2*4.0+117)+"px; display:block;";
+         plusUI.id = "location_area";
+         plusUI.innerHTML = '<font color="#ff0000" size=1>●</font>';
+         cnt += 1;
+         if (cnt == 28) {
+             cnt = 0;
+         }
+         document.getElementById("map_area").appendChild(plusUI);
+         var elem = document.getElementById("map_area");
+         elem.style.left = center_x - yPosition2 + "px";
+         elem.style.top = center_y - xPosition2 + "px";
+
+        last_x = xPosition2;
+        last_y = yPosition2;
+         
+     }
+
+     var androidBridge2 = function (xPosition2, yPosition2) { // DEVICE
+
+         var plusUI = document.createElement("div");
+         plusUI.style = "position:absolute; z-index:2; left:"+(yPosition2*4.05+54)+"px; top:"+(xPosition2*3.9+110)+"px; display:block;";
+         plusUI.id = "location_area";
+         plusUI.innerHTML = '<font color="#0000ff" size=1>●</font>';
+         cnt += 1;
+         if (cnt == 28) {
+             cnt = 0;
+         }
+         document.getElementById("map_area").appendChild(plusUI);
+         var elem = document.getElementById("map_area");
+         elem.style.left = center_x - yPosition2 + "px";
+         elem.style.top = center_y - xPosition2 + "px";
+
+        last_x = xPosition2;
+        last_y = yPosition2;
+
+     }
+
+     var androidBridge3 = function (xPosition2, yPosition2) { // DEVICE
+
+         var plusUI = document.createElement("div");
+         plusUI.style = "position:absolute; z-index:2; left:"+(yPosition*4.05+54)+"px; top:"+(xPosition2*3.9+110)+"px; display:block;";
+         plusUI.id = "location_area";
+         plusUI.innerHTML = '<font color="#00ff00" size=1>●</font>';
+         cnt += 1;
+         if (cnt == 28) {
+             cnt = 0;
+         }
+         document.getElementById("map_area").appendChild(plusUI);
+         var elem = document.getElementById("map_area");
+         elem.style.left = center_x - yPosition2 + "px";
+         elem.style.top = center_y - xPosition2 + "px";
+
+        last_x = xPosition2;
+        last_y = yPosition2;
+
+     }
+
+     var image_rotation = function(angle) {
+        if (is_first_angle) {
+            last_angle = angle;
+            is_first_angle = false;
+        }
+         
+         var elem = document.getElementById("map_area");
+         elem.style.transformOrigin = (last_y+267) + "px " + (last_x+312) + "px"
+         if ((last_angle - angle) > 180) {
+            angle += 360
+         }
+         else if ((last_angle - angle) < -180) {
+            angle -= 360
+         }
+         var result_angle = 270-angle
+         elem.style.transform = "rotate(" + result_angle + "deg)"
+         last_angle = angle
+     }
+
+    // // 브라우서 호환 ( 크로스브라우징 ) 체크 하여 문서 전체에 mousemove 이벤트를 걸어줍니다.
+    // if ( document.addEventListener ) {
+    //     document.addEventListener("mousemove",resultFun,false);
+    // } else if ( document.attachEvent ) {
+    //     document.attachEvent("onmousemove",resultFun);
+    // } else {
+    //     document.onmousemove = resultFun;
+    // }
+    // //  문서에서 마우스가 움직일때(mousemove) 마다 resultFun() 함수가 실행됩니다.
+    // //  x.clientX,Y 는 페이지에서 이벤트 발생한 X,Y 좌표를 가져옵니다.
+    // function resultFun(x) {
+    //     var xY = (x.clientY-365) +  " * "  + (x.clientX-265);
+    //     var positionLeft = x.clientX;
+    //     var positionTop = x.clientY;
+    //     // result  div 에 innerHTML 로 xY 변수를 적용 합니다.
+    //     document.getElementById('result').innerHTML = xY;
+    //     //  result  div 의 position 위치를  positionLeft, Top 변수 값으로 style 적용해줍니다.
+    //     document.getElementById('result').style.left = positionLeft + "px";
+    //     document.getElementById('result').style.top = positionTop + "px";
+
+    // }
+ </script>
+	 <div id="map_area" style="position:absolute; z-index:1; left:400px; top:350px; overflow:scroll; transition: all 0.1s;">
+        <img id="map_img" src="./images/Hanaground_B3.png" height="522" width="506">
+        <div id='result' style='position:absolute;'></div>
+     </div>
+     
+     <form method = "POST" 
+     enctype = "multipart/form-data">
+  </form>
+
+ </body>
+</html>
